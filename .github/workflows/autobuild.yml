@@ -13,9 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    
-    - name: Run a one-line script
-      run: sudo apt update && sudo apt install axel -y
       
     - name: Run a one-line script
       run: bash ./host.sh
