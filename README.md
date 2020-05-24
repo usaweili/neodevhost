@@ -148,7 +148,7 @@ pihole -g
 >https://hosts.nfz.moe/full/hosts<br/>
 >https://raw.githubusercontent.com/yous/YousList/master/hosts.txt<br/>
 >https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts<br/>
->https://raw.githubusercontent.com/Licolnlee/blog-cloud-storage/master/adblock.txt<br/>
+>https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt<br/>
 >https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts<br/>
 >http://someonewhocares.org/hosts/hosts<br/>
 >https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts<br/>
@@ -160,4 +160,4 @@ pihole -g
 >https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list<br/>
 >https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt<br/>
 >https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt<br/>
-
+>https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt<br/>
