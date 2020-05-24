@@ -84,7 +84,6 @@ rm tmphost
 
 echo " "
 echo "Merge Combine..."
-cat host whitelist whitelist >> tmp
 sort host whitelist whitelist | uniq -u > tmp && mv tmp combine
 
 
