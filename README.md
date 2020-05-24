@@ -147,7 +147,7 @@ pihole -g
 >https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts<br/>
 >https://hosts.nfz.moe/full/hosts<br/>
 >https://raw.githubusercontent.com/yous/YousList/master/hosts.txt<br/>
->https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts<br/><br/>
+>https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts<br/>
 >https://raw.githubusercontent.com/Licolnlee/blog-cloud-storage/master/adblock.txt<br/>
 >https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts<br/>
 >http://someonewhocares.org/hosts/hosts<br/>
