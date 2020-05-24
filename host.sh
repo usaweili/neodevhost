@@ -8,15 +8,8 @@ fi
 if [ -f whitelist ]; then 
     rm whitelist
 fi
-
 if [ -f combine ]; then 
     rm combine
-fi
-if [ -f tmphost ]; then
-    rm tmphost
-fi
-if [ -f tmpwhitelist ]; then 
-    rm tmpwhitelist
 fi
 if [ -f adblocker ]; then 
     rm adblocker
@@ -24,23 +17,18 @@ fi
 if [ -f adblockercombine ]; then 
     rm adblockercombine
 fi
-
 if [ -f adblockerwhite ]; then 
     rm adblockerwhite
 fi
-
 if [ -f domaincombine ]; then 
     rm domaincombine
 fi
-
 if [ -f domain ]; then 
     rm domain
 fi
-
 if [ -f hosts_dnsmasq.conf ]; then 
     rm hosts_dnsmasq.conf
 fi
-
 if [ -f combinehosts_dnsmasq.conf ]; then 
     rm combinehosts_dnsmasq.conf
 fi
@@ -48,67 +36,58 @@ fi
 echo " "
 echo "Merge Whitelist..."
 for url in `cat white` ;do
-    wget --no-check-certificate -t 1 -T 10 -O tmpwhitelist $url 
-    sed -i '/</d' tmpwhitelist
-    sed -i '/>/d' tmpwhitelist
-    sed -i '/::/d' tmpwhitelist
-    sed -i '/。/d' tmpwhitelist
-    sed -i '/:/d' tmpwhitelist
-    sed -i '/#/d' tmpwhitelist
-    sed -i 's/||//' tmpwhitelist
-    sed -i 's/^/@@||&//' tmpwhitelist
-    sed -i 's/127.0.0.1 //' tmpwhitelist
-    sed -i "s/http:\\//" tmpwhitelist
-    sed -i "s/https:\\//" tmpwhitelist
-    sed -i 's/pp助手淘宝登录授权拉起//' tmpwhitelist
-    sed -i 's/只要有这一条，//' tmpwhitelist
-    sed -i 's/，腾讯视频网页下一集按钮灰色，也不能选集播放//' tmpwhitelist
-    sed -i 's/会导致腾讯动漫安卓版的逗比商城白屏//' tmpwhitelist
-    sed -i '/address=\//d' tmpwhitelist
-    sed -i 's/ to use them in an forum.//' tmpwhitelist
-    sed -i 's/imgbb is a free service for uploading and sharing pictures.//' tmpwhitelist
-    sed -i '/REG ^/d' tmpwhitelist
-    sed -i '/RZD /d' tmpwhitelist
-    sed -i '/ALL ./d' tmpwhitelist
-    sed -i 's/^//' tmpwhitelist
-    sed -i 's/*.//' tmpwhitelist
-    sed -i 's/ //g' tmpwhitelist
-    sed -i '/^$/d' tmpwhitelist
-    sed -i '/^.\{,3\}$/d' tmpwhitelist
-    cat tmpwhitelist >> whitelist
-    sort -n whitelist | uniq
-    rm tmpwhitelist
+    wget --no-check-certificate -t 1 -T 10 -O tmp $url
+    cat tmp >> tmpwhitelist
+    rm tmp
 done
+sed -i '/#/d' tmpwhitelist
+sed -i 's/127.0.0.1 //' tmpwhitelist
+sed -i 's/pp助手淘宝登录授权拉起//' tmpwhitelist
+sed -i 's/只要有这一条，//' tmpwhitelist
+sed -i 's/，腾讯视频网页下一集按钮灰色，也不能选集播放//' tmpwhitelist
+sed -i 's/会导致腾讯动漫安卓版的逗比商城白屏//' tmpwhitelist
+sed -i '/address/d' tmpwhitelist
+sed -i '/REG^/d' tmpwhitelist
+sed -i '/RZD/d' tmpwhitelist
+sed -i 's/ALL ./ /g' tmpwhitelist
+sed -i 's/*.//' tmpwhitelist
+sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpwhitelist
+sed -i '/^$/d' tmpwhitelist
+sort -u tmpwhitelist > whitelist
+rm tmpwhitelist
 
 echo " "
 echo "Merge ADlist..."
 for url in `cat black` ;do
-    wget --no-check-certificate -t 1 -T 10 -O tmphost $url 
-    sed -i '/::/d' tmphost
-    sed -i '/。/d' tmphost
-    sed -i '/:/d' tmphost
-    sed -i '/#/d' tmphost
-    sed -i 's/||//' tmphost
-    sed -i '/！/d' tmphost
-    sed -i 's/^//' tmphost
-    sed -i 's/broadcasthost//' tmphost
-    sed -i 's/255.255.255.255 //' tmphost
-    sed -i '/ip6-/d' tmphost
-    sed -i '/localhost/d' tmphost
-    sed -i 's/127.0.0.1 //g' tmphost
-    sed -i 's/0.0.0.0 //g' tmphost
-    sed -i 's/^//' tmphost
-    sed -i 's/*.//' tmphost
-    sed -i 's/ //g' tmphost
-    sed -i '/^$/d' tmphost
-    sed -i '/^.\{,3\}$/d' tmphost
-
-    cat tmphost >> host
-    sort -n host | uniq
-    sort -n host whitelist whitelist | uniq -u > combine
-    rm tmphost
+    wget --no-check-certificate -t 1 -T 10 -O tmp $url
+    cat tmp >> tmphost 
+    rm tmp
 done
+sed -i '/::/d' tmphost
+sed -i '/#/d' tmphost
+sed -i '/255.255.255.255/d' tmphost
+sed -i '/ip6-/d' tmphost
+sed -i '/local/d' tmphost
+sed -i 's/127.0.0.1//' tmphost
+sed -i 's/0.0.0.0//' tmphost
+sed -i 's/^.//' tmphost
+sed -i 's/^[ \t]*//;s/[ \t]*$//' tmphost
+sed -i '/^$/d' tmphost
+sed -i 's/0.0.0.0//' tmphost
+sed -i 's/0.0.0.0.//' tmphost
+sort -u tmphost > host
+sed -i '1d' host
+sed -i '$d' host
+rm tmphost
 
+echo " "
+echo "Merge Combine..."
+cat host whitelist whitelist >> tmp
+sort host whitelist whitelist | uniq -u > tmp && mv tmp combine
+
+
+echo " "
+echo "Adding Compatibility..."
 cp host domain
 cp host adblocker
 cp combine domaincombine
@@ -117,32 +96,31 @@ cp whitelist adblockerwhite
 cp host hosts_dnsmasq.conf
 cp combine combinehosts_dnsmasq.conf
 
-sed -i 's/^/||&/g' adblocker 
-sed -i 's/$/&^/g' adblocker 
+sed -i 's/^/||&/' adblocker 
+sed -i 's/$/&^/' adblocker 
 
-sed -i 's/^/@@||&/g' adblockerwhite 
-sed -i 's/$/&^/g' adblockerwhite 
+sed -i 's/^/@@||&/' adblockerwhite 
+sed -i 's/$/&^/' adblockerwhite 
 
-sed -i 's/^/||&/g' adblockercombine
-sed -i 's/$/&^/g' adblockercombine 
+sed -i 's/^/||&/' adblockercombine
+sed -i 's/$/&^/' adblockercombine 
 
-sed -i 's/^/0.0.0.0  &/g' host 
-sed -i 's/^/0.0.0.0  &/g' combine
+sed -i 's/^/0.0.0.0  &/' host
+sed -i 's/^/0.0.0.0  &/' combine
 
-sed -i 's/^/address=\/&/g' hosts_dnsmasq.conf 
-sed -i 's/^/address=\/&/g' combinehosts_dnsmasq.conf
+sed -i 's/^/address=\/&/' hosts_dnsmasq.conf 
+sed -i 's/^/address=\/&/' combinehosts_dnsmasq.conf
 
-sed -i 's/$/&\/0.0.0.0/g' hosts_dnsmasq.conf  
-sed -i 's/$/&\/0.0.0.0/g' combinehosts_dnsmasq.conf 
-
-sed -i '14cTotal ad / tracking block list 屏蔽追踪广告总数: '$(wc -l host)' ' README.md  
-sed -i '16cTotal whitelist list 白名单总数: '$(wc -l whitelist)' ' README.md 
-sed -i '18cTotal combine list 结合总数： '$(wc -l combine)' ' README.md
-sed -i '20cUpdate 更新时间: '$(date "+%Y-%m-%d")'' README.md
+sed -i 's/$/&\/0.0.0.0/' hosts_dnsmasq.conf  
+sed -i 's/$/&\/0.0.0.0/' combinehosts_dnsmasq.conf 
 
 
 echo " "
 echo "Adding Title and SYNC data..."
+sed -i '14cTotal ad / tracking block list 屏蔽追踪广告总数: '$(wc -l host)' ' README.md  
+sed -i '16cTotal whitelist list 白名单总数: '$(wc -l whitelist)' ' README.md 
+sed -i '18cTotal combine list 结合总数： '$(wc -l combine)' ' README.md
+sed -i '20cUpdate 更新时间: '$(date "+%Y-%m-%d")'' README.md
 cp title title.1
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.1
 sed -i '11c# Number of blocked domains:  '$(wc -l host)' ' title.1   
