@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-24
 #
-# Number of blocked domains:  92781
+# Number of blocked domains:  92770
 #
 # ===============================================================
 
@@ -6206,7 +6206,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  api.infomobi.me
 0.0.0.0  api.instabug.com
 0.0.0.0  api.internet.org
-0.0.0.0  api.io.mi.com
 0.0.0.0  api.ireaderm.net
 0.0.0.0  api.jr.mi.com
 0.0.0.0  api.jsecoin.com
@@ -14355,7 +14354,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  click.sakuralive.com
 0.0.0.0  click.scour.com
 0.0.0.0  click.sellmeyourtraffic.com
-0.0.0.0  click.simba.taobao.com
 0.0.0.0  click.speee-ad.jp
 0.0.0.0  click.ssp.d2c.ne.jp
 0.0.0.0  click.stat.hao.360.cn
@@ -19602,7 +19600,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  dl.1003b.56a.com
 0.0.0.0  dl.2345.com
 0.0.0.0  dl.360safe.com
-0.0.0.0  dl.360safe.com
 0.0.0.0  dl.8ox.cn
 0.0.0.0  dl.8ox.cn
 0.0.0.0  dl.appnext.com
@@ -20174,7 +20171,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  dowmarkets.com
 0.0.0.0  down.360.cn
 0.0.0.0  down.360safe.cn
-0.0.0.0  down.360safe.com
 0.0.0.0  down.360safe.com
 0.0.0.0  down.91wangmeng.com
 0.0.0.0  down.ancamera.co.kr
@@ -34244,7 +34240,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  imgadult.com
 0.0.0.0  imgapp.yeyou.com
 0.0.0.0  imgc.cymzc.com
-0.0.0.0  imgcache.qq.com
 0.0.0.0  imgcdn.de92.com
 0.0.0.0  imgcdn.de92.com
 0.0.0.0  imgcdn.wapx.cn
@@ -61728,7 +61723,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  shotyfy.com
 0.0.0.0  shouhoag.net
 0.0.0.0  shouji.360.cn
-0.0.0.0  shouji.360.cn
 0.0.0.0  shouji.sougou.com
 0.0.0.0  shouji.yd126.com
 0.0.0.0  shoungak.net
@@ -66161,10 +66155,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  t1.jzkapp.com
 0.0.0.0  t1.musthird.com
 0.0.0.0  t1.wshufa.com
-0.0.0.0  t10.baidu.com
-0.0.0.0  t11.baidu.com
 0.0.0.0  t11.rbnt.org
-0.0.0.0  t12.baidu.com
 0.0.0.0  t1213.com
 0.0.0.0  t1429.com
 0.0.0.0  t188.dazhonghua.cn
@@ -66198,7 +66189,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  t4edw.bemobtrk.com
 0.0.0.0  t4ft.de
 0.0.0.0  t5.51maiwanju.com
-0.0.0.0  t5.baidu.com
 0.0.0.0  t58b.com
 0.0.0.0  t5glo.bemobtrk.com
 0.0.0.0  t6.51maiwanju.com
@@ -70660,7 +70650,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  ucaii.com
 0.0.0.0  ucaliyun.cn
 0.0.0.0  ucaluco.com
-0.0.0.0  ucan.25pp.com
 0.0.0.0  ucattr.vmate.in
 0.0.0.0  ucbaba.top
 0.0.0.0  uccmprpzju.com
