@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-24
 #
-# Number of blocked domains:  138487
+# Number of blocked domains:  138483
 #
 # ===============================================================
 
@@ -12207,7 +12207,6 @@ ff02::3 ip6-allhosts
 ||adservice.google.com.uy^
 ||adservice.google.com.vc^
 ||adservice.google.com.vn^
-||adservice.google.com:443^
 ||adservice.google.cv^
 ||adservice.google.cz^
 ||adservice.google.de^
@@ -79994,7 +79993,6 @@ ff02::3 ip6-allhosts
 ||oauth.brightcove.com^
 ||oauth.datorama.com^
 ||oawhaursaith.com^
-||oawhaursaith.com:443^
 ||oawleebf.com^
 ||oawoo.frenchgerlemanelectric.com^
 ||oawyr.com^
@@ -88467,7 +88465,6 @@ ff02::3 ip6-allhosts
 ||propecia.1.p2l.info^
 ||propeller-tracking.com^
 ||propeller-tracking.com^
-||propeller-tracking.com:443^
 ||propellerad.adk2x.com^
 ||propellerads.com^
 ||propellerclick.com^
@@ -93849,7 +93846,7 @@ ff02::3 ip6-allhosts
 ||rotorads.com^
 ||rottclimb.de^
 ||rotumal.com^
-||rotumal.com:443^
+||rotumal.com^
 ||roughroll.com^
 ||roulette-faker.pro^
 ||roulette-online.petrovka.info^
@@ -97187,7 +97184,6 @@ ff02::3 ip6-allhosts
 ||secondscreenindexer.adswizz.com^
 ||secondstreetmedia.com^
 ||secret.xn--oogle-wmc.com^
-||secret.ɢoogle.com^
 ||secretarea.net^
 ||secretbehindporn.com^
 ||secretchina.com^

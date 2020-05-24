@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-24
 #
-# Number of blocked domains:  138487
+# Number of blocked domains:  138483
 #
 # ===============================================================
 
@@ -12207,7 +12207,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  adservice.google.com.uy
 0.0.0.0  adservice.google.com.vc
 0.0.0.0  adservice.google.com.vn
-0.0.0.0  adservice.google.com:443
 0.0.0.0  adservice.google.cv
 0.0.0.0  adservice.google.cz
 0.0.0.0  adservice.google.de
@@ -79994,7 +79993,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  oauth.brightcove.com
 0.0.0.0  oauth.datorama.com
 0.0.0.0  oawhaursaith.com
-0.0.0.0  oawhaursaith.com:443
 0.0.0.0  oawleebf.com
 0.0.0.0  oawoo.frenchgerlemanelectric.com
 0.0.0.0  oawyr.com
@@ -88467,7 +88465,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  propecia.1.p2l.info
 0.0.0.0  propeller-tracking.com
 0.0.0.0  propeller-tracking.com
-0.0.0.0  propeller-tracking.com:443
 0.0.0.0  propellerad.adk2x.com
 0.0.0.0  propellerads.com
 0.0.0.0  propellerclick.com
@@ -93849,7 +93846,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  rotorads.com
 0.0.0.0  rottclimb.de
 0.0.0.0  rotumal.com
-0.0.0.0  rotumal.com:443
+0.0.0.0  rotumal.com
 0.0.0.0  roughroll.com
 0.0.0.0  roulette-faker.pro
 0.0.0.0  roulette-online.petrovka.info
@@ -97187,7 +97184,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  secondscreenindexer.adswizz.com
 0.0.0.0  secondstreetmedia.com
 0.0.0.0  secret.xn--oogle-wmc.com
-0.0.0.0  secret.ɢoogle.com
 0.0.0.0  secretarea.net
 0.0.0.0  secretbehindporn.com
 0.0.0.0  secretchina.com
