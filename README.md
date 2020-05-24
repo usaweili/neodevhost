@@ -141,15 +141,17 @@ pihole -g
 
 ## Sources of AD-hosts data 去广告host源
 
->https://hblock.molinero.xyz/hosts<br/>
 >https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts<br/>
 >https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts<br/>
 >https://raw.githubusercontent.com/jdlingyu/ad-wars/master/sha_ad_hosts<br/>
 >https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts<br/>
 >https://hosts.nfz.moe/full/hosts<br/>
 >https://raw.githubusercontent.com/yous/YousList/master/hosts.txt<br/>
->https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts<br/>
+>https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts<br/><br/>
 >https://raw.githubusercontent.com/Licolnlee/blog-cloud-storage/master/adblock.txt<br/>
+>https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts<br/>
+>http://someonewhocares.org/hosts/hosts<br/>
+>https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts<br/>
 
 ## Sources of Whitelist data 域名白名单源
 
