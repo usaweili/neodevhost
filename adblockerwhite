@@ -20,6 +20,11 @@
 @@||51240.com^
 @@||6-edge-chat.facebook.com^
 @@||70i.net^
+@@||REG ^(?!.*\.?(oem)).*\.twimg\.com$^
+@@||REG ^(?!.*\.?(popcon)).*\.ubuntu\.com$^
+@@||REG ^(?!.*\.?(vstats)).*\.digitaltrends\.com$^
+@@||REG ^(?!.*\.?(watchdog\.ohio|dap\.digitalgov|stats\.ssa|adgallery\.whitehousedrugpolicy)).*\.gov$^
+@@||REG ^.*\.oloadcdn\.net$^
 @@||\/.51cto.com^
 @@||a.mini.eastday.com^
 @@||a.stat.xiaomi.com^
