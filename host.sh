@@ -50,7 +50,7 @@ sed -i '/address/d' tmpwhitelist
 sed -i '/REG^/d' tmpwhitelist
 sed -i '/RZD/d' tmpwhitelist
 sed -i 's/ALL ./ /g' tmpwhitelist
-sed -i '/*\./d' tmpwhitelist
+sed -i "/'*.'/d" tmpwhitelist
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpwhitelist
 sed -i '/^$/d' tmpwhitelist
 sort -u tmpwhitelist > whitelist
