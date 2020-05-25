@@ -81,7 +81,7 @@ sed -i 's/^[ \t]*//;s/[ \t]*$//' tmphost
 sed -i '/^$/d' tmphost
 sed -i 's/0.0.0.0//' tmphost
 sed -i 's/0.0.0.0.//' tmphost
-sort -u tmphost > host
+sort -n tmphost > host
 sed -i '1d' host
 sed -i '$d' host
 rm tmphost
@@ -89,7 +89,7 @@ rm tmphost
 echo " "
 echo "Merge Combine..."
 sort host whitelist whitelist | uniq -u > tmp && mv tmp tmpcombine
-sort -u tmpcombine > combine
+sort -n tmpcombine > combine
 rm tmpcombine
 
 
