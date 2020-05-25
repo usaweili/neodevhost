@@ -76,7 +76,6 @@ sed -i 's/^.//' tmphost
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmphost
 sed -i '/^$/d' tmphost
 sed -i 's/0.0.0.0//' tmphost
-sed -i 's/-//' tmphost
 sed -i 's/0.0.0.0.//' tmphost
 sort -u tmphost > host
 sed -i '1d' host
