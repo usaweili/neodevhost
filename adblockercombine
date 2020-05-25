@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-25
 #
-# Number of blocked domains:  78456
+# Number of blocked domains:  78505
 #
 # ===============================================================
 
@@ -3957,6 +3957,7 @@ ff02::3 ip6-allhosts
 ||ad.aspm.jp^
 ||ad.asv.de^
 ||ad.at.doubleclick.net^
+||ad.atdmt.com^
 ||ad.au.doubleclick.net^
 ||ad.auditude.com^
 ||ad.axyzconductor.jp^
@@ -4042,6 +4043,7 @@ ff02::3 ip6-allhosts
 ||ad.domainfactory.de^
 ||ad.donanimhaber.com^
 ||ad.doubanio.com^
+||ad.doubleclick.net^
 ||ad.doubleclick.net^
 ||ad.doublemax.net^
 ||ad.doublemax.net^
@@ -9106,6 +9108,7 @@ ff02::3 ip6-allhosts
 ||affiliate.trk4.com^
 ||affiliate.viator.com^
 ||affiliatecashpile.go2jump.org^
+||affiliatefuture.com^
 ||affiliategroove.com^
 ||affiliateone.jp^
 ||affiliater.pl^
@@ -10495,6 +10498,7 @@ ff02::3 ip6-allhosts
 ||anquan.baidu.com^
 ||anquan.luomi.com^
 ||anquan.org^
+||anrdoezrs.net^
 ||anrtx.tacoda.net^
 ||anrysys.popunder.ru^
 ||anshrit.com^
@@ -10881,6 +10885,7 @@ ff02::3 ip6-allhosts
 ||api.appsee.com^
 ||api.appsflyer.com^
 ||api.apptap.com^
+||api.apptentive.com^
 ||api.appwifi.com^
 ||api.apsalar.com^
 ||api.areametrics.com^
@@ -12628,6 +12633,7 @@ ff02::3 ip6-allhosts
 ||avalon.topbucks.com^
 ||avantfestival.pl^
 ||avanti-pizza.pl^
+||avantlink.com^
 ||avaparse.ir^
 ||avast-downloads.com^
 ||avavwz.com^
@@ -12760,6 +12766,7 @@ ff02::3 ip6-allhosts
 ||az27.pl^
 ||az361816.vo.msecnd.net^
 ||az413505.vo.msecnd.net^
+||az416426.vo.msecnd.net^
 ||az512334.vo.msecnd.net^
 ||az598575.vo.msecnd.net^
 ||az708531.vo.msecnd.net^
@@ -14125,6 +14132,7 @@ ff02::3 ip6-allhosts
 ||bezpieczne-nieruchomosci.pl^
 ||bezproudoff.cz^
 ||bf.mocda1.com^
+||bfast.com^
 ||bffmetercom.cleverpush.com^
 ||bfglasses.com^
 ||bfile.shinobi.jp^
@@ -16415,6 +16423,7 @@ ff02::3 ip6-allhosts
 ||cbtnuggets.tt.omtrdc.net^
 ||cbtopsites.com^
 ||cbx.net^
+||cc-dt.com^
 ||cc.0133hao.net^
 ||cc.0371xianhua.com^
 ||cc.1515788.net^
@@ -17008,6 +17017,7 @@ ff02::3 ip6-allhosts
 ||cdn.oggifinogi.com^
 ||cdn.okanjo.com^
 ||cdn.onescreen.net^
+||cdn.onesignal.com^
 ||cdn.onscroll.com^
 ||cdn.onthe.io^
 ||cdn.opensubcontent.com^
@@ -17847,6 +17857,8 @@ ff02::3 ip6-allhosts
 ||civilwar.news^
 ||ciwox.com^
 ||cj.1o26.com^
+||cj.com^
+||cj.dotomi.com^
 ||cj.mplxtms.com^
 ||cj.qidian.com^
 ||cjbmanagement.com^
@@ -18222,6 +18234,8 @@ ff02::3 ip6-allhosts
 ||clicks3.traffictrader.net^
 ||clicksagent.com^
 ||clickserv.sitescout.com^
+||clickserve.cc-dt.com^
+||clickserve.dartsearch.net^
 ||clickserve.dartsearch.net^
 ||clickserve.eu.dartsearch.net^
 ||clickserve.uk.dartsearch.net^
@@ -18358,6 +18372,7 @@ ff02::3 ip6-allhosts
 ||clk.pointroll.com^
 ||clk.relestar.com^
 ||clk.taptica.com^
+||clk.tradedoubler.com^
 ||clk.uunt.com^
 ||clk1004.com^
 ||clk1005.com^
@@ -19240,6 +19255,7 @@ ff02::3 ip6-allhosts
 ||consent.cmp.oath.com^
 ||consent.cookiebot.com^
 ||consent.mediaforge.com^
+||consent.truste.com^
 ||conservative101.com^
 ||conservativebyte.com^
 ||conservativedailypost.com^
@@ -20428,6 +20444,7 @@ ff02::3 ip6-allhosts
 ||cshacks.partycat.us^
 ||csharpcorner.us.intellitxt.com^
 ||cshub.net^
+||csi.gstatic.com^
 ||csk.ru^
 ||csk2014.info^
 ||csktv98.com^
@@ -22730,6 +22747,7 @@ ff02::3 ip6-allhosts
 ||doubleclick.ctfile.com^
 ||doubleclick.de^
 ||doubleclick.ne.jp^
+||doubleclick.net^
 ||doublemax.net^
 ||doublepimp.com^
 ||doublepimpads.com^
@@ -22885,6 +22903,7 @@ ff02::3 ip6-allhosts
 ||dp3.qq.com^
 ||dp9888.com^
 ||dpai.thepaper.cn^
+||dpbolvw.net^
 ||dpdoplata.org^
 ||dping.qq.com^
 ||dplace.adsame.com^
@@ -25021,6 +25040,7 @@ ff02::3 ip6-allhosts
 ||emisja.adsearch.pl^
 ||emisja.contentstream.pl^
 ||emits.iptvdeals.com^
+||emjcd.com^
 ||emltrk.com^
 ||emmis.deliveryengine.adswizz.com^
 ||emo.adsame.com^
@@ -25828,6 +25848,7 @@ ff02::3 ip6-allhosts
 ||evt.moatads.com^
 ||evtvpaid.bfmio.com^
 ||evwr.hitbox.com^
+||evyy.net^
 ||ew.api.ad.xiaomi.com^
 ||ew16d.package12.com^
 ||ewapi.com^
@@ -27040,6 +27061,7 @@ ff02::3 ip6-allhosts
 ||fls-fe.amazon-adsystem.com^
 ||fls-na.amazon-adsystem.com^
 ||fls-na.amazon-adsystem.com^
+||fls-na.amazon.com^
 ||fls.au.doubleclick.net^
 ||fls.doubleclick.net^
 ||fls.uk.doubleclick.net^
@@ -27988,6 +28010,7 @@ ff02::3 ip6-allhosts
 ||gammamaximum.com^
 ||gammaplatform.com^
 ||gammitcube.com^
+||gan.doubleclick.net^
 ||gandalf.younetmedia.com^
 ||gang.rw33.cn^
 ||gangkarpiarzy.pl^
@@ -28860,6 +28883,7 @@ ff02::3 ip6-allhosts
 ||go.pushnative.com^
 ||go.pushnative.com^
 ||go.realvu.net^
+||go.redirectingat.com^
 ||go.searchlock.com^
 ||go.sghjtc.xyz^
 ||go.shareaholic.com^
@@ -28882,6 +28906,7 @@ ff02::3 ip6-allhosts
 ||go2.hit.gemius.pl^
 ||go2.mercy.ga^
 ||go2affise.com^
+||go2jump.org^
 ||go2linkfast.com^
 ||go43210.com^
 ||go50.net^
@@ -33404,6 +33429,7 @@ ff02::3 ip6-allhosts
 ||jdg.bjygfd.com^
 ||jdgame.yypt211.com^
 ||jdngv.xbiquge6.com^
+||jdoqocy.com^
 ||jdownloadacc.cjt1.net^
 ||jdownloader.fr^
 ||jdw.zjuwjdc.com^
@@ -33898,6 +33924,7 @@ ff02::3 ip6-allhosts
 ||js.idgdmgroup.com.cn^
 ||js.idio.co^
 ||js.impact.ne.jp^
+||js.indexww.com^
 ||js.intercomcdn.com^
 ||js.isboost.co.jp^
 ||js.jaat3ax.site^
@@ -34910,6 +34937,7 @@ ff02::3 ip6-allhosts
 ||kpzkaj.pl^
 ||kqjtj.com^
 ||kqq.kz^
+||kqzyfj.com^
 ||kr-gmtdmp.mookie1.com^
 ||kr.ixiaa.com^
 ||kr.phorm.com^
@@ -42592,6 +42620,7 @@ ff02::3 ip6-allhosts
 ||nexttrk.com^
 ||nexus-test.ensighten.com^
 ||nexus.adswizz.com^
+||nexus.ensighten.com^
 ||nexus.officeapps.live.com^
 ||nexys404.us.intellitxt.com^
 ||neymar.alphonso.tv^
@@ -44179,6 +44208,7 @@ ff02::3 ip6-allhosts
 ||onemobile.yahoo.com^
 ||onenetworkdirect.com^
 ||onepush.query.yahoo.com^
+||onesignal.com^
 ||onesignal.com^
 ||onespot-tracking.herokuapp.com^
 ||onestat.com^
@@ -45431,6 +45461,7 @@ ff02::3 ip6-allhosts
 ||partners.realgirlsmedia.com^
 ||partners.sprintrade.com^
 ||partners.tremorhub.com^
+||partners.webmasterplan.com^
 ||partners.xhamster.com^
 ||partnervideo.syndication.msn.com^
 ||partnerwebsites.mistermedia.nl^
@@ -47528,6 +47559,7 @@ ff02::3 ip6-allhosts
 ||priv-policy.imrworldwide.com^
 ||priv.inteleksys.com^
 ||privacy-email.eu^
+||privacy-policy.truste.com^
 ||privacy.commander1.com^
 ||privacyassistant.net^
 ||privacywatch.news^
@@ -53003,6 +53035,7 @@ ff02::3 ip6-allhosts
 ||share.yandex.ru^
 ||shareably-d.openx.net^
 ||shareadspace.com^
+||shareasale.com^
 ||shareaza.com^
 ||sharebar.addthiscdn.com^
 ||sharecast.uk.intellitxt.com^
@@ -53178,6 +53211,7 @@ ff02::3 ip6-allhosts
 ||sig.atdmt.com^
 ||sightings.gimbal.com^
 ||sigma1.eu^
+||signal-sdk-service-production.ap-south-1.elasticbeanstalk.com^
 ||signalad.go.affec.tv^
 ||signalhq.com^
 ||signals.ampiri.com^
@@ -53793,6 +53827,7 @@ ff02::3 ip6-allhosts
 ||smartinit.webads.nl^
 ||smartlifeguides.com^
 ||smartlink.adpia.vn^
+||smartlock.google.com^
 ||smartlook.com^
 ||smartmad.com^
 ||smartmeters.news^
@@ -58674,6 +58709,7 @@ ff02::3 ip6-allhosts
 ||track.addict-mobile.net^
 ||track.adflex.vn^
 ||track.adform.com^
+||track.adform.net^
 ||track.adform.net^
 ||track.adition.com^
 ||track.adjal.com^
@@ -59000,6 +59036,7 @@ ff02::3 ip6-allhosts
 ||track.vivid.com^
 ||track.volo-mobile.com^
 ||track.vscash.com^
+||track.webgains.com^
 ||track.webprodeals.cf^
 ||track.wesdk.co^
 ||track.wesell.co.il^
@@ -59361,6 +59398,7 @@ ff02::3 ip6-allhosts
 ||tradem.com^
 ||trademob.com^
 ||tradersbrokers.com^
+||tradetracker.net^
 ||tradex-d.openx.net^
 ||trading-rtbg.com^
 ||traefik-us.glispa.com^
@@ -62068,6 +62106,7 @@ ff02::3 ip6-allhosts
 ||vodafone.com-gift-winner-lucky-day.vip^
 ||vodafone.tiqcdn.com^
 ||vodafonegroup.122.2o7.net^
+||vodafoneindia.tt.omtrdc.net^
 ||vodafoneit.solution.weborama.fr^
 ||vodafonenz.122.2o7.net^
 ||vodafoneuk.tt.omtrdc.net^
@@ -65525,6 +65564,7 @@ ff02::3 ip6-allhosts
 ||www.anonibet.com^
 ||www.anonymousnews.ru^
 ||www.anpu119.com^
+||www.anrdoezrs.net^
 ||www.ant.com^
 ||www.antabuy.com^
 ||www.antaraimedia.com^
@@ -65750,6 +65790,7 @@ ff02::3 ip6-allhosts
 ||www.av-clean.com^
 ||www.avantfestival.pl^
 ||www.avanti-pizza.pl^
+||www.avantlink.com^
 ||www.avaparse.ir^
 ||www.avast-downloads.com^
 ||www.avavwz.com^
@@ -67642,6 +67683,7 @@ ff02::3 ip6-allhosts
 ||www.dotzup.com^
 ||www.doubleclick.com^
 ||www.doubleclick.ne.jp^
+||www.doubleclick.net^
 ||www.doubleclickbygoogle.com^
 ||www.doublepimpads.com^
 ||www.doublewww.x.net^
@@ -67671,6 +67713,7 @@ ff02::3 ip6-allhosts
 ||www.downloadwarez.org^
 ||www.doxxbet.com^
 ||www.dp-medien.eu^
+||www.dpbolvw.net^
 ||www.dpdoplata.org^
 ||www.dpsobryte.pl^
 ||www.dqsft.com^
@@ -67956,6 +67999,7 @@ ff02::3 ip6-allhosts
 ||www.emeraldbet.com^
 ||www.emiliareichert.pl^
 ||www.emir-elbahr.com^
+||www.emjcd.com^
 ||www.emobi-sys.com^
 ||www.emoneyspace.com^
 ||www.emonitoring-epoczta24polska.net^
@@ -69986,6 +70030,7 @@ ff02::3 ip6-allhosts
 ||www.jd722.com^
 ||www.jdailymall.com^
 ||www.jdfabrication.com^
+||www.jdoqocy.com^
 ||www.jeansydiesel.pl^
 ||www.jebetting.com^
 ||www.jejuskypension.com^
@@ -70424,6 +70469,7 @@ ff02::3 ip6-allhosts
 ||www.kproject.pl^
 ||www.kpzkaj.pl^
 ||www.kqjtj.com^
+||www.kqzyfj.com^
 ||www.kraina-kopciuszka.pl^
 ||www.krainakuhailana.pl^
 ||www.krainazabawek.com^
@@ -71998,6 +72044,7 @@ ff02::3 ip6-allhosts
 ||www.oix.com^
 ||www.oix.net^
 ||www.ojolink.fr^
+||www.ojrq.net^
 ||www.ok365.com^
 ||www.ok89okl.com^
 ||www.okaleczenie15laatkii.blogspot.com^
@@ -73436,6 +73483,7 @@ ff02::3 ip6-allhosts
 ||www.rsptrack.com^
 ||www.rss141.com^
 ||www.rsvpcatering.pl^
+||www.rt.com^
 ||www.rtb-adsterra.flshtrk.store^
 ||www.rtcode.com^
 ||www.rtk.io^
@@ -74792,6 +74840,7 @@ ff02::3 ip6-allhosts
 ||www.tjhuajiantang.com^
 ||www.tkdami.net^
 ||www.tkozlowski.ct8.pl^
+||www.tkqlhce.com^
 ||www.tldtgs.com^
 ||www.tlumacz-wloskiego.com.pl^
 ||www.tmhfashionhouse.co.za^
