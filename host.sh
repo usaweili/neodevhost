@@ -50,7 +50,6 @@ sed -i '/address/d' tmpwhitelist
 sed -i '/REG^/d' tmpwhitelist
 sed -i '/RZD/d' tmpwhitelist
 sed -i 's/ALL ./ /g' tmpwhitelist
-#sed -i '/'*./d' tmpwhitelist
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpwhitelist
 sed -i '/^$/d' tmpwhitelist
 sort -u tmpwhitelist > whitelist
@@ -69,25 +68,14 @@ sed -i '/ɢ/d' tmphost
 sed -i '/255.255.255.255/d' tmphost
 sed -i '/ip6-/d' tmphost
 sed -i '/local/d' tmphost
-sed -i 's/127.0.0.1//' tmphost
+sed -i 's/127.0.0.1 //' tmphost
+sed -i 's/0.0.0.0.//' tmphost
 sed -i 's/0.0.0.0//' tmphost
-sed -i 's/DOMAIN,//' tmphost #Fix newhost
 sed -i 's/:443//' tmphost
-sed -i 's/:8905//' tmphost #Fix newhost
-sed -i 's/。//' tmphost #Fix newhost
-sed -i 's/,//' tmphost #Fix newhost
-sed -i 's/#.*//g' tmphost
-sed -i 's/#.*$//' tmphost
-sed -i '/*./d' tmphost
-sed -i 's/[[:space:]][[:space:]]*/ /g' tmphost
-sed -i 's/^.//' tmphost
+sed -i 's/*.//g' tmphost
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmphost
 sed -i '/^$/d' tmphost
-sed -i 's/0.0.0.0//' tmphost
-sed -i 's/0.0.0.0.//' tmphost
 sort -u tmphost > host
-sed -i '1d' host
-sed -i '$d' host
 rm tmphost
 
 echo " "
