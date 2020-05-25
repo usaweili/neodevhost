@@ -25,6 +25,7 @@ REG ^(?!..?(popcon)).*\.ubuntu\.com$
 REG ^(?!..?(vstats)).*\.digitaltrends\.com$
 REG ^(?!..?(watchdog\.ohio|dap\.digitalgov|stats\.ssa|adgallery\.whitehousedrugpolicy)).*\.gov$
 REG ^..oloadcdn\.net$
+\/.51cto.com
 a.mini.eastday.com
 a.stat.xiaomi.com
 a1014.g.akamai.net
