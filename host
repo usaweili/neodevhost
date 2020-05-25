@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-25
 #
-# Number of blocked domains:  70978
+# Number of blocked domains:  70998
 #
 # ===============================================================
 
@@ -2922,6 +2922,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  ad.angel-live.com
 0.0.0.0  ad.ants.vn
 0.0.0.0  ad.anuntis.com
+0.0.0.0  ad.api.3g.tudou.com
 0.0.0.0  ad.api.3g.youku.com
 0.0.0.0  ad.api.ateam-ad.jp
 0.0.0.0  ad.api.fello.net
@@ -8037,6 +8038,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  afp.csbew.com
 0.0.0.0  afp.dotomi.com
 0.0.0.0  afp.m1905.com
+0.0.0.0  afp.pplive.com
 0.0.0.0  afp.qiyi.com
 0.0.0.0  afp.qiyi.com
 0.0.0.0  afp.zol-img.com.cn
@@ -15993,6 +15995,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  ck.storematch.jp
 0.0.0.0  ck.surfcountor.com
 0.0.0.0  ckjyck.qxs.la
+0.0.0.0  ckm.iqiyi.com
 0.0.0.0  ckmap.adsame.com
 0.0.0.0  ckmap.mediav.com
 0.0.0.0  cks.ha1.yumenetworks.com
@@ -16577,6 +16580,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  cm.netseer.com
 0.0.0.0  cm.npc-hearst.overture.com
 0.0.0.0  cm.p4p.cn.yahoo.com
+0.0.0.0  cm.passport.iqiyi.com
 0.0.0.0  cm.passport.iqiyi.com
 0.0.0.0  cm.pinsightmedia.com
 0.0.0.0  cm.pos.baidu.com
@@ -19247,6 +19251,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  dc.csdn.net
 0.0.0.0  dc.impact-ad.jp
 0.0.0.0  dc.letv.com
+0.0.0.0  dc.letv.com
 0.0.0.0  dc.liuliang100.com
 0.0.0.0  dc.meitustat.com
 0.0.0.0  dc.sabela.com.pl
@@ -19338,6 +19343,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  de.adserver.yahoo.com
 0.0.0.0  de.advertising.yahoo.com
 0.0.0.0  de.as.cp61.ott.cibntv.net
+0.0.0.0  de.as.pptv.com
 0.0.0.0  de.as.pptv.com
 0.0.0.0  de.demdex.net
 0.0.0.0  de.dzribao.com
@@ -36113,6 +36119,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  miaobeichina.com
 0.0.0.0  miaozhen-cm.admaster.com.cn
 0.0.0.0  miaozhen.com
+0.0.0.0  miaozhen.com
 0.0.0.0  miastoinfo.hekko24.pl
 0.0.0.0  miastoinformacje.hekko24.pl
 0.0.0.0  miastosprawa.hekko24.pl
@@ -37179,8 +37186,10 @@ ff02::3 ip6-allhosts
 0.0.0.0  msg.simeji.baidu.jp
 0.0.0.0  msg.umengcloud.com
 0.0.0.0  msg.video.qiyi.com
+0.0.0.0  msg.video.qiyi.com
 0.0.0.0  msg.youku.com
 0.0.0.0  msg2.client.xunlei.com
+0.0.0.0  msg2.video.qiyi.com
 0.0.0.0  msg2.video.qiyi.com
 0.0.0.0  msga.71.am
 0.0.0.0  msga.cupid.iqiyi.com
@@ -40727,10 +40736,13 @@ ff02::3 ip6-allhosts
 0.0.0.0  page.xywy.com
 0.0.0.0  pagead-googlehosted.l.google.com
 0.0.0.0  pagead-tpc.l.google.com
+0.0.0.0  pagead-tpc.l.google.com
+0.0.0.0  pagead.google.com
 0.0.0.0  pagead.google.com
 0.0.0.0  pagead.googlesyndication.com
 0.0.0.0  pagead.googlesyndication.com
 0.0.0.0  pagead.l.doubleclick.net
+0.0.0.0  pagead.l.google.com
 0.0.0.0  pagead.l.google.com
 0.0.0.0  pagead.topobiavi.com
 0.0.0.0  pagead1.googlesyndication.com
@@ -40837,6 +40849,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  paoloeluca.strefa.pl
 0.0.0.0  paopao-monitor.iqiyi.com
 0.0.0.0  paopao.iqiyi.com
+0.0.0.0  paopao.iqiyi.com
 0.0.0.0  paopao0.qiyipic.com
 0.0.0.0  paopao1.qiyipic.com
 0.0.0.0  paopao2.qiyipic.com
@@ -40923,6 +40936,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  partner02.oingo.com
 0.0.0.0  partner03.oingo.com
 0.0.0.0  partnerad.l.doubleclick.net
+0.0.0.0  partnerad.l.google.com
 0.0.0.0  partnerad.l.google.com
 0.0.0.0  partnerads.ysm.yahoo.com
 0.0.0.0  partnercash.de
@@ -42673,6 +42687,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  pp.xjuygf.xyz
 0.0.0.0  pp2.dhzw.org
 0.0.0.0  pp2.pptv.com
+0.0.0.0  pp2.pptv.com
 0.0.0.0  ppc-direct.com
 0.0.0.0  ppgcm.profilepassport.jp
 0.0.0.0  ppjs.alphonso.tv
@@ -43405,6 +43420,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  pub1.co
 0.0.0.0  pub2srv.com
 0.0.0.0  pubads.g.doubleclick.net
+0.0.0.0  pubads.g.doubleclick.net
 0.0.0.0  pubdirecte.com
 0.0.0.0  pubimgs.sapo.pt
 0.0.0.0  pubkotlownia.pl
@@ -43546,6 +43562,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  push.apusapps.com
 0.0.0.0  push.com2us.net
 0.0.0.0  push.ksapisrv.com
+0.0.0.0  push.m.youku.com
 0.0.0.0  push.m.youku.com
 0.0.0.0  push.mgage.com
 0.0.0.0  push.mobile.kugou.com
@@ -49847,6 +49864,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  stat.pandora.xiaomi.com
 0.0.0.0  stat.pchome.net
 0.0.0.0  stat.pl
+0.0.0.0  stat.pptv.com
 0.0.0.0  stat.pushwoosh.com
 0.0.0.0  stat.ringier.cz
 0.0.0.0  stat.rolledwil.biz
@@ -56315,6 +56333,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  vpx.adledge.com
 0.0.0.0  vq91811.com
 0.0.0.0  vq918450.com
+0.0.0.0  vqq.admaster.com.cn
 0.0.0.0  vqq.admaster.com.cn
 0.0.0.0  vr.gdt.qq.com
 0.0.0.0  vra.outbrain.com
@@ -69958,6 +69977,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  xray.jebe.renren.com
 0.0.0.0  xs.1drj.com
 0.0.0.0  xs.he9630.com
+0.0.0.0  xs.houyi.baofeng.net
 0.0.0.0  xs.houyi.baofeng.net
 0.0.0.0  xs.searchacg.org
 0.0.0.0  xs.swagger1.com

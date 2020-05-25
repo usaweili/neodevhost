@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-25
 #
-# Number of blocked domains:  70861
+# Number of blocked domains:  70881
 #
 # ===============================================================
 
@@ -1102,6 +1102,7 @@ ff02::3 ip6-allhosts
 ||ad.angel-live.com^
 ||ad.ants.vn^
 ||ad.anuntis.com^
+||ad.api.3g.tudou.com^
 ||ad.api.3g.youku.com^
 ||ad.api.ateam-ad.jp^
 ||ad.api.fello.net^
@@ -6207,6 +6208,7 @@ ff02::3 ip6-allhosts
 ||afp.csbew.com^
 ||afp.dotomi.com^
 ||afp.m1905.com^
+||afp.pplive.com^
 ||afp.qiyi.com^
 ||afp.qiyi.com^
 ||afp.zol-img.com.cn^
@@ -14149,6 +14151,7 @@ ff02::3 ip6-allhosts
 ||ck.storematch.jp^
 ||ck.surfcountor.com^
 ||ckjyck.qxs.la^
+||ckm.iqiyi.com^
 ||ckmap.adsame.com^
 ||ckmap.mediav.com^
 ||cks.ha1.yumenetworks.com^
@@ -14732,6 +14735,7 @@ ff02::3 ip6-allhosts
 ||cm.npc-hearst.overture.com^
 ||cm.p4p.cn.yahoo.com^
 ||cm.passport.iqiyi.com^
+||cm.passport.iqiyi.com^
 ||cm.pinsightmedia.com^
 ||cm.pos.baidu.com^
 ||cm.reachmax.cn^
@@ -17398,6 +17402,7 @@ ff02::3 ip6-allhosts
 ||dc.csdn.net^
 ||dc.impact-ad.jp^
 ||dc.letv.com^
+||dc.letv.com^
 ||dc.liuliang100.com^
 ||dc.meitustat.com^
 ||dc.sabela.com.pl^
@@ -17490,6 +17495,7 @@ ff02::3 ip6-allhosts
 ||de.advertising.yahoo.com^
 ||de.as.cp61.ott.cibntv.net^
 ||de.as.pptv.com^
+||de.as.pptv.com^
 ||de.demdex.net^
 ||de.dzribao.com^
 ||de.grmtech.net^
@@ -34244,6 +34250,7 @@ ff02::3 ip6-allhosts
 ||miaobeichina.com^
 ||miaozhen-cm.admaster.com.cn^
 ||miaozhen.com^
+||miaozhen.com^
 ||miastoinfo.hekko24.pl^
 ||miastoinformacje.hekko24.pl^
 ||miastosprawa.hekko24.pl^
@@ -35304,9 +35311,11 @@ ff02::3 ip6-allhosts
 ||msg.simeji.baidu.jp^
 ||msg.umengcloud.com^
 ||msg.video.qiyi.com^
+||msg.video.qiyi.com^
 ||msg.youku.com^
 ||msg2.client.xunlei.com^
 ||msg2.video.qiyi.com^
+||msg2.video.qiyi.com^
 ||msga.71.am^
 ||msga.cupid.iqiyi.com^
 ||msga.cupid.iqiyi.com^
@@ -38848,11 +38857,14 @@ ff02::3 ip6-allhosts
 ||page.xywy.com^
 ||pagead-googlehosted.l.google.com^
 ||pagead-tpc.l.google.com^
+||pagead-tpc.l.google.com^
 ||pagead.google.com^
+||pagead.google.com^
 ||pagead.googlesyndication.com^
 ||pagead.googlesyndication.com^
 ||pagead.l.doubleclick.net^
 ||pagead.l.google.com^
+||pagead.l.google.com^
 ||pagead.topobiavi.com^
 ||pagead1.googlesyndication.com^
 ||pagead1.googlesyndication.com^
@@ -38957,6 +38969,7 @@ ff02::3 ip6-allhosts
 ||paoloeluca.strefa.pl^
 ||paopao-monitor.iqiyi.com^
 ||paopao.iqiyi.com^
+||paopao.iqiyi.com^
 ||paopao0.qiyipic.com^
 ||paopao1.qiyipic.com^
 ||paopao2.qiyipic.com^
@@ -39044,6 +39057,7 @@ ff02::3 ip6-allhosts
 ||partner03.oingo.com^
 ||partnerad.l.doubleclick.net^
 ||partnerad.l.google.com^
+||partnerad.l.google.com^
 ||partnerads.ysm.yahoo.com^
 ||partnercash.de^
 ||partnerearning.com^
@@ -40787,6 +40801,7 @@ ff02::3 ip6-allhosts
 ||pp.xjuygf.xyz^
 ||pp2.dhzw.org^
 ||pp2.pptv.com^
+||pp2.pptv.com^
 ||ppc-direct.com^
 ||ppgcm.profilepassport.jp^
 ||ppjs.alphonso.tv^
@@ -41518,6 +41533,7 @@ ff02::3 ip6-allhosts
 ||pub1.co^
 ||pub2srv.com^
 ||pubads.g.doubleclick.net^
+||pubads.g.doubleclick.net^
 ||pubdirecte.com^
 ||pubimgs.sapo.pt^
 ||pubkotlownia.pl^
@@ -41660,6 +41676,7 @@ ff02::3 ip6-allhosts
 ||push.com2us.net^
 ||push.ksapisrv.com^
 ||push.m.youku.com^
+||push.m.youku.com^
 ||push.mgage.com^
 ||push.mobile.kugou.com^
 ||push.mobilefonex.com^
@@ -47940,6 +47957,7 @@ ff02::3 ip6-allhosts
 ||stat.pandora.xiaomi.com^
 ||stat.pchome.net^
 ||stat.pl^
+||stat.pptv.com^
 ||stat.pushwoosh.com^
 ||stat.ringier.cz^
 ||stat.rolledwil.biz^
@@ -54386,6 +54404,7 @@ ff02::3 ip6-allhosts
 ||vq91811.com^
 ||vq918450.com^
 ||vqq.admaster.com.cn^
+||vqq.admaster.com.cn^
 ||vr.gdt.qq.com^
 ||vra.outbrain.com^
 ||vratislavialex.pl^
@@ -68026,6 +68045,7 @@ ff02::3 ip6-allhosts
 ||xs.1drj.com^
 ||xs.he9630.com^
 ||xs.houyi.baofeng.net^
+||xs.houyi.baofeng.net^
 ||xs.searchacg.org^
 ||xs.swagger1.com^
 ||xsapp.cdn.bcebos.com^
