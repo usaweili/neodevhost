@@ -103,7 +103,7 @@ cp whitelist adblockerwhite
 cp host hosts_dnsmasq.conf
 cp combine combinehosts_dnsmasq.conf
 
-sed -i 's/^/||&/' adblocker 
+sed -i 's/^/||&/' adblocker
 sed -i 's/$/&^/' adblocker 
 
 sed -i 's/^/@@||&/' adblockerwhite 
