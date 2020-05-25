@@ -71,7 +71,7 @@ sed -i '/ip6-/d' tmphost
 sed -i '/local/d' tmphost
 sed -i 's/127.0.0.1//' tmphost
 sed -i 's/0.0.0.0//' tmphost
-sed -i 's/Domain,//' tmphost #Fix newhost
+sed -i 's/DOMAIN,//' tmphost #Fix newhost
 sed -i 's/:443//' tmphost
 sed -i 's/#.*//g' tmphost
 sed -i 's/#.*$//' tmphost
