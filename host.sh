@@ -69,9 +69,10 @@ sed -i '/ɢ/d' tmphost
 sed -i '/255.255.255.255/d' tmphost
 sed -i '/ip6-/d' tmphost
 sed -i '/local/d' tmphost
-sed -i 's/:443//' tmphost
 sed -i 's/127.0.0.1//' tmphost
 sed -i 's/0.0.0.0//' tmphost
+sed -i 's/:443//' tmphost
+sed -i 's/*.//' tmphost
 sed -i 's/^.//' tmphost
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmphost
 sed -i '/^$/d' tmphost
