@@ -73,6 +73,9 @@ sed -i 's/127.0.0.1//' tmphost
 sed -i 's/0.0.0.0//' tmphost
 sed -i 's/DOMAIN,//' tmphost #Fix newhost
 sed -i 's/:443//' tmphost
+sed -i 's/:8905//' tmphost #Fix newhost
+sed -i 's/。//' tmphost #Fix newhost
+sed -i 's/,//' tmphost #Fix newhost
 sed -i 's/#.*//g' tmphost
 sed -i 's/#.*$//' tmphost
 sed -i '/*./d' tmphost
