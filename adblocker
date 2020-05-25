@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-25
 #
-# Number of blocked domains:  73447
+# Number of blocked domains:  73421
 #
 # ===============================================================
 
@@ -884,7 +884,6 @@ ff02::3 ip6-allhosts
 ||1.aili.com^
 ||1.alicdn.com^
 ||1.allyes.com.cn^
-||1.allyes.com.cn^
 ||1.bashenghuo.com^
 ||1.chcx.cn^
 ||1.cmfu.com^
@@ -982,7 +981,7 @@ ff02::3 ip6-allhosts
 ||11-15.net^
 ||11.cnzz.com^
 ||11.lamarianella.info^
-||1100.adsina.allyes.com^
+||1100.adsina.allyes.com^
 ||1105governmentinformationgroup.122.2o7.net^
 ||1116.oadz.com^
 ||11163221-517901.c.adprotect.net^
@@ -993,8 +992,7 @@ ff02::3 ip6-allhosts
 ||11235813.webzdarma.cz^
 ||11398.onceedge.ru^
 ||114.allyes.com^
-||114.allyes.com^
-||1148.adsina.allyes.com^
+||1148.adsina.allyes.com^
 ||114so.cn^
 ||114study.adsame.com^
 ||1170.api.swrve.com^
@@ -1040,14 +1038,14 @@ ff02::3 ip6-allhosts
 ||123sex.biz^
 ||123specialgifts.com^
 ||123stat.com^
-||1251.adsina.allyes.com^
+||1251.adsina.allyes.com^
 ||1262.hittail.com^
 ||127.adsame.com^
 ||12724.xyz^
 ||1274.mediatraffic.com^
 ||1275.api.swrve.com^
 ||1275.content.swrve.com^
-||1276.adsina.allyes.com^
+||1276.adsina.allyes.com^
 ||1278725189.pub.ezanga.com^
 ||12877.hittail.com^
 ||12bet.com^
@@ -1101,7 +1099,7 @@ ff02::3 ip6-allhosts
 ||15.taboola.com^
 ||150601.fc2rs.com^
 ||15141.hittail.com^
-||154.adsina.allyes.com^
+||154.adsina.allyes.com^
 ||15438.xyz^
 ||15486.engine.mobileapptracking.com^
 ||1559.stats.misstrends.com^
@@ -1119,7 +1117,7 @@ ff02::3 ip6-allhosts
 ||15x.eu^
 ||15x.info^
 ||16.56.com^
-||161.adsina.allyes.com^
+||161.adsina.allyes.com^
 ||161028.engine.mobileapptracking.com^
 ||161118.engine.mobileapptracking.com^
 ||163.wrating.com^
@@ -1136,7 +1134,6 @@ ff02::3 ip6-allhosts
 ||17003124.xyz^
 ||171564.engine.mobileapptracking.com^
 ||17173im.allyes.com^
-||17173im.allyes.com^
 ||171764.fls.doubleclick.net^
 ||17428.engine.mobileapptracking.com^
 ||17460.engine.mobileapptracking.com^
@@ -2064,7 +2061,7 @@ ff02::3 ip6-allhosts
 ||4370.api.swrve.com^
 ||4370.content.swrve.com^
 ||4384.api.swrve.com^
-||44.adsina.allyes.com^
+||44.adsina.allyes.com^
 ||4420.api.swrve.com^
 ||4420.content.swrve.com^
 ||4421.api.swrve.com^
@@ -2084,7 +2081,7 @@ ff02::3 ip6-allhosts
 ||4453.content.swrve.com^
 ||4488352.fls.doubleclick.net^
 ||44chan.me^
-||45.adsina.allyes.com^
+||45.adsina.allyes.com^
 ||4508.api.swrve.com^
 ||4508.content.swrve.com^
 ||4514783.fls.doubleclick.net^
@@ -2361,7 +2358,7 @@ ff02::3 ip6-allhosts
 ||5yrra.deshuangwang.cn^
 ||6.mamaswishes.com^
 ||6.sina.com.cn^
-||60.adsina.allyes.com^
+||60.adsina.allyes.com^
 ||6000518.com^
 ||600co.info^
 ||602.stats.misstrends.com^
@@ -3075,7 +3072,6 @@ ff02::3 ip6-allhosts
 ||a3.adsplay.xyz^
 ||a3.adzs.nl^
 ||a3.allyes.com^
-||a3.allyes.com^
 ||a3.chartboost.com^
 ||a3.ikafan.com^
 ||a3.img.static.youmi.net^
@@ -8013,7 +8009,6 @@ ff02::3 ip6-allhosts
 ||adsim.sabah.com.tr^
 ||adsin.zhangyoubao.com^
 ||adsina.allyes.com^
-||adsina.allyes.com^
 ||adsinimages.com^
 ||adsino24.com^
 ||adsinter1.addealsnetwork.com^
@@ -8645,7 +8640,6 @@ ff02::3 ip6-allhosts
 ||adzestocp.com^
 ||adzip.s3.amazonaws.com^
 ||adzjvnet.allyes.com^
-||adzjvnet.allyes.com^
 ||adzjzewsma.cf^
 ||adzmedia.com^
 ||adzmobi.com^
@@ -9358,11 +9352,8 @@ ff02::3 ip6-allhosts
 ||allwomenstalk.us.intellitxt.com^
 ||allxscan.tk^
 ||allyes.com^
-||allyes.com^
 ||allyesbjafa.allyes.com^
-||allyesbjafa.allyes.com^
 ||allyesshafa.allyes.com^
-||allyesshafa.allyes.com^
 ||allyoubet.ag^
 ||almnews.sina.cn^
 ||alo.atm.youku.com^
@@ -14104,7 +14095,6 @@ ff02::3 ip6-allhosts
 ||boilingumbrella.com^
 ||bok-poczta.pl^
 ||bokee.allyes.com^
-||bokee.allyes.com^
 ||bokotraffic.com^
 ||boksy.dir.onet.pl^
 ||boksy.onet.pl^
@@ -22942,7 +22932,6 @@ ff02::3 ip6-allhosts
 ||e4.6dad.com^
 ||e7876.dscg.akamaiedge.net^
 ||e7free.allyes.com^
-||e7free.allyes.com^
 ||e89.friendfinder.com^
 ||e98fe.luytr.com^
 ||ea.logging.admicro.vn^
@@ -22992,7 +22981,6 @@ ff02::3 ip6-allhosts
 ||east.05tz2e9.com^
 ||east5.mobileadtrading.com^
 ||eastmoney.allyes.com^
-||eastmoney.allyes.com^
 ||eastmostlitharges.online^
 ||eastsideboxing.us.intellitxt.com^
 ||easurementapi.com^
@@ -25645,7 +25633,6 @@ ff02::3 ip6-allhosts
 ||focus.mangoads.vn^
 ||focus.met.vgwort.de^
 ||focusbaiduafp.allyes.com^
-||focusbaiduafp.allyes.com^
 ||focusdl.punchh.com^
 ||focusin.ads.targetnet.com^
 ||focusios.punchh.com^
@@ -29586,7 +29573,6 @@ ff02::3 ip6-allhosts
 ||idgets.outbrain.com^
 ||idguk1-d.openx.net^
 ||idigger.allyes.com^
-||idigger.allyes.com^
 ||idinfo.baofeng.com^
 ||idkom.com^
 ||idm-su.baidu.com^
@@ -33589,7 +33575,6 @@ ff02::3 ip6-allhosts
 ||lettucelimit.com^
 ||letv.admaster.com.cn^
 ||letv.allyes.com^
-||letv.allyes.com^
 ||letv.axp.admaster.com.cn^
 ||letv.cm.admaster.com.cn^
 ||letv.irs01.com^
@@ -38983,7 +38968,6 @@ ff02::3 ip6-allhosts
 ||msntrademarketing.112.2o7.net^
 ||msnwinonecare.112.2o7.net^
 ||mso.allyes.com^
-||mso.allyes.com^
 ||msoftdl.360.cn^
 ||msp-hack.com^
 ||msphackonline.com^
@@ -50196,12 +50180,11 @@ ff02::3 ip6-allhosts
 ||sin1.g.adnxs.com^
 ||sin1.ipromote.com^
 ||sin2.ipromote.com^
-||sina.allyes.com^
+||sina.allyes.com^
 ||sina.mediav.com^
 ||sina.wrating.com^
 ||sina.yinstar.org^
 ||sinas.allyes.com^
-||sinas.allyes.com^
 ||sinastorage.cn^
 ||sincentre.info^
 ||sincerebuffalo.com^
@@ -50690,7 +50673,6 @@ ff02::3 ip6-allhosts
 ||sm4ll.in^
 ||sm5.sitemeter.com^
 ||sm51shai.allyes.com^
-||sm51shai.allyes.com^
 ||sm6.sitemeter.com^
 ||sm7.sitemeter.com^
 ||sm8.sitemeter.com^
@@ -50768,7 +50750,6 @@ ff02::3 ip6-allhosts
 ||smc.silvercash.com^
 ||smccycles.com^
 ||smcreative.allyes.com^
-||smcreative.allyes.com^
 ||smectapop12.pl^
 ||smedia.adsame.com^
 ||smedizin.oewabox.at^
@@ -50805,7 +50786,6 @@ ff02::3 ip6-allhosts
 ||smithwick.net^
 ||smits.by^
 ||smjs.allyes.com^
-||smjs.allyes.com^
 ||smkmotala.com^
 ||smm.sitescout.com^
 ||smmu-ipv6.smmu.edu.cn^
@@ -51514,7 +51494,6 @@ ff02::3 ip6-allhosts
 ||srkgs.pl^
 ||sroka-online.pl^
 ||sroomafp.allyes.com^
-||sroomafp.allyes.com^
 ||srs.targetpoint.com^
 ||srslogisticts.com^
 ||srt-srv.xlisting.jp^
@@ -55028,7 +55007,6 @@ ff02::3 ip6-allhosts
 ||tokvideo.adsrvr.org^
 ||tokyodrift.ga^
 ||tom.allyes.com^
-||tom.allyes.com^
 ||tomalinoalambres.com.ar^
 ||tomasz-madej.pl^
 ||tomaszdworek.pl^
@@ -56678,7 +56656,6 @@ ff02::3 ip6-allhosts
 ||twojkurier.com^
 ||twojszczesliwydzien.com^
 ||twsina.allyes.com^
-||twsina.allyes.com^
 ||twskype.com^
 ||twttr.com^
 ||twx.2mdn.net^
@@ -61278,7 +61255,6 @@ ff02::3 ip6-allhosts
 ||www.allstarwyprzedaz.pl^
 ||www.allthatdesign.pl^
 ||www.allyes.com^
-||www.allyes.com^
 ||www.allyoubet.ag^
 ||www.almondnetworks.com^
 ||www.alohasoftware.net^
@@ -72613,7 +72589,6 @@ ff02::3 ip6-allhosts
 ||yesadvertising.com^
 ||yesky.51down.org.cn^
 ||yeskyafp.allyes.com^
-||yeskyafp.allyes.com^
 ||yess.imneinei.com^
 ||yeticasino.com^
 ||yeuquynhnhai.com^
@@ -73280,7 +73255,6 @@ ff02::3 ip6-allhosts
 ||zjjlf.croukwexdbyerr.net^
 ||zjm.zzmmkj.com^
 ||zjvnet.allyes.com^
-||zjvnet.allyes.com^
 ||zk.zeroredirect1.com^
 ||zkic.com^
 ||zkotami.pl^

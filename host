@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-25
 #
-# Number of blocked domains:  73447
+# Number of blocked domains:  73421
 #
 # ===============================================================
 
@@ -884,7 +884,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  1.aili.com
 0.0.0.0  1.alicdn.com
 0.0.0.0  1.allyes.com.cn
-0.0.0.0  1.allyes.com.cn
 0.0.0.0  1.bashenghuo.com
 0.0.0.0  1.chcx.cn
 0.0.0.0  1.cmfu.com
@@ -992,7 +991,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  112006133326.c.mystat-in.net
 0.0.0.0  11235813.webzdarma.cz
 0.0.0.0  11398.onceedge.ru
-0.0.0.0  114.allyes.com
 0.0.0.0  114.allyes.com
 0.0.0.0  1148.adsina.allyes.com
 0.0.0.0  114so.cn
@@ -1135,7 +1133,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  17.huanqiu.com
 0.0.0.0  17003124.xyz
 0.0.0.0  171564.engine.mobileapptracking.com
-0.0.0.0  17173im.allyes.com
 0.0.0.0  17173im.allyes.com
 0.0.0.0  171764.fls.doubleclick.net
 0.0.0.0  17428.engine.mobileapptracking.com
@@ -3074,7 +3071,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  a2zgroup.in
 0.0.0.0  a3.adsplay.xyz
 0.0.0.0  a3.adzs.nl
-0.0.0.0  a3.allyes.com
 0.0.0.0  a3.allyes.com
 0.0.0.0  a3.chartboost.com
 0.0.0.0  a3.ikafan.com
@@ -8013,7 +8009,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  adsim.sabah.com.tr
 0.0.0.0  adsin.zhangyoubao.com
 0.0.0.0  adsina.allyes.com
-0.0.0.0  adsina.allyes.com
 0.0.0.0  adsinimages.com
 0.0.0.0  adsino24.com
 0.0.0.0  adsinter1.addealsnetwork.com
@@ -8644,7 +8639,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  adzerk.s3.amazonaws.com
 0.0.0.0  adzestocp.com
 0.0.0.0  adzip.s3.amazonaws.com
-0.0.0.0  adzjvnet.allyes.com
 0.0.0.0  adzjvnet.allyes.com
 0.0.0.0  adzjzewsma.cf
 0.0.0.0  adzmedia.com
@@ -9358,10 +9352,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  allwomenstalk.us.intellitxt.com
 0.0.0.0  allxscan.tk
 0.0.0.0  allyes.com
-0.0.0.0  allyes.com
 0.0.0.0  allyesbjafa.allyes.com
-0.0.0.0  allyesbjafa.allyes.com
-0.0.0.0  allyesshafa.allyes.com
 0.0.0.0  allyesshafa.allyes.com
 0.0.0.0  allyoubet.ag
 0.0.0.0  almnews.sina.cn
@@ -14103,7 +14094,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  boilingbeetle.com
 0.0.0.0  boilingumbrella.com
 0.0.0.0  bok-poczta.pl
-0.0.0.0  bokee.allyes.com
 0.0.0.0  bokee.allyes.com
 0.0.0.0  bokotraffic.com
 0.0.0.0  boksy.dir.onet.pl
@@ -22942,7 +22932,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  e4.6dad.com
 0.0.0.0  e7876.dscg.akamaiedge.net
 0.0.0.0  e7free.allyes.com
-0.0.0.0  e7free.allyes.com
 0.0.0.0  e89.friendfinder.com
 0.0.0.0  e98fe.luytr.com
 0.0.0.0  ea.logging.admicro.vn
@@ -22991,7 +22980,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  eas8.emediate.eu
 0.0.0.0  east.05tz2e9.com
 0.0.0.0  east5.mobileadtrading.com
-0.0.0.0  eastmoney.allyes.com
 0.0.0.0  eastmoney.allyes.com
 0.0.0.0  eastmostlitharges.online
 0.0.0.0  eastsideboxing.us.intellitxt.com
@@ -25644,7 +25632,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  focas.jp
 0.0.0.0  focus.mangoads.vn
 0.0.0.0  focus.met.vgwort.de
-0.0.0.0  focusbaiduafp.allyes.com
 0.0.0.0  focusbaiduafp.allyes.com
 0.0.0.0  focusdl.punchh.com
 0.0.0.0  focusin.ads.targetnet.com
@@ -29585,7 +29572,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  idget.weibo.com
 0.0.0.0  idgets.outbrain.com
 0.0.0.0  idguk1-d.openx.net
-0.0.0.0  idigger.allyes.com
 0.0.0.0  idigger.allyes.com
 0.0.0.0  idinfo.baofeng.com
 0.0.0.0  idkom.com
@@ -33588,7 +33574,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  letswinstuff.com
 0.0.0.0  lettucelimit.com
 0.0.0.0  letv.admaster.com.cn
-0.0.0.0  letv.allyes.com
 0.0.0.0  letv.allyes.com
 0.0.0.0  letv.axp.admaster.com.cn
 0.0.0.0  letv.cm.admaster.com.cn
@@ -38982,7 +38967,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  msntest.serving-sys.com
 0.0.0.0  msntrademarketing.112.2o7.net
 0.0.0.0  msnwinonecare.112.2o7.net
-0.0.0.0  mso.allyes.com
 0.0.0.0  mso.allyes.com
 0.0.0.0  msoftdl.360.cn
 0.0.0.0  msp-hack.com
@@ -50201,7 +50185,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  sina.wrating.com
 0.0.0.0  sina.yinstar.org
 0.0.0.0  sinas.allyes.com
-0.0.0.0  sinas.allyes.com
 0.0.0.0  sinastorage.cn
 0.0.0.0  sincentre.info
 0.0.0.0  sincerebuffalo.com
@@ -50690,7 +50673,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  sm4ll.in
 0.0.0.0  sm5.sitemeter.com
 0.0.0.0  sm51shai.allyes.com
-0.0.0.0  sm51shai.allyes.com
 0.0.0.0  sm6.sitemeter.com
 0.0.0.0  sm7.sitemeter.com
 0.0.0.0  sm8.sitemeter.com
@@ -50768,7 +50750,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  smc.silvercash.com
 0.0.0.0  smccycles.com
 0.0.0.0  smcreative.allyes.com
-0.0.0.0  smcreative.allyes.com
 0.0.0.0  smectapop12.pl
 0.0.0.0  smedia.adsame.com
 0.0.0.0  smedizin.oewabox.at
@@ -50804,7 +50785,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  smithsfloristva.com
 0.0.0.0  smithwick.net
 0.0.0.0  smits.by
-0.0.0.0  smjs.allyes.com
 0.0.0.0  smjs.allyes.com
 0.0.0.0  smkmotala.com
 0.0.0.0  smm.sitescout.com
@@ -51513,7 +51493,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  sriglobalit.com
 0.0.0.0  srkgs.pl
 0.0.0.0  sroka-online.pl
-0.0.0.0  sroomafp.allyes.com
 0.0.0.0  sroomafp.allyes.com
 0.0.0.0  srs.targetpoint.com
 0.0.0.0  srslogisticts.com
@@ -55028,7 +55007,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  tokvideo.adsrvr.org
 0.0.0.0  tokyodrift.ga
 0.0.0.0  tom.allyes.com
-0.0.0.0  tom.allyes.com
 0.0.0.0  tomalinoalambres.com.ar
 0.0.0.0  tomasz-madej.pl
 0.0.0.0  tomaszdworek.pl
@@ -56677,7 +56655,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  twojidealnyslub.pl
 0.0.0.0  twojkurier.com
 0.0.0.0  twojszczesliwydzien.com
-0.0.0.0  twsina.allyes.com
 0.0.0.0  twsina.allyes.com
 0.0.0.0  twskype.com
 0.0.0.0  twttr.com
@@ -61277,7 +61254,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  www.allstarsportsbook.com
 0.0.0.0  www.allstarwyprzedaz.pl
 0.0.0.0  www.allthatdesign.pl
-0.0.0.0  www.allyes.com
 0.0.0.0  www.allyes.com
 0.0.0.0  www.allyoubet.ag
 0.0.0.0  www.almondnetworks.com
@@ -72613,7 +72589,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  yesadvertising.com
 0.0.0.0  yesky.51down.org.cn
 0.0.0.0  yeskyafp.allyes.com
-0.0.0.0  yeskyafp.allyes.com
 0.0.0.0  yess.imneinei.com
 0.0.0.0  yeticasino.com
 0.0.0.0  yeuquynhnhai.com
@@ -73279,7 +73254,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  zjjgtz.com
 0.0.0.0  zjjlf.croukwexdbyerr.net
 0.0.0.0  zjm.zzmmkj.com
-0.0.0.0  zjvnet.allyes.com
 0.0.0.0  zjvnet.allyes.com
 0.0.0.0  zk.zeroredirect1.com
 0.0.0.0  zkic.com
