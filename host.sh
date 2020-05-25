@@ -73,7 +73,8 @@ sed -i 's/127.0.0.1//' tmphost
 sed -i 's/0.0.0.0//' tmphost
 sed -i 's/:443//' tmphost
 sed -i 's/#.*//g' tmphost
-sed -i 's/\s\{2,\}//g' tmphost
+sed -i 's/#.*$//' tmphost
+sed -i 's/[[:space:]][[:space:]]*/ /g' tmphost
 sed -i 's/^.//' tmphost
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmphost
 sed -i '/^$/d' tmphost
