@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-26
 #
-# Number of blocked domains:  99817
+# Number of blocked domains:  99806
 #
 # ===============================================================
 
@@ -98372,12 +98372,10 @@ ff02::3 ip6-allhosts
 ||114so.cn^
 ||114study.adsame.com^
 ||118aa629a7968e75e.com^
-||120x600.gif?^
 ||120x600.htm^
 ||120x600.html^
 ||120x600.png^
 ||120x600.swf^
-||120x600.swf?^
 ||121media.com^
 ||121phonesex.co.uk^
 ||122.2o7.net^
@@ -98413,7 +98411,6 @@ ff02::3 ip6-allhosts
 ||123stat.com^
 ||123vidz.com^
 ||125x600.swf^
-||125x600.swf?^
 ||0127.adsame.com^
 ||130.211.230.53^
 ||138.com^
@@ -98430,10 +98427,8 @@ ff02::3 ip6-allhosts
 ||160x600.htm^
 ||160x600.html^
 ||160x600.php^
-||160x600.php?^
 ||160x600.png^
 ||160x600.swf^
-||160x600.swf?^
 ||161.adsina.allyes.com^
 ||163.wrating.com^
 ||163.wrating.com^
@@ -98579,15 +98574,11 @@ ff02::3 ip6-allhosts
 ||456c11816f.com^
 ||456juhd.com^
 ||468-60.swf^
-||468-60.swf?^
 ||468x60.htm^
 ||468x60.html^
 ||468x60.php^
-||468x60.php?^
 ||468x60.swf^
-||468x60.swf?^
 ||470x60.swf^
-||470x60.swf?^
 ||480x60.png^
 ||494d36630eae682b20.com^
 ||504pk.com^
@@ -98662,10 +98653,8 @@ ff02::3 ip6-allhosts
 ||728x90.htm^
 ||728x90.html^
 ||728x90.php^
-||728x90.php?^
 ||728x90.png^
 ||728x90.swf^
-||728x90.swf?^
 ||729dcbaa57e80c1e.com^
 ||736f35dde67b7da2976.com^
 ||739c49a8c68917.com^

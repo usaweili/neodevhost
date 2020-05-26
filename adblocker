@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-26
 #
-# Number of blocked domains:  99936
+# Number of blocked domains:  99925
 #
 # ===============================================================
 
@@ -406,12 +406,10 @@ ff02::3 ip6-allhosts
 ||11x11.com^
 ||11zz.com^
 ||12.com^
-||120x600.gif?^
 ||120x600.htm^
 ||120x600.html^
 ||120x600.png^
 ||120x600.swf^
-||120x600.swf?^
 ||121807150325.c.mystat-in.net^
 ||121media.com^
 ||121phonesex.co.uk^
@@ -457,7 +455,6 @@ ff02::3 ip6-allhosts
 ||123vidz.com^
 ||1251.adsina.allyes.com^
 ||125x600.swf^
-||125x600.swf?^
 ||1262.hittail.com^
 ||12648afd00d93.com^
 ||12724.xyz^
@@ -562,10 +559,8 @@ ff02::3 ip6-allhosts
 ||160x600.htm^
 ||160x600.html^
 ||160x600.php^
-||160x600.php?^
 ||160x600.png^
 ||160x600.swf^
-||160x600.swf?^
 ||161.adsina.allyes.com^
 ||161028.engine.mobileapptracking.com^
 ||161118.engine.mobileapptracking.com^
@@ -1913,16 +1908,13 @@ ff02::3 ip6-allhosts
 ||4679.api.swrve.com^
 ||4679.content.swrve.com^
 ||468-60.swf^
-||468-60.swf?^
 ||4680.api.swrve.com^
 ||4680.content.swrve.com^
 ||4684100.fls.doubleclick.net^
 ||468x60.htm^
 ||468x60.html^
 ||468x60.php^
-||468x60.php?^
 ||468x60.swf^
-||468x60.swf?^
 ||4694.api.swrve.com^
 ||4694.content.swrve.com^
 ||4698.api.swrve.com^
@@ -1938,7 +1930,6 @@ ff02::3 ip6-allhosts
 ||4706.api.swrve.com^
 ||4706.content.swrve.com^
 ||470x60.swf^
-||470x60.swf?^
 ||47361.ns1.dns-info.tk^
 ||473863a8ef28.com^
 ||4749.api.swrve.com^
@@ -2564,10 +2555,8 @@ ff02::3 ip6-allhosts
 ||728x90.htm^
 ||728x90.html^
 ||728x90.php^
-||728x90.php?^
 ||728x90.png^
 ||728x90.swf^
-||728x90.swf?^
 ||729dcbaa57e80c1e.com^
 ||72b8869dfc34690.com^
 ||72d329.r.axf8.net^
