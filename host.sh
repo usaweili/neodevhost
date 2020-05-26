@@ -62,6 +62,7 @@ for url in `cat black` ;do
     rm tmp
 done
 sed -i '/\$/d' tmphost  #temp fix
+sed -i '/?/d' tmphost  #temp fix
 sed -i '/]/d' tmphost
 sed -i '/:/d' tmphost
 sed -i '/#/d' tmphost
