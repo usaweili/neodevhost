@@ -72,6 +72,12 @@ sed -i '/local/d' tmphost
 sed -i 's/$document//g' tmphost  #temp fix
 sed -i 's/$document//g' tmphost #temp fix
 sed -i 's/$document,popup//g' tmphost #temp fix
+
+sed -i 's/,popup//g' tmphost #temp fix 
+sed -i 's/$important//g' tmphost #temp fix
+sed -i 's/,subdocument//g' tmphost #temp fix
+
+
 sed -i 's/$webrtc//g' tmphost
 sed -i 's/127.0.0.1 //' tmphost
 sed -i 's/0.0.0.0.//' tmphost
