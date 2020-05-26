@@ -62,12 +62,17 @@ for url in `cat black` ;do
     cat tmp >> tmphost 
     rm tmp
 done
-sed -i '/::/d' tmphost
+sed -i '/]/d' tmphost
+sed -i '/:/d' tmphost
 sed -i '/#/d' tmphost
 sed -i '/ɢ/d' tmphost
 sed -i '/255.255.255.255/d' tmphost
 sed -i '/ip6-/d' tmphost
 sed -i '/local/d' tmphost
+sed -i 's/$document//g' tmphost  #temp fix
+sed -i 's/$document//g' tmphost #temp fix
+sed -i 's/$document,popup//g' tmphost #temp fix
+sed -i 's/$webrtc//g' tmphost
 sed -i 's/127.0.0.1 //' tmphost
 sed -i 's/0.0.0.0.//' tmphost
 sed -i 's/0.0.0.0//' tmphost
