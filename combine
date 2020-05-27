@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-27
 #
-# Number of blocked domains:  70568
+# Number of blocked domains:  70566
 #
 # ===============================================================
 
@@ -7140,7 +7140,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  analytics.ganji.com
 0.0.0.0  analytics.gazeta.pl
 0.0.0.0  analytics.glance.inmobi.com
-0.0.0.0  analytics.google.com
 0.0.0.0  analytics.grupogodo.com
 0.0.0.0  analytics.grupogodo.com-v1.edgekey.net
 0.0.0.0  analytics.harpercollins.com
@@ -50066,7 +50065,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  telemetry.dropbox.com
 0.0.0.0  telemetry.firstpartyapps.oaspapps.com
 0.0.0.0  telemetry.layer.com
-0.0.0.0  telemetry.malwarebytes.com
 0.0.0.0  telemetry.microsoft.com
 0.0.0.0  telemetry.sdk.inmobi.cn
 0.0.0.0  telemetry.sdk.inmobi.com
