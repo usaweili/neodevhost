@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-30
 #
-# Number of blocked domains:  73252
+# Number of blocked domains:  73267
 #
 # ===============================================================
 
@@ -740,6 +740,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  abie13.top
 0.0.0.0  abie14.top
 0.0.0.0  abie15.top
+0.0.0.0  abie16.top
 0.0.0.0  abie25.top
 0.0.0.0  abie9.top
 0.0.0.0  abikurier.com
@@ -6817,6 +6818,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  ali.cityads.com
 0.0.0.0  ali2a.xyz
 0.0.0.0  ali2d.xyz
+0.0.0.0  ali2f.xyz
 0.0.0.0  alibaba.zzux.com
 0.0.0.0  alibabaslots.com
 0.0.0.0  alibestsale.com
@@ -18658,6 +18660,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  dlrijiaele.com
 0.0.0.0  dlsw.baidu.com
 0.0.0.0  dlsw.br.baidu.com
+0.0.0.0  dlswzw.cn
 0.0.0.0  dlt-beacon.dynatrace-managed.com
 0.0.0.0  dluzniku.com
 0.0.0.0  dlv.itmedia.jp
@@ -25373,6 +25376,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  gwaltpolska.eu
 0.0.0.0  gwaltwiadomosc.eu
 0.0.0.0  gwb.lphbs.com
+0.0.0.0  gwbangshou.com
 0.0.0.0  gwc.lphbs.com
 0.0.0.0  gwd.lphbs.com
 0.0.0.0  gwdqp.com
@@ -29474,6 +29478,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  jianpian.vip
 0.0.0.0  jiansuo.dsxdn.com
 0.0.0.0  jianyousj.com
+0.0.0.0  jianzhanxx.me
 0.0.0.0  jiaoben.eastday.com
 0.0.0.0  jiaoben.ganji.cn
 0.0.0.0  jiaoben.jucanw.com
@@ -29677,6 +29682,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  journalregistercompany.122.2o7.net
 0.0.0.0  joyfuldoors.com
 0.0.0.0  joyingmobi.com
+0.0.0.0  joyvowdig.com
 0.0.0.0  jozee.cn
 0.0.0.0  jozefow.cba.pl
 0.0.0.0  jp-bamk.jp
@@ -31039,6 +31045,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  kulro.csheaven.com
 0.0.0.0  kulturalubuska.pl
 0.0.0.0  kumma-hb.hb.adx1.com
+0.0.0.0  kunloveyu.cn
 0.0.0.0  kunpeng-sc.csdnimg.cn
 0.0.0.0  kunpeng.csdn.net
 0.0.0.0  kupaliskohs.sk
@@ -41689,6 +41696,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  pickgolfup.com
 0.0.0.0  pickmeupnews.us.intellitxt.com
 0.0.0.0  pickytime.com
+0.0.0.0  piclick.cn
 0.0.0.0  pics.cnomy.com
 0.0.0.0  pics.taobaocdn.com
 0.0.0.0  pics.xgo-img.com.cn
@@ -46393,6 +46401,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  sabupda.vizvaz.com
 0.0.0.0  sac.ayads.co
 0.0.0.0  sacchaeleduk.com
+0.0.0.0  sachbs.club
 0.0.0.0  sacredphoenix.com
 0.0.0.0  sact.atdmt.com
 0.0.0.0  sad.go.affec.tv
@@ -49705,6 +49714,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  sshowads.pubmatic.com
 0.0.0.0  ssjy168.com
 0.0.0.0  ssklep.in.net
+0.0.0.0  ssknweoz.cn
 0.0.0.0  ssl-6582datamanager.de
 0.0.0.0  ssl-avd.innity.net
 0.0.0.0  ssl-cdn.media.innity.net
@@ -68963,6 +68973,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  xingyaoapi.com
 0.0.0.0  xinhuanet.adsame.com
 0.0.0.0  xinji2.com
+0.0.0.0  xinjscn.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0  xinju.cc
 0.0.0.0  xinlongrubber.com
 0.0.0.0  xinlou.info
@@ -71190,6 +71201,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  4excel.cn
 0.0.0.0  4g0.cc
 0.0.0.0  4gf.9tkl2d.cn
+0.0.0.0  4ggame8.com
 0.0.0.0  4ggww.com
 0.0.0.0  4girlsfingerpaint.com
 0.0.0.0  4girlsfingerpaint.org
@@ -71301,6 +71313,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  5-9-1-ios.network.ingest.crittercism.com
 0.0.0.0  5-9-1-ios.userflows.ingest.crittercism.com
 0.0.0.0  5-9-2-android.appload.ingest.crittercism.com
+0.0.0.0  5.douben8.com
 0.0.0.0  5.estasiatica.com
 0.0.0.0  5.eventiduepuntozero.com
 0.0.0.0  5.qqm98.com
@@ -71420,6 +71433,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  7gg.cc
 0.0.0.0  7ia9h.cn
 0.0.0.0  7jiajiao.com
+0.0.0.0  7m0hj.cn
 0.0.0.0  7m307.cn
 0.0.0.0  7mad.7m.cn
 0.0.0.0  7metasearch.com
@@ -72178,6 +72192,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  518.sdinfo.net
 0.0.0.0  518ad.com
 0.0.0.0  520meirenyu.com
+0.0.0.0  0525pweoruxnj.xyz
 0.0.0.0  525cm.com
 0.0.0.0  526d.com
 0.0.0.0  526d.uunice.com
