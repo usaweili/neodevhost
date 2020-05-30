@@ -17,7 +17,7 @@ Total whitelist list 白名单总数: 1436
 
 Total combine list 结合总数： 73252
 
-Update 更新时间: 2020-05-29
+Update 更新时间: 2020-05-30
 ```
 ## Introduction 介绍
 
