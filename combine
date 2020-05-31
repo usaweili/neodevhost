@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-31
 #
-# Number of blocked domains:  76529
+# Number of blocked domains:  76537
 #
 # ===============================================================
 
@@ -5909,6 +5909,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  adv.dontcrack.com
 0.0.0.0  adv.drtuber.com
 0.0.0.0  adv.elaana.com
+0.0.0.0  adv.ettoday.net
 0.0.0.0  adv.federalpost.ru
 0.0.0.0  adv.fjtv.net
 0.0.0.0  adv.freeonline.it
@@ -6031,6 +6032,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  advertising.apple.com
 0.0.0.0  advertising.bayoubuzz.com
 0.0.0.0  advertising.bbcworldwide.com
+0.0.0.0  advertising.com
 0.0.0.0  advertising.com
 0.0.0.0  advertising.dclux.com
 0.0.0.0  advertising.embarcaderopublishing.com
@@ -7425,6 +7427,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  analytics.ganji.com
 0.0.0.0  analytics.gazeta.pl
 0.0.0.0  analytics.glance.inmobi.com
+0.0.0.0  analytics.google.com
 0.0.0.0  analytics.grupogodo.com
 0.0.0.0  analytics.grupogodo.com-v1.edgekey.net
 0.0.0.0  analytics.harpercollins.com
@@ -21083,6 +21086,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  edge01.chartbeat.net
 0.0.0.0  edgecast-vod.yahoo.net
 0.0.0.0  edgecast-vod.yimg.com
+0.0.0.0  edgecast-vod.yimg.com
 0.0.0.0  edgecast.tags.tiqcdn.com
 0.0.0.0  edgeio.com
 0.0.0.0  edgy-china-cdn-sproutbuilder.inmobi.com
@@ -25637,6 +25641,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  goog.applovin.com
 0.0.0.0  googfle.com
 0.0.0.0  google-activity.pw
+0.0.0.0  google-analytics.com
 0.0.0.0  google-docs.info
 0.0.0.0  google-docs.org
 0.0.0.0  google.ghststr.com
@@ -25661,6 +25666,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  googlecommerce.com
 0.0.0.0  googlephoto.vip
 0.0.0.0  googlespider1.cn
+0.0.0.0  googlesyndication.com
 0.0.0.0  googlesyndication.com
 0.0.0.0  googletagmanager.com
 0.0.0.0  googletagmanager.com
@@ -56168,6 +56174,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  truthfrequencyradio.com
 0.0.0.0  truthkings.com
 0.0.0.0  truthpoliticsnews.com
+0.0.0.0  trvdp.com
 0.0.0.0  trvelocity.com
 0.0.0.0  trvlnet-images.adbureau.net
 0.0.0.0  trvlnet.adbureau.net
@@ -73976,6 +73983,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  zzyonghao.com
 0.0.0.0  zzz.clickbank.net
 0.0.0.0  zzz.onion.pet
+0.0.0.0  zzzkxx.com
 0.0.0.0  zzzrtrcm2.com
 0.0.0.0  001.0x1f4b0.com
 0.0.0.0  001union.com

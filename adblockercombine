@@ -8,7 +8,7 @@
 #
 # Last update: 2020-05-31
 #
-# Number of blocked domains:  76529
+# Number of blocked domains:  76537
 #
 # ===============================================================
 
@@ -5909,6 +5909,7 @@ ff02::3 ip6-allhosts
 ||adv.dontcrack.com^
 ||adv.drtuber.com^
 ||adv.elaana.com^
+||adv.ettoday.net^
 ||adv.federalpost.ru^
 ||adv.fjtv.net^
 ||adv.freeonline.it^
@@ -6032,6 +6033,7 @@ ff02::3 ip6-allhosts
 ||advertising.bayoubuzz.com^
 ||advertising.bbcworldwide.com^
 ||advertising.com^
+||advertising.com^
 ||advertising.dclux.com^
 ||advertising.embarcaderopublishing.com^
 ||advertising.entensity.net^
@@ -7425,6 +7427,7 @@ ff02::3 ip6-allhosts
 ||analytics.ganji.com^
 ||analytics.gazeta.pl^
 ||analytics.glance.inmobi.com^
+||analytics.google.com^
 ||analytics.grupogodo.com^
 ||analytics.grupogodo.com-v1.edgekey.net^
 ||analytics.harpercollins.com^
@@ -21083,6 +21086,7 @@ ff02::3 ip6-allhosts
 ||edge01.chartbeat.net^
 ||edgecast-vod.yahoo.net^
 ||edgecast-vod.yimg.com^
+||edgecast-vod.yimg.com^
 ||edgecast.tags.tiqcdn.com^
 ||edgeio.com^
 ||edgy-china-cdn-sproutbuilder.inmobi.com^
@@ -25637,6 +25641,7 @@ ff02::3 ip6-allhosts
 ||goog.applovin.com^
 ||googfle.com^
 ||google-activity.pw^
+||google-analytics.com^
 ||google-docs.info^
 ||google-docs.org^
 ||google.ghststr.com^
@@ -25662,6 +25667,7 @@ ff02::3 ip6-allhosts
 ||googlephoto.vip^
 ||googlespider1.cn^
 ||googlesyndication.com^
+||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagmanager.com^
 ||googletagservices.com^
@@ -56168,6 +56174,7 @@ ff02::3 ip6-allhosts
 ||truthfrequencyradio.com^
 ||truthkings.com^
 ||truthpoliticsnews.com^
+||trvdp.com^
 ||trvelocity.com^
 ||trvlnet-images.adbureau.net^
 ||trvlnet.adbureau.net^
@@ -73976,6 +73983,7 @@ ff02::3 ip6-allhosts
 ||zzyonghao.com^
 ||zzz.clickbank.net^
 ||zzz.onion.pet^
+||zzzkxx.com^
 ||zzzrtrcm2.com^
 ||001.0x1f4b0.com^
 ||001union.com^
