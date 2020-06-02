@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-02
 #
-# Number of blocked domains:  76538
+# Number of blocked domains:  76539
 #
 # ===============================================================
 
@@ -4717,6 +4717,7 @@ ff02::3 ip6-allhosts
 ||ads.yam.com^
 ||ads.yankscash.com^
 ||ads.yap.yahoo.com^
+||ads.yap.yahoo.com^
 ||ads.yeshanews.com^
 ||ads.yieldmedia.net^
 ||ads.yieldmo.com^
