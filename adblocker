@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-03
 #
-# Number of blocked domains:  76808
+# Number of blocked domains:  76801
 #
 # ===============================================================
 
@@ -30,7 +30,6 @@ ff02::3 ip6-allhosts
 #=====================================
 # NEO DEV HOST
 #=====================================
-||^
 ||.ad-brix.com^
 ||.adlive.cn^
 ||.adsmogo.com^
@@ -27551,6 +27550,7 @@ ff02::3 ip6-allhosts
 ||gem.pl^
 ||gemadhu.hit.gemius.pl^
 ||gemini.yahoo.com^
+||gemini.yahoo.com^
 ||gemius.pl^
 ||gemverify.com^
 ||gen-hydrocodone.polybuild.ru^
@@ -28316,7 +28316,6 @@ ff02::3 ip6-allhosts
 ||google.ghststr.com^
 ||google.tucows.com^
 ||googleads.g.doubleclick.net^
-||googleads.g.doubleclick.net^
 ||googleads2.g.doubleclick.net^
 ||googleads4.g.doubleclick.net^
 ||googleadservices.co.uk^
@@ -44780,18 +44779,14 @@ ff02::3 ip6-allhosts
 ||pagead.google.com^
 ||pagead.google.com^
 ||pagead.googlesyndication.com^
-||pagead.googlesyndication.com^
 ||pagead.l.doubleclick.net^
 ||pagead.l.google.com^
 ||pagead.l.google.com^
 ||pagead.topobiavi.com^
 ||pagead1.googlesyndication.com^
-||pagead1.googlesyndication.com^
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
-||pagead2.googlesyndication.com^
 ||pagead3.googlesyndication.com^
-||pagead3.googlesyndication.com^
 ||pagead46.l.doubleclick.net^
 ||pagechoice.net^
 ||pagechoicemotu.gentags.net^
@@ -47537,7 +47532,6 @@ ff02::3 ip6-allhosts
 ||pub1.co^
 ||pub2srv.com^
 ||pubads.g.doubleclick.net^
-||pubads.g.doubleclick.net^
 ||pubbirdf.com^
 ||pubdirecte.com^
 ||pubimgs.sapo.pt^
@@ -76836,5 +76830,4 @@ ff02::3 ip6-allhosts
 ||zzyonghao.com^
 ||zzz.clickbank.net^
 ||zzz.onion.pet^
-||zzzkxx.com^
 ||zzzrtrcm2.com^
