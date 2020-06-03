@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-03
 #
-# Number of blocked domains:  76801
+# Number of blocked domains:  76802
 #
 # ===============================================================
 
@@ -28335,6 +28335,7 @@ ff02::3 ip6-allhosts
 ||googlephoto.vip^
 ||googlespider1.cn^
 ||googlesyndication.com^
+||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagmanager.com^
 ||googletagservices.com^
