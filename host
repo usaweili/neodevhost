@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-03
 #
-# Number of blocked domains:  76806
+# Number of blocked domains:  76808
 #
 # ===============================================================
 
@@ -24494,6 +24494,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  eo.3y4n.cn
 0.0.0.0  eo.40ic.cn
 0.0.0.0  eo.4s5n.cn
+0.0.0.0  eo.5lu8a.xyz
 0.0.0.0  eo.8uqk.cn
 0.0.0.0  eo.97xrd.xyz
 0.0.0.0  eo.aaah.xyz
@@ -40254,6 +40255,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.4k9b.cn
 0.0.0.0  mo.4s5n.cn
 0.0.0.0  mo.5.p2l.info
+0.0.0.0  mo.5lu8a.xyz
 0.0.0.0  mo.8uqk.cn
 0.0.0.0  mo.97xrd.xyz
 0.0.0.0  mo.aaaw.xyz
