@@ -147,7 +147,7 @@ pihole -g
 >https://hosts.nfz.moe/full/hosts<br/>
 >https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt<br/>
 >https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts<br/>
-
+>https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts<br/>
 ## Sources of Whitelist data 域名白名单源
 
 >https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt<br/>
