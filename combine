@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-06
 #
-# Number of blocked domains:  76703
+# Number of blocked domains:  76695
 #
 # ===============================================================
 
@@ -7207,7 +7207,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  amplify.outbrain.com
 0.0.0.0  amplifypixel.outbrain.com
 0.0.0.0  amplitude-peinture.fr
-0.0.0.0  amplitude.com
 0.0.0.0  ampmetrics.engadget.com
 0.0.0.0  amposts.com
 0.0.0.0  ampower.me
@@ -10217,7 +10216,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  balsit.org
 0.0.0.0  baltimoregazette.com
 0.0.0.0  bam-pilot.iovation.com
-0.0.0.0  bam.nr-data.net
 0.0.0.0  bamitrans.pl
 0.0.0.0  bamulat.blogspot.hu
 0.0.0.0  ban.xpays.com
@@ -19556,7 +19554,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  dotandad.com
 0.0.0.0  dotcomsecrets.com
 0.0.0.0  dotnet.endai.com
-0.0.0.0  dotomi.com
 0.0.0.0  dotpay.emonitoring-pocztapolska.eu
 0.0.0.0  dotpay.etracking-pocztex.eu
 0.0.0.0  dotpay.pocztapolska24.pl
@@ -20425,7 +20422,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  e.codlw.com
 0.0.0.0  e.coenr.com
 0.0.0.0  e.company-target.com
-0.0.0.0  e.crashlytics.com
 0.0.0.0  e.cuomm.com
 0.0.0.0  e.cx016d.cn
 0.0.0.0  e.czggcj.com
@@ -25706,7 +25702,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  googleads2.g.doubleclick.net
 0.0.0.0  googleads4.g.doubleclick.net
 0.0.0.0  googleadservices.co.uk
-0.0.0.0  googleadservices.com
 0.0.0.0  googleadservices.com
 0.0.0.0  googleadservices.org
 0.0.0.0  googleadservices.ru
@@ -37782,7 +37777,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  mobile.mofowl.com
 0.0.0.0  mobile.novanet.vn
 0.0.0.0  mobile.panjiachun.com
-0.0.0.0  mobile.pipe.aria.microsoft.com
 0.0.0.0  mobile.smartadserver.com
 0.0.0.0  mobile.webvisor.com
 0.0.0.0  mobile.yandexadexchange.net
@@ -39510,7 +39504,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  newopenx.detik.com
 0.0.0.0  newpassporn.com
 0.0.0.0  newre-conversions.clickmeter.com
-0.0.0.0  newrelic.com
 0.0.0.0  news-deck.at
 0.0.0.0  news-finances.com
 0.0.0.0  news-img.51y5.net
@@ -48923,7 +48916,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  securedliveuploads.com
 0.0.0.0  securedopen-bp.com
 0.0.0.0  securemacfix.com
-0.0.0.0  securemetrics.apple.com
 0.0.0.0  securemypc.co.uk
 0.0.0.0  securepubads.g.doubleclick.net
 0.0.0.0  secureredirect101.com

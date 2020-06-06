@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-06
 #
-# Number of blocked domains:  76703
+# Number of blocked domains:  76695
 #
 # ===============================================================
 
@@ -7207,7 +7207,6 @@ ff02::3 ip6-allhosts
 ||amplify.outbrain.com^
 ||amplifypixel.outbrain.com^
 ||amplitude-peinture.fr^
-||amplitude.com^
 ||ampmetrics.engadget.com^
 ||amposts.com^
 ||ampower.me^
@@ -10217,7 +10216,6 @@ ff02::3 ip6-allhosts
 ||balsit.org^
 ||baltimoregazette.com^
 ||bam-pilot.iovation.com^
-||bam.nr-data.net^
 ||bamitrans.pl^
 ||bamulat.blogspot.hu^
 ||ban.xpays.com^
@@ -19556,7 +19554,6 @@ ff02::3 ip6-allhosts
 ||dotandad.com^
 ||dotcomsecrets.com^
 ||dotnet.endai.com^
-||dotomi.com^
 ||dotpay.emonitoring-pocztapolska.eu^
 ||dotpay.etracking-pocztex.eu^
 ||dotpay.pocztapolska24.pl^
@@ -20425,7 +20422,6 @@ ff02::3 ip6-allhosts
 ||e.codlw.com^
 ||e.coenr.com^
 ||e.company-target.com^
-||e.crashlytics.com^
 ||e.cuomm.com^
 ||e.cx016d.cn^
 ||e.czggcj.com^
@@ -25706,7 +25702,6 @@ ff02::3 ip6-allhosts
 ||googleads2.g.doubleclick.net^
 ||googleads4.g.doubleclick.net^
 ||googleadservices.co.uk^
-||googleadservices.com^
 ||googleadservices.com^
 ||googleadservices.org^
 ||googleadservices.ru^
@@ -37782,7 +37777,6 @@ ff02::3 ip6-allhosts
 ||mobile.mofowl.com^
 ||mobile.novanet.vn^
 ||mobile.panjiachun.com^
-||mobile.pipe.aria.microsoft.com^
 ||mobile.smartadserver.com^
 ||mobile.webvisor.com^
 ||mobile.yandexadexchange.net^
@@ -39510,7 +39504,6 @@ ff02::3 ip6-allhosts
 ||newopenx.detik.com^
 ||newpassporn.com^
 ||newre-conversions.clickmeter.com^
-||newrelic.com^
 ||news-deck.at^
 ||news-finances.com^
 ||news-img.51y5.net^
@@ -48923,7 +48916,6 @@ ff02::3 ip6-allhosts
 ||securedliveuploads.com^
 ||securedopen-bp.com^
 ||securemacfix.com^
-||securemetrics.apple.com^
 ||securemypc.co.uk^
 ||securepubads.g.doubleclick.net^
 ||secureredirect101.com^
