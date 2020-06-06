@@ -156,3 +156,4 @@ pihole -g
 >https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt<br/>
 >https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt<br/>
 >https://raw.githubusercontent.com/neodevpro/neodevhost/master/customwhitelist<br/>
+>https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt<br/>
