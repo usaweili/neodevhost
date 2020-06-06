@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-06
 #
-# Number of blocked domains:  100062
+# Number of blocked domains:  100046
 #
 # ===============================================================
 
@@ -679,22 +679,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  15.ptp22.com
 0.0.0.0  15.taboola.com
 0.0.0.0  150601.fc2rs.com
-0.0.0.0  151.101.56.133	avatars0.githubusercontent.com
-0.0.0.0  151.101.56.133	avatars1.githubusercontent.com
-0.0.0.0  151.101.56.133	avatars2.githubusercontent.com
-0.0.0.0  151.101.56.133	avatars3.githubusercontent.com
-0.0.0.0  151.101.56.133	avatars4.githubusercontent.com
-0.0.0.0  151.101.56.133	avatars5.githubusercontent.com
-0.0.0.0  151.101.56.133	avatars6.githubusercontent.com
-0.0.0.0  151.101.56.133	avatars7.githubusercontent.com
-0.0.0.0  151.101.56.133	avatars8.githubusercontent.com
-0.0.0.0  151.101.56.133	camo.githubusercontent.com
-0.0.0.0  151.101.56.133	cloud.githubusercontent.com
-0.0.0.0  151.101.56.133	gist.githubusercontent.com
-0.0.0.0  151.101.56.133	marketplace-screenshots.githubusercontent.com
-0.0.0.0  151.101.56.133	raw.githubusercontent.com
-0.0.0.0  151.101.56.133	repository-images.githubusercontent.com
-0.0.0.0  151.101.56.133	user-images.githubusercontent.com
 0.0.0.0  1513878.fls.doubleclick.net
 0.0.0.0  15141.hittail.com
 0.0.0.0  1515788.net
