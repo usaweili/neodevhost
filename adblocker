@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-06
 #
-# Number of blocked domains:  100065
+# Number of blocked domains:  100062
 #
 # ===============================================================
 
@@ -891,9 +891,6 @@ ff02::3 ip6-allhosts
 ||192.168.112.2o7.net^
 ||192.168.122.2o7.net^
 ||192.168.media.trafficjunky.net^
-||192.30.255.112	gist.github.com^
-||192.30.255.112	github.com^
-||192.30.255.112	www.github.com^
 ||192.com^
 ||192211.engine.mobileapptracking.com^
 ||192com.112.2o7.net^
