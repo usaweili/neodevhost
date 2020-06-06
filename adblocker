@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-06
 #
-# Number of blocked domains:  100067
+# Number of blocked domains:  100065
 #
 # ===============================================================
 
@@ -14098,7 +14098,6 @@ ff02::3 ip6-allhosts
 ||aliqqjd.cn^
 ||alirey.com^
 ||alisat.biz^
-||alisat.biz。^
 ||alisatilsner.com^
 ||alise.pl^
 ||alisinak.com^
@@ -31714,7 +31713,6 @@ ff02::3 ip6-allhosts
 ||dsp.send.microad-cn.com^
 ||dsp.send.microadinc.com^
 ||dsp.simba.taobao.com^
-||dsp.simba.taobao.com。^
 ||dsp.xapads.com^
 ||dsp.youdao.com^
 ||dsp2-adserver.videohub.tv^
