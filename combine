@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-07
 #
-# Number of blocked domains:  73418
+# Number of blocked domains:  73424
 #
 # ===============================================================
 
@@ -24913,6 +24913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  google.ghststr.com
 0.0.0.0  google.tucows.com
 0.0.0.0  googleads.g.doubleclick.net
+0.0.0.0  googleads.g.doubleclick.net
 0.0.0.0  googleads2.g.doubleclick.net
 0.0.0.0  googleads4.g.doubleclick.net
 0.0.0.0  googleadservices.co.uk
@@ -40848,13 +40849,17 @@ ff02::3 ip6-allhosts
 0.0.0.0  pagead.google.com
 0.0.0.0  pagead.google.com
 0.0.0.0  pagead.googlesyndication.com
+0.0.0.0  pagead.googlesyndication.com
 0.0.0.0  pagead.l.doubleclick.net
 0.0.0.0  pagead.l.google.com
 0.0.0.0  pagead.l.google.com
 0.0.0.0  pagead.topobiavi.com
 0.0.0.0  pagead1.googlesyndication.com
+0.0.0.0  pagead1.googlesyndication.com
 0.0.0.0  pagead2.googleadservices.com
 0.0.0.0  pagead2.googlesyndication.com
+0.0.0.0  pagead2.googlesyndication.com
+0.0.0.0  pagead3.googlesyndication.com
 0.0.0.0  pagead3.googlesyndication.com
 0.0.0.0  pagead46.l.doubleclick.net
 0.0.0.0  pagechoice.net
@@ -43504,6 +43509,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  pub.yllix.com
 0.0.0.0  pub1.co
 0.0.0.0  pub2srv.com
+0.0.0.0  pubads.g.doubleclick.net
 0.0.0.0  pubads.g.doubleclick.net
 0.0.0.0  pubbirdf.com
 0.0.0.0  pubdirecte.com
