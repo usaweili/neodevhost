@@ -142,12 +142,10 @@ pihole -g
 
 >https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts<br/>
 >https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts<br/>
->https://raw.githubusercontent.com/jdlingyu/ad-wars/master/sha_ad_hosts<br/>
 >https://hosts.nfz.moe/full/hosts<br/>
 >https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt<br/>
 >https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts<br/>
->https://raw.githubusercontent.com/josiahkqs/adhost/master/hosts-list/ABP-CN.txt<br/>
->https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts<br/>
+
 ## Sources of Whitelist data 域名白名单源
 
 >https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt<br/>
