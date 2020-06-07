@@ -52,11 +52,6 @@
 66.21.115.39
 70i.net
 8.baidu.com
-REG ^(?!.*\.?(oem)).*\.twimg\.com$
-REG ^(?!.*\.?(popcon)).*\.ubuntu\.com$
-REG ^(?!.*\.?(vstats)).*\.digitaltrends\.com$
-REG ^(?!.*\.?(watchdog\.ohio|dap\.digitalgov|stats\.ssa|adgallery\.whitehousedrugpolicy)).*\.gov$
-REG ^.*\.oloadcdn\.net$
 [Adblock Plus 3.0]
 a-0001.a-msedge.net
 a.mini.eastday.com
