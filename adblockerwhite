@@ -1,6 +1,6 @@
-@@||! Last modified: 2020/05/31 21:24:27 +0800^
-@@||! Title:  Licolnlee's whitelist^
-@@||! Version: 2020053100^
+@@||! Last modified: 2020/06/08 21:24:27 +0800^
+@@||! Title:  Licolnlee's Whitelist^
+@@||! Version: 2020060800^
 @@||0-edge-chat.facebook.com^
 @@||0.client-channel.google.com^
 @@||1-edge-chat.facebook.com^
@@ -51,12 +51,13 @@
 @@||6-edge-chat.facebook.com^
 @@||66.21.115.39^
 @@||70i.net^
+@@||8.baidu.com^
 @@||REG ^(?!.*\.?(oem)).*\.twimg\.com$^
 @@||REG ^(?!.*\.?(popcon)).*\.ubuntu\.com$^
 @@||REG ^(?!.*\.?(vstats)).*\.digitaltrends\.com$^
 @@||REG ^(?!.*\.?(watchdog\.ohio|dap\.digitalgov|stats\.ssa|adgallery\.whitehousedrugpolicy)).*\.gov$^
 @@||REG ^.*\.oloadcdn\.net$^
-@@||[Adblock Plus 2.1]^
+@@||[Adblock Plus 3.0]^
 @@||a-0001.a-msedge.net^
 @@||a.mini.eastday.com^
 @@||a.stat.xiaomi.com^
@@ -94,17 +95,21 @@
 @@||addthis.com^
 @@||addthisedge.com^
 @@||adf.ly^
+@@||adguard.com^
 @@||adidas.com^
 @@||adinfo.ra1.xlmc.sec.miui.com^
 @@||adobe.com^
 @@||adobetag.com^
 @@||ads.dh.duba.com^
+@@||adtidy.org^
 @@||advanceautoparts.com^
 @@||adwords.google.com^
 @@||ae01.alicdn.com^
 @@||agoodm.m.taobao.com^
 @@||ai.m.taobao.com^
+@@||ai.mi.com^
 @@||ai.taobao.com^
+@@||ai.xiaomi.com^
 @@||ajax.aspnetcdn.com^
 @@||ajax.cloudflare.com^
 @@||ajax.googleapis.com^
@@ -119,6 +124,7 @@
 @@||alexa.com^
 @@||alicdn.com^
 @@||alidns.com^
+@@||alipay.com^
 @@||allegro.pl^
 @@||alluremedia.com.au^
 @@||alternativeto.net^
@@ -138,6 +144,7 @@
 @@||amplitude.com^
 @@||amzn.com^
 @@||amzn.to^
+@@||analytics.google.com^
 @@||analytics.quizizz.com^
 @@||analytics.twitter.com^
 @@||android.clients.google.com^
@@ -246,6 +253,7 @@
 @@||bitdefender.net^
 @@||bl3302.storage.live.com^
 @@||bleacherreport.com^
+@@||blizzard.cn^
 @@||blocklist.kowabit.de^
 @@||blogger.com^
 @@||blogs.discovermagazine.com^
@@ -273,7 +281,9 @@
 @@||c.duomai.com^
 @@||c.s-microsoft.com^
 @@||c.youtube.com^
+@@||cainiaoblog.cn^
 @@||calendar.google.com^
+@@||cas.baidu.com^
 @@||ccc-x.jd.com^
 @@||ccleaner.com^
 @@||cd.800wen.com^
@@ -315,6 +325,7 @@
 @@||centralaccess.net^
 @@||cert.mgt.xboxlive.com^
 @@||cf.quizizz.com^
+@@||cfilmcloud.cn^
 @@||channel.facebook.com^
 @@||charleslafitte.smapply.io^
 @@||chat.facebook.com^
@@ -429,6 +440,7 @@
 @@||dictionary.cambridge.org^
 @@||digg.com^
 @@||digicert.com^
+@@||digitalriver.com^
 @@||digitaltrends.com^
 @@||directory.services.live.com^
 @@||directvapplications.hb.omtrdc.net^
@@ -463,6 +475,7 @@
 @@||dojovideos.s3-accelerate.amazonaws.com^
 @@||dojovphotos.s3-accelerate.amazonaws.com^
 @@||dotomi.com^
+@@||doubleclick.net^
 @@||down.360safe.com^
 @@||download.cnet.com^
 @@||download.ctmail.com^
@@ -551,6 +564,7 @@
 @@||feedly.com^
 @@||feedproxy.google.com^
 @@||feeds2.feedburner.com^
+@@||file.market.xiaomi.com^
 @@||filefactory.com^
 @@||filesmonster.com^
 @@||filestack.com^
@@ -603,6 +617,7 @@
 @@||gawker.com^
 @@||gazeta.pl^
 @@||gdmf.apple.com^
+@@||geekbang.org^
 @@||geforce.com^
 @@||geo-prod.do.dsp.mp.microsoft.com^
 @@||geo3.ggpht.com^
@@ -640,6 +655,7 @@
 @@||google-analytics.com^
 @@||googleadservices.com^
 @@||googleapis.com^
+@@||googlesyndication.com^
 @@||googleusercontent.com^
 @@||googlevideo.com^
 @@||gosignmeup.com^
@@ -661,6 +677,7 @@
 @@||guru3d.com^
 @@||guts2.sp.f-secure.com^
 @@||gweb-gettingstartedguide.appspot.com^
+@@||h5.qzone.qq.com^
 @@||hbogo.com^
 @@||hbogo.pl^
 @@||hcaptcha.com^
@@ -670,6 +687,7 @@
 @@||history.com^
 @@||hitfile.net^
 @@||hls.ted.com^
+@@||hm.baidu.com^
 @@||hm.com^
 @@||hmma.baidu.com^
 @@||hollywoodlife.com^
@@ -711,6 +729,7 @@
 @@||https://github.com/notracking/hosts-blocklists/issues/75^
 @@||https://miuiboot.tracking.miui.com^
 @@||https://wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958^
+@@||huangye.miui.com^
 @@||hucdn.com^
 @@||hudl.com^
 @@||hulkshare.com^
@@ -745,6 +764,7 @@
 @@||ifmo.ru^
 @@||ikea.com^
 @@||image.ibb.co^
+@@||image.uczzd.cn^
 @@||imagebam.com^
 @@||images-cn.ssl-images-amazon.com^
 @@||images-eu.ssl-images-amazon.com^
@@ -794,6 +814,7 @@
 @@||iphone-ld.apple.com^
 @@||ipinfo.io^
 @@||ipla.tv^
+@@||iplay.163.com^
 @@||ir.ebaystatic.com^
 @@||is.gd^
 @@||istockphoto.com^
@@ -809,6 +830,7 @@
 @@||joemonster.org^
 @@||joewein.net^
 @@||jquery.com^
+@@||jr.mi.com^
 @@||js.maxmind.com^
 @@||js.passport.qihucdn.com^
 @@||jsdelivr.net^
@@ -903,6 +925,7 @@
 @@||manifest.auditude.com^
 @@||manifest.googlevideo.com^
 @@||map-mobile-lbsapp.cdn.bcebos.com^
+@@||map.baidu.com^
 @@||maps.google.com^
 @@||maps.googleapis.com^
 @@||maps.gstatic.com^
@@ -951,6 +974,7 @@
 @@||minfo.wps.cn^
 @@||mini.eastday.com^
 @@||minnesota.cbslocal.com^
+@@||mipay.com^
 @@||mirror1.malwaredomains.com^
 @@||mis.g.mi.com^
 @@||mistrzowie.org^
@@ -958,6 +982,7 @@
 @@||mlb.com^
 @@||mlog.search.xiaomi.net^
 @@||mls.com^
+@@||mo.baidu.com^
 @@||mobile-ap.spotify.com^
 @@||mobile.pipe.aria.microsoft.com^
 @@||mosyle.com^
@@ -1118,6 +1143,7 @@
 @@||pando.com^
 @@||paper.li^
 @@||pastebin.com^
+@@||pay.xiaomi.com^
 @@||paypal.com^
 @@||pc.uf.ksosoft.com^
 @@||pcbrowser.dd.qq.com^
@@ -1130,6 +1156,7 @@
 @@||pgl.yoyo.org^
 @@||philadelphia.cbslocal.com^
 @@||phobos.apple.com^
+@@||photo.store.qq.com^
 @@||pi-hole.net^
 @@||pi.hole^
 @@||pic.twitter.com^
@@ -1247,6 +1274,7 @@
 @@||rzeszow.tvp.pl^
 @@||s-passets-cache-ak0.pinimg.com^
 @@||s-static.ak.facebook.com^
+@@||s.360.cn^
 @@||s.cdn.turner.com^
 @@||s.click.taobao.com^
 @@||s.click.taobao.com^
@@ -1333,6 +1361,7 @@
 @@||slate.com^
 @@||slickdeals.net^
 @@||slscr.update.microsoft.com^
+@@||sm.cn^
 @@||snapchat.com^
 @@||socket.quizizz.com^
 @@||softdl.ijinshan.com^
@@ -1340,6 +1369,7 @@
 @@||solidfiles.com^
 @@||someonewhocares.org^
 @@||sousuo.xm.sjzhushou.com^
+@@||sp0.baidu.com^
 @@||spaces.live.com^
 @@||spapps.co^
 @@||spapps.spotify.edgekey.net^
@@ -1373,6 +1403,7 @@
 @@||star.facebook.com^
 @@||starbucks.com^
 @@||startpage.com^
+@@||static.321mh.com^
 @@||static.ak.facebook.com^
 @@||static.fontawesome.com^
 @@||static.kaplanlearn.com^
@@ -1405,6 +1436,7 @@
 @@||t-online.at^
 @@||t-online.de^
 @@||t.co^
+@@||t.uc.cn^
 @@||t.umblr.com^
 @@||t0.ssl.ak.dynamic.tiles.virtualearth.net^
 @@||t0.ssl.ak.tiles.virtualearth.net^
@@ -1420,6 +1452,7 @@
 @@||talkx.l.google.com^
 @@||tampa.cbslocal.com^
 @@||tampermonkey.net^
+@@||tanx.com^
 @@||target.com^
 @@||tawk.to^
 @@||teacherspayteachers.com^
@@ -1463,6 +1496,7 @@
 @@||todo-ta-g7g.amazon.com^
 @@||tofukko.r.ribbon.to^
 @@||tomshardware.com^
+@@||tongji.baidu.com^
 @@||toolkit.classdojo.com^
 @@||tools.google.com^
 @@||torrentfreak.com^
@@ -1539,6 +1573,7 @@
 @@||v10.events.data.microsoft.com^
 @@||v20.events.data.microsoft.com^
 @@||variety.com^
+@@||variety.tc.qq.com^
 @@||vasapi.rdtuijian.com^
 @@||vc.yahoo.com^
 @@||vd.l.qq.com^
@@ -1660,6 +1695,7 @@
 @@||xmpp-server.l.google.com^
 @@||xp.apple.com^
 @@||xsts.auth.xboxlive.com^
+@@||xuehuayu.cn^
 @@||yahoo.com^
 @@||yhd.com^
 @@||you.ctrip.com^
@@ -1675,7 +1711,7 @@
 @@||z.cdn.turner.com^
 @@||zajefajna.com^
 @@||zeustracker.abuse.ch^
-@@||zhushou.360.cn^
+@@||zhushou.360.cnremotedatasecurity.net^
 @@||zippyshare.com^
 @@||ziprecruiter.com^
 @@||zoso.ro^

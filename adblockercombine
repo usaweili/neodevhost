@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-07
 #
-# Number of blocked domains:  99877
+# Number of blocked domains:  99865
 #
 # ===============================================================
 
@@ -30,6 +30,7 @@ ff02::3 ip6-allhosts
 #=====================================
 # NEO DEV HOST
 #=====================================
+||^
 ||.ad-brix.com^
 ||.adlive.cn^
 ||.adsmogo.com^
@@ -11481,7 +11482,6 @@ ff02::3 ip6-allhosts
 ||analytics.ganji.com^
 ||analytics.gazeta.pl^
 ||analytics.glance.inmobi.com^
-||analytics.google.com^
 ||analytics.gorillanation.com^
 ||analytics.grupogodo.com^
 ||analytics.grupogodo.com-v1.edgekey.net^
@@ -19497,7 +19497,6 @@ ff02::3 ip6-allhosts
 ||cartoonpornguide.com^
 ||carvertical.com^
 ||cas.as.criteo.com^
-||cas.baidu.com^
 ||cas.bugly.qq.com^
 ||cas.clickability.com^
 ||cas.cluep.com^
@@ -27214,7 +27213,6 @@ ff02::3 ip6-allhosts
 ||digitalmediawire.us.intellitxt.com^
 ||digitalmerkat.com^
 ||digitalone.go2cloud.org^
-||digitalriver.com^
 ||digitalsalesmedia.go2cloud.org^
 ||digitaltextile.com.ru^
 ||digitalthrottle-d.openx.net^
@@ -27924,7 +27922,6 @@ ff02::3 ip6-allhosts
 ||doubleclick.d4p.net^
 ||doubleclick.de^
 ||doubleclick.ne.jp^
-||doubleclick.net^
 ||doubleclick.net^
 ||doubleclick.net.25665.9190.302br.net^
 ||doubleclick.net.40316.9309.302br.net^
@@ -35649,7 +35646,6 @@ ff02::3 ip6-allhosts
 ||googleffffffffd4748891.cnzz.com^
 ||googlephoto.vip^
 ||googlespider1.cn^
-||googlesyndication.com^
 ||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagmanager.com^
@@ -37335,7 +37331,6 @@ ff02::3 ip6-allhosts
 ||hlrcv.stage.adobe.com^
 ||hlu9tseh.men^
 ||hm-analytics.com^
-||hm.baidu.com^
 ||hm.baidu.com^
 ||hm.baidu.com.caiziwuyou.com^
 ||hm.baidu.com.jnsiematcnc.com^
@@ -39080,7 +39075,6 @@ ff02::3 ip6-allhosts
 ||image.topengroup.net^
 ||image.ttyouma.cn^
 ||image.uctrac.com^
-||image.uczzd.cn^
 ||image.ugo.com^
 ||image.upages.cn^
 ||image.versiontracker.com^
@@ -50576,7 +50570,6 @@ ff02::3 ip6-allhosts
 ||mo.aaaw.xyz^
 ||mo.atm.youku.com^
 ||mo.b25ku.cn^
-||mo.baidu.com^
 ||mo.bkzisok.cn^
 ||mo.bsxr.com.cn^
 ||mo.ccch.xyz^
@@ -62844,7 +62837,6 @@ ff02::3 ip6-allhosts
 ||s.2app.lk^
 ||s.3333309.cn^
 ||s.35kds.com^
-||s.360.cn^
 ||s.376zf.com^
 ||s.3ygww.com^
 ||s.456jjh.cn^
@@ -67295,7 +67287,6 @@ ff02::3 ip6-allhosts
 ||sp.yieldify.com^
 ||sp.yixui.com^
 ||sp.zalo.me^
-||sp0.baidu.com^
 ||sp1.baidu.com^
 ||sp1.convertro.com^
 ||sp2mzc.pl^
@@ -71073,7 +71064,6 @@ ff02::3 ip6-allhosts
 ||tansuotv.com^
 ||tantrack.info^
 ||tanwanyx.com^
-||tanx.com^
 ||tanx.com^
 ||tanx.mlt01.com^
 ||tanxlog.istreamsche.com^
@@ -72544,7 +72534,6 @@ ff02::3 ip6-allhosts
 ||tongji.ads.yxdown.com^
 ||tongji.app111.com^
 ||tongji.appscomeon.com^
-||tongji.baidu.com^
 ||tongji.coccccc.cc^
 ||tongji.eastday.com^
 ||tongji.eduancm.com^
@@ -76503,7 +76492,6 @@ ff02::3 ip6-allhosts
 ||variantswatches.apphb.com^
 ||variedshops.men^
 ||varielcontentdelivery.info^
-||variety.tc.qq.com^
 ||varravgames.com^
 ||vars.hotjar.com^
 ||varsityads.directtrack.com^

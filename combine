@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-07
 #
-# Number of blocked domains:  99877
+# Number of blocked domains:  99865
 #
 # ===============================================================
 
@@ -30,6 +30,7 @@ ff02::3 ip6-allhosts
 #=====================================
 # NEO DEV HOST
 #=====================================
+0.0.0.0  
 0.0.0.0  .ad-brix.com
 0.0.0.0  .adlive.cn
 0.0.0.0  .adsmogo.com
@@ -11481,7 +11482,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  analytics.ganji.com
 0.0.0.0  analytics.gazeta.pl
 0.0.0.0  analytics.glance.inmobi.com
-0.0.0.0  analytics.google.com
 0.0.0.0  analytics.gorillanation.com
 0.0.0.0  analytics.grupogodo.com
 0.0.0.0  analytics.grupogodo.com-v1.edgekey.net
@@ -19497,7 +19497,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  cartoonpornguide.com
 0.0.0.0  carvertical.com
 0.0.0.0  cas.as.criteo.com
-0.0.0.0  cas.baidu.com
 0.0.0.0  cas.bugly.qq.com
 0.0.0.0  cas.clickability.com
 0.0.0.0  cas.cluep.com
@@ -27214,7 +27213,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  digitalmediawire.us.intellitxt.com
 0.0.0.0  digitalmerkat.com
 0.0.0.0  digitalone.go2cloud.org
-0.0.0.0  digitalriver.com
 0.0.0.0  digitalsalesmedia.go2cloud.org
 0.0.0.0  digitaltextile.com.ru
 0.0.0.0  digitalthrottle-d.openx.net
@@ -27924,7 +27922,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  doubleclick.d4p.net
 0.0.0.0  doubleclick.de
 0.0.0.0  doubleclick.ne.jp
-0.0.0.0  doubleclick.net
 0.0.0.0  doubleclick.net
 0.0.0.0  doubleclick.net.25665.9190.302br.net
 0.0.0.0  doubleclick.net.40316.9309.302br.net
@@ -35650,7 +35647,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  googlephoto.vip
 0.0.0.0  googlespider1.cn
 0.0.0.0  googlesyndication.com
-0.0.0.0  googlesyndication.com
 0.0.0.0  googletagmanager.com
 0.0.0.0  googletagmanager.com
 0.0.0.0  googletagservices.com
@@ -37335,7 +37331,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  hlrcv.stage.adobe.com
 0.0.0.0  hlu9tseh.men
 0.0.0.0  hm-analytics.com
-0.0.0.0  hm.baidu.com
 0.0.0.0  hm.baidu.com
 0.0.0.0  hm.baidu.com.caiziwuyou.com
 0.0.0.0  hm.baidu.com.jnsiematcnc.com
@@ -39080,7 +39075,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  image.topengroup.net
 0.0.0.0  image.ttyouma.cn
 0.0.0.0  image.uctrac.com
-0.0.0.0  image.uczzd.cn
 0.0.0.0  image.ugo.com
 0.0.0.0  image.upages.cn
 0.0.0.0  image.versiontracker.com
@@ -50576,7 +50570,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.aaaw.xyz
 0.0.0.0  mo.atm.youku.com
 0.0.0.0  mo.b25ku.cn
-0.0.0.0  mo.baidu.com
 0.0.0.0  mo.bkzisok.cn
 0.0.0.0  mo.bsxr.com.cn
 0.0.0.0  mo.ccch.xyz
@@ -62844,7 +62837,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  s.2app.lk
 0.0.0.0  s.3333309.cn
 0.0.0.0  s.35kds.com
-0.0.0.0  s.360.cn
 0.0.0.0  s.376zf.com
 0.0.0.0  s.3ygww.com
 0.0.0.0  s.456jjh.cn
@@ -67295,7 +67287,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  sp.yieldify.com
 0.0.0.0  sp.yixui.com
 0.0.0.0  sp.zalo.me
-0.0.0.0  sp0.baidu.com
 0.0.0.0  sp1.baidu.com
 0.0.0.0  sp1.convertro.com
 0.0.0.0  sp2mzc.pl
@@ -71074,7 +71065,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  tantrack.info
 0.0.0.0  tanwanyx.com
 0.0.0.0  tanx.com
-0.0.0.0  tanx.com
 0.0.0.0  tanx.mlt01.com
 0.0.0.0  tanxlog.istreamsche.com
 0.0.0.0  tanyen.ezimar.com
@@ -72544,7 +72534,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  tongji.ads.yxdown.com
 0.0.0.0  tongji.app111.com
 0.0.0.0  tongji.appscomeon.com
-0.0.0.0  tongji.baidu.com
 0.0.0.0  tongji.coccccc.cc
 0.0.0.0  tongji.eastday.com
 0.0.0.0  tongji.eduancm.com
@@ -76503,7 +76492,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  variantswatches.apphb.com
 0.0.0.0  variedshops.men
 0.0.0.0  varielcontentdelivery.info
-0.0.0.0  variety.tc.qq.com
 0.0.0.0  varravgames.com
 0.0.0.0  vars.hotjar.com
 0.0.0.0  varsityads.directtrack.com
