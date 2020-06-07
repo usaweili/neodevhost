@@ -15,7 +15,7 @@ Total ad / tracking block list 屏蔽追踪广告总数: 67344
 
 Total whitelist list 白名单总数: 1721
 
-Total combine list 结合总数： 68927
+Total combine list 结合总数： 802
 
 Update 更新时间: 2020-06-07
 ```
