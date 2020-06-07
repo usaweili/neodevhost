@@ -81,6 +81,7 @@ sed -i 's/。//' tmphost
 sed -i 's/*.//g' tmphost
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmphost
 sed -i '/^$/d' tmphost
+sed -i '/^\s*$/d' tmphost
 sort -u tmphost > host
 rm tmphost
 
