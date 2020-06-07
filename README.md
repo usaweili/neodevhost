@@ -12,12 +12,16 @@ NEODEV HOST
 
 ```
 Total ad / tracking block list 屏蔽追踪广告总数: 99045
+
 Total whitelist list 白名单总数: 1724
+
 Total whitelist list 白名单总数: 1724
+
 Update 更新时间: 2020-06-07
+
 Total combine list 结合总数： 98860
+
 ## Introduction 介绍
-Update 更新时间: 2020-06-07
 ### UPTODATE 保持最新<br/>
     Merge everyhours　每小时更新
 ### POWERFUL　 强大有效<br/>
