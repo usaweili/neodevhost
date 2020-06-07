@@ -54,7 +54,7 @@ sed -i '/RZD/d' tmpwhitelist
 sed -i 's/ALL ./ /g' tmpwhitelist
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpwhitelist
 sed -i '/^$/d' tmpwhitelist
-sort -u tmpwhitelist > whitelist
+sort -un tmpwhitelist > whitelist
 rm tmpwhitelist
 
 echo " "
@@ -82,13 +82,13 @@ sed -i 's/^\.//' tmphost
 #sed -i 's/*.//g' tmphost
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmphost
 sed -i '/^\s*$/d' tmphost
-sort -u tmphost > host
+sort -un tmphost > host
 rm tmphost
 
 echo " "
 echo "Merge Combine..."
-sort host whitelist whitelist | uniq -u > tmp && mv tmp tmpcombine
-sort -n tmpcombine > combine
+sort -un host whitelist whitelist | uniq -u > tmp && mv tmp tmpcombine
+sort -un tmpcombine > combine
 rm tmpcombine
 
 
