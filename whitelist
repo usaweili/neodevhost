@@ -74,6 +74,7 @@ acdn.adnxs.com
 acehardware.com
 acrobat.com
 acs4baichuan.m.taobao.com
+acs4baichuan.m.taobao.com/gw-open/com.alibaba.havana.login.applink.generatetopapplinktoken/1.0/
 acstatic-dun.126.net
 activsoftware.co.uk
 ad.docer.wps.cn
@@ -158,6 +159,7 @@ api-global.netflix.com
 api.gonoodle.com
 api.io.mi.com
 api.ipify.org
+api.open.uc.cn
 api.plickers.com
 api.pluto.tv
 api.quizlet.com
@@ -173,6 +175,8 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
+app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -196,6 +200,7 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
+assistant.pandora.xiaomi.com/config
 asus.com
 attestation.xboxlive.com
 au.download.windowsupdate.com
@@ -210,6 +215,7 @@ azure.microsoft.com
 b-api.facebook.com
 b.bdstatic.com
 b.bst.126.net
+b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
 bannera.kingsoft-office-service.com
@@ -281,6 +287,7 @@ c.youtube.com
 cainiaoblog.cn
 calendar.google.com
 cas.baidu.com
+cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
 ccc-x.jd.com
 ccleaner.com
 cd.800wen.com
@@ -309,6 +316,8 @@ cdn.refersion.com
 cdn.samsungcloudsolution.com
 cdn.smoot.apple.com
 cdn.staticaly.com
+cdn.staticfile.org/jquery/1.7.2/jquery.min.js
+cdn.staticfile.org/jquery/2.1.4/jquery.min.js id97.com
 cdn.viblast.com
 cdn.vidible.tv
 cdn1.smartadserver.com
@@ -408,12 +417,15 @@ dashboard.plex.tv
 dashlane.com
 data.iana.org
 data.mistat.xiaomi.com
+data.mistat.xiaomi.com/mistats/v2
+data.mistat.xiaomi.com:443
 datafilehost.com
 dataplicity.com
 datei.to
 db.local.clamav.net
 dc.services.visualstudio.com
 dcs-vod.apis.anvato.net
+de.imgbb.com to use them in an forum.
 debian.org
 def-vef.xboxlive.com
 delivery.vidible.tv
@@ -631,6 +643,7 @@ gitcdn.xyz
 gitee.com
 github.com
 github.com
+github.com/notracking/hosts-blocklists/issues/75
 github.io
 gitlab.com
 gitter.im
@@ -700,33 +713,6 @@ hotmail.com
 houston.cbslocal.com
 howtoforge.com
 hp.com
-http://acs4baichuan.m.taobao.com/gw-open/com.alibaba.havana.login.applink.generatetopapplinktoken/1.0/
-http://api.open.uc.cn
-http://app.migc.g.mi.com/migcoss/coss.htm
-http://app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
-http://assistant.pandora.xiaomi.com/config
-http://b.bst.126.net/common/face60.png
-http://cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
-http://cdn.staticfile.org/jquery/1.7.2/jquery.min.js
-http://cdn.staticfile.org/jquery/2.1.4/jquery.min.js id97.com
-http://data.mistat.xiaomi.com/mistats/v2
-http://data.mistat.xiaomi.com:443
-http://i8.chinanews.com/2013/home/images/logo.jpg
-http://image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120 tudou
-http://images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
-http://jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
-http://lbsnavi.cdn.bcebos.com:443
-http://mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
-http://puui.qpic.cn/
-http://sdkinit.taobao.com/init.htm
-http://sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
-http://sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
-http://stat.duokanbox.com/tvservice/reportmessage
-http://t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
-https://de.imgbb.com to use them in an forum.
-https://github.com/notracking/hosts-blocklists/issues/75
-https://miuiboot.tracking.miui.com
-https://wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 huangye.miui.com
 hucdn.com
 hudl.com
@@ -751,6 +737,7 @@ i3.wp.com
 i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
+i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
 ic.ksosoft.com
 ic.rdtuijian.com
@@ -764,6 +751,7 @@ ifmo.ru
 ikea.com
 image.ibb.co
 image.uczzd.cn
+image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120 tudou
 imagebam.com
 images-cn.ssl-images-amazon.com
 images-eu.ssl-images-amazon.com
@@ -773,6 +761,7 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
+images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -826,6 +815,7 @@ jcpenney.com
 jd.com
 jdownloader.org
 jobs.lifehacker.com
+jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -860,6 +850,7 @@ lastpass.com
 lasvegas.cbslocal.com
 latimes.com
 latimesblogs.latimes.com
+lbsnavi.cdn.bcebos.com:443
 learn.jasonfoundation.com
 learnosity.com
 learnositymediaprocessed.s3.amazonaws.com
@@ -933,6 +924,7 @@ market.spotify.com
 marketplace.visualstudio.com
 marketwatch.com
 mashable.com
+mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 mausa.francotyp.com
 mausa2.francotyp.com
 maxcdn.bootstrapcdn.com
@@ -977,6 +969,7 @@ mipay.com
 mirror1.malwaredomains.com
 mis.g.mi.com
 mistrzowie.org
+miuiboot.tracking.miui.com
 mix1065fm.cbslocal.com
 mlb.com
 mlog.search.xiaomi.net
@@ -1215,6 +1208,7 @@ pubsub.plex.tv
 push.wps.cn
 pusher.com
 pusherapp.com
+puui.qpic.cn/
 qiyipic.com
 questIOns.learnosity.com
 questarai.com
@@ -1317,6 +1311,8 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
+sdkinit.taobao.com/init.htm
+sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.follettsoftware.com
 search.twitter.com
 sears.com
@@ -1393,6 +1389,7 @@ ssl.gstatic.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
 st.mycdn.me
+sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 stackexchange.com
 stackpath.bootstrapcdn.com
 staging.admin.e.mi.com
@@ -1403,6 +1400,7 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
+stat.duokanbox.com/tvservice/reportmessage
 static.321mh.com
 static.ak.facebook.com
 static.fontawesome.com
@@ -1440,6 +1438,7 @@ t.uc.cn
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 t10.baidu.com
 t11.baidu.com
 t12.baidu.com
@@ -1640,6 +1639,7 @@ whitelist
 who.is
 widget-cdn.rpxnow.com
 widgets.dlvr.it
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com

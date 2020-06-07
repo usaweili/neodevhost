@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-07
 #
-# Number of blocked domains:  98860
+# Number of blocked domains:  98859
 #
 # ===============================================================
 
@@ -12520,7 +12520,6 @@ ff02::3 ip6-allhosts
 ||api.omniture.com^
 ||api.oneaudience.com^
 ||api.oneyuan.nagezan.net^
-||api.open.uc.cn^
 ||api.opencandy.com^
 ||api.optimizely.com^
 ||api.optinmonster.com^
