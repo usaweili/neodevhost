@@ -40,13 +40,14 @@ for url in `cat white` ;do
     rm tmp
 done
 sed -i '/#/d' tmpwhitelist
+sed -i '/！/d' tmpwhitelist
 sed -i 's/127.0.0.1 //' tmpwhitelist
 sed -i 's/pp助手淘宝登录授权拉起//' tmpwhitelist
 sed -i 's/只要有这一条，//' tmpwhitelist
 sed -i 's/，腾讯视频网页下一集按钮灰色，也不能选集播放//' tmpwhitelist
 sed -i 's/会导致腾讯动漫安卓版的逗比商城白屏//' tmpwhitelist
 sed -i '/address/d' tmpwhitelist
-sed -i '/REG^/d' tmpwhitelist
+sed -i '/REG ^/d' tmpwhitelist
 sed -i '/RZD/d' tmpwhitelist
 sed -i 's/ALL ./ /g' tmpwhitelist
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpwhitelist
