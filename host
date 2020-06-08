@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-08
 #
-# Number of blocked domains:  67387
+# Number of blocked domains:  67392
 #
 # ===============================================================
 
@@ -21921,6 +21921,11 @@ ff02::3 ip6-allhosts
 0.0.0.0  etradesupply.org
 0.0.0.0  etrk.asus.com
 0.0.0.0  ets-eu-west-1.track.smaato.net
+0.0.0.0  ettoday.net
+0.0.0.0  ettoday.net/ad/
+0.0.0.0  ettoday.net/banners/
+0.0.0.0  ettoday.net/dfp/
+0.0.0.0  ettoday.net/events/
 0.0.0.0  eturkcell.netmera.com
 0.0.0.0  etymonline.co
 0.0.0.0  etype.adbureau.net
