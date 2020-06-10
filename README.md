@@ -44,54 +44,23 @@ Update 更新时间: 2020-06-10
 ```
 ## Download 下载 
 
-### Recommend 建议下载　: AD + Whitelist [Host] 去广告+白名单　结合拦截
-```
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/combine
-```
-### AD host 去广告 [hosts]
-```
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/host
-```
+Host | Raw  
+--------- |:-------------:
+HOST = **(Blocklist + Allowlist)** | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host) 
+Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/blocklist) 
+Allowlist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/allowlist) 
 
-### Whitelist 域名白名单 [whitelist]
-```
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/whitelist
-```
+Adblocker | Raw  
+--------- |:-------------:
+Adblocker = **(Blocklist + Allowlist)** | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker) 
+Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblockerblocklist) 
+Allowlist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblockerallowlist) 
 
-
-### For Adblocker (Adguard)　广告拦截器　: AD 去广告
-```
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
-```
-
-### For Adblocker (Adguard)　广告拦截器　: Whitelist 白名单（防止拦截错误）
-```
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblockerwhite
-```
-
-### For Adblocker (Adguard)　广告拦截器　: AD + Whitelist 去广告+白名单　结合拦截
-```
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblockercombine
-```
-
-### Dnsmasq AD List Dnsmasq 广告拦截格式 [Dnsmasq] 
-```
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/hosts_dnsmasq.conf
-```
-
-### Dnsmasq AD + Whitelist　List Dnsmasq　广告+白名单　结合拦截格式  [Dnsmasq] 
-``` 
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/combinehosts_dnsmasq.conf
-```
-### Domain AD 普通广告域名
-```
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/domain
-```
-
-### Domain AD + Whitelist　普通 广告+白名单　域名结合
-```
-https://raw.githubusercontent.com/neodevpro/neodevhost/master/domaincombine
-```
+Dnsmasq | Raw  
+--------- |:-------------:
+Dnsmasq = **(Blocklist + Allowlist)** | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/dnsmasq) 
+Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/dnsmasqblocklist) 
+Allowlist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/dnsmasqallowlist) 
 
 ## How To Use 如何使用
 ```
