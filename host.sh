@@ -101,8 +101,8 @@ sed -i 's/$/&^/' adblocker
 sed -i 's/^/@@||&/' adblockerallow
 sed -i 's/$/&^/' adblockerallow
 
-sed -i 's/^/||&/' adblocker
-sed -i 's/$/&^/' adblocker 
+sed -i 's/^/||&/' adblockerblock
+sed -i 's/$/&^/' adblockerblock 
 
 sed -i 's/^/0.0.0.0  &/' host
 sed -i 's/^/0.0.0.0  &/' block
