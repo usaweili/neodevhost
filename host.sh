@@ -54,7 +54,7 @@ sed -i '/RZD/d' tmpwhitelist
 sed -i 's/ALL ./ /g' tmpwhitelist
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpwhitelist
 sed -i '/^$/d' tmpwhitelist
-sed -i '1,3d'　tmpwhitelist
+sed -i '1,3d' tmpwhitelist
 sort -u tmpwhitelist > whitelist
 rm tmpwhitelist
 
