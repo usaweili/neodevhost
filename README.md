@@ -1,5 +1,3 @@
-NEODEV HOST
-
 ![Logo](https://raw.githubusercontent.com/neodevpro/neodevhost/master/logo.png)
 
 
