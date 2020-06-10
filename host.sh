@@ -40,7 +40,7 @@ for url in `cat white` ;do
     rm tmp
 done
 sed -i '/#/d' tmpwhitelist
-sed -i '/！/d' tmpwhitelist
+sed -i '/\!/d' tmpwhitelist
 sed -i 's/127.0.0.1 //' tmpwhitelist
 sed -i 's/https:\/\///' tmpwhitelist
 sed -i 's/http:\/\///' tmpwhitelist
@@ -54,7 +54,6 @@ sed -i '/RZD/d' tmpwhitelist
 sed -i 's/ALL ./ /g' tmpwhitelist
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpwhitelist
 sed -i '/^$/d' tmpwhitelist
-sed -i '1,3d' tmpwhitelist
 sort -u tmpwhitelist > whitelist
 rm tmpwhitelist
 
