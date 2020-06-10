@@ -54,6 +54,7 @@ sed -i '/RZD/d' tmpwhitelist
 sed -i 's/ALL ./ /g' tmpwhitelist
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpwhitelist
 sed -i '/^$/d' tmpwhitelist
+sed -i '1,3d'　tmpwhitelist
 sort -u tmpwhitelist > whitelist
 rm tmpwhitelist
 
@@ -81,7 +82,6 @@ sed -i 's/。//' tmphost
 sed -i 's/^\.//' tmphost
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmphost
 sed -i '/^\s*$/d' tmphost
-sed -i '1,3d'　tmphost
 sort -u tmphost > host
 rm tmphost
 
