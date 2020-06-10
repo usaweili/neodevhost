@@ -47,8 +47,8 @@ Update 更新时间: 2020-06-10
 Host | Raw  
 --------- |:-------------:
 HOST = **(Blocklist + Allowlist)** | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host) 
-Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/blocklist) 
-Allowlist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/allowlist) 
+Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/block) 
+Allowlist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow) 
 
 Adblocker | Raw  
 --------- |:-------------:
