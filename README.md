@@ -53,14 +53,13 @@ Allowlist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master
 Adblocker | Raw  
 --------- |:-------------:
 Adblocker = **(Blocklist + Allowlist)** | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker) 
-Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblockerblocklist) 
-Allowlist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblockerallowlist) 
+Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblockerblock) 
+Allowlist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblockerallow) 
 
 Dnsmasq | Raw  
 --------- |:-------------:
-Dnsmasq = **(Blocklist + Allowlist)** | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/dnsmasq) 
-Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/dnsmasqblocklist) 
-Allowlist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/dnsmasqallowlist) 
+Dnsmasq = **(Blocklist + Allowlist)** | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host_dnsmasq.conf) 
+Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/block_dnsmasq.conf) 
 
 ## How To Use 如何使用
 ```
