@@ -1,9 +1,9 @@
 echo -e "Downloading Whitelist..."
 cd /etc/pihole
-wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/whitelist
+wget https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow
 sleep 0.5
 echo -e "Editing..."
-mv ./whitelist ./whitelist.old
+mv ./allow ./whitelist.old
 cat ./whitelist.old | sort | uniq >> /etc/pihole/whitelist
 wait
 echo -e "Patching(Need some time)..."
