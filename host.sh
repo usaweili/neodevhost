@@ -28,7 +28,7 @@ fi
 
 echo " "
 echo "Merge allow..."
-for url in `cat allow` ;do
+for url in `cat allowlist` ;do
     wget --no-check-certificate -t 1 -T 10 -O tmp $url
     cat tmp >> tmpallow
     rm tmp
@@ -53,7 +53,7 @@ rm tmpallow
 
 echo " "
 echo "Merge block..."
-for url in `cat block` ;do
+for url in `cat blocklist` ;do
     wget --no-check-certificate -t 1 -T 10 -O tmp $url
     cat tmp >> tmpblock
     rm tmp
