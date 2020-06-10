@@ -79,7 +79,6 @@ sed -i 's/0.0.0.0//' tmphost
 sed -i 's/:443//' tmphost
 sed -i 's/。//' tmphost
 sed -i 's/^\.//' tmphost
-#sed -i 's/*.//g' tmphost
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmphost
 sed -i '/^\s*$/d' tmphost
 sed -i '1,3d'　tmphost
