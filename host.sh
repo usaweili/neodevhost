@@ -4,161 +4,161 @@ echo "Clean..."
 if [ -f host ]; then
     rm host
 fi
-if [ -f whitelist ]; then 
-    rm whitelist
+if [ -f allow ]; then 
+    rm allow
 fi
-if [ -f combine ]; then 
-    rm combine
+if [ -f block ]; then 
+    rm block
 fi
 if [ -f adblocker ]; then 
     rm adblocker
 fi
-if [ -f adblockercombine ]; then 
-    rm adblockercombine
+if [ -f adblockerblock ]; then 
+    rm adblockerblock
 fi
-if [ -f adblockerwhite ]; then 
-    rm adblockerwhite
+if [ -f adblockerallow ]; then 
+    rm adblockerallow
 fi
-if [ -f domaincombine ]; then 
-    rm domaincombine
-fi
-if [ -f domain ]; then 
-    rm domain
-fi
-if [ -f hosts_dnsmasq.conf ]; then 
+if [ -f host_dnsmasq.conf ]; then 
     rm hosts_dnsmasq.conf
 fi
-if [ -f combinehosts_dnsmasq.conf ]; then 
-    rm combinehosts_dnsmasq.conf
+if [ -f block_dnsmasq.conf ]; then 
+    rm block_dnsmasq.conf
 fi
 
 echo " "
-echo "Merge Whitelist..."
-for url in `cat white` ;do
+echo "Merge allow..."
+for url in `cat allow` ;do
     wget --no-check-certificate -t 1 -T 10 -O tmp $url
-    cat tmp >> tmpwhitelist
+    cat tmp >> tmpallow
     rm tmp
 done
-sed -i '/#/d' tmpwhitelist
-sed -i '/\!/d' tmpwhitelist
-sed -i 's/127.0.0.1 //' tmpwhitelist
-sed -i 's/https:\/\///' tmpwhitelist
-sed -i 's/http:\/\///' tmpwhitelist
+sed -i '/#/d' tmpallow
+sed -i '/\!/d' tmpallow
+sed -i 's/127.0.0.1 //' tmpallow
+sed -i 's/https:\/\///' tmpallow
+sed -i 's/http:\/\///' tmpallow
 sed -i 's/pp助手淘宝登录授权拉起//' tmpwhitelist
 sed -i 's/只要有这一条，//' tmpwhitelist
-sed -i 's/，腾讯视频网页下一集按钮灰色，也不能选集播放//' tmpwhitelist
-sed -i 's/会导致腾讯动漫安卓版的逗比商城白屏//' tmpwhitelist
-sed -i '/address/d' tmpwhitelist
-sed -i '/REG ^/d' tmpwhitelist
-sed -i '/RZD/d' tmpwhitelist
-sed -i 's/ALL ./ /g' tmpwhitelist
-sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpwhitelist
-sed -i '/^$/d' tmpwhitelist
-sort -u tmpwhitelist > whitelist
-rm tmpwhitelist
+sed -i 's/，腾讯视频网页下一集按钮灰色，也不能选集播放//' tmpallow
+sed -i 's/会导致腾讯动漫安卓版的逗比商城白屏//' tmpallow
+sed -i '/address/d' tmpallow
+sed -i '/REG ^/d' tmpallow
+sed -i '/RZD/d' tmpallow
+sed -i 's/ALL ./ /g' tmpallow
+sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpallow
+sed -i '/^$/d' tmpallow
+sort -u tmpallow > allow
+rm tmpallow
 
 echo " "
-echo "Merge ADlist..."
-for url in `cat black` ;do
+echo "Merge block..."
+for url in `cat block` ;do
     wget --no-check-certificate -t 1 -T 10 -O tmp $url
-    cat tmp >> tmphost 
+    cat tmp >> tmpblock
     rm tmp
 done
-sed -i '/]/d' tmphost
-sed -i '/:/d' tmphost
-sed -i '/#/d' tmphost
-sed -i '/ɢ/d' tmphost
-sed -i '/255.255.255.255/d' tmphost
-sed -i '/192.30.255.112/d' tmphost
-sed -i '/151.101.56.133/d' tmphost
-sed -i '/ip6-/d' tmphost
-sed -i '/local/d' tmphost 
-sed -i 's/127.0.0.1 //' tmphost
-sed -i 's/0.0.0.0.//' tmphost
-sed -i 's/0.0.0.0//' tmphost
-sed -i 's/:443//' tmphost
-sed -i 's/。//' tmphost
-sed -i 's/^\.//' tmphost
-sed -i 's/^[ \t]*//;s/[ \t]*$//' tmphost
-sed -i '/^\s*$/d' tmphost
-sort -u tmphost > host
-rm tmphost
+sed -i '/]/d' tmpblock
+sed -i '/:/d' tmpblock
+sed -i '/#/d' tmpblock
+sed -i '/ɢ/d' tmpblock
+sed -i '/255.255.255.255/d' tmpblock
+sed -i '/192.30.255.112/d' tmpblock
+sed -i '/151.101.56.133/d' tmpblock
+sed -i '/ip6-/d' tmpblock
+sed -i '/local/d' tmpblock 
+sed -i 's/127.0.0.1 //' tmpblock
+sed -i 's/0.0.0.0.//' tmpblock
+sed -i 's/0.0.0.0//' tmpblock
+sed -i 's/:443//' tmpblock
+sed -i 's/。//' tmpblock
+sed -i 's/^\.//' tmpblock
+sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpblock
+sed -i '/^\s*$/d' tmpblock
+sort -u tmpblock > block
+rm tmpblock
 
 echo " "
 echo "Merge Combine..."
-sort -n host whitelist whitelist | uniq -u > tmp && mv tmp tmpcombine
-sort -u tmpcombine > combine
-rm tmpcombine
+sort -n block allow allow | uniq -u > tmp && mv tmp tmphost
+sort -u tmphost > host
+rm tmphost
 
 
 echo " "
 echo "Adding Compatibility..."
-cp host domain
+
+cp block adblockerblock
 cp host adblocker
-cp combine domaincombine
-cp combine adblockercombine
-cp whitelist adblockerwhite
-cp host hosts_dnsmasq.conf
-cp combine combinehosts_dnsmasq.conf
+cp allow adblockerallow
+
+cp host host_dnsmasq.conf
+cp block block_dnsmasq.conf
 
 sed -i 's/^/||&/' adblocker
 sed -i 's/$/&^/' adblocker 
 
-sed -i 's/^/@@||&/' adblockerwhite 
-sed -i 's/$/&^/' adblockerwhite 
+sed -i 's/^/@@||&/' adblockerallow
+sed -i 's/$/&^/' adblockerallow
 
-sed -i 's/^/||&/' adblockercombine
-sed -i 's/$/&^/' adblockercombine 
+sed -i 's/^/||&/' adblocker
+sed -i 's/$/&^/' adblocker 
 
 sed -i 's/^/0.0.0.0  &/' host
-sed -i 's/^/0.0.0.0  &/' combine
+sed -i 's/^/0.0.0.0  &/' block
 
-sed -i 's/^/address=\/&/' hosts_dnsmasq.conf 
-sed -i 's/^/address=\/&/' combinehosts_dnsmasq.conf
+sed -i 's/^/address=\/&/' host_dnsmasq.conf 
+sed -i 's/^/address=\/&/' block_dnsmasq.conf
 
-sed -i 's/$/&\/0.0.0.0/' hosts_dnsmasq.conf  
-sed -i 's/$/&\/0.0.0.0/' combinehosts_dnsmasq.conf 
+sed -i 's/$/&\/0.0.0.0/' host_dnsmasq.conf  
+sed -i 's/$/&\/0.0.0.0/' block_dnsmasq.conf 
 
 
 echo " "
 echo "Adding Title and SYNC data..."
-sed -i '14cTotal ad / tracking block list 屏蔽追踪广告总数: '$(wc -l host)' ' README.md  
-sed -i '16cTotal whitelist list 白名单总数: '$(wc -l whitelist)' ' README.md 
-sed -i '18cTotal combine list 结合总数： '$(wc -l combine)' ' README.md
+sed -i '14cTotal ad / tracking block list 屏蔽追踪广告总数: '$(wc -l block)' ' README.md  
+sed -i '16cTotal whitelist list 白名单总数: '$(wc -l allow)' ' README.md 
+sed -i '18cTotal combine list 结合总数： '$(wc -l host)' ' README.md
 sed -i '20cUpdate 更新时间: '$(date "+%Y-%m-%d")'' README.md
 cp title title.1
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.1
-sed -i '11c# Number of blocked domains:  '$(wc -l host)' ' title.1   
+sed -i '11c# Number of blocked domains:  '$(wc -l block)' ' title.1   
 cp title title.2
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.2
-sed -i '11c# Number of blocked domains:  '$(wc -l combine)' ' title.2   
+sed -i '11c# Number of blocked domains:  '$(wc -l host)' ' title.2   
 cp title title.3
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.3
-sed -i '11c# Number of blocked domains:  '$(wc -l adblocker)' ' title.3
+sed -i '11c# Number of blocked domains:  '$(wc -l adblockerblock)' ' title.3
 cp title title.4
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.4
-sed -i '11c# Number of blocked domains:  '$(wc -l adblockercombine)' ' title.4   
+sed -i '11c# Number of blocked domains:  '$(wc -l adblocker)' ' title.4   
 cp title title.5
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.5
-sed -i '11c# Number of blocked domains:  '$(wc -l hosts_dnsmasq.conf)' ' title.5
+sed -i '11c# Number of blocked domains:  '$(wc -l block_dnsmasq.conf)' ' title.5
 cp title title.6
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.6
-sed -i '11c# Number of blocked domains:  '$(wc -l combinehosts_dnsmasq.conf)' ' title.6       
+sed -i '11c# Number of blocked domains:  '$(wc -l host_dnsmasq.conf)' ' title.6       
 
-cat host >>title.1
-cat combine >>title.2
-cat adblocker >>title.3
-cat adblockercombine >>title.4
-cat hosts_dnsmasq.conf >>title.5
-cat combinehosts_dnsmasq.conf >>title.6
-rm host
-rm combine
-mv title.1 host
-mv title.2 combine
-mv title.3 adblocker
-mv title.4 adblockercombine
-mv title.5 hosts_dnsmasq.conf
-mv title.6 combinehosts_dnsmasq.conf
+cat block >>title.1
+cat host >>title.2
+cat adblockerblock >>title.3
+cat adblocker >>title.4
+cat block_dnsmasq.conf >>title.5
+cat host_dnsmasq.conf >>title.6
+
+rm -rf block
+rm -rf host
+rm -rf adblockerblock
+rm -rf adblocker
+rm -rf block_dnsmasq.conf
+rm -rf host_dnsmasq.conf
+
+mv title.1 block
+mv title.2 host
+mv title.3 adblockerblock
+mv title.4 adblocker
+mv title.5 block_dnsmasq.conf
+mv title.6 host_dnsmasq.conf
 
 echo " "
 echo "Done!"
