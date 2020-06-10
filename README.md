@@ -113,7 +113,7 @@ pihole -g
 >https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt<br/>
 >https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts<br/>
 
-## Sources of Whitelist data 域名白名单源
+## Sources of Allowlist data 域名允许源
 
 >https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt<br/>
 >https://raw.githubusercontent.com/VeleSila/yhosts/master/whitelist.txt<br/>
