@@ -4,9 +4,6 @@ echo "Clean..."
 if [ -f host ]; then
     rm host
 fi
-if [ -f allow ]; then 
-    rm allow
-fi
 if [ -f block ]; then 
     rm block
 fi
