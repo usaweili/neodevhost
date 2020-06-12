@@ -117,7 +117,7 @@ sed -i 's/$/&\/0.0.0.0/' block_dnsmasq.conf
 echo " "
 echo "Adding Title and SYNC data..."
 sed -i '14cTotal ad / tracking block list 屏蔽追踪广告总数: '$(wc -l block)' ' README.md  
-sed -i '16cTotal whitelist list 白名单总数: '$(wc -l allow)' ' README.md 
+sed -i '16cTotal allowlist list 白名单总数: '$(wc -l allow)' ' README.md 
 sed -i '18cTotal combine list 结合总数： '$(wc -l host)' ' README.md
 sed -i '20cUpdate 更新时间: '$(date "+%Y-%m-%d")'' README.md
 cp title title.1
