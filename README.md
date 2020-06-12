@@ -112,13 +112,3 @@ pihole -g
 >https://hosts.nfz.moe/full/hosts<br/>
 >https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt<br/>
 >https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts<br/>
-
-## Sources of Allowlist data 域名允许源
-
->https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt<br/>
->https://raw.githubusercontent.com/VeleSila/yhosts/master/whitelist.txt<br/>
->https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list<br/>
->https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt<br/>
->https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt<br/>
->https://raw.githubusercontent.com/neodevpro/neodevhost/master/customwhitelist<br/>
->https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt<br/>
