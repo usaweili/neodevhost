@@ -24,6 +24,31 @@ if [ -f block_dnsmasq.conf ]; then
 fi
 
 echo " "
+echo "Merge allow..."
+for url in `cat allowlist` ;do
+    wget --no-check-certificate -t 1 -T 10 -O tmp $url
+    cat tmp >> tmpallow
+    rm tmp
+done
+sed -i '/#/d' tmpallow
+sed -i '/\!/d' tmpallow
+sed -i 's/127.0.0.1 //' tmpallow
+sed -i 's/https:\/\///' tmpallow
+sed -i 's/http:\/\///' tmpallow
+sed -i 's/pp助手淘宝登录授权拉起//' tmpwhitelist
+sed -i 's/只要有这一条，//' tmpwhitelist
+sed -i 's/，腾讯视频网页下一集按钮灰色，也不能选集播放//' tmpallow
+sed -i 's/会导致腾讯动漫安卓版的逗比商城白屏//' tmpallow
+sed -i '/address/d' tmpallow
+sed -i '/REG ^/d' tmpallow
+sed -i '/RZD/d' tmpallow
+sed -i 's/ALL ./ /g' tmpallow
+sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpallow
+sed -i '/^$/d' tmpallow
+sort -u tmpallow > allow
+rm tmpallow
+
+echo " "
 echo "Merge block..."
 for url in `cat blocklist` ;do
     wget --no-check-certificate -t 1 -T 10 -O tmp $url
