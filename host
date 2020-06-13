@@ -12470,7 +12470,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  analytics.tribeca.vidavee.com
 0.0.0.0  analytics.trutv.com
 0.0.0.0  analytics.turn.com
-0.0.0.0  analytics.twitter.com
 0.0.0.0  analytics.upworthy.com
 0.0.0.0  analytics.urx.io
 0.0.0.0  analytics.us.archive.org
@@ -35984,6 +35983,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  fls-eu.amazon-adsystem.com
 0.0.0.0  fls-fe.amazon-adsystem.com
 0.0.0.0  fls-na.amazon-adsystem.com
+0.0.0.0  fls-na.amazon.com
 0.0.0.0  fls.au.doubleclick.net
 0.0.0.0  fls.doubleclick.net
 0.0.0.0  fls.uk.doubleclick.net
