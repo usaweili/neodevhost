@@ -106,9 +106,26 @@ pihole -g
 7.Then it will Remove and Uninstall both NEODEV host and whitelist from your Pihole <br/>
 
 ## Sources of AD-hosts data 去广告host源
+AD-hostss | Link  
+--------- |:-------------:
+Adguard-simplified | [link](https://raw.githubusercontent.com/hectorm/hmirror/master/data/adguard-simplified/list.txt)
+Ad-wars | [link](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts)
+Antipopads | [link](https://raw.githubusercontent.com/hectorm/hmirror/master/data/antipopads/list.txt)
+Easylist | [link](https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist/list.txt)
+Ilpl | [link](https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts)
+Licolnlee | [link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt)
+Neohost | [link](https://hosts.nfz.moe/full/hosts)
+StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts)
+Ublock | [link](https://raw.githubusercontent.com/hectorm/hmirror/master/data/ublock/list.txt)
+Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts)
 
->https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts<br/>
->https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts<br/>
->https://hosts.nfz.moe/full/hosts<br/>
->https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt<br/>
->https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts<br/>
+## Sources of Allowlist 允许名单
+Allowlist | Link  
+--------- |:-------------:
+AnudeepND | [link](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt)
+AnudeepND-optional | [link](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt)
+Licolnlee | [link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt)
+Neodevhost | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist)
+Ultimate-Hosts-Blacklist | [link](https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list)
+WildcardTech | [link](https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt)
+Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/whitelist.txt)
