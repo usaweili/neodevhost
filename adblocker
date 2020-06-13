@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-13
 #
-# Number of blocked domains:  107362
+# Number of blocked domains:  107360
 #
 # ===============================================================
 
@@ -35984,7 +35984,6 @@ ff02::3 ip6-allhosts
 ||fls-eu.amazon-adsystem.com^
 ||fls-fe.amazon-adsystem.com^
 ||fls-na.amazon-adsystem.com^
-||fls-na.amazon.com^
 ||fls.au.doubleclick.net^
 ||fls.doubleclick.net^
 ||fls.uk.doubleclick.net^
@@ -101913,7 +101912,6 @@ ff02::3 ip6-allhosts
 ||www.tabxolabs.com^
 ||www.tadeuszgruszka.pl^
 ||www.taffr.com^
-||www.taiwanlottery.com.tw^
 ||www.tajonis.com^
 ||www.takaprawda.icu^
 ||www.takarakuji-official.jp^
