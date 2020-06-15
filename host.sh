@@ -64,7 +64,7 @@ sed -i '/ɢ/d' tmpblock
 sed -i '/\!/d' tmpblock
 
 sed -i 's/||//' tmpblock
-sed -i 's/^//' tmpblock
+sed -i 's/\^//' tmpblock
 
 sed -i '/255.255.255.255/d' tmpblock
 sed -i '/192.30.255.112/d' tmpblock
