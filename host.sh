@@ -35,8 +35,8 @@ sed -i '/\!/d' tmpallow
 sed -i 's/127.0.0.1 //' tmpallow
 sed -i 's/https:\/\///' tmpallow
 sed -i 's/http:\/\///' tmpallow
-sed -i 's/pp助手淘宝登录授权拉起//' tmpwhitelist
-sed -i 's/只要有这一条，//' tmpwhitelist
+sed -i 's/pp助手淘宝登录授权拉起//' tmpallow
+sed -i 's/只要有这一条，//' tmpallow
 sed -i 's/，腾讯视频网页下一集按钮灰色，也不能选集播放//' tmpallow
 sed -i 's/会导致腾讯动漫安卓版的逗比商城白屏//' tmpallow
 sed -i '/address/d' tmpallow
@@ -55,26 +55,31 @@ for url in `cat blocklist` ;do
     cat tmp >> tmpblock
     rm tmp
 done
-sed -i '/]/d' tmpblock
-sed -i '/[/d' tmpblock
+
+sed -i '/\]/d' tmpblock
+sed -i '/\[/d' tmpblock
 
 sed -i '/:/d' tmpblock
 sed -i '/#/d' tmpblock
 sed -i '/ɢ/d' tmpblock
 sed -i '/\!/d' tmpblock
+
 sed -i '/255.255.255.255/d' tmpblock
 sed -i '/192.30.255.112/d' tmpblock
 sed -i '/151.101.56.133/d' tmpblock
 sed -i '/ip6-/d' tmpblock
-sed -i '/local/d' tmpblock 
+sed -i '/local/d' tmpblock
+
 sed -i 's/127.0.0.1 //' tmpblock
 sed -i 's/0.0.0.0.//' tmpblock
 sed -i 's/0.0.0.0//' tmpblock
 sed -i 's/:443//' tmpblock
+
 sed -i 's/。//' tmpblock
 sed -i 's/^\.//' tmpblock
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpblock
 sed -i '/^\s*$/d' tmpblock
+
 sort -u tmpblock > block
 rm tmpblock
 
