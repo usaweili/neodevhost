@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-16
 #
-# Number of blocked domains:  82663
+# Number of blocked domains:  82662
 #
 # ===============================================================
 
@@ -15965,7 +15965,6 @@ ff02::3 ip6-allhosts
 ||cdn.appservestar.com^
 ||cdn.appsflyer.com^
 ||cdn.apvdr.com^
-||cdn.ark.qq.com^
 ||cdn.as.amanad.adtdp.com^
 ||cdn.askosshunt.com^
 ||cdn.assets.craveonline.com^
