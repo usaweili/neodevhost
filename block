@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-16
 #
-# Number of blocked domains:  82807
+# Number of blocked domains:  82806
 #
 # ===============================================================
 
@@ -6374,7 +6374,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  ads.xemphimso.com
 0.0.0.0  ads.xfastest.com
 0.0.0.0  ads.xfastest.com/www/delivery/ck.php
-0.0.0.0  ads.xfastest.com/www/delivery/ck.php?oaparams=2__bannerid=249__zoneid=62__cb=7ccf912e2a__oadest=https%3A%2F%2Fbuy.XFastest.com
 0.0.0.0  ads.xhamster.com
 0.0.0.0  ads.xlxtra.com
 0.0.0.0  ads.xmlwizard.com
