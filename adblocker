@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-16
 #
-# Number of blocked domains:  82661
+# Number of blocked domains:  82660
 #
 # ===============================================================
 
@@ -6210,7 +6210,6 @@ ff02::3 ip6-allhosts
 ||ads.tunein.com^
 ||ads.turkticaret.net^
 ||ads.tw.adsonar.com^
-||ads.twitter.com^
 ||ads.ubee.in^
 ||ads.uberads.com^
 ||ads.ucomics.com^
