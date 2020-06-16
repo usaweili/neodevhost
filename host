@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-16
 #
-# Number of blocked domains:  82660
+# Number of blocked domains:  82661
 #
 # ===============================================================
 
@@ -6358,6 +6358,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  ads.xboxic.com
 0.0.0.0  ads.xda-developers.com
 0.0.0.0  ads.xemphimso.com
+0.0.0.0  ads.xfastest.com
 0.0.0.0  ads.xhamster.com
 0.0.0.0  ads.xlxtra.com
 0.0.0.0  ads.xmlwizard.com
@@ -82682,7 +82683,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  zzvvzfiwyfq.com
 0.0.0.0  zzwajufm.com
 0.0.0.0  zzxd.mediav.com
-0.0.0.0  zzxlukodff.comads.xfastest.com
+0.0.0.0  zzxlukodff.com
 0.0.0.0  zzy.mipujia.com
 0.0.0.0  zzy.quyaoya.com
 0.0.0.0  zzy1.mipujia.com
