@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-19
 #
-# Number of blocked domains:  82828
+# Number of blocked domains:  82826
 #
 # ===============================================================
 
@@ -7847,7 +7847,6 @@ ff02::3 ip6-allhosts
 ||ae.bdstatic.com^
 ||ae.goodsblock.marketgid.com^
 ||ae.gsecondscreen.com^
-||ae01.alicdn.com^
 ||aebhdrkiybgy.com^
 ||aec.shjk123.net^
 ||aecpm.alicdn.com^
@@ -37436,7 +37435,6 @@ ff02::3 ip6-allhosts
 ||lbn.ru^
 ||lbnwrunyfupe.com^
 ||lbpndcvhuqlm.com^
-||lbs.map.qq.com^
 ||lbservices2.fyber.com^
 ||lbservices2.sponsorpay.com^
 ||lbsohfnkqgxo.com^
