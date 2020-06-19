@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-19
 #
-# Number of blocked domains:  82826
+# Number of blocked domains:  82827
 #
 # ===============================================================
 
@@ -7847,6 +7847,7 @@ ff02::3 ip6-allhosts
 ||ae.bdstatic.com^
 ||ae.goodsblock.marketgid.com^
 ||ae.gsecondscreen.com^
+||ae01.alicdn.com^
 ||aebhdrkiybgy.com^
 ||aec.shjk123.net^
 ||aecpm.alicdn.com^
