@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-22
 #
-# Number of blocked domains:  82683
+# Number of blocked domains:  82702
 #
 # ===============================================================
 
@@ -1863,6 +1863,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  9ll01.com
 0.0.0.0  9llm.com
 0.0.0.0  9med.net
+0.0.0.0  9o.qv25i.xyz
 0.0.0.0  9print.pl
 0.0.0.0  9stoneinvestments.com
 0.0.0.0  9thien.com
@@ -14927,6 +14928,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  c.no.msn.com
 0.0.0.0  c.novostimira.biz
 0.0.0.0  c.ns8d.com
+0.0.0.0  c.ntrdjsjl.com
 0.0.0.0  c.nz.gt.igexin.com
 0.0.0.0  c.oix.com
 0.0.0.0  c.oix.net
@@ -14972,6 +14974,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  c.statstat888.com
 0.0.0.0  c.supert.ag
 0.0.0.0  c.sy123888.com
+0.0.0.0  c.syooys.com
 0.0.0.0  c.sz.gt.igexin.com
 0.0.0.0  c.t98u8f.com
 0.0.0.0  c.tapinfluence.com
@@ -15057,6 +15060,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  c1.rfihub.net
 0.0.0.0  c1.smartclick.net
 0.0.0.0  c1.statcounter.com
+0.0.0.0  c1.syooys.com
 0.0.0.0  c1.t4u8m.xyz
 0.0.0.0  c1.teaser-goods.ru
 0.0.0.0  c1.thecounter.com
@@ -22945,6 +22949,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  e.a907907.com
 0.0.0.0  e.abeij.com
 0.0.0.0  e.abnad.net
+0.0.0.0  e.ac56.xyz
 0.0.0.0  e.acaog.com
 0.0.0.0  e.acaox.com
 0.0.0.0  e.acaoz.com
@@ -25635,6 +25640,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  f.qcwzx.net.cn
 0.0.0.0  f.qstatic.com
 0.0.0.0  f.regardisperfectshild.ru
+0.0.0.0  f.rhovlnd.cn
 0.0.0.0  f.vietnamnetad.vn
 0.0.0.0  f.yijikm.com
 0.0.0.0  f.yueyetiyu.com
@@ -37114,6 +37120,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  l.fastapi.net
 0.0.0.0  l.glrcy.cn
 0.0.0.0  l.gm.mob.com
+0.0.0.0  l.ksxcxb.cn
 0.0.0.0  l.linkpulse.com
 0.0.0.0  l.logly.co.jp
 0.0.0.0  l.logrocket.io
@@ -39390,6 +39397,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  m.abeij.com
 0.0.0.0  m.abfalse.cn
 0.0.0.0  m.abfirst.cn
+0.0.0.0  m.ac56.xyz
 0.0.0.0  m.acaox.com
 0.0.0.0  m.acaoz.com
 0.0.0.0  m.achig.com
@@ -39583,6 +39591,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  m.duias.com
 0.0.0.0  m.duobao999.com
 0.0.0.0  m.dxmci.com
+0.0.0.0  m.dydd.xyz
 0.0.0.0  m.dyfzyg.com
 0.0.0.0  m.e2n8vc.cn
 0.0.0.0  m.e9wm6a.cn
@@ -43115,6 +43124,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.haloapps.cn
 0.0.0.0  mo.hc872.cn
 0.0.0.0  mo.jy73d.xyz
+0.0.0.0  mo.keilb.xyz
 0.0.0.0  mo.l29qi.xyz
 0.0.0.0  mo.lbmx.com.cn
 0.0.0.0  mo.mktrkn.cn
@@ -43141,6 +43151,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.xm223.cn
 0.0.0.0  mo.yhcrqzj.cn
 0.0.0.0  mo.zdceaa.cn
+0.0.0.0  mo.zk43i.xyz
 0.0.0.0  mo.zsyse.top
 0.0.0.0  moad.pulsengine.com
 0.0.0.0  moadlbgojatn.com
@@ -46512,6 +46523,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  o-2-s-f.win
 0.0.0.0  o-oe.com
 0.0.0.0  o.4x25v.cn
+0.0.0.0  o.5q69n.cn
 0.0.0.0  o.addthis.com
 0.0.0.0  o.adgear.com
 0.0.0.0  o.admob.com
@@ -52397,6 +52409,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  qpshvivbqpz.com
 0.0.0.0  qpttmgdofkkya.bid
 0.0.0.0  qq.8368661.com
+0.0.0.0  qq.com.5q69n.cn
 0.0.0.0  qq.guansenff.cn
 0.0.0.0  qq.hixili.top
 0.0.0.0  qq.irs01.com
@@ -54908,6 +54921,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  s.ato.mx
 0.0.0.0  s.baidu.com
 0.0.0.0  s.baomoi.xdn.vn
+0.0.0.0  s.bipian.top
 0.0.0.0  s.bl-1.com
 0.0.0.0  s.bmgan.com
 0.0.0.0  s.boom.ro
@@ -61047,6 +61061,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  t.2d-c.cn
 0.0.0.0  t.3apf.com
 0.0.0.0  t.58xs.com
+0.0.0.0  t.5r60n.cn
 0.0.0.0  t.82comb.net
 0.0.0.0  t.91dijiu.com
 0.0.0.0  t.Oq68.com
@@ -61122,7 +61137,9 @@ ff02::3 ip6-allhosts
 0.0.0.0  t.growingio.com
 0.0.0.0  t.grtyb.com
 0.0.0.0  t.h5data.com
+0.0.0.0  t.hc005.top
 0.0.0.0  t.hl51go.xyz
+0.0.0.0  t.hljjv.top
 0.0.0.0  t.hmwebs.top
 0.0.0.0  t.honker.info
 0.0.0.0  t.hypers.com.cn
@@ -66073,6 +66090,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  v.w-x.co
 0.0.0.0  v.xinshide.cn
 0.0.0.0  v.xiuzhenjewelry.cn
+0.0.0.0  v.xrooxeo.cn
 0.0.0.0  v.zcoup.com
 0.0.0.0  v0-vcdn.anthill.vn
 0.0.0.0  v0.anthill.vn
@@ -80974,6 +80992,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  xn--2qu92fhtx4ff.site
 0.0.0.0  xn--2qux23c9ziyrq.icu
 0.0.0.0  xn--2qux23confgml.club
+0.0.0.0  xn--2ssq0ktxigkq.cc
 0.0.0.0  xn--2ssq0ktxigkq.com
 0.0.0.0  xn--30986-udb.biz
 0.0.0.0  xn--80aaewcawie.xn--p1ai
