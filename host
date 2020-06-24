@@ -8,7 +8,7 @@
 #
 # Last update: 2020-06-24
 #
-# Number of blocked domains:  82561
+# Number of blocked domains:  82565
 #
 # ===============================================================
 
@@ -46411,6 +46411,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  o.domob.cn
 0.0.0.0  o.fandango.com
 0.0.0.0  o.fanwanshangmao1.cn
+0.0.0.0  o.fwmdafm.cn
 0.0.0.0  o.if.qidian.com
 0.0.0.0  o.if.qidian.com
 0.0.0.0  o.lj7t6e.cn
@@ -54820,6 +54821,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  s.giaoducthoidai.vn
 0.0.0.0  s.go-mpulse.net
 0.0.0.0  s.go.sohu.com
+0.0.0.0  s.goodkee.cn
 0.0.0.0  s.gyeet.com
 0.0.0.0  s.gygtxx.net
 0.0.0.0  s.haiyunx.com
@@ -54843,6 +54845,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  s.ivillage.us.intellitxt.com
 0.0.0.0  s.jandan.com
 0.0.0.0  s.jghcy.com
+0.0.0.0  s.jgtamgt.top
 0.0.0.0  s.jimdo.com
 0.0.0.0  s.jlminte.com
 0.0.0.0  s.jpush.cn
@@ -65880,6 +65883,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  v.afgr2.com
 0.0.0.0  v.akm.ssacdn.com
 0.0.0.0  v.algovid.com
+0.0.0.0  v.amghwdf.cn
 0.0.0.0  v.aty.sohu.com
 0.0.0.0  v.awmlkuu.cn
 0.0.0.0  v.behe.com
