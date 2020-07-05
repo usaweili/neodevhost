@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-05
 #
-# Number of blocked domains:  82702
+# Number of blocked domains:  82723
 #
 # ===============================================================
 
@@ -9380,6 +9380,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  andmlb.kshwtj.com
 0.0.0.0  andmlbf.tj.ijinshan.com
 0.0.0.0  andomedia.com
+0.0.0.0  andpeng.qushuba.com
 0.0.0.0  andpolice.com
 0.0.0.0  andpop.us.intellitxt.com
 0.0.0.0  andr.net
@@ -15030,6 +15031,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  c.webwise.org
 0.0.0.0  c.wechat.jx.cn
 0.0.0.0  c.wkanx.com
+0.0.0.0  c.wqmgmrb.cn
 0.0.0.0  c.wrating.com
 0.0.0.0  c.x.cn.miaozhen.com
 0.0.0.0  c.xhsxgmt.cn
@@ -22843,6 +22845,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  e.05yzt.cn
 0.0.0.0  e.0v15b.cn
 0.0.0.0  e.0wnz6g.cn
+0.0.0.0  e.11bl.gold
 0.0.0.0  e.131pu.cn
 0.0.0.0  e.16qijf.cn
 0.0.0.0  e.17w3a.cn
@@ -22934,6 +22937,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  e.as-eu.falkag.net
 0.0.0.0  e.asvcbnq.cn
 0.0.0.0  e.ayues.com
+0.0.0.0  e.b5wx1.cn
 0.0.0.0  e.baidu.com
 0.0.0.0  e.banmamedia.com
 0.0.0.0  e.bbvjs.com
@@ -23035,6 +23039,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  e.fxunn.com
 0.0.0.0  e.fzyda.com
 0.0.0.0  e.g71i1.cn
+0.0.0.0  e.g7wf6.cn
 0.0.0.0  e.gbieg.com
 0.0.0.0  e.gcaog.com
 0.0.0.0  e.gghh493.cn
@@ -23107,6 +23112,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  e.iyuey.com
 0.0.0.0  e.izaos.com
 0.0.0.0  e.izouo.com
+0.0.0.0  e.j9wd6.cn
 0.0.0.0  e.jackaow.com
 0.0.0.0  e.jbanb.com
 0.0.0.0  e.jbiev.com
@@ -24633,7 +24639,9 @@ ff02::3 ip6-allhosts
 0.0.0.0  eo.sdajxz.xyz
 0.0.0.0  eo.ssdoi.com
 0.0.0.0  eo.szimic.cn
+0.0.0.0  eo.unwif.xyz
 0.0.0.0  eo.wajsa.com
+0.0.0.0  eo.wtsgd.xyz
 0.0.0.0  eo.yhcrqzj.cn
 0.0.0.0  eo.zzbya.xyz
 0.0.0.0  eo.zzbyb.xyz
@@ -27179,6 +27187,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  free2.jp
 0.0.0.0  freeadult.games
 0.0.0.0  freeallsafe.com
+0.0.0.0  freeband.qushuba.com
 0.0.0.0  freebanner.com
 0.0.0.0  freebeacon.com
 0.0.0.0  freebiegb.co.uk
@@ -29237,6 +29246,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  gostats.ru
 0.0.0.0  gostyl.com
 0.0.0.0  gosvhpsc.com
+0.0.0.0  gosvtp.biquge.info
 0.0.0.0  got2goshop.com
 0.0.0.0  gothamads.com
 0.0.0.0  gothic4u.pl
@@ -31088,6 +31098,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  hotspotshield.com
 0.0.0.0  hotstar.pubnub.net
 0.0.0.0  hotstar.worldgravity.com
+0.0.0.0  hourwerxd.qushuba.com
 0.0.0.0  housead.xofapp.xyz
 0.0.0.0  houseads-prod.elasticbeanstalk.com
 0.0.0.0  houseads.ttpsdk.info
@@ -39160,6 +39171,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  m.0wnz6g.cn
 0.0.0.0  m.107279.com
 0.0.0.0  m.118ex.cn
+0.0.0.0  m.11bl.gold
 0.0.0.0  m.12306media.com
 0.0.0.0  m.1234567.com.cn
 0.0.0.0  m.12365chia.com
@@ -39364,6 +39376,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  m.b1zju.cn
 0.0.0.0  m.b2bchinese.cn
 0.0.0.0  m.b2fwnu.cn
+0.0.0.0  m.b5wx1.cn
 0.0.0.0  m.b6wabb.cn
 0.0.0.0  m.b93dpn.com
 0.0.0.0  m.baidu.com.zhiduo.org
@@ -39595,6 +39608,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  m.fzyda.com
 0.0.0.0  m.g1ao7q.cn
 0.0.0.0  m.g71i1.cn
+0.0.0.0  m.g7wf6.cn
 0.0.0.0  m.game.weibo.cn
 0.0.0.0  m.gameyun907.net
 0.0.0.0  m.ganrs.com
@@ -43007,6 +43021,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.8uqk.cn
 0.0.0.0  mo.97xrd.xyz
 0.0.0.0  mo.aaaw.xyz
+0.0.0.0  mo.alibdm.xyz
 0.0.0.0  mo.b25ku.cn
 0.0.0.0  mo.bkzisok.cn
 0.0.0.0  mo.bsxr.com.cn
@@ -43041,7 +43056,9 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.ssdoi.com
 0.0.0.0  mo.szimic.cn
 0.0.0.0  mo.test.haloapps.com
+0.0.0.0  mo.unwif.xyz
 0.0.0.0  mo.wajsa.com
+0.0.0.0  mo.wtsgd.xyz
 0.0.0.0  mo.xk218.cn
 0.0.0.0  mo.xm223.cn
 0.0.0.0  mo.yhcrqzj.cn
@@ -54920,6 +54937,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  s.uadx.com
 0.0.0.0  s.uc627.com
 0.0.0.0  s.uca6.com
+0.0.0.0  s.uidcn.top
 0.0.0.0  s.union.360.cn
 0.0.0.0  s.update.3lift.com
 0.0.0.0  s.update.adsrvr.org
@@ -62488,6 +62506,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  tkimpdsp.mobvista.com
 0.0.0.0  tkjdwcigpyazr.com
 0.0.0.0  tkkfmqbisu.com
+0.0.0.0  tkledj.biquge.info
 0.0.0.0  tkmdng.cn
 0.0.0.0  tkmedia-cache.aotter.net
 0.0.0.0  tkmedia.aotter.net
@@ -65897,6 +65916,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  v.vsimasd.pw
 0.0.0.0  v.vungle.com
 0.0.0.0  v.w-x.co
+0.0.0.0  v.wqmgmrb.cn
 0.0.0.0  v.xinshide.cn
 0.0.0.0  v.xiuzhenjewelry.cn
 0.0.0.0  v.xrooxeo.cn
@@ -80570,6 +80590,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  wzvlxncapmi.com
 0.0.0.0  wzwb.pl
 0.0.0.0  wzwetfprojnyx.com
+0.0.0.0  wzxcvb.m.23txt.com
 0.0.0.0  wzxdsgnqpnu.com
 0.0.0.0  wzzrquhn.com
 0.0.0.0  x-box.t35.com
