@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-05
 #
-# Number of blocked domains:  82699
+# Number of blocked domains:  82702
 #
 # ===============================================================
 
@@ -995,6 +995,7 @@ ff02::3 ip6-allhosts
 ||3188.engine.mobileapptracking.com^
 ||3193.api.swrve.com^
 ||31seconds.net^
+||31xs.cdn.bcebos.com^
 ||3204.api.swrve.com^
 ||3204.content.swrve.com^
 ||3211.tm.zedo.com^
@@ -24620,6 +24621,7 @@ ff02::3 ip6-allhosts
 ||eo.aaaw.xyz^
 ||eo.ccch.xyz^
 ||eo.euwyc.xyz^
+||eo.h7t2f.xyz^
 ||eo.lxujghc.cn^
 ||eo.nftqkq.cn^
 ||eo.nu2rx.xyz^
@@ -51951,6 +51953,7 @@ ff02::3 ip6-allhosts
 ||qerlbvqwsqtb.com^
 ||qerlrppx.com^
 ||qeuggztcqmashg.bid^
+||qeujmo.wap.xsbiquge.com^
 ||qevcxo.cn^
 ||qevfmwciyp.bid^
 ||qevivcixnngf.com^
