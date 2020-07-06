@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-06
 #
-# Number of blocked domains:  82626
+# Number of blocked domains:  82628
 #
 # ===============================================================
 
@@ -66586,11 +66586,13 @@ ff02::3 ip6-allhosts
 0.0.0.0  vip.51.la
 0.0.0.0  vip.adpiano.com
 0.0.0.0  vip.adstatic.com
+0.0.0.0  vip.aqd19.xyz
 0.0.0.0  vip.cainiaofx.com
 0.0.0.0  vip.cfcnet.top
 0.0.0.0  vip.clickzs.com
 0.0.0.0  vip.clickzzs.nl
 0.0.0.0  vip.fortunatetime.xyz
+0.0.0.0  vip.huijujiavip.com
 0.0.0.0  vip.hyz86.com
 0.0.0.0  vip.id528.com
 0.0.0.0  vip.jiangrenzhiguo.com
