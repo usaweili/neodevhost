@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-06
 #
-# Number of blocked domains:  82766
+# Number of blocked domains:  82767
 #
 # ===============================================================
 
@@ -39834,6 +39834,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  m.jzvog.cn
 0.0.0.0  m.k079j.cn
 0.0.0.0  m.k2d98mi.cn
+0.0.0.0  m.k9wz7.cn
 0.0.0.0  m.kafka8.com
 0.0.0.0  m.kanghuaixin.cn
 0.0.0.0  m.kbwmt.cn
