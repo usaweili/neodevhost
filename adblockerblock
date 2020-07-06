@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-06
 #
-# Number of blocked domains:  82768
+# Number of blocked domains:  82769
 #
 # ===============================================================
 
@@ -53818,6 +53818,7 @@ ff02::3 ip6-allhosts
 ||rightmedia.com^
 ||rightmedia.net^
 ||rightmoveanalytics.co.uk^
+||rightnative.com^
 ||rightstats.com^
 ||rightwingnews.com^
 ||rigoczly.com^
