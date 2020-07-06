@@ -59,7 +59,7 @@ done
 sed -i '/\]/d' tmpblock
 sed -i '/\[/d' tmpblock
 
-sed -i '/:/d' tmpblock
+#sed -i '/:/d' tmpblock
 sed -i '/#/d' tmpblock
 sed -i '/ɢ/d' tmpblock
 sed -i '/\!/d' tmpblock
