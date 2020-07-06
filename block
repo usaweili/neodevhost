@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-06
 #
-# Number of blocked domains:  82767
+# Number of blocked domains:  82768
 #
 # ===============================================================
 
@@ -56873,6 +56873,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  service.mm-r-prop-11-16-2.com
 0.0.0.0  service.multi-pops.com
 0.0.0.0  service.persianstat.com
+0.0.0.0  service.rightnativecontent.com
 0.0.0.0  service.sp.advertising.com
 0.0.0.0  service.sponsorpay.com
 0.0.0.0  service.trustclick.ne.jp
