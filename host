@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-08
 #
-# Number of blocked domains:  87390
+# Number of blocked domains:  87394
 #
 # ===============================================================
 
@@ -29396,6 +29396,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  eo.euwyc.xyz
 0.0.0.0  eo.h7t2f.xyz
 0.0.0.0  eo.jlzfe.xyz
+0.0.0.0  eo.lfpna.xyz
 0.0.0.0  eo.lxujghc.cn
 0.0.0.0  eo.nftqkq.cn
 0.0.0.0  eo.nrtgc.xyz
@@ -44518,6 +44519,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  m.izuis.com
 0.0.0.0  m.j06kc.cn
 0.0.0.0  m.j5s9b.cn
+0.0.0.0  m.j9wd6.cn
 0.0.0.0  m.jackaow.com
 0.0.0.0  m.jbanb.com
 0.0.0.0  m.jc9388.com
@@ -47798,6 +47800,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.euwyc.xyz
 0.0.0.0  mo.grqf.com.cn
 0.0.0.0  mo.gsasqa.cn
+0.0.0.0  mo.h7t2f.xyz
 0.0.0.0  mo.haloapps.cn
 0.0.0.0  mo.hc872.cn
 0.0.0.0  mo.jlzfe.xyz
@@ -47805,6 +47808,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.keilb.xyz
 0.0.0.0  mo.l29qi.xyz
 0.0.0.0  mo.lbmx.com.cn
+0.0.0.0  mo.lfpna.xyz
 0.0.0.0  mo.mktrkn.cn
 0.0.0.0  mo.mptckm.cn
 0.0.0.0  mo.mu5b.cn
