@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-08
 #
-# Number of blocked domains:  87389
+# Number of blocked domains:  87390
 #
 # ===============================================================
 
@@ -18834,6 +18834,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  bounce.emxdgt.com
 0.0.0.0  bounceads.net
 0.0.0.0  bounceexchange.com
+0.0.0.0  bourewsr.qushuba.com
 0.0.0.0  bovada.lv
 0.0.0.0  bowithow.com
 0.0.0.0  bowlgirl.com
