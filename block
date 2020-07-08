@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-08
 #
-# Number of blocked domains:  87523
+# Number of blocked domains:  87532
 #
 # ===============================================================
 
@@ -13389,6 +13389,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  alibaba.zzux.com
 0.0.0.0  alibabaslots.com
 0.0.0.0  alibestsale.com
+0.0.0.0  alicc.txsadql.cn
 0.0.0.0  alicdnv2.sitemonitor.cn.miaozhen.com
 0.0.0.0  alice20.free.fr
 0.0.0.0  aliciatrans.free.fr
@@ -29440,12 +29441,15 @@ ff02::3 ip6-allhosts
 0.0.0.0  eo.ccch.xyz
 0.0.0.0  eo.euwyc.xyz
 0.0.0.0  eo.h7t2f.xyz
+0.0.0.0  eo.jlzfe.xyz
 0.0.0.0  eo.lxujghc.cn
 0.0.0.0  eo.nftqkq.cn
+0.0.0.0  eo.nrtgc.xyz
 0.0.0.0  eo.nu2rx.xyz
 0.0.0.0  eo.nunxi.xyz
 0.0.0.0  eo.osvp2.cn
 0.0.0.0  eo.ou6d.cn
+0.0.0.0  eo.pyntb.xyz
 0.0.0.0  eo.sdafxz.xyz
 0.0.0.0  eo.sdagxz.xyz
 0.0.0.0  eo.sdajxz.xyz
@@ -37983,6 +37987,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  in.hkfuy.com
 0.0.0.0  in.hystq.com
 0.0.0.0  in.jghcy.com
+0.0.0.0  in.jinlubaojie.cn
 0.0.0.0  in.joinourwebsite.com
 0.0.0.0  in.jxhcyc.com
 0.0.0.0  in.mengpr.com
@@ -47869,6 +47874,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.gsasqa.cn
 0.0.0.0  mo.haloapps.cn
 0.0.0.0  mo.hc872.cn
+0.0.0.0  mo.jlzfe.xyz
 0.0.0.0  mo.jy73d.xyz
 0.0.0.0  mo.keilb.xyz
 0.0.0.0  mo.l29qi.xyz
@@ -47876,11 +47882,13 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.mktrkn.cn
 0.0.0.0  mo.mptckm.cn
 0.0.0.0  mo.mu5b.cn
+0.0.0.0  mo.nrtgc.xyz
 0.0.0.0  mo.nunxi.xyz
 0.0.0.0  mo.oneshouyou.cn
 0.0.0.0  mo.osvp2.cn
 0.0.0.0  mo.ot1n.cn
 0.0.0.0  mo.ou6d.cn
+0.0.0.0  mo.pyntb.xyz
 0.0.0.0  mo.qb138.cn
 0.0.0.0  mo.qitouch.cn
 0.0.0.0  mo.res.wpscdn.cn
@@ -79055,6 +79063,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  www.jewsnews.co.il
 0.0.0.0  www.jezyk-norwesk.pl
 0.0.0.0  www.jezykobcywdomu.eu
+0.0.0.0  www.jfsdiwmnbsk003.top
 0.0.0.0  www.jiedaibao.com
 0.0.0.0  www.jihadwatch.org
 0.0.0.0  www.jihehuaban.com

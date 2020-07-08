@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-08
 #
-# Number of blocked domains:  87523
+# Number of blocked domains:  87532
 #
 # ===============================================================
 
@@ -13389,6 +13389,7 @@ ff02::3 ip6-allhosts
 ||alibaba.zzux.com^
 ||alibabaslots.com^
 ||alibestsale.com^
+||alicc.txsadql.cn^
 ||alicdnv2.sitemonitor.cn.miaozhen.com^
 ||alice20.free.fr^
 ||aliciatrans.free.fr^
@@ -29440,12 +29441,15 @@ ff02::3 ip6-allhosts
 ||eo.ccch.xyz^
 ||eo.euwyc.xyz^
 ||eo.h7t2f.xyz^
+||eo.jlzfe.xyz^
 ||eo.lxujghc.cn^
 ||eo.nftqkq.cn^
+||eo.nrtgc.xyz^
 ||eo.nu2rx.xyz^
 ||eo.nunxi.xyz^
 ||eo.osvp2.cn^
 ||eo.ou6d.cn^
+||eo.pyntb.xyz^
 ||eo.sdafxz.xyz^
 ||eo.sdagxz.xyz^
 ||eo.sdajxz.xyz^
@@ -37983,6 +37987,7 @@ ff02::3 ip6-allhosts
 ||in.hkfuy.com^
 ||in.hystq.com^
 ||in.jghcy.com^
+||in.jinlubaojie.cn^
 ||in.joinourwebsite.com^
 ||in.jxhcyc.com^
 ||in.mengpr.com^
@@ -47869,6 +47874,7 @@ ff02::3 ip6-allhosts
 ||mo.gsasqa.cn^
 ||mo.haloapps.cn^
 ||mo.hc872.cn^
+||mo.jlzfe.xyz^
 ||mo.jy73d.xyz^
 ||mo.keilb.xyz^
 ||mo.l29qi.xyz^
@@ -47876,11 +47882,13 @@ ff02::3 ip6-allhosts
 ||mo.mktrkn.cn^
 ||mo.mptckm.cn^
 ||mo.mu5b.cn^
+||mo.nrtgc.xyz^
 ||mo.nunxi.xyz^
 ||mo.oneshouyou.cn^
 ||mo.osvp2.cn^
 ||mo.ot1n.cn^
 ||mo.ou6d.cn^
+||mo.pyntb.xyz^
 ||mo.qb138.cn^
 ||mo.qitouch.cn^
 ||mo.res.wpscdn.cn^
@@ -79055,6 +79063,7 @@ ff02::3 ip6-allhosts
 ||www.jewsnews.co.il^
 ||www.jezyk-norwesk.pl^
 ||www.jezykobcywdomu.eu^
+||www.jfsdiwmnbsk003.top^
 ||www.jiedaibao.com^
 ||www.jihadwatch.org^
 ||www.jihehuaban.com^
