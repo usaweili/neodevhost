@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-13
 #
-# Number of blocked domains:  115809
+# Number of blocked domains:  115815
 #
 # ===============================================================
 
@@ -21946,6 +21946,7 @@ ff02::3 ip6-allhosts
 ||c75b9ac5103e5d125b8.com^
 ||c7a54a18ef10e6b744d6f367a3313cfc.api.appsee.com^
 ||c7d470df880b1d0.com^
+||c7e935.netlify.com^
 ||c8.amazingcounters.com^
 ||c8.net.ua^
 ||c8.statcounter.com^
@@ -28175,6 +28176,7 @@ ff02::3 ip6-allhosts
 ||cryptosearch.site^
 ||cryptotab.net^
 ||cryptotradecentr.com^
+||cryptown.netlify.com^
 ||crystalads.afftrack.com^
 ||crystalmart.cn^
 ||crystalslot.com^
@@ -36740,6 +36742,7 @@ ff02::3 ip6-allhosts
 ||events.browsiprod.com^
 ||events.chaordicsystems.com^
 ||events.cid.samba.tv^
+||events.data.microsoft.com^
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
@@ -65018,7 +65021,6 @@ ff02::3 ip6-allhosts
 ||netinsight.co.kr^
 ||netko0o.com^
 ||netleaders.com^
-||netlify.com^
 ||netliker.com^
 ||netlivemedia.com^
 ||netloader.cc^
@@ -89824,6 +89826,7 @@ ff02::3 ip6-allhosts
 ||thelastgreatstand.com^
 ||thelastlineofdefense.org^
 ||thelibraryofcongress.122.2o7.net^
+||thelifeisbinary.netlify.com^
 ||thelifeness.pl^
 ||thelotter.com^
 ||theloungenet.com^
@@ -102084,6 +102087,7 @@ ff02::3 ip6-allhosts
 ||www.c2.thecounter.de^
 ||www.c4dl.com^
 ||www.c77777777.com^
+||www.c7e935.netlify.com^
 ||www.caal.pl^
 ||www.cabeles.com^
 ||www.cablyshaw.com^
@@ -102717,6 +102721,7 @@ ff02::3 ip6-allhosts
 ||www.cryptonoter.com^
 ||www.cryptoprofit.best^
 ||www.cryptotradecentr.com^
+||www.cryptown.netlify.com^
 ||www.cs-czosnusie.cba.pl^
 ||www.cs-kancelaria.pl^
 ||www.cs-podhale.pl^
@@ -109946,6 +109951,7 @@ ff02::3 ip6-allhosts
 ||www.thegreek.com^
 ||www.thehomo.org^
 ||www.thelibertybeacon.com^
+||www.thelifeisbinary.netlify.com^
 ||www.thelifeness.pl^
 ||www.thelotter.com^
 ||www.themacuser.org^
