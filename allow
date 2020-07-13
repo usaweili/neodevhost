@@ -56,6 +56,8 @@ a.shifen.com
 a.stat.xiaomi.com
 a1014.g.akamai.net
 a3.mzstatic.com
+a463.w10.akamai.net
+a790.w16.akamai.net
 abc.com
 abcnews.go.com
 abcya.com
@@ -66,6 +68,7 @@ accounts.gstatic.com
 accounts.youtube.com
 acctcdn.msftauth.net
 accuweather.com
+acdn.adnxs.com
 acehardware.com
 acg.fun
 acg.tv
@@ -89,6 +92,7 @@ adblock.ee
 adblock.mahakala.is
 addthis.com
 addthisedge.com
+adf.ly
 adguard.com
 adidas.com
 adinfo.ra1.xlmc.sec.miui.com
@@ -100,6 +104,7 @@ adtidy.org
 adv.sec.miui.com
 advanceautoparts.com
 adwords.google.com
+ae01.alicdn.com
 agoodm.m.taobao.com
 ai.m.taobao.com
 ai.mi.com
@@ -133,7 +138,9 @@ amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
+amd.cdn.turner.com
 amplitude.com
+amzn.com
 amzn.to
 analytics.google.com
 analytics.quizizz.com
@@ -154,8 +161,10 @@ api.io.mi.com
 api.ipify.org
 api.open.uc.cn
 api.plickers.com
+api.pluto.tv
 api.quizlet.com
 api.rlje.net
+api.sbs.com.au
 api.tw06.xlmc.sandai.net
 api.twitter.com
 api.waptest.taobao.com
@@ -191,11 +200,13 @@ ask.fm
 askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
+assets.adobedtm.com
 assistant.pandora.xiaomi.com/config
 asus.com
 attestation.xboxlive.com
 au.download.windowsupdate.com
 audible.com
+audio-ake.spotify.com.edgesuite.net
 avsforum.com
 ax.init.itunes.apple.com
 ax.itunes.apple.com
@@ -285,6 +296,7 @@ cd.800wen.com
 cda.pl
 cdn-content-prod.drcedirect.com
 cdn-download-prod.drcedirect.com
+cdn-mobile.api.pluto.tv
 cdn.abc.eamobile.com
 cdn.ark.qq.com
 cdn.cloudflare.net
@@ -293,6 +305,7 @@ cdn.discordapp.com
 cdn.eadms.com
 cdn.edgesuite.net
 cdn.embedly.com
+cdn.fbsbx.com
 cdn.fluidplayer.com
 cdn.fontawesome.com
 cdn.jscloudflare.com
@@ -303,16 +316,20 @@ cdn.optimizely.com
 cdn.plyr.io
 cdn.radiantmediatechs.com
 cdn.rawgit.com
+cdn.refersion.com
+cdn.samsungcloudsolution.com
 cdn.smoot.apple.com
 cdn.staticaly.com
 cdn.staticfile.org/jquery/1.7.2/jquery.min.js
 cdn.staticfile.org/jquery/2.1.4/jquery.min.js id97.com
 cdn.viblast.com
 cdn.vidible.tv
+cdn1.smartadserver.com
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdninstagram.com
 cdnjs.cloudflare.com
+cdns.gigya.com
 cdnsg.mosyle.com
 cengage.com
 centralaccess.net
@@ -359,6 +376,7 @@ code.jquery.com
 code.org
 code.responsivevoice.org
 codeorigin.jquery.com
+cognito-identity.us-east-1.amazonaws.com
 coles.com.au
 collegehumor.com
 commondatastorage.googleapis.com
@@ -393,6 +411,8 @@ ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
 cvs.com
+cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
 d2c87l0yth4zbw.cloudfront.net
@@ -409,6 +429,7 @@ dataplicity.com
 datei.to
 db.local.clamav.net
 dc.services.visualstudio.com
+dcs-vod.apis.anvato.net
 de.imgbb.com to use them in an forum.
 debian.org
 def-vef.xboxlive.com
@@ -417,11 +438,15 @@ dell.com
 demo-staging.jifflenow.com
 demotywatory.pl
 denis-ovs.narod.ru
+det-ta-g7g.amazon.com
 dev.twitter.com
 dev.virtualearth.net
 developer.twitter.com
 developers.facebook.com
 developers.google.com
+device-messaging-na.amazon.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
 device.auth.xboxlive.com
 dfnews.rdtuijian.com
 dhfs.oppomobile.com oppo
@@ -432,6 +457,7 @@ digicert.com
 digitalriver.com
 digitaltrends.com
 directory.services.live.com
+directvapplications.hb.omtrdc.net
 directvnow.com
 discordapp.com
 discovermagazine.com
@@ -477,12 +503,14 @@ drive.google.com
 dropbox.com
 dropbox.comdl.dropbox.com
 drupalstaging.provexam.com
+dsms0mj1bbhn4.cloudfront.net
 dtk.drcedirect.com
 duckduckgo.com
 dxp.baidu.com
 dynupdate.no-ip.com
 e.crashlytics.com
 e3489.cd.akamaiedge.net
+e7065.e2.akamaiedge.net
 ea.com
 eadms.com
 east-l-drc-wbte-prod-ll.s3.amazonaws.com
@@ -501,6 +529,8 @@ echocdn.com
 echosign.com
 ecn.dev.virtualearth.net
 ecx.images-amazon.com
+edge-chat.facebook.com
+edge-mqtt.facebook.com
 edge.api.brightcove.com
 edgesuite.net
 edhelper.com
@@ -512,10 +542,12 @@ en.bab.la
 encrypted-tbn0.gstatic.com
 energyaustralia.com.au
 engadget.com
+entitlement.auth.adobe.com
 eonline.com
 epicgames.com
 espn.com
 eventbus.learnosity.com
+events.gfe.nvidia.com
 events.learnosity.com
 ew.com
 example.com
@@ -533,10 +565,13 @@ external-lhr6-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
+f1.media.brightcove.com
 facebook.com
+facebook.net
 familydollar.com
 fb.com
 fbcdn-creative-a.akamaihd.net
+fbcdn.net
 fcanr.tracking.miui.com
 fd.shouji.360.cn
 feed.baidu.com
@@ -578,6 +613,7 @@ forums.sonarr.tv
 forums.techguy.org
 forums.whirlpool.net.au
 fp.msedge.net
+fpdownload.adobe.com
 fr.osdn.net
 free.hitnews.com
 freebsd.org
@@ -631,6 +667,7 @@ godaddy.com
 gog.com
 gome.com.cn
 goo.gl
+google-analytics.com
 googleadservices.com
 googleapis.com
 googlesyndication.com
@@ -640,6 +677,7 @@ gosignmeup.com
 gou.wps.cn
 gp.se
 graph.facebook.com
+graph.instagram.com
 gravatar.com
 greasyfork.org
 groupon.com
@@ -673,6 +711,7 @@ hoopshype.com
 horseanswerstoday.com
 hosts-file.net
 hostsfile.mine.nu
+hostsfile.org
 hot.m.shouji.360tpcdn.com
 hotmail.com
 houston.cbslocal.com
@@ -684,6 +723,7 @@ hudl.com
 hulkshare.com
 hulu.com
 humankinetics.com
+i.cdn.turner.com
 i.ebayimg.com
 i.flow.browser.oppomobile.com
 i.imgur.com
@@ -722,6 +762,7 @@ images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images.google.com
+images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
 images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
@@ -754,6 +795,7 @@ inoreader.com
 ins.francotyp.com
 ins2.francotyp.com
 insomniagamingfestival.com
+instagram.c10r.facebook.com
 instagram.com
 instantmessaging-pa.googleapis.com
 intego.com
@@ -832,10 +874,12 @@ licensing.xboxlive.com
 lifehacker.com
 light.ifmo.ru
 limtu.ifmo.ru
+link.theplatform.com
 linkedin.com
 live.com
 live.net
 livefilestore.com
+livepassdl.conviva.com
 livestream.com
 ll-insight-client.drcedirect.com
 ll-insight.drcedirect.com
@@ -851,6 +895,7 @@ login.microsoftonline.com
 logmein-gateway.com
 logmein.com
 losangeles.cbslocal.com
+lotustalk.com
 lowes.com
 lsteam.org
 lublin.tvp.pl
@@ -872,6 +917,7 @@ majorgeeks.com
 malwaredomainlist.com
 malwaredomains.lehigh.edu
 malwareurls.joxeankoret.com
+manifest.auditude.com
 manifest.googlevideo.com
 map-mobile-lbsapp.cdn.bcebos.com
 map.baidu.com
@@ -879,6 +925,7 @@ maps.google.com
 maps.googleapis.com
 maps.gstatic.com
 margevicius.lt
+market.spotify.com
 marketplace.visualstudio.com
 marketwatch.com
 mashable.com
@@ -892,6 +939,7 @@ mdek12.org
 media.jasonfoundation.com
 media.licdn.com
 media.quizizz.com
+media.sbs.com.au
 mediafire.com
 mediamarkt.at
 mediamarkt.de
@@ -932,11 +980,13 @@ mlb.com
 mlog.search.xiaomi.net
 mls.com
 mo.baidu.com
+mobile-ap.spotify.com
 mobile.pipe.aria.microsoft.com
 mosyle.com
 movies.netflix.com
 mozillazine.org
 mp.weixinbridge.com
+mqtt-mini.facebook.com
 ms-sampler.nextera.questarai.com
 ms.nextera.questarai.com
 ms0400.activeschool.net
@@ -1018,6 +1068,7 @@ oboom.com
 observer.com
 ocsp.apple.com
 ocsp.digicert.com
+ocsp.rootg2.amazontrust.com
 ocsp.thawte.com
 ocsp.verisign.net
 odcdn.com
@@ -1067,6 +1118,7 @@ opinion.latimes.com
 orange.fr
 osnews.com
 ot.eadms.com
+ota-downloads.nvidia.com
 ouo.io
 outlook.com
 outlook.live.com
@@ -1110,6 +1162,7 @@ pingtcss.qq.com
 pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
+pixel.nymag.com
 pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
@@ -1128,10 +1181,12 @@ player.pl
 player.radio.com
 player.vimeo.com
 players.brightcove.net
+players.pluto.tv
 playstation.com
 plex.tv
 plugins.longtailvideo.com
 plus.google.com
+pmd.cdn.turner.com
 pochta.ru
 postimage.org
 pp.uc.cn
@@ -1140,6 +1195,7 @@ pricelist.skype.com
 prisjakt.nu
 privacy.microsoft.com
 prnt.sc
+prod.telemetry.ros.rockstargames.com
 prodigygame.com
 products.office.com
 promodj.com
@@ -1204,6 +1260,7 @@ report-uri.com
 res.cloudinary.com
 resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
+resources.sbs.com.au
 ris.api.iris.microsoft.com
 rl.go2yd.com
 road.adblock.ro
@@ -1217,6 +1274,7 @@ rzeszow.tvp.pl
 s-passets-cache-ak0.pinimg.com
 s-static.ak.facebook.com
 s.360.cn
+s.cdn.turner.com
 s.click.taobao.com
 s.click.tmall.com
 s.gateway.messenger.live.com
@@ -1229,11 +1287,13 @@ s.wasu.cn css js
 s.yimg.com
 s.youtube.com
 s.ytimg.com
+s.zkcdn.net
 s0.mp.sohu.com
 s1.symcb.com
 s1.wp.com
 s2.symcb.com
 s2.youtube.com
+s3-eu-west-1.amazonaws.com
 s3.amazonaws.com
 s3.symcb.com
 s4.symcb.com
@@ -1244,9 +1304,12 @@ sacramento.cbslocal.com
 samsung.com
 sanfrancisco.cbslocal.com
 satkurier.pl
+sbs.com.au
+sbsvodns-vh.akamaihd.net
 sch-2357.mosyle.com
 scontent-iad3-1.cdninstagram.com
 scontent-lhr3-1.xx.fbcdn.net
+scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
@@ -1276,6 +1339,7 @@ settings-sandbox.data.microsoft.com
 sfrpx.com
 sg.a.stat.mi.com
 share-online.biz
+shareaholic.com
 sharepoint.com
 shark.douyucdn.cn
 sheppardsoftware.com
@@ -1285,6 +1349,8 @@ shop.lego.com
 shop.samsung.com
 shouji.360.cn
 siatka.org
+silo.pluto.tv
+siloh.pluto.tv
 simba.m.taobao.com
 simba.taobao.com
 simg.sinajs.cn
@@ -1319,9 +1385,11 @@ sports.yahoo.com
 spotify.com
 sptsuniversity.org
 sqm.microsoft.com
+sqs.us-east-1.amazonaws.com
 ss0.bdstatic.com
 ssl-images-amazon.com
 ssl.gonoodle.com
+ssl.google-analytics.com
 ssl.gstatic.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
@@ -1348,11 +1416,13 @@ static.ws.126.net
 static.www.odcdn.com.edgekey.net
 static.xx.fbcdn.net
 staticlive.douyucdn.cn
+stats.streamelements.com
 statsfe1.ws.microsoft.com
 statsfe2.ws.microsoft.com
 status.plex.tv
 stdl.qq.com
 steamcommunity.com
+stitcher.pluto.tv
 stopklatka.pl
 storage.googleapis.com
 storage.live.com
@@ -1416,6 +1486,7 @@ theverge.com
 thumbs.videopress.com
 thumbs2.imgbox.com
 time.com
+time.samsungcloudsolution.com
 time.windows.com
 timeanddate.com
 tinypic.com
@@ -1427,6 +1498,7 @@ tlc.com
 tld-list.com
 tmblr.co
 tmz.com
+todo-ta-g7g.amazon.com
 tofukko.r.ribbon.to
 tomshardware.com
 tongji.baidu.com
@@ -1437,6 +1509,7 @@ toshiba.com.au
 toutiao.com
 toysrus.com
 track.uc.cn
+track.ucas.com
 tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
@@ -1465,6 +1538,7 @@ typinginstructorkids.com
 ubuntuforums.org
 ucan.25pp.com
 ui.skype.com
+unagi-na.amazon.com
 unibytes.com
 union-click.jd.com
 union.dbba.cn
@@ -1476,6 +1550,7 @@ update.code.visualstudio.com
 updates-http.cdn-apple.com
 updates.hudl.com
 upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net
+upgrade.scdn.com
 upload-apne1-hudlvid.s3.amazonaws.com
 upload-apse1-hudlvid.s3.amazonaws.com
 upload-apse2-hudlvid.s3.amazonaws.com
@@ -1489,6 +1564,7 @@ uploaded.net
 uploaded.to
 uptobox.com
 urlhaus.abuse.ch
+us-east-1.amazonaws.com
 us.coca-cola.com
 use.fontawesome.com
 use.typekit.net
@@ -1499,6 +1575,8 @@ v.firebog.net
 v.pinimg.com
 v.shopify.com
 v0.wordpress.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
 variety.com
 variety.tc.qq.com
 vasapi.rdtuijian.com
@@ -1510,6 +1588,7 @@ vgy.me
 vice.com
 video-stats.l.google.com
 video.google.com
+videocdn-sbs.akamaized.net
 videocopilot.net
 videolan.org
 videopress.com
@@ -1586,21 +1665,29 @@ ws.audioscrobbler.com
 wt.logmein.com
 wtkr.com
 www.3533.com
+www.adf.ly
 www.apple.com
 www.baidu.com
+www.bit.ly
 www.dataplicity.com
 www.drcedirect.com
 www.duba.com
 www.gongzhushe.com
+www.google-analytics.com
 www.googleapis.com
 www.gstatic.com
 www.gugeys.com
 www.hao123.com
 www.imageto.org
 www.jbaobao.com
+www.lotustalk.com
 www.maibanu.com
 www.msftncsi.com
 www.no-ip.com
+www.openload.co
+www.ow.ly
+www.refersion.com
+www.sbs.com.au
 www.taiwanlottery.com.tw
 www.youtube-nocookie.com
 wykop.pl
@@ -1629,6 +1716,7 @@ ytimg.l.google.com
 yun.duiba.com.cn
 yunfile.com
 z-ecx.images-amazon.com
+z.cdn.turner.com
 zajefajna.com
 zeustracker.abuse.ch
 zhushou.360.cnremotedatasecurity.net
