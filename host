@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-13
 #
-# Number of blocked domains:  82610
+# Number of blocked domains:  82620
 #
 # ===============================================================
 
@@ -2588,6 +2588,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  accscdn.m.taobao.com
 0.0.0.0  accuweather.us.intellitxt.com
 0.0.0.0  acdektqffm.com
+0.0.0.0  acdn.adnxs.com
 0.0.0.0  acduswfvyjylzq.com
 0.0.0.0  ace-skins.com
 0.0.0.0  ace.adoftheyear.com
@@ -4064,6 +4065,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  adf.dahe.cn
 0.0.0.0  adf.ero-advertising.com
 0.0.0.0  adf.fc2.com
+0.0.0.0  adf.ly
 0.0.0.0  adf.send.microad.jp
 0.0.0.0  adf.shinobi.jp
 0.0.0.0  adfactor.nl
@@ -16357,6 +16359,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  cdn1.rmgserving.com
 0.0.0.0  cdn1.rungrinh.vn
 0.0.0.0  cdn1.skinected.com
+0.0.0.0  cdn1.smartadserver.com
 0.0.0.0  cdn1.sponsorpay.com
 0.0.0.0  cdn1.srv.revdepo.com
 0.0.0.0  cdn1.steelhousemedia.com
@@ -21149,6 +21152,8 @@ ff02::3 ip6-allhosts
 0.0.0.0  deviantart-d.openx.net
 0.0.0.0  deviantart.crwdcntrl.net
 0.0.0.0  device-api.urbanairship.com
+0.0.0.0  device-metrics-us-2.amazon.com
+0.0.0.0  device-metrics-us.amazon.com
 0.0.0.0  device.4seeresults.com
 0.0.0.0  device.maxmind.com
 0.0.0.0  deviceidshare.twitch.tv
@@ -29165,6 +29170,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  googfle.com
 0.0.0.0  googieapp.com
 0.0.0.0  google-activity.pw
+0.0.0.0  google-analytics.com
 0.0.0.0  google-analytics.com
 0.0.0.0  google-docs.info
 0.0.0.0  google-docs.org
@@ -54966,6 +54972,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  s.zeroredirect.com
 0.0.0.0  s.zgclmw.cn
 0.0.0.0  s.zjhoudao.com
+0.0.0.0  s.zkcdn.net
 0.0.0.0  s.zlongad.com
 0.0.0.0  s.zp0573.cn
 0.0.0.0  s0-2mdn-net.l.google.com
@@ -57090,6 +57097,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  share.yandex.ru
 0.0.0.0  shareably-d.openx.net
 0.0.0.0  shareadspace.com
+0.0.0.0  shareaholic.com
 0.0.0.0  shareasale.com
 0.0.0.0  shareaza.com
 0.0.0.0  sharebar.addthiscdn.com
@@ -58951,6 +58959,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  ssl.eroscomix.com
 0.0.0.0  ssl.full-secure-payments.online
 0.0.0.0  ssl.gft2.de
+0.0.0.0  ssl.google-analytics.com
 0.0.0.0  ssl.gridsumdissector.com
 0.0.0.0  ssl.hit.stat24.com
 0.0.0.0  ssl.hp-china.biz
@@ -73275,6 +73284,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  www.goody-garage.com
 0.0.0.0  www.googieapp.com
 0.0.0.0  www.googkle.com
+0.0.0.0  www.google-analytics.com
 0.0.0.0  www.google-docs.info
 0.0.0.0  www.google-docs.org
 0.0.0.0  www.googleadservices.com

@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-13
 #
-# Number of blocked domains:  82610
+# Number of blocked domains:  82620
 #
 # ===============================================================
 
@@ -2588,6 +2588,7 @@ ff02::3 ip6-allhosts
 ||accscdn.m.taobao.com^
 ||accuweather.us.intellitxt.com^
 ||acdektqffm.com^
+||acdn.adnxs.com^
 ||acduswfvyjylzq.com^
 ||ace-skins.com^
 ||ace.adoftheyear.com^
@@ -4064,6 +4065,7 @@ ff02::3 ip6-allhosts
 ||adf.dahe.cn^
 ||adf.ero-advertising.com^
 ||adf.fc2.com^
+||adf.ly^
 ||adf.send.microad.jp^
 ||adf.shinobi.jp^
 ||adfactor.nl^
@@ -16357,6 +16359,7 @@ ff02::3 ip6-allhosts
 ||cdn1.rmgserving.com^
 ||cdn1.rungrinh.vn^
 ||cdn1.skinected.com^
+||cdn1.smartadserver.com^
 ||cdn1.sponsorpay.com^
 ||cdn1.srv.revdepo.com^
 ||cdn1.steelhousemedia.com^
@@ -21149,6 +21152,8 @@ ff02::3 ip6-allhosts
 ||deviantart-d.openx.net^
 ||deviantart.crwdcntrl.net^
 ||device-api.urbanairship.com^
+||device-metrics-us-2.amazon.com^
+||device-metrics-us.amazon.com^
 ||device.4seeresults.com^
 ||device.maxmind.com^
 ||deviceidshare.twitch.tv^
@@ -29165,6 +29170,7 @@ ff02::3 ip6-allhosts
 ||googfle.com^
 ||googieapp.com^
 ||google-activity.pw^
+||google-analytics.com^
 ||google-analytics.com^
 ||google-docs.info^
 ||google-docs.org^
@@ -54966,6 +54972,7 @@ ff02::3 ip6-allhosts
 ||s.zeroredirect.com^
 ||s.zgclmw.cn^
 ||s.zjhoudao.com^
+||s.zkcdn.net^
 ||s.zlongad.com^
 ||s.zp0573.cn^
 ||s0-2mdn-net.l.google.com^
@@ -57090,6 +57097,7 @@ ff02::3 ip6-allhosts
 ||share.yandex.ru^
 ||shareably-d.openx.net^
 ||shareadspace.com^
+||shareaholic.com^
 ||shareasale.com^
 ||shareaza.com^
 ||sharebar.addthiscdn.com^
@@ -58951,6 +58959,7 @@ ff02::3 ip6-allhosts
 ||ssl.eroscomix.com^
 ||ssl.full-secure-payments.online^
 ||ssl.gft2.de^
+||ssl.google-analytics.com^
 ||ssl.gridsumdissector.com^
 ||ssl.hit.stat24.com^
 ||ssl.hp-china.biz^
@@ -73275,6 +73284,7 @@ ff02::3 ip6-allhosts
 ||www.goody-garage.com^
 ||www.googieapp.com^
 ||www.googkle.com^
+||www.google-analytics.com^
 ||www.google-docs.info^
 ||www.google-docs.org^
 ||www.googleadservices.com^
