@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-14
 #
-# Number of blocked domains:  115964
+# Number of blocked domains:  115966
 #
 # ===============================================================
 
@@ -29033,6 +29033,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  d.phormlabs.com
 0.0.0.0  d.pixiv.org
 0.0.0.0  d.pub.network
+0.0.0.0  d.qchannel03.cn
 0.0.0.0  d.r10.mopub.com
 0.0.0.0  d.rcmd.jp
 0.0.0.0  d.refinedads.com
@@ -80986,6 +80987,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  sdk.g.uc.cn
 0.0.0.0  sdk.gplayspace.com
 0.0.0.0  sdk.gpowers.net
+0.0.0.0  sdk.guard.mob.com
 0.0.0.0  sdk.hansel.io
 0.0.0.0  sdk.hexia.io
 0.0.0.0  sdk.hockeyapp.net
