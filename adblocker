@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-15
 #
-# Number of blocked domains:  115993
+# Number of blocked domains:  116003
 #
 # ===============================================================
 
@@ -16289,6 +16289,7 @@ ff02::3 ip6-allhosts
 ||at.ontargetjobs.com^
 ||at.umeng.com^
 ||at1.doubanio.com^
+||at1.qingdou.net^
 ||at2.doubanio.com^
 ||at918.com^
 ||at98.com^
@@ -17232,6 +17233,7 @@ ff02::3 ip6-allhosts
 ||b2c-msm.marketo.com^
 ||b2c-wsinsight.crowdfactory.com^
 ||b2c.com^
+||b2pk.com^
 ||b3-eu.mookie1.com^
 ||b3-uk.mookie1.com^
 ||b3.jandan.net^
@@ -23053,6 +23055,7 @@ ff02::3 ip6-allhosts
 ||cdn.avantisvideo.com^
 ||cdn.avazutracking.net^
 ||cdn.ayads.co^
+||cdn.b2pk.com^
 ||cdn.banner.thumbplay.com^
 ||cdn.bannerflow.com^
 ||cdn.banners.scubl.com^
@@ -35943,7 +35946,9 @@ ff02::3 ip6-allhosts
 ||eo.ccch.xyz^
 ||eo.cyfk896.top^
 ||eo.cyhr992.top^
+||eo.cymn296.top^
 ||eo.cyrc793.top^
+||eo.dymr697.top^
 ||eo.euwyc.xyz^
 ||eo.h7t2f.xyz^
 ||eo.jlzfe.xyz^
@@ -51706,6 +51711,7 @@ ff02::3 ip6-allhosts
 ||js.yoyi.tv^
 ||js.yulzm.com^
 ||js.zevents.com^
+||js.zgdtro.com^
 ||js.zhuoyaju.com^
 ||js.zjsyawqj.cn^
 ||js.zol.com.cn^
@@ -58085,6 +58091,7 @@ ff02::3 ip6-allhosts
 ||m.llvez.com^
 ||m.log57.top^
 ||m.lolvsdota.cn^
+||m.longshiwl.com^
 ||m.louisan.cn^
 ||m.lousivency.com.cn^
 ||m.lpaoz.com^
@@ -62268,9 +62275,11 @@ ff02::3 ip6-allhosts
 ||mo.ccch.xyz^
 ||mo.cyfk896.top^
 ||mo.cyhr992.top^
+||mo.cymn296.top^
 ||mo.cyrc793.top^
 ||mo.dfnbyn.top^
 ||mo.drzd9.cn^
+||mo.dymr697.top^
 ||mo.euwyc.xyz^
 ||mo.freeindoapp.com^
 ||mo.grqf.com.cn^
@@ -79512,6 +79521,7 @@ ff02::3 ip6-allhosts
 ||s.l8l9.com^
 ||s.lianmeng.360.cn^
 ||s.liveads.jp^
+||s.luluxinxin.top^
 ||s.luxadv.com^
 ||s.maipubao.cn^
 ||s.media-imdb.com^

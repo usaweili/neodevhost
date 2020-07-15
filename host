@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-15
 #
-# Number of blocked domains:  115993
+# Number of blocked domains:  116003
 #
 # ===============================================================
 
@@ -16289,6 +16289,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  at.ontargetjobs.com
 0.0.0.0  at.umeng.com
 0.0.0.0  at1.doubanio.com
+0.0.0.0  at1.qingdou.net
 0.0.0.0  at2.doubanio.com
 0.0.0.0  at918.com
 0.0.0.0  at98.com
@@ -17232,6 +17233,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  b2c-msm.marketo.com
 0.0.0.0  b2c-wsinsight.crowdfactory.com
 0.0.0.0  b2c.com
+0.0.0.0  b2pk.com
 0.0.0.0  b3-eu.mookie1.com
 0.0.0.0  b3-uk.mookie1.com
 0.0.0.0  b3.jandan.net
@@ -23053,6 +23055,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  cdn.avantisvideo.com
 0.0.0.0  cdn.avazutracking.net
 0.0.0.0  cdn.ayads.co
+0.0.0.0  cdn.b2pk.com
 0.0.0.0  cdn.banner.thumbplay.com
 0.0.0.0  cdn.bannerflow.com
 0.0.0.0  cdn.banners.scubl.com
@@ -35943,7 +35946,9 @@ ff02::3 ip6-allhosts
 0.0.0.0  eo.ccch.xyz
 0.0.0.0  eo.cyfk896.top
 0.0.0.0  eo.cyhr992.top
+0.0.0.0  eo.cymn296.top
 0.0.0.0  eo.cyrc793.top
+0.0.0.0  eo.dymr697.top
 0.0.0.0  eo.euwyc.xyz
 0.0.0.0  eo.h7t2f.xyz
 0.0.0.0  eo.jlzfe.xyz
@@ -51706,6 +51711,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  js.yoyi.tv
 0.0.0.0  js.yulzm.com
 0.0.0.0  js.zevents.com
+0.0.0.0  js.zgdtro.com
 0.0.0.0  js.zhuoyaju.com
 0.0.0.0  js.zjsyawqj.cn
 0.0.0.0  js.zol.com.cn
@@ -58085,6 +58091,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  m.llvez.com
 0.0.0.0  m.log57.top
 0.0.0.0  m.lolvsdota.cn
+0.0.0.0  m.longshiwl.com
 0.0.0.0  m.louisan.cn
 0.0.0.0  m.lousivency.com.cn
 0.0.0.0  m.lpaoz.com
@@ -62268,9 +62275,11 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.ccch.xyz
 0.0.0.0  mo.cyfk896.top
 0.0.0.0  mo.cyhr992.top
+0.0.0.0  mo.cymn296.top
 0.0.0.0  mo.cyrc793.top
 0.0.0.0  mo.dfnbyn.top
 0.0.0.0  mo.drzd9.cn
+0.0.0.0  mo.dymr697.top
 0.0.0.0  mo.euwyc.xyz
 0.0.0.0  mo.freeindoapp.com
 0.0.0.0  mo.grqf.com.cn
@@ -79512,6 +79521,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  s.l8l9.com
 0.0.0.0  s.lianmeng.360.cn
 0.0.0.0  s.liveads.jp
+0.0.0.0  s.luluxinxin.top
 0.0.0.0  s.luxadv.com
 0.0.0.0  s.maipubao.cn
 0.0.0.0  s.media-imdb.com
