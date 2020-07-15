@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-15
 #
-# Number of blocked domains:  116166
+# Number of blocked domains:  116168
 #
 # ===============================================================
 
@@ -35999,6 +35999,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  eo.aaaw.xyz
 0.0.0.0  eo.ccch.xyz
 0.0.0.0  eo.cyfk896.top
+0.0.0.0  eo.cyhr992.top
 0.0.0.0  eo.cyrc793.top
 0.0.0.0  eo.euwyc.xyz
 0.0.0.0  eo.h7t2f.xyz
@@ -62358,6 +62359,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.bsxr.com.cn
 0.0.0.0  mo.ccch.xyz
 0.0.0.0  mo.cyfk896.top
+0.0.0.0  mo.cyhr992.top
 0.0.0.0  mo.cyrc793.top
 0.0.0.0  mo.dfnbyn.top
 0.0.0.0  mo.drzd9.cn
