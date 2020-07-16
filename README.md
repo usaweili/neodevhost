@@ -108,10 +108,8 @@ pihole -g
 ## Sources of AD-hosts data 去广告host源
 AD-hostss | Link  
 --------- |:-------------:
-Adguard-simplified | [link](https://raw.githubusercontent.com/hectorm/hmirror/master/data/adguard-simplified/list.txt)
 Ad-wars | [link](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts)
 Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
-Easylist | [link](https://raw.githubusercontent.com/hectorm/hmirror/master/data/easylist/list.txt)
 Ilpl | [link](https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts)
 Licolnlee | [link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt)
 Neohost | [link](https://hosts.nfz.moe/full/hosts)
