@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-20
 #
-# Number of blocked domains:  100462
+# Number of blocked domains:  100476
 #
 # ===============================================================
 
@@ -2928,6 +2928,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  72-news.com
 0.0.0.0  720-trail.co.uk
 0.0.0.0  7202.bapi.adsafeprotected.com
+0.0.0.0  7202019monday.sgbbc.cn
 0.0.0.0  7208853.hitslink.com
 0.0.0.0  7228.eu
 0.0.0.0  7246.bapi.adsafeprotected.com
@@ -3619,6 +3620,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  a-counters.com
 0.0.0.0  a-dxk.play.api.3g.youku.com
 0.0.0.0  a-dxk.play.api.3g.youku.com
+0.0.0.0  a-llq.whbmy.com
 0.0.0.0  a-m-s.adnonstop.com
 0.0.0.0  a-m-s.poco.cn
 0.0.0.0  a-mo.net
@@ -4171,6 +4173,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  aa.online-metrix.net
 0.0.0.0  aa.reviewplus.jp
 0.0.0.0  aa.sdo.com
+0.0.0.0  aa.shgansheng.cn
 0.0.0.0  aa.voice2page.com
 0.0.0.0  aa.xiangxiangmf.com
 0.0.0.0  aa.zldh123.com
@@ -13353,6 +13356,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  api.badgeville.com
 0.0.0.0  api.bailingjiankang.com
 0.0.0.0  api.batch.com
+0.0.0.0  api.bd-gl.com
 0.0.0.0  api.beaconforstore.com
 0.0.0.0  api.beaconsinspace.com
 0.0.0.0  api.beaconstreetservices.com
@@ -16659,6 +16663,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  bcvcmedia.com
 0.0.0.0  bcvrczvqlm.com
 0.0.0.0  bcvxpffzmkqf.com
+0.0.0.0  bd-gl.com
 0.0.0.0  bd-js.baixing.net
 0.0.0.0  bd-nplb01.foresee.com
 0.0.0.0  bd-nplb02.foresee.com
@@ -20511,6 +20516,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  cdmgqqdqjwlo.eu
 0.0.0.0  cdn-01.yumenetworks.com
 0.0.0.0  cdn-1.convertexperiments.com
+0.0.0.0  cdn-7n-pt.zbwowo.com
 0.0.0.0  cdn-a2-ncl.optimizely.com
 0.0.0.0  cdn-adn-foreign.rayjump.com
 0.0.0.0  cdn-adn-https-baidu.rayjump.com
@@ -21223,6 +21229,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  cdnpa.hyperpromote.com
 0.0.0.0  cdnproviders.net
 0.0.0.0  cdnpublic.mobidea.com
+0.0.0.0  cdnqq.yl89.cn
 0.0.0.0  cdnquality.com
 0.0.0.0  cdnrep.reimageplus.com
 0.0.0.0  cdnrl.com
@@ -38020,6 +38027,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  guidashu.com
 0.0.0.0  guide.mediad.asia
 0.0.0.0  guide2poker.com
+0.0.0.0  guiheng.wang
 0.0.0.0  guildofangels.net
 0.0.0.0  guile.jp
 0.0.0.0  guiltlessbasketball.com
@@ -67293,6 +67301,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  s.go.sohu.com
 0.0.0.0  s.go2yd.com
 0.0.0.0  s.goodkee.cn
+0.0.0.0  s.guiheng.wang
 0.0.0.0  s.gyeet.com
 0.0.0.0  s.gygtxx.net
 0.0.0.0  s.h5king.com
@@ -69939,6 +69948,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  sg888.vip
 0.0.0.0  sg92.com
 0.0.0.0  sgb-online.pl
+0.0.0.0  sgbbc.cn
 0.0.0.0  sgbfjs.info
 0.0.0.0  sgbid.prod.sift.co
 0.0.0.0  sgbmhkptxali.com
@@ -70116,6 +70126,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  shforu.com
 0.0.0.0  shftscdisov.com
 0.0.0.0  shfutnjqshzw.com
+0.0.0.0  shgansheng.cn
 0.0.0.0  shgnts.net
 0.0.0.0  shibagongfang.com
 0.0.0.0  shicao.icantv.cn
@@ -84139,6 +84150,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  whaustou.net
 0.0.0.0  whautsel.net
 0.0.0.0  whave.iptvdeals.com
+0.0.0.0  whbmy.com
 0.0.0.0  whchsvlxch.site
 0.0.0.0  whcrdz.com
 0.0.0.0  whdafei.com
@@ -98750,6 +98762,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  ykxwn.com
 0.0.0.0  ykykbowk.com
 0.0.0.0  ykyryixcwn.com
+0.0.0.0  yl89.cn
 0.0.0.0  ylads.yaolan.com
 0.0.0.0  ylbslipwhfdwr.com
 0.0.0.0  ylcgewdtetazek.com
@@ -99551,6 +99564,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  zbtffdiu.com
 0.0.0.0  zbtqpkimkjcr.com
 0.0.0.0  zbulsymgpbjv.com
+0.0.0.0  zbwowo.com
 0.0.0.0  zbwp6ghm.com
 0.0.0.0  zbyk.drl.pl
 0.0.0.0  zbz.m.qxs.la
