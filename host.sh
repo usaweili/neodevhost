@@ -58,18 +58,17 @@ done
 
 sed -i '/\]/d' tmpblock
 sed -i '/\[/d' tmpblock
-
-#sed -i '/:/d' tmpblock
 sed -i '/#/d' tmpblock
 sed -i '/ɢ/d' tmpblock
 sed -i '/\!/d' tmpblock
-
 sed -i '/255.255.255.255/d' tmpblock
 sed -i '/192.30.255.112/d' tmpblock
 sed -i '/151.101.56.133/d' tmpblock
 sed -i '/ip6-/d' tmpblock
 sed -i '/local/d' tmpblock
-
+sed -i '/@@/d' tmpblock
+sed -i 's/||//' tmpblock	
+sed -i 's/\^//' tmpblock
 sed -i 's/127.0.0.1 //' tmpblock
 sed -i 's/0.0.0.0.//' tmpblock
 sed -i 's/0.0.0.0//' tmpblock
