@@ -67,6 +67,7 @@ sed -i '/151.101.56.133/d' tmpblock
 sed -i '/ip6-/d' tmpblock
 sed -i '/local/d' tmpblock
 sed -i '/@@/d' tmpblock
+sed -i '/*/d' tmpblock
 sed -i 's/||//' tmpblock	
 sed -i 's/\^//' tmpblock
 sed -i 's/127.0.0.1 //' tmpblock
