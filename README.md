@@ -17,7 +17,7 @@ Total allowlist list 允许名单总数: 1726
 
 Total combine list 结合总数： 100297
 
-Update 更新时间: 2020-07-20
+Update 更新时间: 2020-07-21
 ```
 ### UPTODATE 保持最新<br/>
     Merge everyhours　每小时更新
