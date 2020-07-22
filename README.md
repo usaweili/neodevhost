@@ -109,7 +109,7 @@ pihole -g
 AD-hostss | Link  
 --------- |:-------------:
 Ad-wars | [link](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts)
-Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt）
+Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
 Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
 Ilpl | [link](https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts)
 Licolnlee | [link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/domain.txt)
