@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-22
 #
-# Number of blocked domains:  111248
+# Number of blocked domains:  111278
 #
 # ===============================================================
 
@@ -652,7 +652,6 @@ ff02::3 ip6-allhosts
 ||12u.info^
 ||12wd87h.top^
 ||12xhardcore.com^
-||13.107.21.200 cn.bing.com^
 ||13023.url.7wkw.com^
 ||131377.com^
 ||13146.engine.mobileapptracking.com^
@@ -1279,6 +1278,7 @@ ff02::3 ip6-allhosts
 ||233wo.com^
 ||234.adru.net^
 ||234.media.lbn.ru^
+||2341.a.dlads.cn^
 ||2345.api.swrve.com^
 ||2345.cn^
 ||2345.com^
@@ -14478,6 +14478,7 @@ ff02::3 ip6-allhosts
 ||api.dsp.batmobi.net^
 ||api.dsp.yhd.com^
 ||api.e-cg.cn^
+||api.e.mi.com^
 ||api.eqmob.com^
 ||api.ero-advertising.com^
 ||api.eu.crittercism.com^
@@ -16171,6 +16172,7 @@ ff02::3 ip6-allhosts
 ||at-img2.tdimg.com^
 ||at-img3.tdimg.com^
 ||at-o.net^
+||at.amfuwu.com^
 ||at.amgdgt.com^
 ||at.atwola.com^
 ||at.campaigns.f2.com.au^
@@ -22965,6 +22967,7 @@ ff02::3 ip6-allhosts
 ||cdn.stat-rock.com^
 ||cdn.stat.easydate.biz^
 ||cdn.static-cnt.bid^
+||cdn.static.biqudu.la^
 ||cdn.static.zdbb.net^
 ||cdn.steambets.net^
 ||cdn.steepto.com^
@@ -33007,6 +33010,7 @@ ff02::3 ip6-allhosts
 ||e.jyvlpg.cn^
 ||e.jzvog.cn^
 ||e.k079j.cn^
+||e.k2wx5.cn^
 ||e.k9wz7.cn^
 ||e.kafka8.com^
 ||e.kcenu.com^
@@ -33132,6 +33136,7 @@ ff02::3 ip6-allhosts
 ||e.s0o5g.cn^
 ||e.s76xid.cn^
 ||e.s7ww2.cn^
+||e.s9wp1.cn^
 ||e.sanitwealth.com^
 ||e.sansch.com.cn^
 ||e.sbaoe.com^
@@ -34922,6 +34927,7 @@ ff02::3 ip6-allhosts
 ||eo.cyhr992.top^
 ||eo.cymn296.top^
 ||eo.cyrc793.top^
+||eo.dybx992.top^
 ||eo.dymr697.top^
 ||eo.euwyc.xyz^
 ||eo.h7t2f.xyz^
@@ -36214,6 +36220,7 @@ ff02::3 ip6-allhosts
 ||f-log-extension.grammarly.io^
 ||f-log-mobile-ios.grammarly.io^
 ||f.520tingshu.com^
+||f.5q63n.cn^
 ||f.91byy.cn^
 ||f.admicro.vn^
 ||f.admob.com^
@@ -36223,6 +36230,7 @@ ff02::3 ip6-allhosts
 ||f.aty.sohu.com^
 ||f.blogads.com^
 ||f.bm324.com^
+||f.com.5q63n.cn^
 ||f.dashaowu.com^
 ||f.dianwenwang.com^
 ||f.domob.cn^
@@ -39056,6 +39064,7 @@ ff02::3 ip6-allhosts
 ||g.3gl.net^
 ||g.3lian.com^
 ||g.51network.com^
+||g.5q63n.cn^
 ||g.6sfg.com^
 ||g.711983.com^
 ||g.ad8.cc^
@@ -39077,6 +39086,7 @@ ff02::3 ip6-allhosts
 ||g.click.taobao.com^
 ||g.cn.miaozhen.com^
 ||g.cn.miaozhen.com^
+||g.com.5q63n.cn^
 ||g.corp.163.com^
 ||g.d.yoyi.tv^
 ||g.daman.cc^
@@ -40349,6 +40359,7 @@ ff02::3 ip6-allhosts
 ||gggo.xmbhj.com^
 ||gghh486.cn^
 ||gghh493.cn^
+||ggic.cmvideo.cn^
 ||ggijrjktcld.com^
 ||ggimg.tapas.net^
 ||ggjs.d17.cc^
@@ -40897,6 +40908,7 @@ ff02::3 ip6-allhosts
 ||go.cz.bbelements.com^
 ||go.data1rtb.com^
 ||go.deliverymodo.com^
+||go.dlads.cn^
 ||go.dropzenad.com^
 ||go.ero-advertising.com^
 ||go.eu.bbelements.com^
@@ -46190,6 +46202,7 @@ ff02::3 ip6-allhosts
 ||imgraovat.vnecdn.net^
 ||imgres.pinsightmedia.com^
 ||imgs.adverticum.net^
+||imgs.dlads.cn^
 ||imgs.wangketuan.com^
 ||imgsniper.com^
 ||imgspice.com^
@@ -48478,6 +48491,7 @@ ff02::3 ip6-allhosts
 ||jfvjtudp.com^
 ||jfy-stone.cn^
 ||jfypfmew.com^
+||jg.bjpengyi.com^
 ||jg.hack-inter.net^
 ||jg.revolvermaps.com^
 ||jg1668.com^
@@ -49887,7 +49901,7 @@ ff02::3 ip6-allhosts
 ||k.intellitxt.com^
 ||k.kksgl.top^
 ||k.ludong.tv^
-||k.q sbxg2.com^
+||k.qsbxg2.com^
 ||k.qzzxjc.com^
 ||k.rueducommerce.fr^
 ||k.streamrail.com^
@@ -55063,6 +55077,7 @@ ff02::3 ip6-allhosts
 ||m.jzvog.cn^
 ||m.k079j.cn^
 ||m.k2d98mi.cn^
+||m.k2wx5.cn^
 ||m.k9wz7.cn^
 ||m.kafka8.com^
 ||m.kanghuaixin.cn^
@@ -55324,6 +55339,7 @@ ff02::3 ip6-allhosts
 ||m.s69zl.cn^
 ||m.s76xid.cn^
 ||m.s7ww2.cn^
+||m.s9wp1.cn^
 ||m.sancdn.net^
 ||m.sanjiangge.com^
 ||m.sansch.com.cn^
@@ -55804,6 +55820,7 @@ ff02::3 ip6-allhosts
 ||m2u.376710.com^
 ||m3.2mdn.net^
 ||m3.ae.2mdn.net^
+||m3.aigou023.com^
 ||m3.au.2mdn.net^
 ||m3.be.2mdn.net^
 ||m3.br.2mdn.net^
@@ -59165,6 +59182,7 @@ ff02::3 ip6-allhosts
 ||mo.cyrc793.top^
 ||mo.dfnbyn.top^
 ||mo.drzd9.cn^
+||mo.dybx992.top^
 ||mo.dymr697.top^
 ||mo.euwyc.xyz^
 ||mo.freeindoapp.com^
@@ -66988,6 +67006,7 @@ ff02::3 ip6-allhosts
 ||pc.107788.com^
 ||pc.5151gj.com^
 ||pc.adonweb.ru^
+||pc.cathaycentury.com^
 ||pc.clickmedias.info^
 ||pc.ctsywy.com^
 ||pc.da.mgtv.com^
@@ -66995,6 +67014,7 @@ ff02::3 ip6-allhosts
 ||pc.quansj.cn^
 ||pc.tunnel-vision.info^
 ||pc.videoclick.baidu.com^
+||pc.ziyuewentao.com^
 ||pc1.da.mgtv.com^
 ||pc1.ha1.yumenetworks.com^
 ||pc1.io^
@@ -75383,6 +75403,7 @@ ff02::3 ip6-allhosts
 ||s.jghcy.com^
 ||s.jgtamgt.top^
 ||s.jimdo.com^
+||s.jjcclc.top^
 ||s.jlminte.com^
 ||s.jpush.cn^
 ||s.jsrdn.com^
@@ -84010,6 +84031,7 @@ ff02::3 ip6-allhosts
 ||t.pusk.ru^
 ||t.pzclw.cn^
 ||t.qiuqiuqipai.com^
+||t.quandangdang.net^
 ||t.quisma.com^
 ||t.raptorsmartadvisor.com^
 ||t.regionsjob.com^
@@ -86084,6 +86106,7 @@ ff02::3 ip6-allhosts
 ||tj.keymob.com^
 ||tj.koudaitong.com^
 ||tj.kugou.com^
+||tj.playcvn.com^
 ||tj.tongjiwo.com^
 ||tj.tt1386.com^
 ||tj.u17t.com^
@@ -86276,6 +86299,7 @@ ff02::3 ip6-allhosts
 ||tn.5.p2l.info^
 ||tn.adserve.com^
 ||tn.alphonso.tv^
+||tn.inxjguc.cn^
 ||tn05.ru^
 ||tnacywet.com^
 ||tnarzc.com^
@@ -88748,6 +88772,7 @@ ff02::3 ip6-allhosts
 ||tu.baixing.com^
 ||tu.biddingx.com^
 ||tu.connect.wunderloop.net^
+||tu.cvnad.com^
 ||tu.dxcnd.cn^
 ||tu.moatads.com^
 ||tu.szefe.com^
@@ -90963,6 +90988,7 @@ ff02::3 ip6-allhosts
 ||v.extreme-dm.com^
 ||v.fwmrm.net^
 ||v.gdt.qq.com^
+||v.heygugu.com^
 ||v.iche88.cn^
 ||v.inigsplan.ru^
 ||v.irs01.com^
@@ -91002,6 +91028,7 @@ ff02::3 ip6-allhosts
 ||v.xinshide.cn^
 ||v.xiuzhenjewelry.cn^
 ||v.xrooxeo.cn^
+||v.yahgxog.cn^
 ||v.zcoup.com^
 ||v0-vcdn.anthill.vn^
 ||v0.anthill.vn^
@@ -95934,6 +95961,8 @@ ff02::3 ip6-allhosts
 ||www.abcjmp.com^
 ||www.abeldanger.net^
 ||www.abetterinternet.com^
+||www.abie18.top^
+||www.abie19.top^
 ||www.abie20.top^
 ||www.abihpopihigh.tk^
 ||www.abikurier.com^
@@ -107498,6 +107527,7 @@ ff02::3 ip6-allhosts
 ||x.vamaker.com^
 ||x.weather.com^
 ||x.wvez.cn^
+||x.xxyxmdq.cn^
 ||x.zeroredirect.com^
 ||x.zhuyuanp.top^
 ||x01.aidata.io^
