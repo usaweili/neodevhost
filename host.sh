@@ -169,7 +169,7 @@ cat block_dnsmasq.conf >>title.5
 cat host_dnsmasq.conf >>title.6
 
 rm -rf block
-rm -rf host
+#rm -rf host
 rm -rf adblockerblock
 rm -rf adblocker
 rm -rf block_dnsmasq.conf
