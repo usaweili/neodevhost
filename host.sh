@@ -23,6 +23,10 @@ if [ -f block_dnsmasq.conf ]; then
     rm block_dnsmasq.conf
 fi
 
+if [ -f deadallow ]; then
+    rm deadallow
+fi
+
 echo " "
 echo "Merge allow..."
 for url in `cat allowlist` ;do
