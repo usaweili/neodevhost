@@ -4,6 +4,9 @@ echo "Clean..."
 if [ -f host ]; then
     rm host
 fi
+if [ -f hostT ]; then
+    rm hostT
+fi
 if [ -f block ]; then 
     rm block
 fi
@@ -168,8 +171,10 @@ cat adblocker >>title.4
 cat block_dnsmasq.conf >>title.5
 cat host_dnsmasq.conf >>title.6
 
+cp host hostT
+
 rm -rf block
-#rm -rf host
+rm -rf host
 rm -rf adblockerblock
 rm -rf adblocker
 rm -rf block_dnsmasq.conf
