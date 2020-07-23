@@ -11,13 +11,13 @@
 [![Build Status](https://img.shields.io/github/workflow/status/neodevpro/neodevhost/CI/master)](https://github.com/neodevpro/neodevhost/actions?workflow=CI)<br/>
 [![Last commit](https://img.shields.io/github/last-commit/neodevpro/neodevhost.svg)](https://github.com/neodevpro/neodevhost/commit/master)<br/>
 [![license](https://img.shields.io/github/license/neodevpro/neodevhost.svg)](https://github.com/neodevpro/neodevhost/blob/master/LICENSE)
-
-
-
-```
 Total ad / tracking block list 屏蔽追踪广告总数: 111464
 
 Total allowlist list 允许名单总数: 1516
+```
+Total combine list 结合总数： 111300
+
+Update 更新时间: 2020-07-23
 
 Total combine list 结合总数： 111300
 
