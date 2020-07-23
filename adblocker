@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-23
 #
-# Number of blocked domains:  111300
+# Number of blocked domains:  111301
 #
 # ===============================================================
 
@@ -6396,6 +6396,7 @@ ff02::3 ip6-allhosts
 ||adasad.myweb.hinet.net^
 ||adash-c.m.taobao.com^
 ||adash-c.ut.taobao.com^
+||adash.man.aliyuncs.com^
 ||adashx.ut.taobao.com^
 ||adashx4ae.ut.taobao.com^
 ||adashx4yt.m.taobao.com^
