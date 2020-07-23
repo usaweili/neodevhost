@@ -44,6 +44,7 @@ sed -i '/REG ^/d' tmpallow
 sed -i '/RZD/d' tmpallow
 sed -i 's/ALL ./ /g' tmpallow
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpallow
+sed -i 's/ //g' tmpallow
 sed -i '/^$/d' tmpallow
 sort -u tmpallow > allow
 rm tmpallow
@@ -81,6 +82,7 @@ sed -i 's/:://' tmpblock
 sed -i 's/。//' tmpblock
 sed -i 's/^\.//' tmpblock
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpblock
+sed -i 's/ //g' tmpblock
 sed -i '/^\s*$/d' tmpblock
 
 sort -u tmpblock > block
