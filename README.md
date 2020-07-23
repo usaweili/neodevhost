@@ -25,19 +25,21 @@ Update 更新时间: 2020-07-23
     To block all ad / tracking  有效拦截广告追踪　
 ### FRIENDLY　友善使用<br/>
     Easy to use and welcome to report issues　简单使用欢迎回报问题
-   
+```
 <br>
 <a href="https://raw.githubusercontent.com/neodevpro/neodevhost/master/header.svg">
 	<img src="header.svg" width="495" height="195">
 <br>
-## Supported Platform 支持平台
 ```
+## Supported Platform 支持平台
+
 -Windows
 -Android
 -Linux
 -Mac OS
 -Openwrt
 -etc
+```
 ```
 ### Supported adblocker 广告拦截器
 ```
