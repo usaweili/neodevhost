@@ -52,6 +52,13 @@ sort -u tmpallow > allow
 rm tmpallow
 
 echo " "
+echo "Check Dead Allow..."
+wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/badhost/master/deadallow
+sort -n allow deadallow deadallow | uniq -u > tmp && mv tmp tmpallow
+sort -u tmpallow > allow
+rm tmpallow
+
+echo " "
 echo "Merge block..."
 for url in `cat blocklist` ;do
     wget --no-check-certificate -t 1 -T 10 -O tmp $url
@@ -86,7 +93,6 @@ sed -i 's/^\.//' tmpblock
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpblock
 sed -i 's/ //g' tmpblock
 sed -i '/^\s*$/d' tmpblock
-
 sort -u tmpblock > block
 rm tmpblock
 
