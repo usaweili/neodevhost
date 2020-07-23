@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-23
 #
-# Number of blocked domains:  111329
+# Number of blocked domains:  111310
 #
 # ===============================================================
 
@@ -6398,6 +6398,7 @@ ff02::3 ip6-allhosts
 ||adasad.myweb.hinet.net^
 ||adash-c.m.taobao.com^
 ||adash-c.ut.taobao.com^
+||adash.man.aliyuncs.com^
 ||adashx.ut.taobao.com^
 ||adashx4ae.ut.taobao.com^
 ||adashx4yt.m.taobao.com^
@@ -6708,7 +6709,6 @@ ff02::3 ip6-allhosts
 ||addshoppers.com^
 ||addthis.mathtag.com^
 ||addthiscdn.com^
-||addthisedge.com^
 ||addtoany.com^
 ||addweb.ru^
 ||addynamix.com^
@@ -7000,7 +7000,6 @@ ff02::3 ip6-allhosts
 ||adinf.voole.com^
 ||adinfinity.com.au^
 ||adinfo.aol.com^
-||adinfo.ra1.xlmc.sec.miui.com^
 ||adinfo.ru^
 ||adinfo.tango.me^
 ||adinfuse.com^
@@ -7572,7 +7571,6 @@ ff02::3 ip6-allhosts
 ||adobee.com^
 ||adobeflash31_install.ddns.info^
 ||adobeflashupdate14.com^
-||adobetag.com^
 ||adobochronicles.com^
 ||adobur.com^
 ||adobur.net^
@@ -14794,7 +14792,6 @@ ff02::3 ip6-allhosts
 ||api.vungle.com^
 ||api.vungle.com.edgekey.net^
 ||api.w.inmobi.com^
-||api.waptest.taobao.com^
 ||api.webengage.com^
 ||api.webpush.jp^
 ||api.west.bidtellect.com^
@@ -14807,7 +14804,6 @@ ff02::3 ip6-allhosts
 ||api.wundercounter.com^
 ||api.xdirectx.com^
 ||api.xiaohuxi.cn^
-||api.xk.miui.com^
 ||api.y.igexin.com^
 ||api.yieldlove-ad-serving.net^
 ||api.yieldmagic.com^
@@ -17569,7 +17565,6 @@ ff02::3 ip6-allhosts
 ||banner2.casino.com^
 ||banner2.inet-traffic.com^
 ||banner2.isobarturkiye.net^
-||bannera.kingsoft-office-service.com^
 ||bannerads.anytimenews.com^
 ||bannerads.co.in^
 ||bannerads.de^
@@ -19933,7 +19928,6 @@ ff02::3 ip6-allhosts
 ||bola88.com^
 ||bold-in.ru^
 ||boldride.us.intellitxt.com^
-||bole.shangshufang.ksosoft.com^
 ||bolek69.pl^
 ||bolili.info^
 ||bolizirs.com^
@@ -31051,7 +31045,6 @@ ff02::3 ip6-allhosts
 ||dl.1003b.56a.com^
 ||dl.2345.cn^
 ||dl.2345.com^
-||dl.360safe.com^
 ||dl.8ox.cn^
 ||dl.9xu.com^
 ||dl.bestofupload.info^
@@ -31381,7 +31374,6 @@ ff02::3 ip6-allhosts
 ||docaz.net^
 ||docbet.com^
 ||docdocu.pl^
-||docerad.wps.cn^
 ||docfind.oewabox.at^
 ||dochase.com^
 ||dochyedu.info^
@@ -41367,7 +41359,6 @@ ff02::3 ip6-allhosts
 ||gotrlayh.com^
 ||gottabemobile.us.intellitxt.com^
 ||gotwebsite1.com^
-||gou.wps.cn^
 ||gou1zhe.com^
 ||gouhei.top^
 ||goulanmeng.cn^
@@ -43614,7 +43605,6 @@ ff02::3 ip6-allhosts
 ||hmhqp.com^
 ||hmjtutipevtmg.com^
 ||hmma.baidu.cn^
-||hmma.baidu.com^
 ||hmmmcjgho.com^
 ||hmmob.com^
 ||hmnjf.com^
@@ -46703,13 +46693,13 @@ ff02::3 ip6-allhosts
 ||info.kopp-verlag.de^
 ||info.meihua.docer.com^
 ||info.pinyin.sogou.com^
-||info.sec.miui.com^
 ||info.startappservice.com^
 ||info.static.startappservice.com^
 ||info.stockstar.com^
 ||info.taplytics.com^
 ||info.telstra.com^
 ||info.wootric.com^
+||info.wps.cn^
 ||info.yitsoftware.com^
 ||info1park.ru^
 ||info24-warszawa.pl^
@@ -49820,7 +49810,6 @@ ff02::3 ip6-allhosts
 ||jwmwtcmexc.com^
 ||jwmyba.biz^
 ||jwofadcwpocm.com^
-||jwpcdn.com^
 ||jwplayer.space^
 ||jwpltx.com^
 ||jwqj.net^
@@ -58766,7 +58755,6 @@ ff02::3 ip6-allhosts
 ||minewhat.com^
 ||minexmr.com^
 ||minexmr.stream^
-||minfo.wps.cn^
 ||ming-dun.com.tw^
 ||mingbangzichan.com^
 ||mingboxieye.com^
@@ -72673,7 +72661,6 @@ ff02::3 ip6-allhosts
 ||rathbone-art.com^
 ||rating-widget.com^
 ||rating.in^
-||rating6.kingsoft-office-service.com^
 ||ratings.lycos.com^
 ||ratingtoplist.com^
 ||ratioboom.ru^
@@ -73738,7 +73725,6 @@ ff02::3 ip6-allhosts
 ||resizer.mantisadnetwork.com^
 ||resolutekey.com^
 ||resolve.gimbal.com^
-||resolver.gslb.mi-idc.com^
 ||resolvethem.com^
 ||resolvingserver.com^
 ||reson8.com^
@@ -75790,7 +75776,6 @@ ff02::3 ip6-allhosts
 ||s2.tracemyip.org^
 ||s2.video.doubleclick.net^
 ||s2.yandui.com^
-||s2.youtube.com^
 ||s2.youtube.com^
 ||s2.zdface.com^
 ||s2.zdmimg.com^
@@ -81418,7 +81403,6 @@ ff02::3 ip6-allhosts
 ||staging-tracker.fyber.com^
 ||staging-us-east-tlx.3lift.com^
 ||staging-video.fyber.com^
-||staging.admin.e.mi.com^
 ||staging.fuseplatform.net^
 ||staging.j.eclick.vn^
 ||staging.novaonx.com^
@@ -84145,6 +84129,7 @@ ff02::3 ip6-allhosts
 ||t1.musthird.com^
 ||t1.trackalyzer.com^
 ||t1.wshufa.com^
+||t11.baidu.com^
 ||t13.intelliad.de^
 ||t157.com^
 ||t188.dazhonghua.cn^
@@ -89097,7 +89082,6 @@ ff02::3 ip6-allhosts
 ||tw.i.hulu.com^
 ||tw.pub.vpon.com^
 ||tw.rd.yahoo.com^
-||tw13b093.sandai.net^
 ||tw2.adserver.yahoo.com^
 ||twackle.com^
 ||twb98.com^
@@ -90047,7 +90031,6 @@ ff02::3 ip6-allhosts
 ||union.baidustatic.guannin.com^
 ||union.china.com.cn^
 ||union.dangdang.com^
-||union.dbba.cn^
 ||union.discuz.qq.com^
 ||union.duizhuang.com^
 ||union.m.jd.com^
@@ -90089,7 +90072,6 @@ ff02::3 ip6-allhosts
 ||uniregistry.com^
 ||unisound.cdnvideo.ru^
 ||unister-adservices.com^
-||unitacs.m.taobao.com^
 ||unite3tubes.com^
 ||united-airline-fare.100pantyhose.com^
 ||united-vision.net^
@@ -91337,7 +91319,6 @@ ff02::3 ip6-allhosts
 ||varicolen.pl^
 ||variedshops.men^
 ||varielcontentdelivery.info^
-||variety.tc.qq.com^
 ||varinitconfique.ru^
 ||variti.net^
 ||varravgames.com^
