@@ -26,7 +26,10 @@ Update 更新时间: 2020-07-23
 ### FRIENDLY　友善使用<br/>
     Easy to use and welcome to report issues　简单使用欢迎回报问题
 
-
+<br>
+<a href="https://raw.githubusercontent.com/neodevpro/neodevhost/master/header.svg">
+	<img src="header.svg" width="495" height="195">
+<br>
 
 ## Supported Platform 支持平台
 
