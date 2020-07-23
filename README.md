@@ -1,9 +1,7 @@
 ![Logo](https://raw.githubusercontent.com/neodevpro/neodevhost/master/logo.png)
 
-<br>
-<a href="https://raw.githubusercontent.com/neodevpro/neodevhost/master/header.svg">
-	<img src="header.svg" width="495" height="195">
-<br>
+    
+    
     
 ## The Powerful Friendly Uptodate AD Blocking Hosts 最新强大而友善的去广告
 
@@ -11,17 +9,15 @@
 [![Build Status](https://img.shields.io/github/workflow/status/neodevpro/neodevhost/CI/master)](https://github.com/neodevpro/neodevhost/actions?workflow=CI)<br/>
 [![Last commit](https://img.shields.io/github/last-commit/neodevpro/neodevhost.svg)](https://github.com/neodevpro/neodevhost/commit/master)<br/>
 [![license](https://img.shields.io/github/license/neodevpro/neodevhost.svg)](https://github.com/neodevpro/neodevhost/blob/master/LICENSE)
-Total ad / tracking block list 屏蔽追踪广告总数: 111464
 
-Total allowlist list 允许名单总数: 1516
 ```
-Total combine list 结合总数： 111300
 
-Update 更新时间: 2020-07-23
 
-Total combine list 结合总数： 111300
 
-Update 更新时间: 2020-07-23
+
+
+
+
 ```
 ### UPTODATE 保持最新<br/>
     Merge everyhours　每小时更新
@@ -30,6 +26,10 @@ Update 更新时间: 2020-07-23
 ### FRIENDLY　友善使用<br/>
     Easy to use and welcome to report issues　简单使用欢迎回报问题
    
+<br>
+<a href="https://raw.githubusercontent.com/neodevpro/neodevhost/master/header.svg">
+	<img src="header.svg" width="495" height="195">
+<br>
 ## Supported Platform 支持平台
 ```
 -Windows
