@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-23
 #
-# Number of blocked domains:  111307
+# Number of blocked domains:  111326
 #
 # ===============================================================
 
@@ -6398,6 +6398,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  adasad.myweb.hinet.net
 0.0.0.0  adash-c.m.taobao.com
 0.0.0.0  adash-c.ut.taobao.com
+0.0.0.0  adash.man.aliyuncs.com
 0.0.0.0  adashx.ut.taobao.com
 0.0.0.0  adashx4ae.ut.taobao.com
 0.0.0.0  adashx4yt.m.taobao.com
@@ -6708,6 +6709,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  addshoppers.com
 0.0.0.0  addthis.mathtag.com
 0.0.0.0  addthiscdn.com
+0.0.0.0  addthisedge.com
 0.0.0.0  addtoany.com
 0.0.0.0  addweb.ru
 0.0.0.0  addynamix.com
@@ -6999,6 +7001,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  adinf.voole.com
 0.0.0.0  adinfinity.com.au
 0.0.0.0  adinfo.aol.com
+0.0.0.0  adinfo.ra1.xlmc.sec.miui.com
 0.0.0.0  adinfo.ru
 0.0.0.0  adinfo.tango.me
 0.0.0.0  adinfuse.com
@@ -7570,6 +7573,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  adobee.com
 0.0.0.0  adobeflash31_install.ddns.info
 0.0.0.0  adobeflashupdate14.com
+0.0.0.0  adobetag.com
 0.0.0.0  adobochronicles.com
 0.0.0.0  adobur.com
 0.0.0.0  adobur.net
@@ -14791,6 +14795,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  api.vungle.com
 0.0.0.0  api.vungle.com.edgekey.net
 0.0.0.0  api.w.inmobi.com
+0.0.0.0  api.waptest.taobao.com
 0.0.0.0  api.webengage.com
 0.0.0.0  api.webpush.jp
 0.0.0.0  api.west.bidtellect.com
@@ -14803,6 +14808,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  api.wundercounter.com
 0.0.0.0  api.xdirectx.com
 0.0.0.0  api.xiaohuxi.cn
+0.0.0.0  api.xk.miui.com
 0.0.0.0  api.y.igexin.com
 0.0.0.0  api.yieldlove-ad-serving.net
 0.0.0.0  api.yieldmagic.com
@@ -17564,6 +17570,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  banner2.casino.com
 0.0.0.0  banner2.inet-traffic.com
 0.0.0.0  banner2.isobarturkiye.net
+0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.anytimenews.com
 0.0.0.0  bannerads.co.in
 0.0.0.0  bannerads.de
@@ -19927,6 +19934,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  bola88.com
 0.0.0.0  bold-in.ru
 0.0.0.0  boldride.us.intellitxt.com
+0.0.0.0  bole.shangshufang.ksosoft.com
 0.0.0.0  bolek69.pl
 0.0.0.0  bolili.info
 0.0.0.0  bolizirs.com
@@ -31373,6 +31381,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  docaz.net
 0.0.0.0  docbet.com
 0.0.0.0  docdocu.pl
+0.0.0.0  docerad.wps.cn
 0.0.0.0  docfind.oewabox.at
 0.0.0.0  dochase.com
 0.0.0.0  dochyedu.info
@@ -41358,6 +41367,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  gotrlayh.com
 0.0.0.0  gottabemobile.us.intellitxt.com
 0.0.0.0  gotwebsite1.com
+0.0.0.0  gou.wps.cn
 0.0.0.0  gou1zhe.com
 0.0.0.0  gouhei.top
 0.0.0.0  goulanmeng.cn
@@ -49808,6 +49818,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  jwmwtcmexc.com
 0.0.0.0  jwmyba.biz
 0.0.0.0  jwofadcwpocm.com
+0.0.0.0  jwpcdn.com
 0.0.0.0  jwplayer.space
 0.0.0.0  jwpltx.com
 0.0.0.0  jwqj.net
@@ -72659,6 +72670,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  rathbone-art.com
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
+0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  ratioboom.ru
@@ -73723,6 +73735,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  resizer.mantisadnetwork.com
 0.0.0.0  resolutekey.com
 0.0.0.0  resolve.gimbal.com
+0.0.0.0  resolver.gslb.mi-idc.com
 0.0.0.0  resolvethem.com
 0.0.0.0  resolvingserver.com
 0.0.0.0  reson8.com
@@ -75774,6 +75787,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  s2.tracemyip.org
 0.0.0.0  s2.video.doubleclick.net
 0.0.0.0  s2.yandui.com
+0.0.0.0  s2.youtube.com
 0.0.0.0  s2.youtube.com
 0.0.0.0  s2.zdface.com
 0.0.0.0  s2.zdmimg.com
@@ -81401,6 +81415,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  staging-tracker.fyber.com
 0.0.0.0  staging-us-east-tlx.3lift.com
 0.0.0.0  staging-video.fyber.com
+0.0.0.0  staging.admin.e.mi.com
 0.0.0.0  staging.fuseplatform.net
 0.0.0.0  staging.j.eclick.vn
 0.0.0.0  staging.novaonx.com
@@ -89079,6 +89094,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  tw.i.hulu.com
 0.0.0.0  tw.pub.vpon.com
 0.0.0.0  tw.rd.yahoo.com
+0.0.0.0  tw13b093.sandai.net
 0.0.0.0  tw2.adserver.yahoo.com
 0.0.0.0  twackle.com
 0.0.0.0  twb98.com
@@ -90028,6 +90044,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  union.baidustatic.guannin.com
 0.0.0.0  union.china.com.cn
 0.0.0.0  union.dangdang.com
+0.0.0.0  union.dbba.cn
 0.0.0.0  union.discuz.qq.com
 0.0.0.0  union.duizhuang.com
 0.0.0.0  union.m.jd.com
@@ -90069,6 +90086,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  uniregistry.com
 0.0.0.0  unisound.cdnvideo.ru
 0.0.0.0  unister-adservices.com
+0.0.0.0  unitacs.m.taobao.com
 0.0.0.0  unite3tubes.com
 0.0.0.0  united-airline-fare.100pantyhose.com
 0.0.0.0  united-vision.net
@@ -91316,6 +91334,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  varicolen.pl
 0.0.0.0  variedshops.men
 0.0.0.0  varielcontentdelivery.info
+0.0.0.0  variety.tc.qq.com
 0.0.0.0  varinitconfique.ru
 0.0.0.0  variti.net
 0.0.0.0  varravgames.com
