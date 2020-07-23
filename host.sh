@@ -120,6 +120,8 @@ cp allow adblockerallow
 cp host host_dnsmasq.conf
 cp block block_dnsmasq.conf
 
+cp host hostT
+
 sed -i 's/^/||&/' adblocker
 sed -i 's/$/&^/' adblocker 
 
@@ -170,8 +172,6 @@ cat adblockerblock >>title.3
 cat adblocker >>title.4
 cat block_dnsmasq.conf >>title.5
 cat host_dnsmasq.conf >>title.6
-
-cp host hostT
 
 rm -rf block
 rm -rf host
