@@ -123,7 +123,6 @@ sort -n block allow allow | uniq -u > tmp && mv tmp tmphost
 sort -u tmphost > host
 rm tmphost
 
-
 echo " "
 echo "Adding Compatibility..."
 
@@ -153,7 +152,6 @@ sed -i 's/^/address=\/&/' block_dnsmasq.conf
 
 sed -i 's/$/&\/0.0.0.0/' host_dnsmasq.conf  
 sed -i 's/$/&\/0.0.0.0/' block_dnsmasq.conf 
-
 
 echo " "
 echo "Adding Title and SYNC data..."
