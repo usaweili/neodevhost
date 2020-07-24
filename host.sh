@@ -41,6 +41,7 @@ for url in `cat allowlist` ;do
     cat tmp >> tmpallow
     rm tmp
 done
+
 sed -i '/]/d' tmpallow
 sed -i '/[/d' tmpallow
 sed -i '/#/d' tmpallow
