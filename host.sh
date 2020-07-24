@@ -41,8 +41,8 @@ for url in `cat allowlist` ;do
     cat tmp >> tmpallow
     rm tmp
 done
-sed -i '/\]/d' tmpallow
-sed -i '/\[/d' tmpallow
+sed -i '/]/d' tmpallow
+sed -i '/[/d' tmpallow
 sed -i '/#/d' tmpallow
 sed -i '/\!/d' tmpallow
 sed -i 's/127.0.0.1 //' tmpallow
@@ -77,10 +77,10 @@ for url in `cat blocklist` ;do
     rm tmp
 done
 
-sed -i '/\]/d' tmpblock
-sed -i '/\[/d' tmpblock
-sed -i '/\{/d' tmpblock
-sed -i '/\}/d' tmpblock
+sed -i '/]/d' tmpblock
+sed -i '/[/d' tmpblock
+sed -i '/{/d' tmpblock
+sed -i '/}/d' tmpblock
 sed -i '/#/d' tmpblock
 sed -i '/ɢ/d' tmpblock
 sed -i '/\!/d' tmpblock
