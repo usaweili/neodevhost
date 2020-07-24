@@ -104,6 +104,13 @@ sort -u tmpblock > block
 rm tmpblock
 
 echo " "
+echo "Check Dead Block..."
+wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/badhost/master/deadblock
+sort -n block deadblock deadblock | uniq -u > tmp && mv tmp tmpblock
+sort -u tmpblock > block
+rm tmpallow
+
+echo " "
 echo "Merge Combine..."
 sort -n block allow allow | uniq -u > tmp && mv tmp tmphost
 sort -u tmphost > host
