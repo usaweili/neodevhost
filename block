@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-25
 #
-# Number of blocked domains:  72261
+# Number of blocked domains:  72263
 #
 # ===============================================================
 
@@ -39994,6 +39994,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  ncmo.v44i.cn
 0.0.0.0  ncom.dk
 0.0.0.0  ncountsnash.info
+0.0.0.0  ncourtainco.club
 0.0.0.0  ncoyqc.com
 0.0.0.0  nctionclarkingcu.fun
 0.0.0.0  nctracking.com
@@ -45808,6 +45809,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  pushbird.com
 0.0.0.0  pushbots.com
 0.0.0.0  pushbox.info
+0.0.0.0  pushbullet.com
 0.0.0.0  pushcrew.com
 0.0.0.0  pushdi.com
 0.0.0.0  pushdom.co
@@ -70770,6 +70772,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  xn--wxtr9fwyxk9c.club
 0.0.0.0  xn--wxtr9fwyxk9c.site
 0.0.0.0  xn--wxtr9fwyxk9c.top
+0.0.0.0  xn--wxtr9fwyxk9c.xn--fiqs8s
 0.0.0.0  xn--wxtr9fwyxk9c.xn--io0a7i
 0.0.0.0  xn--xhq9mt12cf5v.art
 0.0.0.0  xn--xhq9mt12cf5v.ink
@@ -71797,7 +71800,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  zemgo.com
 0.0.0.0  zenback.jp
 0.0.0.0  zendplace.pro
-0.0.0.0  zengenti.com
 0.0.0.0  zenhppyad.com
 0.0.0.0  zenigameblinger.org
 0.0.0.0  zenitbet.com
