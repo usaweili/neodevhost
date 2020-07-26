@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-26
 #
-# Number of blocked domains:  72080
+# Number of blocked domains:  72079
 #
 # ===============================================================
 
@@ -10438,7 +10438,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  appsflyer.com
 0.0.0.0  appshelf.ttpsdk.info
 0.0.0.0  appsnack.com
-0.0.0.0  appspot.com
 0.0.0.0  appspress.pushwoosh.com
 0.0.0.0  appsupdate.sinaapp.com
 0.0.0.0  appsupport.qq.com
