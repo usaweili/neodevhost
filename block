@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-26
 #
-# Number of blocked domains:  72280
+# Number of blocked domains:  72281
 #
 # ===============================================================
 
@@ -50794,6 +50794,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  simpleads.net
 0.0.0.0  simpleanalytics.io
 0.0.0.0  simplehitcounter.com
+0.0.0.0  simpleprogr.club
 0.0.0.0  simplereach.com
 0.0.0.0  simplesharebuttons.com
 0.0.0.0  simpletexting.com
