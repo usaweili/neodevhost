@@ -57,12 +57,6 @@ sort -u tmpallow > allow
 rm tmpallow
 
 echo " "
-echo "Check Dead Allow..."
-sort -n allow deadallow deadallow | uniq -u > tmp && mv tmp tmpallow
-sort -u tmpallow > allow
-rm tmpallow
-
-echo " "
 echo "Merge block..."
 for url in `cat blocklist` ;do
     wget --no-check-certificate -t 1 -T 10 -O tmp $url
@@ -100,12 +94,6 @@ sed -i 's/^\.//' tmpblock
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpblock
 sed -i 's/ //g' tmpblock
 sed -i '/^\s*$/d' tmpblock
-sort -u tmpblock > block
-rm tmpblock
-
-echo " "
-echo "Check Dead Block..."
-sort -n block deadblock deadblock | uniq -u > tmp && mv tmp tmpblock
 sort -u tmpblock > block
 rm tmpblock
 
