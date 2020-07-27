@@ -94,7 +94,7 @@ sed -i 's/0.0.0.0.//' tmpblock
 sed -i 's/0.0.0.0//' tmpblock
 sed -i 's/:443//' tmpblock
 sed -i 's/:://' tmpblock
-#sed -i 's/:\/\///' tmpblock
+sed -i 's/:\/\///' tmpblock
 sed -i 's/。//' tmpblock
 sed -i 's/^\.//' tmpblock
 sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpblock
