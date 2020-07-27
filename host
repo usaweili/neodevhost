@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-27
 #
-# Number of blocked domains:  111382
+# Number of blocked domains:  111385
 #
 # ===============================================================
 
@@ -16611,6 +16611,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  averoconnector.com
 0.0.0.0  avgle.topgirlsdating.com
 0.0.0.0  avgtechnologies.112.2o7.net
+0.0.0.0  avideo.ifengcdn.com
 0.0.0.0  avidnewssource.com
 0.0.0.0  avidtrak.com
 0.0.0.0  avilagtitkai.com
@@ -28154,6 +28155,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  cwzx.dengfenzhang.cn
 0.0.0.0  cx.atdmt.com
 0.0.0.0  cx.foresee.com
+0.0.0.0  cx.ifengbi.com
 0.0.0.0  cx.ssacdn.com
 0.0.0.0  cx.v5cam.com
 0.0.0.0  cxad.cn
@@ -44926,6 +44928,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  iabusprivacy.pmc.com
 0.0.0.0  iacas.adbureau.net
 0.0.0.0  iacexhglty.com
+0.0.0.0  iaclick.ifeng.com
 0.0.0.0  iacpromotion.s3.amazonaws.com
 0.0.0.0  iact.atdmt.com
 0.0.0.0  iad-2-apex.go.sonobi.com
