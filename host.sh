@@ -58,7 +58,6 @@ rm tmpallow
 
 echo " "
 echo "Check Dead Allow..."
-wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/badhost/master/deadallow
 sort -n allow deadallow deadallow | uniq -u > tmp && mv tmp tmpallow
 sort -u tmpallow > allow
 rm tmpallow
@@ -105,7 +104,6 @@ rm tmpblock
 
 echo " "
 echo "Check Dead Block..."
-wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/badhost/master/deadblock
 sort -n block deadblock deadblock | uniq -u > tmp && mv tmp tmpblock
 sort -u tmpblock > block
 rm tmpblock
