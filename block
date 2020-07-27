@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-27
 #
-# Number of blocked domains:  111542
+# Number of blocked domains:  111538
 #
 # ===============================================================
 
@@ -30,7 +30,6 @@ ff02::3 ip6-allhosts
 #=====================================
 # NEO DEV HOST
 #=====================================
-0.0.0.0  -logging.nextmedia.com
 0.0.0.0  0.nextyourcontent.com
 0.0.0.0  0.r.msn.com
 0.0.0.0  0.up.qingdaonews.com
@@ -3857,7 +3856,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  9y88.com
 0.0.0.0  9yad.com
 0.0.0.0  9yyg.cn
-0.0.0.0  XiaoQiang
 0.0.0.0  a-5.info
 0.0.0.0  a-ad.adwo.com
 0.0.0.0  a-ads.com
@@ -10302,7 +10300,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  adserver01.ancestry.com
 0.0.0.0  adserver01.de
 0.0.0.0  adserver1-images.backbeatmedia.com
-0.0.0.0  adserver1.
 0.0.0.0  adserver1.adserver.com.pl
 0.0.0.0  adserver1.adtech.com.tr
 0.0.0.0  adserver1.backbeatmedia.com
@@ -18065,7 +18062,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  bc.5.p2l.info
 0.0.0.0  bc.atleit.com
 0.0.0.0  bc.coupons.com
-0.0.0.0  bc.geocities.
 0.0.0.0  bc.geocities.yahoo.co.jp
 0.0.0.0  bc.infoblog.today
 0.0.0.0  bc.marfeel.com
