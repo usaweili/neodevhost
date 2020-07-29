@@ -125,8 +125,6 @@ cp allow adblockerallow
 cp host host_dnsmasq.conf
 cp block block_dnsmasq.conf
 
-cp host hostT
-
 sed -i 's/^/||&/' adblocker
 sed -i 's/$/&^/' adblocker 
 
