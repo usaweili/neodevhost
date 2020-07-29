@@ -114,7 +114,6 @@ Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.
 Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
 Neohost | [link](https://hosts.nfz.moe/full/hosts)
 StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts)
-Ublock | [link](https://raw.githubusercontent.com/hectorm/hmirror/master/data/ublock/list.txt)
 Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts)
 
 ## Sources of Allowlist 允许名单
@@ -122,7 +121,6 @@ Allowlist | Link
 --------- |:-------------:
 AnudeepND | [link](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt)
 AnudeepND-optional | [link](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt)
-Licolnlee | [link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/whitelist.txt)
 Neodevhost | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/customallowlist)
 Ultimate-Hosts-Blacklist | [link](https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list)
 WildcardTech | [link](https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt)
