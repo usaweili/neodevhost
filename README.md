@@ -46,19 +46,19 @@ Update 更新时间: 2020-07-30
 ## Download 下载 
 
 Host | Raw | 国内加速  
---------- |:-------------:
+--------- |:-------------:|:-------------:
 HOST = **(Blocklist + Allowlist)** | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host)
 Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/block) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/block)
 Allowlist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/allow) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/allow)
 
 Adblocker | Raw | 国内加速  
---------- |:-------------:
+--------- |:-------------:|:-------------:
 Adblocker = **(Blocklist + Allowlist)** | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/adblocker) 
 Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblockerblock) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/adblockerblock) 
 Allowlist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblockerallow) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/adblockerallow) 
 
 Dnsmasq | Raw | 国内加速  
---------- |:-------------:
+--------- |:-------------:|:-------------:
 Dnsmasq = **(Blocklist + Allowlist)** | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host_dnsmasq.conf) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host_dnsmasq.conf)
 Blocklist | [link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/block_dnsmasq.conf) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/block_dnsmasq.conf)
 
