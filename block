@@ -8,7 +8,7 @@
 #
 # Last update: 2020-07-30
 #
-# Number of blocked domains:  100851
+# Number of blocked domains:  100850
 #
 # ===============================================================
 
@@ -27889,7 +27889,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  deviantart-d.openx.net
 0.0.0.0  deviantart.crwdcntrl.net
 0.0.0.0  device-api.urbanairship.com
-0.0.0.0  device-messaging-na.amazon.com
 0.0.0.0  device-metrics-us-2.amazon.com
 0.0.0.0  device-metrics-us.amazon.com
 0.0.0.0  device.4seeresults.com
