@@ -46,7 +46,7 @@ Update 更新时间: 2020-07-31
 
 ## Download 下载 
 
-Format 格式 | Compatible with 适用于 | Raw | 国内加速  
+Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
 Host | Pihole，Adaway，hBlock ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host)
 Adblocker | uBlock，Adguard ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/adblocker) 
