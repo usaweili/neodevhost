@@ -152,7 +152,7 @@ cat host >>title.2
 cat adblocker >>title.4
 cat host_dnsmasq.conf >>title.6
 
-rm -rf allow
+
 rm -rf block
 rm -rf host
 rm -rf adblockerblock
