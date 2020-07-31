@@ -118,30 +118,18 @@ rm tmphost
 echo " "
 echo "Adding Compatibility..."
 
-cp block adblockerblock
 cp host adblocker
-cp allow adblockerallow
 
 cp host host_dnsmasq.conf
-cp block block_dnsmasq.conf
 
 sed -i 's/^/||&/' adblocker
 sed -i 's/$/&^/' adblocker 
 
-sed -i 's/^/||&/' adblockerblock
-sed -i 's/$/&^/' adblockerblock 
-
-sed -i 's/^/@@||&/' adblockerallow
-sed -i 's/$/&^/' adblockerallow
-
 sed -i 's/^/0.0.0.0  &/' host
-sed -i 's/^/0.0.0.0  &/' block
 
 sed -i 's/^/address=\/&/' host_dnsmasq.conf 
-sed -i 's/^/address=\/&/' block_dnsmasq.conf
 
 sed -i 's/$/&\/0.0.0.0/' host_dnsmasq.conf  
-sed -i 's/$/&\/0.0.0.0/' block_dnsmasq.conf 
 
 echo " "
 echo "Adding Title and SYNC data..."
@@ -149,30 +137,19 @@ sed -i '14cTotal ad / tracking block list 屏蔽追踪广告总数: '$(wc -l blo
 sed -i '16cTotal allowlist list 允许名单总数: '$(wc -l allow)' ' README.md 
 sed -i '18cTotal combine list 结合总数： '$(wc -l host)' ' README.md
 sed -i '20cUpdate 更新时间: '$(date "+%Y-%m-%d")'' README.md
-cp title title.1
-sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.1
-sed -i '11c# Number of blocked domains:  '$(wc -l block)' ' title.1   
+ 
 cp title title.2
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.2
 sed -i '11c# Number of blocked domains:  '$(wc -l host)' ' title.2   
-cp title title.3
-sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.3
-sed -i '11c# Number of blocked domains:  '$(wc -l adblockerblock)' ' title.3
 cp title title.4
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.4
 sed -i '11c# Number of blocked domains:  '$(wc -l adblocker)' ' title.4   
-cp title title.5
-sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.5
-sed -i '11c# Number of blocked domains:  '$(wc -l block_dnsmasq.conf)' ' title.5
 cp title title.6
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.6
 sed -i '11c# Number of blocked domains:  '$(wc -l host_dnsmasq.conf)' ' title.6       
 
-cat block >>title.1
 cat host >>title.2
-cat adblockerblock >>title.3
 cat adblocker >>title.4
-cat block_dnsmasq.conf >>title.5
 cat host_dnsmasq.conf >>title.6
 
 rm -rf block
@@ -182,11 +159,8 @@ rm -rf adblocker
 rm -rf block_dnsmasq.conf
 rm -rf host_dnsmasq.conf
 
-mv title.1 block
 mv title.2 host
-mv title.3 adblockerblock
 mv title.4 adblocker
-mv title.5 block_dnsmasq.conf
 mv title.6 host_dnsmasq.conf
 
 echo " "
