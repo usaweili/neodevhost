@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-01
 #
-# Number of blocked domains:  100551
+# Number of blocked domains:  100562
 #
 # ===============================================================
 
@@ -19375,6 +19375,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  c.kuaituisss.com
 0.0.0.0  c.kuwo.cn
 0.0.0.0  c.l.qq.com
+0.0.0.0  c.lalaxit.cn
 0.0.0.0  c.lalaxqt.cn
 0.0.0.0  c.latam.msn.com
 0.0.0.0  c.lattebank.com
@@ -23315,6 +23316,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  code.visitor-track.com
 0.0.0.0  code.wantaico.com
 0.0.0.0  code.ws
+0.0.0.0  code.xcoffer.com
 0.0.0.0  code.zhishitie.com
 0.0.0.0  code11.onetad.com
 0.0.0.0  code12.onetad.com
@@ -31792,6 +31794,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  eo.byjr899.top
 0.0.0.0  eo.dybx992.top
 0.0.0.0  eo.euwyc.xyz
+0.0.0.0  eo.hdschw.cn
 0.0.0.0  eo.lxujghc.cn
 0.0.0.0  eo.nftqkq.cn
 0.0.0.0  eo.nu2rx.xyz
@@ -31801,7 +31804,9 @@ ff02::3 ip6-allhosts
 0.0.0.0  eo.ssdoi.com
 0.0.0.0  eo.szimic.cn
 0.0.0.0  eo.tsnsrix.cn
+0.0.0.0  eo.wamcjfg.cn
 0.0.0.0  eo.yhcrqzj.cn
+0.0.0.0  eo.zvygzatj.cn
 0.0.0.0  eo62cocntx.com
 0.0.0.0  eof.cat
 0.0.0.0  eol1.egyptonline.com
@@ -53403,6 +53408,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.gsasqa.cn
 0.0.0.0  mo.haloapps.cn
 0.0.0.0  mo.hc872.cn
+0.0.0.0  mo.hdschw.cn
 0.0.0.0  mo.keilb.xyz
 0.0.0.0  mo.kugou.com
 0.0.0.0  mo.l29qi.xyz
@@ -53426,10 +53432,12 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.test.haloapps.com
 0.0.0.0  mo.tsnsrix.cn
 0.0.0.0  mo.wajsa.com
+0.0.0.0  mo.wamcjfg.cn
 0.0.0.0  mo.yhcrqzj.cn
 0.0.0.0  mo.zdceaa.cn
 0.0.0.0  mo.zk43i.xyz
 0.0.0.0  mo.zsyse.top
+0.0.0.0  mo.zvygzatj.cn
 0.0.0.0  mo8mwxi1.com
 0.0.0.0  moad.cn
 0.0.0.0  moad.pulsengine.com
@@ -64625,6 +64633,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  r.ligatus.com
 0.0.0.0  r.logrocket.io
 0.0.0.0  r.looksmart.com
+0.0.0.0  r.lzumg.xyz
 0.0.0.0  r.mail.163.com
 0.0.0.0  r.mail.ru
 0.0.0.0  r.mobpartner.mobi
@@ -75125,6 +75134,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  t.leady.cz
 0.0.0.0  t.linkpage.cn
 0.0.0.0  t.lkqd.net
+0.0.0.0  t.lksb.wang
 0.0.0.0  t.locasun.de
 0.0.0.0  t.locasun.es
 0.0.0.0  t.locasun.fr
@@ -81248,6 +81258,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  v.jntxst.cn
 0.0.0.0  v.l.youku.com
 0.0.0.0  v.ladicdn.com
+0.0.0.0  v.lalaxit.cn
 0.0.0.0  v.lalaxqt.cn
 0.0.0.0  v.lelangegg.cn
 0.0.0.0  v.lkqd.net

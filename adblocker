@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-01
 #
-# Number of blocked domains:  100551
+# Number of blocked domains:  100562
 #
 # ===============================================================
 
@@ -19375,6 +19375,7 @@ ff02::3 ip6-allhosts
 ||c.kuaituisss.com^
 ||c.kuwo.cn^
 ||c.l.qq.com^
+||c.lalaxit.cn^
 ||c.lalaxqt.cn^
 ||c.latam.msn.com^
 ||c.lattebank.com^
@@ -23315,6 +23316,7 @@ ff02::3 ip6-allhosts
 ||code.visitor-track.com^
 ||code.wantaico.com^
 ||code.ws^
+||code.xcoffer.com^
 ||code.zhishitie.com^
 ||code11.onetad.com^
 ||code12.onetad.com^
@@ -31792,6 +31794,7 @@ ff02::3 ip6-allhosts
 ||eo.byjr899.top^
 ||eo.dybx992.top^
 ||eo.euwyc.xyz^
+||eo.hdschw.cn^
 ||eo.lxujghc.cn^
 ||eo.nftqkq.cn^
 ||eo.nu2rx.xyz^
@@ -31801,7 +31804,9 @@ ff02::3 ip6-allhosts
 ||eo.ssdoi.com^
 ||eo.szimic.cn^
 ||eo.tsnsrix.cn^
+||eo.wamcjfg.cn^
 ||eo.yhcrqzj.cn^
+||eo.zvygzatj.cn^
 ||eo62cocntx.com^
 ||eof.cat^
 ||eol1.egyptonline.com^
@@ -53403,6 +53408,7 @@ ff02::3 ip6-allhosts
 ||mo.gsasqa.cn^
 ||mo.haloapps.cn^
 ||mo.hc872.cn^
+||mo.hdschw.cn^
 ||mo.keilb.xyz^
 ||mo.kugou.com^
 ||mo.l29qi.xyz^
@@ -53426,10 +53432,12 @@ ff02::3 ip6-allhosts
 ||mo.test.haloapps.com^
 ||mo.tsnsrix.cn^
 ||mo.wajsa.com^
+||mo.wamcjfg.cn^
 ||mo.yhcrqzj.cn^
 ||mo.zdceaa.cn^
 ||mo.zk43i.xyz^
 ||mo.zsyse.top^
+||mo.zvygzatj.cn^
 ||mo8mwxi1.com^
 ||moad.cn^
 ||moad.pulsengine.com^
@@ -64625,6 +64633,7 @@ ff02::3 ip6-allhosts
 ||r.ligatus.com^
 ||r.logrocket.io^
 ||r.looksmart.com^
+||r.lzumg.xyz^
 ||r.mail.163.com^
 ||r.mail.ru^
 ||r.mobpartner.mobi^
@@ -75125,6 +75134,7 @@ ff02::3 ip6-allhosts
 ||t.leady.cz^
 ||t.linkpage.cn^
 ||t.lkqd.net^
+||t.lksb.wang^
 ||t.locasun.de^
 ||t.locasun.es^
 ||t.locasun.fr^
@@ -81248,6 +81258,7 @@ ff02::3 ip6-allhosts
 ||v.jntxst.cn^
 ||v.l.youku.com^
 ||v.ladicdn.com^
+||v.lalaxit.cn^
 ||v.lalaxqt.cn^
 ||v.lelangegg.cn^
 ||v.lkqd.net^
