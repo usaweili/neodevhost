@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-03
 #
-# Number of blocked domains:  100562
+# Number of blocked domains:  100608
 #
 # ===============================================================
 
@@ -5949,6 +5949,7 @@ ff02::3 ip6-allhosts
 ||adasad.myweb.hinet.net^
 ||adash-c.m.taobao.com^
 ||adash-c.ut.taobao.com^
+||adash.man.aliyuncs.com^
 ||adashx.ut.taobao.com^
 ||adashx4ae.ut.taobao.com^
 ||adashx4yt.m.taobao.com^
@@ -6213,8 +6214,10 @@ ff02::3 ip6-allhosts
 ||adds1.trafflow.com^
 ||addserver.mtv.com.tr^
 ||addshoppers.com^
+||addthis.com^
 ||addthis.mathtag.com^
 ||addthiscdn.com^
+||addthisedge.com^
 ||addtoany.com^
 ||addynamix.com^
 ||addynamo.net^
@@ -10211,6 +10214,7 @@ ff02::3 ip6-allhosts
 ||adv.riza.it^
 ||adv.s8bbs.com^
 ||adv.sec.intl.miui.com^
+||adv.sec.miui.com^
 ||adv.starozagorci.com^
 ||adv.strategy.it^
 ||adv.surinter.net^
@@ -11133,7 +11137,9 @@ ff02::3 ip6-allhosts
 ||ai.idg.se^
 ||ai.inmdata.io^
 ||ai.iol.io^
+||ai.m.taobao.com^
 ||ai.nanda.vn^
+||ai.taobao.com^
 ||ai.voiceads.cn^
 ||ai.xinju.cc^
 ||ai.yimg.jp^
@@ -12358,6 +12364,7 @@ ff02::3 ip6-allhosts
 ||analytics.getshogun.com^
 ||analytics.glance.inmobi.com^
 ||analytics.global.sky.com^
+||analytics.google.com^
 ||analytics.gorillanation.com^
 ||analytics.greensender.pl^
 ||analytics.groupe-seb.com^
@@ -19321,6 +19328,7 @@ ff02::3 ip6-allhosts
 ||c.dokrmob.com^
 ||c.domob.cn^
 ||c.dr.cyberwing.co.jp^
+||c.duomai.com^
 ||c.duomeng.cn^
 ||c.duomeng.net^
 ||c.dynad.net^
@@ -22383,6 +22391,7 @@ ff02::3 ip6-allhosts
 ||click.serve.adcenter.io^
 ||click.sexmoney.com^
 ||click.silvercash.com^
+||click.simba.taobao.com^
 ||click.sinx.com^
 ||click.speee-ad.jp^
 ||click.ssp.d2c.ne.jp^
@@ -23234,6 +23243,7 @@ ff02::3 ip6-allhosts
 ||cnzz.172internet.com^
 ||cnzz.cdbsoi.com^
 ||cnzz.cn^
+||cnzz.com^
 ||cnzz.mmstat.com^
 ||cnzz.net^
 ||cnzz.pygold.net^
@@ -28271,6 +28281,7 @@ ff02::3 ip6-allhosts
 ||dl.1003b.56a.com^
 ||dl.2345.cn^
 ||dl.2345.com^
+||dl.360safe.com^
 ||dl.8ox.cn^
 ||dl.9xu.com^
 ||dl.bestofupload.info^
@@ -28760,6 +28771,7 @@ ff02::3 ip6-allhosts
 ||doubleclick.ctfile.com^
 ||doubleclick.de^
 ||doubleclick.ne.jp^
+||doubleclick.net^
 ||doubleclick1.xyz^
 ||doubleclick2.xyz^
 ||doubleclick3.xyz^
@@ -28803,6 +28815,7 @@ ff02::3 ip6-allhosts
 ||dowjones.122.2o7.net^
 ||dowmarkets.com^
 ||down.360.cn^
+||down.360safe.com^
 ||down.91wangmeng.com^
 ||down.ancamera.co.kr^
 ||down.bugeyu.com^
@@ -33638,6 +33651,7 @@ ff02::3 ip6-allhosts
 ||feed-image.baidu.com^
 ||feed.4wnet.com^
 ||feed.adnow.com^
+||feed.baidu.com^
 ||feed.engage.im^
 ||feed.mikle.com^
 ||feed.minpos.com^
@@ -37050,6 +37064,7 @@ ff02::3 ip6-allhosts
 ||glyphocide.news^
 ||glyphosate.news^
 ||gm.demdex.net^
+||gm.mmstat.com^
 ||gm.preferences.com^
 ||gm.touchclarity.com^
 ||gm.uc003.com^
@@ -37420,6 +37435,7 @@ ff02::3 ip6-allhosts
 ||googleplus.party^
 ||googlerank.info^
 ||googlespider1.cn^
+||googlesyndication.com^
 ||googletagmanager.com^
 ||googletagservices.com^
 ||googletakes.com^
@@ -39474,6 +39490,7 @@ ff02::3 ip6-allhosts
 ||hlykwstrvxa.com^
 ||hlzad.com^
 ||hm.baidu.cn^
+||hm.baidu.com^
 ||hm.baidu.com.caiziwuyou.com^
 ||hm.baidu.com.jnsiematcnc.com^
 ||hm.baidu.com.zzsdtzb.com^
@@ -39793,6 +39810,7 @@ ff02::3 ip6-allhosts
 ||hot.browser.intl.miui.com^
 ||hot.browser.miui.com^
 ||hot.eastday.com^
+||hot.m.shouji.360tpcdn.com^
 ||hot2015rewards.com^
 ||hotbar.dgndesign.com^
 ||hotchat-im.iqiyi.com^
@@ -40076,6 +40094,7 @@ ff02::3 ip6-allhosts
 ||huanbao110.com.cn^
 ||huanbaoxiangmu.xyz^
 ||huangdao.info^
+||huangye.miui.com^
 ||huanqiucaijing.cn^
 ||huanqiucaizhi.com^
 ||huanrentv.cn^
@@ -41348,6 +41367,7 @@ ff02::3 ip6-allhosts
 ||image.smart-c.jp^
 ||image.static.adflex.vn^
 ||image.ttyouma.cn^
+||image.uczzd.cn^
 ||image.upages.cn^
 ||image.yigao.com^
 ||image.yiqifa.com^
@@ -44904,6 +44924,7 @@ ff02::3 ip6-allhosts
 ||jtuvgczhvuptzn.com^
 ||jtxh.net^
 ||jtys8.com^
+||ju.taobao.com^
 ||ju33.com^
 ||juandou.com^
 ||jubiitag.dk^
@@ -53398,6 +53419,7 @@ ff02::3 ip6-allhosts
 ||mo.4s5n.cn^
 ||mo.5.p2l.info^
 ||mo.b25ku.cn^
+||mo.baidu.com^
 ||mo.bsxr.com.cn^
 ||mo.byjr899.top^
 ||mo.dfnbyn.top^
@@ -58019,6 +58041,7 @@ ff02::3 ip6-allhosts
 ||ojktwzisvpb.com^
 ||ojm4.palladiumhotelgroup.com^
 ||ojolink.fr^
+||ojrq.net^
 ||ojstdedb.com^
 ||ojtobu.angelcities.com^
 ||ojues.com^
@@ -59433,6 +59456,7 @@ ff02::3 ip6-allhosts
 ||p.saozhu1.top^
 ||p.sdu8cvc.com^
 ||p.share.mob.com^
+||p.shllhz.net^
 ||p.skimresources.com^
 ||p.smartertravel.com^
 ||p.store.qq.com^
@@ -60236,6 +60260,7 @@ ff02::3 ip6-allhosts
 ||pctoolscom.112.2o7.net^
 ||pctracking.net^
 ||pctuzing.php5.cz^
+||pcvideoaliyun.titan.mgtv.com^
 ||pcvideoyd.titan.mgtv.com^
 ||pcw.uk.intellitxt.com^
 ||pcweb-v1.log.mgtv.com^
@@ -61296,6 +61321,7 @@ ff02::3 ip6-allhosts
 ||pl.btcprofit.trcwasdf.club^
 ||pl.bustcream-pro.com^
 ||pl.centrumofert.com^
+||pl.cp12.wasu.tv^
 ||pl.cp31.ott.cibntv.net^
 ||pl.cryptoprofit.best^
 ||pl.fxgm.com^
@@ -65107,6 +65133,7 @@ ff02::3 ip6-allhosts
 ||re.m.taobao.com^
 ||re.revolvermaps.com^
 ||re.rutan.org^
+||re.taobao.com^
 ||re.taotaosou.com^
 ||reachandrich.antevenio.com^
 ||reacherinst.com^
@@ -66578,6 +66605,7 @@ ff02::3 ip6-allhosts
 ||rp.hit.gemius.pl^
 ||rp.hpplay.cn^
 ||rpaulfrank.com^
+||rpc-php.trafficfactory.biz^
 ||rpc-tapjoy-com-lb-1378811527.us-east-1.elb.amazonaws.com^
 ||rpc.ant.com^
 ||rpc.tapjoy.com^
@@ -67192,6 +67220,7 @@ ff02::3 ip6-allhosts
 ||s.206solutions.com^
 ||s.23dsf.top^
 ||s.35kds.com^
+||s.360.cn^
 ||s.456jjh.cn^
 ||s.51shijuan.com^
 ||s.5jjx.net^
@@ -70138,6 +70167,7 @@ ff02::3 ip6-allhosts
 ||shkunjia.com.cn^
 ||shkywh.com^
 ||shlinks.industrybrains.com^
+||shllhz.net^
 ||shlovesea.com^
 ||shmonekisot.com^
 ||shmoop-d.openx.net^
@@ -70206,6 +70236,7 @@ ff02::3 ip6-allhosts
 ||shorug.cn^
 ||shostobs.net^
 ||shouhoag.net^
+||shouji.360.cn^
 ||shouji.sougou.com^
 ||shouji.yd126.com^
 ||shoujiawang.cn^
@@ -70396,6 +70427,7 @@ ff02::3 ip6-allhosts
 ||simage2.pubmatic.com^
 ||simarl.com^
 ||simba.6.cn^
+||simba.m.taobao.com^
 ||simg.zedo.com^
 ||simicaseros.pro^
 ||simility.com^
@@ -71849,6 +71881,7 @@ ff02::3 ip6-allhosts
 ||sp.yorkdispatch.com^
 ||sp.zalo.me^
 ||sp.zanesvilletimesrecorder.com^
+||sp0.baidu.com^
 ||sp1.baidu.com^
 ||sp2mzc.pl^
 ||sp3.cndm.com^
@@ -75246,6 +75279,9 @@ ff02::3 ip6-allhosts
 ||t1.jzkapp.com^
 ||t1.trackalyzer.com^
 ||t1.wshufa.com^
+||t10.baidu.com^
+||t11.baidu.com^
+||t12.baidu.com^
 ||t157.com^
 ||t188.dazhonghua.cn^
 ||t1bank.xyz^
@@ -75295,6 +75331,7 @@ ff02::3 ip6-allhosts
 ||t4ft.de^
 ||t5.51maiwanju.com^
 ||t5.a.market.xiaomi.com^
+||t5.baidu.com^
 ||t5.trackalyzer.com^
 ||t500track29.com^
 ||t58b.com^
@@ -75597,6 +75634,7 @@ ff02::3 ip6-allhosts
 ||tantella.com^
 ||tantoporno.com^
 ||tanwanyx.com^
+||tanx.com^
 ||tanxlog.istreamsche.com^
 ||tanyen.ezimar.com^
 ||tanzeelbuilders.com^
@@ -76058,6 +76096,7 @@ ff02::3 ip6-allhosts
 ||teinfo.wps.cn^
 ||teipgupp.com^
 ||tejia.gaibang.fun^
+||tejia.taobao.com^
 ||tek-tek-trek.com^
 ||tekerstreet10.live^
 ||tekerstreet11.live^
@@ -76111,6 +76150,7 @@ ff02::3 ip6-allhosts
 ||telemetry.firstpartyapps.oaspapps.com^
 ||telemetry.jivosite.com^
 ||telemetry.layer.com^
+||telemetry.malwarebytes.com^
 ||telemetry.microsoft.com^
 ||telemetry.reembed.com^
 ||telemetry.sdk.inmobi.cn^
@@ -76145,6 +76185,7 @@ ff02::3 ip6-allhosts
 ||telwrite.com^
 ||temai.m.taobao.com^
 ||temai.snssdk.com^
+||temai.taobao.com^
 ||tematyczne-rozmowki.com.pl^
 ||tematyczne-rozmowy-pl.eu^
 ||tematyczne-rozmowy.pl^
@@ -77275,6 +77316,7 @@ ff02::3 ip6-allhosts
 ||tongji-res1.meizu.com^
 ||tongji.114com.cc^
 ||tongji.appscomeon.com^
+||tongji.baidu.com^
 ||tongji.coccccc.cc^
 ||tongji.eastday.com^
 ||tongji.eduancm.com^
@@ -78125,6 +78167,7 @@ ff02::3 ip6-allhosts
 ||track.toroadvertising.com^
 ||track.totalav.com^
 ||track.traffcdn.com^
+||track.uc.cn^
 ||track.ugamezone.com^
 ||track.ultimate-guitar.com^
 ||track.ultragaming.biz^
@@ -79501,6 +79544,7 @@ ff02::3 ip6-allhosts
 ||tv-rightcelebrity.us.intellitxt.com^
 ||tv.code.jjyx.com^
 ||tv.infowars.com^
+||tv.sohu.com^
 ||tv2dk.nuggad.net^
 ||tv2no.linkpulse.com^
 ||tvads.alphonso.tv^
@@ -79945,6 +79989,7 @@ ff02::3 ip6-allhosts
 ||ucaii.com^
 ||ucaliyun.cn^
 ||ucaluco.com^
+||ucan.25pp.com^
 ||ucbaba.top^
 ||uccmprpzju.com^
 ||ucfeed.ru^
@@ -81530,6 +81575,7 @@ ff02::3 ip6-allhosts
 ||varicolen.pl^
 ||variedshops.men^
 ||varielcontentdelivery.info^
+||variety.tc.qq.com^
 ||variti.net^
 ||varravgames.com^
 ||vars.hotjar.com^
