@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-04
 #
-# Number of blocked domains:  99938
+# Number of blocked domains:  99939
 #
 # ===============================================================
 
@@ -63007,6 +63007,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  pubexchange.com
 0.0.0.0  pubgears.com
 0.0.0.0  pubgenius.io
+0.0.0.0  pubghio.fun
 0.0.0.0  pubguru.com
 0.0.0.0  pubimgs.sapo.pt
 0.0.0.0  publiads.com
