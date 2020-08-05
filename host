@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-05
 #
-# Number of blocked domains:  99942
+# Number of blocked domains:  99943
 #
 # ===============================================================
 
@@ -98548,6 +98548,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  ysgsq.cn
 0.0.0.0  ysiu.freenation.com
 0.0.0.0  ysjkyia.cn
+0.0.0.0  ysjkyia.cn/5/?channel=gg01
 0.0.0.0  ysjweb.com
 0.0.0.0  ysjwj.com
 0.0.0.0  ysljgoytuyfbg.com
