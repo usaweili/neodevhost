@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-05
 #
-# Number of blocked domains:  99943
+# Number of blocked domains:  99949
 #
 # ===============================================================
 
@@ -19443,6 +19443,7 @@ ff02::3 ip6-allhosts
 ||c.vserv.mobi^
 ||c.vvvvvvvvv.ga^
 ||c.w.dfw2.vip.inmobi.com^
+||c.w.inmobi.cn^
 ||c.w.inmobi.com^
 ||c.w.vip1.ams1.inmobi.com^
 ||c.wantxt.cc^
@@ -30009,6 +30010,7 @@ ff02::3 ip6-allhosts
 ||e.mqgpo.com^
 ||e.mrsasharingspace.com^
 ||e.mrtuo.com^
+||e.mspazmw.cn^
 ||e.mutvib.cn^
 ||e.mw31pe.cn^
 ||e.mwjpk.com^
@@ -31706,6 +31708,7 @@ ff02::3 ip6-allhosts
 ||eo.ou6d.cn^
 ||eo.sdagxz.xyz^
 ||eo.ssdoi.com^
+||eo.syrki.xyz^
 ||eo.szimic.cn^
 ||eo.tsnsrix.cn^
 ||eo.wamcjfg.cn^
@@ -32050,6 +32053,7 @@ ff02::3 ip6-allhosts
 ||et.unclejeans.com^
 ||et.w.dfw1.vip.inmobi.com^
 ||et.w.dfw2.vip.inmobi.com^
+||et.w.inmobi.cn^
 ||et.w.inmobi.com^
 ||et.w.vip.ams1.inmobi.com^
 ||et2-eu13.wagbridge.alibaba.tanx.com^
@@ -49485,6 +49489,7 @@ ff02::3 ip6-allhosts
 ||m.mouaa.com^
 ||m.mqgpo.com^
 ||m.mrtuo.com^
+||m.mspazmw.cn^
 ||m.msuik.cn^
 ||m.msujd.cn^
 ||m.mtmfjdo.cn^
@@ -53108,6 +53113,7 @@ ff02::3 ip6-allhosts
 ||mo.rltk.com.cn^
 ||mo.shekuang.top^
 ||mo.shezhuang.top^
+||mo.syrki.xyz^
 ||mo.szimic.cn^
 ||mo.test.haloapps.com^
 ||mo.tsnsrix.cn^
