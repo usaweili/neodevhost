@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-05
 #
-# Number of blocked domains:  99941
+# Number of blocked domains:  99940
 #
 # ===============================================================
 
@@ -78880,8 +78880,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  tu.biddingx.com
 0.0.0.0  tu.connect.wunderloop.net
 0.0.0.0  tu.cvnad.com
-0.0.0.0  tu.jstucdn.com/ftp/2020/0427/e6f76ede919710cd87e380f1c2f9cec7.gif
-0.0.0.0  tu.jstucdn.com/g3/ad-img/1000-10.jpg
+0.0.0.0  tu.jstucdn.com
 0.0.0.0  tu.moatads.com
 0.0.0.0  tu.szefe.com
 0.0.0.0  tu.zx110.org
