@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-06
 #
-# Number of blocked domains:  99949
+# Number of blocked domains:  99950
 #
 # ===============================================================
 
@@ -23186,7 +23186,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  co.dcclan.co.uk
 0.0.0.0  co.dtech.baofeng.com
 0.0.0.0  co.hltv.org
-0.0.0.0  co.in
 0.0.0.0  co8vd.cn
 0.0.0.0  coach-japan.com
 0.0.0.0  coachhouseballarat.com
@@ -53606,6 +53605,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  mookie1.com
 0.0.0.0  moolahmedia.com
 0.0.0.0  moon-ads.com
+0.0.0.0  moonbit.co.in
 0.0.0.0  moonicorn.network
 0.0.0.0  moonify.io
 0.0.0.0  moonlightingapi-ads.com
@@ -91512,6 +91512,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  www.montacarichi.it
 0.0.0.0  www.montecarlocasino.com
 0.0.0.0  www.monthlywinners.com
+0.0.0.0  www.moonbit.co.in
 0.0.0.0  www.moonofalabama.org
 0.0.0.0  www.mopik.pl
 0.0.0.0  www.mopsl.info
