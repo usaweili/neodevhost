@@ -25,6 +25,9 @@ fi
 if [ -f block_dnsmasq.conf ]; then 
     rm block_dnsmasq.conf
 fi
+if [ -f deadallow ]; then 
+    rm deadallow
+fi
 
 echo " "
 echo "Merge allow..."
@@ -57,6 +60,7 @@ rm tmpallow
 
 echo " "
 echo "Check Dead Allow..."
+wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadallow
 sort -n allow deadallow deadallow | uniq -u > tmp && mv tmp tmpallow
 sort -u tmpallow > allow
 rm tmpallow
