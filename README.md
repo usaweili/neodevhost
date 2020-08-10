@@ -132,3 +132,9 @@ AnudeepND-optional | [link](https://raw.githubusercontent.com/anudeepND/whitelis
 Ultimate-Hosts-Blacklist | [link](https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list)
 WildcardTech | [link](https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt)
 Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/whitelist.txt)
+
+## Dead Domain List 过期域名名单
+Allowlist | Link  
+--------- |:-------------:
+block | [link](https://raw.githubusercontent.com/FusionPlmH/dead-block/master/deadblock)
+allow | [link](https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadallow)
