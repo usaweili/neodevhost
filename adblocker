@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-10
 #
-# Number of blocked domains:  100673
+# Number of blocked domains:  100677
 #
 # ===============================================================
 
@@ -32565,7 +32565,6 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
-||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
@@ -61233,6 +61232,7 @@ ff02::3 ip6-allhosts
 ||pixie.fyber.com^
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
+||pixiu.shangshufang.ksosoft.com^
 ||pixiv.org^
 ||pixnbeats.com^
 ||pixon.ads-pixiv.net^
@@ -63603,6 +63603,7 @@ ff02::3 ip6-allhosts
 ||push.wandoujia.com^
 ||push.wapx.cn^
 ||push.world^
+||push.wps.cn^
 ||push.xdrig.com^
 ||push.yoads.net^
 ||push.yuedu.163.com^
@@ -65862,7 +65863,6 @@ ff02::3 ip6-allhosts
 ||resizer.mantisadnetwork.com^
 ||resolutekey.com^
 ||resolve.gimbal.com^
-||resolver.gslb.mi-idc.com^
 ||resolvethem.com^
 ||resolvingserver.com^
 ||reson8.com^
@@ -76341,6 +76341,7 @@ ff02::3 ip6-allhosts
 ||test.acdlec.be^
 ||test.ad.cmvideo.cn^
 ||test.ad.xiaomi.com^
+||test.api.xlmc.sandai.net^
 ||test.ark.letv.com^
 ||test.chrisjewels.com^
 ||test.coremetrics.com^
@@ -84983,6 +84984,7 @@ ff02::3 ip6-allhosts
 ||wpqvggsnc.com^
 ||wpr.hot-mob.com^
 ||wpsconfig4svr.elasticbeanstalk.com^
+||wpsweb-dc.wps.cn^
 ||wpu.sh^
 ||wpunkcie.pl^
 ||wpush.biz^
@@ -97884,6 +97886,7 @@ ff02::3 ip6-allhosts
 ||xkzrbaexyrds.com^
 ||xkzzkxntmryst.com^
 ||xl-trk.com^
+||xladapi.izuiyou.com^
 ||xlbbhdarc.com^
 ||xlcun.com^
 ||xld.caicool.co^
@@ -97910,6 +97913,7 @@ ff02::3 ip6-allhosts
 ||xls.yeschool.info^
 ||xlspkqpnnqj.com^
 ||xlsschina15.net^
+||xlstat.izuiyou.com^
 ||xltc-dta.be^
 ||xlwnx.com^
 ||xlxamrkeiawkco.com^

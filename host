@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-10
 #
-# Number of blocked domains:  100673
+# Number of blocked domains:  100677
 #
 # ===============================================================
 
@@ -32565,7 +32565,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  events.demoup.com
 0.0.0.0  events.engageya.com
 0.0.0.0  events.foreseeresults.com
-0.0.0.0  events.gfe.nvidia.com
 0.0.0.0  events.guesttoguest.com
 0.0.0.0  events.il.fi
 0.0.0.0  events.influencemobile.com
@@ -61233,6 +61232,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  pixie.fyber.com
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixnbeats.com
 0.0.0.0  pixon.ads-pixiv.net
@@ -63603,6 +63603,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  push.wandoujia.com
 0.0.0.0  push.wapx.cn
 0.0.0.0  push.world
+0.0.0.0  push.wps.cn
 0.0.0.0  push.xdrig.com
 0.0.0.0  push.yoads.net
 0.0.0.0  push.yuedu.163.com
@@ -65862,7 +65863,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  resizer.mantisadnetwork.com
 0.0.0.0  resolutekey.com
 0.0.0.0  resolve.gimbal.com
-0.0.0.0  resolver.gslb.mi-idc.com
 0.0.0.0  resolvethem.com
 0.0.0.0  resolvingserver.com
 0.0.0.0  reson8.com
@@ -76341,6 +76341,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  test.acdlec.be
 0.0.0.0  test.ad.cmvideo.cn
 0.0.0.0  test.ad.xiaomi.com
+0.0.0.0  test.api.xlmc.sandai.net
 0.0.0.0  test.ark.letv.com
 0.0.0.0  test.chrisjewels.com
 0.0.0.0  test.coremetrics.com
@@ -84983,6 +84984,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  wpqvggsnc.com
 0.0.0.0  wpr.hot-mob.com
 0.0.0.0  wpsconfig4svr.elasticbeanstalk.com
+0.0.0.0  wpsweb-dc.wps.cn
 0.0.0.0  wpu.sh
 0.0.0.0  wpunkcie.pl
 0.0.0.0  wpush.biz
@@ -97884,6 +97886,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  xkzrbaexyrds.com
 0.0.0.0  xkzzkxntmryst.com
 0.0.0.0  xl-trk.com
+0.0.0.0  xladapi.izuiyou.com
 0.0.0.0  xlbbhdarc.com
 0.0.0.0  xlcun.com
 0.0.0.0  xld.caicool.co
@@ -97910,6 +97913,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  xls.yeschool.info
 0.0.0.0  xlspkqpnnqj.com
 0.0.0.0  xlsschina15.net
+0.0.0.0  xlstat.izuiyou.com
 0.0.0.0  xltc-dta.be
 0.0.0.0  xlwnx.com
 0.0.0.0  xlxamrkeiawkco.com
