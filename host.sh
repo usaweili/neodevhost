@@ -122,7 +122,7 @@ rm tmpblock
 echo " "
 echo "Check Dead Block..."
 cp block testblock
-wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadblock
+wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/FusionPlmH/dead-block/master/deadblock
 sort -n block deadblock deadblock | uniq -u > tmp && mv tmp tmpblock
 sort -u tmpblock > block
 rm tmpblock
