@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-10
 #
-# Number of blocked domains:  100669
+# Number of blocked domains:  100671
 #
 # ===============================================================
 
@@ -13672,6 +13672,7 @@ ff02::3 ip6-allhosts
 ||api.wundercounter.com^
 ||api.xdirectx.com^
 ||api.xiaohuxi.cn^
+||api.xk.miui.com^
 ||api.y.igexin.com^
 ||api.yieldlove-ad-serving.net^
 ||api.yieldmagic.com^
@@ -18272,7 +18273,6 @@ ff02::3 ip6-allhosts
 ||boksy.onet.pl^
 ||bola88.com^
 ||boldride.us.intellitxt.com^
-||bole.shangshufang.ksosoft.com^
 ||bolek69.pl^
 ||bolili.info^
 ||bolizirs.com^
@@ -32564,6 +32564,7 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
+||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
@@ -37572,6 +37573,7 @@ ff02::3 ip6-allhosts
 ||gotrlayh.com^
 ||gottabemobile.us.intellitxt.com^
 ||gotwebsite1.com^
+||gou.wps.cn^
 ||gouhei.top^
 ||goulanmeng.cn^
 ||goupandhigher.com^
@@ -40529,7 +40531,6 @@ ff02::3 ip6-allhosts
 ||i.ctnsnet.com^
 ||i.domob.cn^
 ||i.dreamfull.cn^
-||i.flow.browser.oppomobile.com^
 ||i.gdt.qq.com^
 ||i.go.sohu.com^
 ||i.goadservices.com^
@@ -52994,7 +52995,6 @@ ff02::3 ip6-allhosts
 ||minewhat.com^
 ||minexmr.com^
 ||minexmr.stream^
-||minfo.wps.cn^
 ||ming-dun.com.tw^
 ||mingboxieye.com^
 ||minghui.com^
@@ -55952,7 +55952,6 @@ ff02::3 ip6-allhosts
 ||news.cxxtv.com^
 ||news.dable.io^
 ||news.de.intellitxt.com^
-||news.docer.com^
 ||news.fark.com^
 ||news.health-beauty.press^
 ||news.hkrevolt.com^
@@ -67663,6 +67662,7 @@ ff02::3 ip6-allhosts
 ||s2.tracemyip.org^
 ||s2.video.doubleclick.net^
 ||s2.yandui.com^
+||s2.youtube.com^
 ||s2.zdface.com^
 ||s2.zdmimg.com^
 ||s20.cnzz.com^
@@ -79713,6 +79713,7 @@ ff02::3 ip6-allhosts
 ||tw.i.hulu.com^
 ||tw.pub.vpon.com^
 ||tw.rd.yahoo.com^
+||tw13b093.sandai.net^
 ||tw2.adserver.yahoo.com^
 ||twackle.com^
 ||twb98.com^
@@ -80532,6 +80533,7 @@ ff02::3 ip6-allhosts
 ||union.baidustatic.guannin.com^
 ||union.china.com.cn^
 ||union.dangdang.com^
+||union.dbba.cn^
 ||union.discuz.qq.com^
 ||union.duizhuang.com^
 ||union.ijinshan.com^

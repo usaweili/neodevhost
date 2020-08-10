@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-10
 #
-# Number of blocked domains:  100669
+# Number of blocked domains:  100671
 #
 # ===============================================================
 
@@ -13672,6 +13672,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  api.wundercounter.com
 0.0.0.0  api.xdirectx.com
 0.0.0.0  api.xiaohuxi.cn
+0.0.0.0  api.xk.miui.com
 0.0.0.0  api.y.igexin.com
 0.0.0.0  api.yieldlove-ad-serving.net
 0.0.0.0  api.yieldmagic.com
@@ -18272,7 +18273,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  boksy.onet.pl
 0.0.0.0  bola88.com
 0.0.0.0  boldride.us.intellitxt.com
-0.0.0.0  bole.shangshufang.ksosoft.com
 0.0.0.0  bolek69.pl
 0.0.0.0  bolili.info
 0.0.0.0  bolizirs.com
@@ -32564,6 +32564,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  events.demoup.com
 0.0.0.0  events.engageya.com
 0.0.0.0  events.foreseeresults.com
+0.0.0.0  events.gfe.nvidia.com
 0.0.0.0  events.guesttoguest.com
 0.0.0.0  events.il.fi
 0.0.0.0  events.influencemobile.com
@@ -37572,6 +37573,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  gotrlayh.com
 0.0.0.0  gottabemobile.us.intellitxt.com
 0.0.0.0  gotwebsite1.com
+0.0.0.0  gou.wps.cn
 0.0.0.0  gouhei.top
 0.0.0.0  goulanmeng.cn
 0.0.0.0  goupandhigher.com
@@ -40529,7 +40531,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  i.ctnsnet.com
 0.0.0.0  i.domob.cn
 0.0.0.0  i.dreamfull.cn
-0.0.0.0  i.flow.browser.oppomobile.com
 0.0.0.0  i.gdt.qq.com
 0.0.0.0  i.go.sohu.com
 0.0.0.0  i.goadservices.com
@@ -52994,7 +52995,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  minewhat.com
 0.0.0.0  minexmr.com
 0.0.0.0  minexmr.stream
-0.0.0.0  minfo.wps.cn
 0.0.0.0  ming-dun.com.tw
 0.0.0.0  mingboxieye.com
 0.0.0.0  minghui.com
@@ -55952,7 +55952,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  news.cxxtv.com
 0.0.0.0  news.dable.io
 0.0.0.0  news.de.intellitxt.com
-0.0.0.0  news.docer.com
 0.0.0.0  news.fark.com
 0.0.0.0  news.health-beauty.press
 0.0.0.0  news.hkrevolt.com
@@ -67663,6 +67662,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  s2.tracemyip.org
 0.0.0.0  s2.video.doubleclick.net
 0.0.0.0  s2.yandui.com
+0.0.0.0  s2.youtube.com
 0.0.0.0  s2.zdface.com
 0.0.0.0  s2.zdmimg.com
 0.0.0.0  s20.cnzz.com
@@ -79713,6 +79713,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  tw.i.hulu.com
 0.0.0.0  tw.pub.vpon.com
 0.0.0.0  tw.rd.yahoo.com
+0.0.0.0  tw13b093.sandai.net
 0.0.0.0  tw2.adserver.yahoo.com
 0.0.0.0  twackle.com
 0.0.0.0  twb98.com
@@ -80532,6 +80533,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  union.baidustatic.guannin.com
 0.0.0.0  union.china.com.cn
 0.0.0.0  union.dangdang.com
+0.0.0.0  union.dbba.cn
 0.0.0.0  union.discuz.qq.com
 0.0.0.0  union.duizhuang.com
 0.0.0.0  union.ijinshan.com
