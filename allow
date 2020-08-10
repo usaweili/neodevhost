@@ -337,6 +337,8 @@ current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
+d.dropbox.com
 d.g.mi.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
@@ -363,8 +365,8 @@ developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+device.auth.xboxlive.com
 dfnews.rdtuijian.com
-di.com.pl
 dictionary.cambridge.org
 digg.com
 digitaltrends.com
@@ -394,6 +396,7 @@ dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
 download.ctmail.com
+download.sonarr.tv
 drc-centraloffice.com
 drift.com
 driftt.com
@@ -435,6 +438,10 @@ embed.spotify.com
 en.bab.la
 encrypted-tbn0.gstatic.com
 engadget.com
+entitlement.auth.adobe.com
+eonline.com
+espn.com
+eventbus.learnosity.com
 events.gfe.nvidia.com
 events.learnosity.com
 ew.com
@@ -512,6 +519,8 @@ game.quizizz.com
 gap.com
 gawker.com
 gazeta.pl
+gdmf.apple.com
+geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
 get.adobe.com
 gfwsl.geforce.com
@@ -560,6 +569,8 @@ gsa.apple.com
 gslb.spotify.com
 gspe35-ssl.ls.apple.com
 gss0.bdstatic.com
+gss2.bdstatic.com
+gstatic.com
 guru3d.com
 gweb-gettingstartedguide.appspot.com
 hbogo.com
@@ -912,6 +923,7 @@ office.net
 office365.com
 officeclient.microsoft.com
 officedepot.com
+oladblock.me
 oladblock.services
 oladblock.xyz
 oload.cc
@@ -1132,6 +1144,7 @@ secure.netflix.com
 secure.surveymonkey.com
 secureir.ebaystatic.com
 securel.longtailvideo.com
+securemecca.com
 securemetrics.apple.com
 secureplugins.longtailvideo.com
 security.browser.miui.com
