@@ -13,7 +13,7 @@
 ```
 Total ad / tracking block list 屏蔽追踪广告总数: 100796
 
-Total allowlist list 允许名单总数: 1467
+Total allowlist list 允许名单总数: 1462
 
 Total combine list 结合总数： 100671
 
