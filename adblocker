@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-10
 #
-# Number of blocked domains:  100674
+# Number of blocked domains:  100672
 #
 # ===============================================================
 
@@ -32565,7 +32565,6 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
-||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
@@ -61233,7 +61232,6 @@ ff02::3 ip6-allhosts
 ||pixie.fyber.com^
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
-||pixiu.shangshufang.ksosoft.com^
 ||pixiv.org^
 ||pixnbeats.com^
 ||pixon.ads-pixiv.net^
@@ -64915,7 +64913,6 @@ ff02::3 ip6-allhosts
 ||rathbone-art.com^
 ||rating-widget.com^
 ||rating.in^
-||rating6.kingsoft-office-service.com^
 ||ratings.lycos.com^
 ||ratingtoplist.com^
 ||ratkalol.com^
@@ -65864,6 +65861,7 @@ ff02::3 ip6-allhosts
 ||resizer.mantisadnetwork.com^
 ||resolutekey.com^
 ||resolve.gimbal.com^
+||resolver.gslb.mi-idc.com^
 ||resolvethem.com^
 ||resolvingserver.com^
 ||reson8.com^
