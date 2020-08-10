@@ -17,6 +17,10 @@ Total allowlist list 允许名单总数: 1464
 
 Total combine list 结合总数： 100670
 
+Total deadblock list 失效屏蔽广告域名： 
+
+Total deadallow list 失效允许广告域名： 
+
 Update 更新时间: 2020-08-10
 ```
 ### UPTODATE 保持最新<br/>
@@ -42,15 +46,21 @@ Update 更新时间: 2020-08-10
 -Adaway
 -Adblocker/Adguard
 -etc
-```
+``` 
 
-## Download 下载 
-
+## Full version (With Dead Domain inside) 完整版（包含过期域名）：
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
 Host | Pihole，Adaway，hBlock ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host)
 Adblocker | uBlock，Adguard ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/adblocker) 
 Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host_dnsmasq.conf) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host_dnsmasq.conf)
+
+## Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
+Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
+--------- |:-------------:|:-------------:|:-------------:
+Host | Pihole，Adaway，hBlock ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host)
+Adblocker | uBlock，Adguard ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/adblocker) 
+Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host_dnsmasq.conf) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host_dnsmasq.conf)
 
 ## How To Use 如何使用
 ```
