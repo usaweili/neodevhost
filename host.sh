@@ -33,6 +33,10 @@ if [ -f testallow ]; then
     rm testallow
 fi
 
+if [ -f testblock ]; then 
+    rm testblock
+fi
+
 
 echo " "
 echo "Merge allow..."
@@ -114,6 +118,7 @@ rm tmpblock
 
 echo " "
 echo "Check Dead Block..."
+cp block testblock
 sort -n block deadblock deadblock | uniq -u > tmp && mv tmp tmpblock
 sort -u tmpblock > block
 rm tmpblock
