@@ -129,12 +129,18 @@ echo " "
 echo "Merge Combine..."
 sort -n block allow allow | uniq -u > tmp && mv tmp tmphost
 sort -u tmphost > host
+sed -i 's/^[ \t]*//;s/[ \t]*$//' host
+sed -i 's/ //g' host
+sed -i '/^$/d' host
 rm tmphost
 
 echo " "
 echo "Merge Combine..."
 sort -n lite_block allow allow | uniq -u > tmp && mv tmp tmplite_host
 sort -u tmplite_host > lite_host
+sed -i 's/^[ \t]*//;s/[ \t]*$//' lite_host
+sed -i 's/ //g' lite_host
+sed -i '/^$/d' lite_host
 rm tmphost
 
 echo " "
