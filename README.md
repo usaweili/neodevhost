@@ -64,9 +64,9 @@ Number of Domain 域名数目： 77751
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
-Host | Pihole，Adaway，hBlock ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host)
-Adblocker | uBlock，Adguard ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/adblocker) 
-Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host_dnsmasq.conf) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host_dnsmasq.conf)
+Host | Pihole，Adaway，hBlock ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/lite_host)
+Adblocker | uBlock，Adguard ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/lite_adblocker) 
+Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host_dnsmasq.conf) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/lite_host_dnsmasq.conf)
 
 ## How To Use 如何使用
 ```
@@ -98,7 +98,9 @@ pihole -g
 
 
 Remove and Uninstall 移除和卸载<br/>
-
+sh: line 177: syntax error near unexpected token `)'
+263
+./host.sh: line 177: `sed -i '63cNumber of Domain 域名数目：
 1.Login to pihole website<br/>
 2.Go to Groupmanagement > Adlists<br/>
 3.click the red trash can button<br/>
