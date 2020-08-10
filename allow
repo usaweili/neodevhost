@@ -337,12 +337,13 @@ current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
+d.dropbox.com
 d.g.mi.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
-data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -364,7 +365,8 @@ device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
-dfnews.rdtuijian.com
+di.com.pl
+dictionary.cambridge.org
 digg.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
@@ -434,10 +436,9 @@ embed.flowplayer.org
 embed.spotify.com
 en.bab.la
 encrypted-tbn0.gstatic.com
-engadget.com
-entitlement.auth.adobe.com
-eonline.com
 espn.com
+eventbus.learnosity.com
+events.gfe.nvidia.com
 events.learnosity.com
 ew.com
 example.com
@@ -473,8 +474,11 @@ filmweb.pl
 filmyhd.net
 filters.adtidy.org
 finance.yahoo.com
-fm.tuba.pl
 follett.com
+fonts.googleapis.com
+fonts.gstatic.com
+footlocker-inc.com
+footlocker.com
 forbes.com
 fortune.com
 forum.avast.com
@@ -558,8 +562,6 @@ groups.google.com
 gs.apple.com
 gsa.apple.com
 gslb.spotify.com
-gspe35-ssl.ls.apple.com
-gss0.bdstatic.com
 gss2.bdstatic.com
 gstatic.com
 guru3d.com
@@ -918,7 +920,6 @@ oladblock.me
 oladblock.services
 oladblock.xyz
 oload.cc
-oload.cloud
 oload.club
 oload.download
 oload.fun
@@ -947,7 +948,6 @@ openload.co
 openload.io
 openload.link
 openload.pw
-openloed.co
 opensubtitles.org
 openuserjs.org
 opinion.latimes.com
@@ -1115,6 +1115,7 @@ sbs.com.au
 sbsvodns-vh.akamaihd.net
 sch-2357.mosyle.com
 scontent-iad3-1.cdninstagram.com
+scontent-lhr3-1.xx.fbcdn.net
 scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
 screenshots.firefox.com
@@ -1134,6 +1135,7 @@ secure.netflix.com
 secure.surveymonkey.com
 secureir.ebaystatic.com
 securel.longtailvideo.com
+securemecca.com
 securemetrics.apple.com
 secureplugins.longtailvideo.com
 security.browser.miui.com
@@ -1228,6 +1230,7 @@ t.co
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talk.google.com
 talk.l.google.com
 talkgadget.google.com
@@ -1281,7 +1284,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treezip.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
