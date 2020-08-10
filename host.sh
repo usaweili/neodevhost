@@ -28,6 +28,9 @@ fi
 if [ -f deadallow ]; then 
     rm deadallow
 fi
+if [ -f deadblock ]; then 
+    rm deadblock
+fi
 
 if [ -f testallow ]; then 
     rm testallow
@@ -119,6 +122,7 @@ rm tmpblock
 echo " "
 echo "Check Dead Block..."
 cp block testblock
+wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadblock
 sort -n block deadblock deadblock | uniq -u > tmp && mv tmp tmpblock
 sort -u tmpblock > block
 rm tmpblock
@@ -150,7 +154,9 @@ echo "Adding Title and SYNC data..."
 sed -i '14cTotal ad / tracking block list 屏蔽追踪广告总数: '$(wc -l block)' ' README.md  
 sed -i '16cTotal allowlist list 允许名单总数: '$(wc -l allow)' ' README.md 
 sed -i '18cTotal combine list 结合总数： '$(wc -l host)' ' README.md
-sed -i '20cUpdate 更新时间: '$(date "+%Y-%m-%d")'' README.md
+sed -i '20cTotal deadblock list 失效屏蔽广告域名： '$(wc -l deadblock)' ' README.md
+sed -i '22cTotal deadallow list 失效允许广告域名： '$(wc -l deadallow)' ' README.md
+sed -i '24cUpdate 更新时间: '$(date "+%Y-%m-%d")'' README.md
  
 cp title title.2
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.2
