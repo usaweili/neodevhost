@@ -50,7 +50,7 @@ Update 更新时间: 2020-08-10
 
 ## Full version (With Dead Domain inside) 完整版（包含过期域名）：
 
-Number of Domain 域名数目：
+Number of Domain 域名数目： 100673
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
@@ -60,7 +60,7 @@ Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost
 
 ## Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
 
-Number of Domain 域名数目：
+Number of Domain 域名数目： 77751
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
