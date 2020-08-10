@@ -11,11 +11,11 @@
 [![license](https://img.shields.io/github/license/neodevpro/neodevhost.svg)](https://github.com/neodevpro/neodevhost/blob/master/LICENSE)
 
 ```
-Total ad / tracking block list 屏蔽追踪广告总数: 77875
+Total ad / tracking block list 屏蔽追踪广告总数: 100797
 
 Total allowlist list 允许名单总数: 1463
 
-Total combine list 结合总数： 77751
+Total combine list 结合总数： 100673
 
 Total deadblock list 失效屏蔽广告域名： 22922
 
