@@ -186,21 +186,41 @@ cp title title.6
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.6
 sed -i '11c# Number of blocked domains:  '$(wc -l host_dnsmasq.conf)' ' title.6       
 
+cp title title.1
+sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.1
+sed -i '11c# Number of blocked domains:  '$(wc -l lite_host)' ' title.1   
+cp title title.3
+sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.3
+sed -i '11c# Number of blocked domains:  '$(wc -l lite_adblocker)' ' title.3   
+cp title title.5
+sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.5
+sed -i '11c# Number of blocked domains:  '$(wc -l lite_host_dnsmasq.conf)' ' title.5  
+
+
 cat host >>title.2
 cat adblocker >>title.4
 cat host_dnsmasq.conf >>title.6
 
+cat lite_host >>title.1
+cat lite_adblocker >>title.3
+cat lite_host_dnsmasq.conf >>title.5
+
 
 rm -rf block
 rm -rf host
-rm -rf adblockerblock
 rm -rf adblocker
-rm -rf block_dnsmasq.conf
 rm -rf host_dnsmasq.conf
+rm -rf lite_host
+rm -rf lite_adblocker
+rm -rf lite_host_dnsmasq.conf
 
 mv title.2 host
 mv title.4 adblocker
 mv title.6 host_dnsmasq.conf
+
+mv title.1 lite_host
+mv title.3 lite_adblocker
+mv title.5 lite_host_dnsmasq.conf
 
 echo " "
 echo "Done!"
