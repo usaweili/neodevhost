@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-10
 #
-# Number of blocked domains:  100677
+# Number of blocked domains:  100673
 #
 # ===============================================================
 
@@ -61232,7 +61232,6 @@ ff02::3 ip6-allhosts
 ||pixie.fyber.com^
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
-||pixiu.shangshufang.ksosoft.com^
 ||pixiv.org^
 ||pixnbeats.com^
 ||pixon.ads-pixiv.net^
@@ -63603,7 +63602,6 @@ ff02::3 ip6-allhosts
 ||push.wandoujia.com^
 ||push.wapx.cn^
 ||push.world^
-||push.wps.cn^
 ||push.xdrig.com^
 ||push.yoads.net^
 ||push.yuedu.163.com^
@@ -76341,7 +76339,6 @@ ff02::3 ip6-allhosts
 ||test.acdlec.be^
 ||test.ad.cmvideo.cn^
 ||test.ad.xiaomi.com^
-||test.api.xlmc.sandai.net^
 ||test.ark.letv.com^
 ||test.chrisjewels.com^
 ||test.coremetrics.com^
@@ -84984,7 +84981,6 @@ ff02::3 ip6-allhosts
 ||wpqvggsnc.com^
 ||wpr.hot-mob.com^
 ||wpsconfig4svr.elasticbeanstalk.com^
-||wpsweb-dc.wps.cn^
 ||wpu.sh^
 ||wpunkcie.pl^
 ||wpush.biz^

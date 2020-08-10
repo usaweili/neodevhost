@@ -168,6 +168,7 @@ ax.phobos.apple.com.edgesuite.net
 b-api.facebook.com
 b.bdstatic.com
 b.bst.126.net
+b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
 bannera.kingsoft-office-service.com
@@ -311,7 +312,6 @@ collegehumor.com
 commondatastorage.googleapis.com
 community.spiceworks.com
 confib.ifmo.ru
-config5.update.baofeng.com
 configuration.apple.com
 connect.facebook.net
 connectivitycheck.android.com
@@ -336,7 +336,6 @@ ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
 cvs.com
-cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
@@ -344,7 +343,6 @@ d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
-data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -366,6 +364,7 @@ device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
+dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
@@ -396,7 +395,6 @@ dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
 download.ctmail.com
-download.sonarr.tv
 drc-centraloffice.com
 drift.com
 driftt.com
@@ -430,6 +428,9 @@ ecx.images-amazon.com
 edge-chat.facebook.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com
+edgesuite.net
+edhelper.com
+eds.xboxlive.com
 embed.flowplayer.org
 embed.spotify.com
 en.bab.la
@@ -474,8 +475,6 @@ filestack.com
 filmweb.pl
 filmyhd.net
 filters.adtidy.org
-finance.yahoo.com
-fm.tuba.pl
 follett.com
 fonts.googleapis.com
 fonts.gstatic.com
@@ -512,10 +511,7 @@ funnyordie.com
 g.163.com
 g.co
 g.live.com
-game.quizizz.com
 gap.com
-gawker.com
-gazeta.pl
 gdmf.apple.com
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
@@ -782,7 +778,6 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
-mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 mausa.francotyp.com
 mausa2.francotyp.com
 maxcdn.bootstrapcdn.com
@@ -795,6 +790,7 @@ media.sbs.com.au
 mediamarkt.at
 mediamarkt.de
 mediamarkt.es
+mediamarkt.ie
 mediamarkt.nl
 mediamarkt.pl
 medium.com
@@ -998,6 +994,7 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
+pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -1036,9 +1033,9 @@ publix.com
 pubnub.com
 pubsub.plex.bz
 pubsub.plex.tv
+push.wps.cn
 pusher.com
 pusherapp.com
-puui.qpic.cn/
 questIOns.learnosity.com
 questarai.com
 questarai.net
@@ -1124,6 +1121,7 @@ screenshots.firefox.com
 scribd.com
 script.google.com
 sdkinit.taobao.com/init.htm
+sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.follettsoftware.com
 search.twitter.com
 sears.com
@@ -1244,6 +1242,7 @@ teamviewer.com
 techguy.org
 techrepublic.com
 tedcdn.com
+test.api.xlmc.sandai.net
 tg.602.com
 tg.7477.com
 thechive.com
@@ -1392,6 +1391,7 @@ whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
 widgets.dlvr.it
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com
@@ -1404,6 +1404,7 @@ wnba.com
 woocall.sina.com.cn
 wordpress.com
 wp.com
+wpsweb-dc.wps.cn
 ws.audioscrobbler.com
 wt.logmein.com
 wtkr.com
