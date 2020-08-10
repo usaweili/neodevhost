@@ -4,26 +4,23 @@ echo "Clean..."
 if [ -f host ]; then
     rm host
 fi
-if [ -f hostT ]; then
-    rm hostT
+if [ -f lite_host ]; then
+    rm lite_host
 fi
 if [ -f block ]; then 
     rm block
 fi
+if [ -f lite_adblocker ]; then 
+    rm lite_adblocker
+fi
 if [ -f adblocker ]; then 
     rm adblocker
 fi
-if [ -f adblockerblock ]; then 
-    rm adblockerblock
-fi
-if [ -f adblockerallow ]; then 
-    rm adblockerallow
+if [ -f lite_host_dnsmasq.conf ]; then 
+    rm lite_hosts_dnsmasq.conf
 fi
 if [ -f host_dnsmasq.conf ]; then 
     rm hosts_dnsmasq.conf
-fi
-if [ -f block_dnsmasq.conf ]; then 
-    rm block_dnsmasq.conf
 fi
 if [ -f deadallow ]; then 
     rm deadallow
@@ -175,6 +172,9 @@ sed -i '18cTotal combine list 结合总数： '$(wc -l host)' ' README.md
 sed -i '20cTotal deadblock list 失效屏蔽广告域名： '$(wc -l deadblock)' ' README.md
 sed -i '22cTotal deadallow list 失效允许广告域名： '$(wc -l deadallow)' ' README.md
 sed -i '24cUpdate 更新时间: '$(date "+%Y-%m-%d")'' README.md
+
+sed -i '53cNumber of Domain 域名数目： '$(wc -l host)' ' README.md
+sed -i '63cNumber of Domain 域名数目： '$(wc -l lite_host))'' README.md
  
 cp title title.2
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.2
