@@ -49,6 +49,9 @@ Update 更新时间: 2020-08-10
 ``` 
 
 ## Full version (With Dead Domain inside) 完整版（包含过期域名）：
+
+Number of Domain 域名数目：
+
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
 Host | Pihole，Adaway，hBlock ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host)
@@ -56,6 +59,9 @@ Adblocker | uBlock，Adguard ... |[link](https://raw.githubusercontent.com/neode
 Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/host_dnsmasq.conf) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host_dnsmasq.conf)
 
 ## Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
+
+Number of Domain 域名数目：
+
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
 Host | Pihole，Adaway，hBlock ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host) | [link](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost@latest/host)
