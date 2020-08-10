@@ -122,10 +122,11 @@ rm tmpblock
 echo " "
 echo "Check Dead Block..."
 cp block testblock
+cp block lite_block
 wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/FusionPlmH/dead-block/master/deadblock
-sort -n block deadblock deadblock | uniq -u > tmp && mv tmp tmpblock
-sort -u tmpblock > block
-rm tmpblock
+sort -n lite_block deadblock deadblock | uniq -u > tmp && mv tmp tmplite_block
+sort -u tmplite_block > lite_block
+rm tmplite_block
 
 echo " "
 echo "Merge Combine..."
@@ -134,20 +135,37 @@ sort -u tmphost > host
 rm tmphost
 
 echo " "
+echo "Merge Combine..."
+sort -n lite_block allow allow | uniq -u > tmp && mv tmp tmplite_host
+sort -u tmplite_host > lite_host
+rm tmphost
+
+echo " "
 echo "Adding Compatibility..."
 
 cp host adblocker
+cp lite_host lite_adblocker
 
-cp host host_dnsmasq.conf
+
+cp lite_host lite_host_dnsmasq.conf
 
 sed -i 's/^/||&/' adblocker
 sed -i 's/$/&^/' adblocker 
 
+sed -i 's/^/||&/' lite_adblocker
+sed -i 's/$/&^/' lite_adblocker 
+
 sed -i 's/^/0.0.0.0  &/' host
+
+sed -i 's/^/0.0.0.0  &/' lite_host
 
 sed -i 's/^/address=\/&/' host_dnsmasq.conf 
 
 sed -i 's/$/&\/0.0.0.0/' host_dnsmasq.conf  
+
+sed -i 's/^/address=\/&/' lite_host_dnsmasq.conf 
+
+sed -i 's/$/&\/0.0.0.0/' lite_host_dnsmasq.conf 
 
 echo " "
 echo "Adding Title and SYNC data..."
