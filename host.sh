@@ -29,6 +29,11 @@ if [ -f deadallow ]; then
     rm deadallow
 fi
 
+if [ -f testallow ]; then 
+    rm testallow
+fi
+
+
 echo " "
 echo "Merge allow..."
 for url in `cat allowlist` ;do
@@ -60,10 +65,11 @@ rm tmpallow
 
 echo " "
 echo "Check Dead Allow..."
-#wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadallow
-#sort -n allow deadallow deadallow | uniq -u > tmp && mv tmp tmpallow
-#sort -u tmpallow > allow
-#rm tmpallow
+cp allow testallow
+wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadallow
+sort -n allow deadallow deadallow | uniq -u > tmp && mv tmp tmpallow
+sort -u tmpallow > allow
+rm tmpallow
 
 
 echo " "
