@@ -71,7 +71,6 @@ sort -n allow deadallow deadallow | uniq -u > tmp && mv tmp tmpallow
 sort -u tmpallow > allow
 rm tmpallow
 
-
 echo " "
 echo "Merge block..."
 for url in `cat blocklist` ;do
