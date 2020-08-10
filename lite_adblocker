@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-10
 #
-# Number of blocked domains:  77751
+# Number of blocked domains:  77752
 #
 # ===============================================================
 
@@ -26097,6 +26097,7 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
+||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
@@ -32495,7 +32496,6 @@ ff02::3 ip6-allhosts
 ||ibv.lijit.com^
 ||ibza.romsenergy.com^
 ||ic-live.com^
-||ic.ksosoft.com^
 ||ic.snssdk.com^
 ||ic.tynt.com^
 ||ic.wps.cn^
@@ -47292,6 +47292,7 @@ ff02::3 ip6-allhosts
 ||pixie.fyber.com^
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
+||pixiu.shangshufang.ksosoft.com^
 ||pixiv.org^
 ||pixnbeats.com^
 ||pixon.ads-pixiv.net^
@@ -50138,6 +50139,7 @@ ff02::3 ip6-allhosts
 ||ratemodels.net^
 ||rating-widget.com^
 ||rating.in^
+||rating6.kingsoft-office-service.com^
 ||ratings.lycos.com^
 ||ratingtoplist.com^
 ||ratkalol.com^
@@ -63831,7 +63833,6 @@ ff02::3 ip6-allhosts
 ||vcwrigdrnh.com^
 ||vcxxzazxc.ug^
 ||vcxz.pl^
-||vd.l.qq.com^
 ||vda.17173.com^
 ||vda.oipzyrzffum.ovh^
 ||vdacizdywoe.com^

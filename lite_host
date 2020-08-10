@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-10
 #
-# Number of blocked domains:  77751
+# Number of blocked domains:  77752
 #
 # ===============================================================
 
@@ -92,7 +92,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  0224fqpowiuxybnmvdfghj.xyz
 0.0.0.0  022aifang.com
 0.0.0.0  0234408.cn
-Number of Domain 域名数目： 77751
+Number of Domain 域名数目： 77752
 0.0.0.0  025suyu.com
 0.0.0.0  028yhtz.com
 0.0.0.0  02b5da94a2bd4aea.com
@@ -26097,6 +26097,7 @@ Number of Domain 域名数目： 77751
 0.0.0.0  events.demoup.com
 0.0.0.0  events.engageya.com
 0.0.0.0  events.foreseeresults.com
+0.0.0.0  events.gfe.nvidia.com
 0.0.0.0  events.guesttoguest.com
 0.0.0.0  events.il.fi
 0.0.0.0  events.influencemobile.com
@@ -32495,7 +32496,6 @@ Number of Domain 域名数目： 77751
 0.0.0.0  ibv.lijit.com
 0.0.0.0  ibza.romsenergy.com
 0.0.0.0  ic-live.com
-0.0.0.0  ic.ksosoft.com
 0.0.0.0  ic.snssdk.com
 0.0.0.0  ic.tynt.com
 0.0.0.0  ic.wps.cn
@@ -47292,6 +47292,7 @@ Number of Domain 域名数目： 77751
 0.0.0.0  pixie.fyber.com
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixnbeats.com
 0.0.0.0  pixon.ads-pixiv.net
@@ -50138,6 +50139,7 @@ Number of Domain 域名数目： 77751
 0.0.0.0  ratemodels.net
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
+0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  ratkalol.com
@@ -63831,7 +63833,6 @@ Number of Domain 域名数目： 77751
 0.0.0.0  vcwrigdrnh.com
 0.0.0.0  vcxxzazxc.ug
 0.0.0.0  vcxz.pl
-0.0.0.0  vd.l.qq.com
 0.0.0.0  vda.17173.com
 0.0.0.0  vda.oipzyrzffum.ovh
 0.0.0.0  vdacizdywoe.com
