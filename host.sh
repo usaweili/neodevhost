@@ -180,7 +180,7 @@ sed -i '22cTotal deadallow list 失效允许广告域名： '$(wc -l deadallow)'
 sed -i '24cUpdate 更新时间: '$(date "+%Y-%m-%d")'' README.md
 
 sed -i '53cNumber of Domain 域名数目： '$(wc -l host)' ' README.md
-sed -i '63cNumber of Domain 域名数目： '$(wc -l lite_host)'' README.md
+sed -i '63cNumber of Domain 域名数目： '$(wc -l lite_host)' ' README.md
  
 cp title title.2
 sed -i '9c# Last update: '$(date "+%Y-%m-%d")'' title.2
