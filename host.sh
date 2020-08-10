@@ -60,10 +60,10 @@ rm tmpallow
 
 echo " "
 echo "Check Dead Allow..."
-wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadallow
-sort -n allow deadallow deadallow | uniq -u > tmp && mv tmp tmpallow
-sort -u tmpallow > allow
-rm tmpallow
+#wget --no-check-certificate -t 1 -T 10 https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadallow
+#sort -n allow deadallow deadallow | uniq -u > tmp && mv tmp tmpallow
+#sort -u tmpallow > allow
+#rm tmpallow
 
 
 echo " "
