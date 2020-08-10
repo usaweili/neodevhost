@@ -79,9 +79,9 @@ Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost
 2.添加文件或者下载链接到广告拦截器
 3.更新数据规则
 ```
-## Pihole Installation 安装导入教程
+### Pihole Installation 安装导入教程
 
-Import and Installation 导入和安装<br/>
+## Import and Installation 导入和安装<br/>
 
 1.Login to pihole website<br/>
 2.Go to Groupmanagement > Adlists<br/>
@@ -97,7 +97,7 @@ pihole -g
 7.Then it will import both NEODEV host and whitelist into your Pihole <br/>
 
 
-Remove and Uninstall 移除和卸载<br/>
+## Remove and Uninstall 移除和卸载<br/>
 sh: line 177: syntax error near unexpected token `)'
 263
 ./host.sh: line 177: `sed -i '63cNumber of Domain 域名数目：
