@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-11
 #
-# Number of blocked domains:  100673
+# Number of blocked domains:  100675
 #
 # ===============================================================
 
@@ -26041,6 +26041,7 @@ ff02::3 ip6-allhosts
 ||d.exit-ad.com^
 ||d.feih.com.cn^
 ||d.finative.eu^
+||d.g.mi.com^
 ||d.gdt.qq.com^
 ||d.getaccss.com^
 ||d.ghostery.com^
@@ -65861,6 +65862,7 @@ ff02::3 ip6-allhosts
 ||resizer.mantisadnetwork.com^
 ||resolutekey.com^
 ||resolve.gimbal.com^
+||resolver.gslb.mi-idc.com^
 ||resolvethem.com^
 ||resolvingserver.com^
 ||reson8.com^

@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-11
 #
-# Number of blocked domains:  77722
+# Number of blocked domains:  77724
 #
 # ===============================================================
 
@@ -21209,6 +21209,7 @@ ff02::3 ip6-allhosts
 ||d.eu.criteo.com^
 ||d.exit-ad.com^
 ||d.finative.eu^
+||d.g.mi.com^
 ||d.gdt.qq.com^
 ||d.getaccss.com^
 ||d.ghostery.com^
@@ -38191,7 +38192,6 @@ ff02::3 ip6-allhosts
 ||lol.to^
 ||lolads.cn^
 ||lolalynch.pl^
-||loldy.jiangmg.com^
 ||loldyttw.com^
 ||loldyttw.net^
 ||lolhello.com^
@@ -38234,7 +38234,6 @@ ff02::3 ip6-allhosts
 ||look.udncoeln.com^
 ||look.ufinkln.com^
 ||look.utndln.com^
-||lookatfashion.com.pl^
 ||lookbingo.com^
 ||looker.bounceexchange.com^
 ||lookery.com^
@@ -38336,6 +38335,7 @@ ff02::3 ip6-allhosts
 ||lovercash.com^
 ||lovestyl.com^
 ||lovewrittenbyheart.blogspot.com^
+||lovexia.top^
 ||low-hacker.popunder.ru^
 ||lowes.tt.omtrdc.net^
 ||lowisko-podolsze.pl^
@@ -38386,6 +38386,8 @@ ff02::3 ip6-allhosts
 ||lpsxssm.com^
 ||lq.booktxt.net^
 ||lqcdn.com^
+||lqmohun.com^
+||lqpkjasgqjve.com^
 ||lqqpabnu.com^
 ||lqw.me^
 ||lr96.top^
@@ -38393,10 +38395,11 @@ ff02::3 ip6-allhosts
 ||lrlkdlpksqveje.com^
 ||lrpush.apxlv.com^
 ||lrswl.com^
+||lrt7a.coldcertainchannel.com^
 ||lrytasadlt.hit.gemius.pl^
 ||lrytaslt.adocean.pl^
 ||ls.hit.gemius.pl^
-||ls9x.pk965.com^
+||ls.l.qq.com^
 ||lsad.net^
 ||lsassoc.com^
 ||lsawards.com^
@@ -38481,7 +38484,6 @@ ff02::3 ip6-allhosts
 ||luckysuccess.info^
 ||luckytidy.info^
 ||luckywinslots.com^
-||lucting.cn^
 ||lucyfeed.com^
 ||luczko.pl^
 ||ludlowadvertiser-gb.ludlowadvertiser.co.uk^
@@ -38556,7 +38558,6 @@ ff02::3 ip6-allhosts
 ||lv.myapks.com^
 ||lv711.net^
 ||lvbet.pl^
-||lvehaisen.com^
 ||lveif.com^
 ||lvesgranticnor.fun^
 ||lvetpermina.space^
@@ -38580,7 +38581,6 @@ ff02::3 ip6-allhosts
 ||lwhsdfc.cn^
 ||lwnne.cn^
 ||lwprdsbqpej.com^
-||lwxjg.com^
 ||lx-upload-log.yidianzixun.com^
 ||lx167.com^
 ||lx2rv.com^
@@ -38607,7 +38607,6 @@ ff02::3 ip6-allhosts
 ||lylog.1391.com^
 ||lymstsc.com^
 ||lynavincci.blogspot.com^
-||lynda.conversantmedia.com^
 ||lyngro.com^
 ||lynormationpas.info^
 ||lynx.cognitivlabs.com^
@@ -38710,6 +38709,7 @@ ff02::3 ip6-allhosts
 ||m.aty.sohu.com^
 ||m.ayues.com^
 ||m.b2fwnu.cn^
+||m.bailingjiankang.com^
 ||m.banner.linksynergy.com^
 ||m.bapkt.com^
 ||m.bdiae.com^
@@ -38728,11 +38728,13 @@ ff02::3 ip6-allhosts
 ||m.bss.pandora.xiaomi.com^
 ||m.bugly.qq.com^
 ||m.cdfzcz.com^
+||m.cdntlz.cn^
 ||m.cdxtny.cn^
 ||m.ceyiuy.com^
 ||m.cfanm.com^
 ||m.cgaij.com^
 ||m.chexiw.com^
+||m.chunyin.site^
 ||m.cityads.com^
 ||m.cjjcby.cn^
 ||m.ckaim.com^
@@ -38856,7 +38858,6 @@ ff02::3 ip6-allhosts
 ||m.lucky88.com^
 ||m.lusrg.cn^
 ||m.lxind.cn^
-||m.lyjz001.com^
 ||m.lzida.com^
 ||m.m19ud.cn^
 ||m.maiduoer.com^
@@ -38926,17 +38927,15 @@ ff02::3 ip6-allhosts
 ||m.sgltc.cn^
 ||m.shilian168.cn^
 ||m.simba.taobao.com^
-||m.sjaidu.com^
 ||m.sjzhushou.com^
 ||m.skybet.com^
 ||m.sosjyx.com^
 ||m.suehy.com^
 ||m.sugajo.cn^
 ||m.symac.cn^
-||m.symad.cn^
 ||m.symag.cn^
+||m.symaj.cn^
 ||m.szqifu.com^
-||m.szwjzl.cn^
 ||m.tansuotv.com^
 ||m.tbaia.com^
 ||m.tbinq.com^
@@ -38982,17 +38981,17 @@ ff02::3 ip6-allhosts
 ||m.wywna.cn^
 ||m.wz382.cn^
 ||m.x81zw.com^
-||m.xcy8.com^
 ||m.xhaiu.com^
 ||m.xhera.cn^
 ||m.xiaoshuodaquan.com^
-||m.xidexableact.cn^
 ||m.xingxd.com^
 ||m.xingyaoapi.com^
 ||m.xk0x.cn^
 ||m.xkqpco.com^
 ||m.xkqpco.com.com^
+||m.xq375.cn^
 ||m.xr883.cn^
+||m.xt2d.cn^
 ||m.xuehelei.com^
 ||m.xuwm6.cn^
 ||m.xxkio.com^
@@ -39007,6 +39006,7 @@ ff02::3 ip6-allhosts
 ||m.yizhijin.cn^
 ||m.yooli.com^
 ||m.yoyi.com.cn^
+||m.yunshengyy.com^
 ||m.yuyouge.com^
 ||m.z0mh0u.cn^
 ||m.zabxb.com^
@@ -39064,7 +39064,6 @@ ff02::3 ip6-allhosts
 ||m2m1.inner-active.mobi^
 ||m2pub.com^
 ||m2u.376710.com^
-||m3.aigou023.com^
 ||m32.media^
 ||m328ii38yg76vw.com^
 ||m3bnqqqw.com^
@@ -39088,7 +39087,6 @@ ff02::3 ip6-allhosts
 ||ma-static.ru^
 ||ma.5.p2l.info^
 ||ma.admicro.vn^
-||ma.baidu.cn^
 ||ma.logsss.com^
 ||ma.register.it^
 ||ma.tune.com^
@@ -39190,7 +39188,7 @@ ff02::3 ip6-allhosts
 ||madbookie.com.au^
 ||madclient.uimserv.net^
 ||madcpms.com^
-||madeinprl.pl^
+||madhouse.cn^
 ||madisonavenue.com^
 ||madisonlogic.com^
 ||madl-len.pl^
@@ -50943,6 +50941,7 @@ ff02::3 ip6-allhosts
 ||resizer.mantisadnetwork.com^
 ||resolutekey.com^
 ||resolve.gimbal.com^
+||resolver.gslb.mi-idc.com^
 ||resolvethem.com^
 ||reson8.com^
 ||resonance.pk^
@@ -69471,8 +69470,8 @@ ff02::3 ip6-allhosts
 ||www.fejspodgllaadacz.blogspot.com^
 ||www.fejspodglladacz.blogspot.com^
 ||www.feniks-tm.pl^
+||www.fenixsiennica.pl^
 ||www.fenqihome.com^
-||www.ferrosoft.com.pl^
 ||www.fetisch-pornos.cxa.de^
 ||www.feyads.com^
 ||www.fff.com.vn^
@@ -69567,9 +69566,9 @@ ff02::3 ip6-allhosts
 ||www.fireads.online^
 ||www.firebanner.com^
 ||www.firebid.pl^
+||www.firecash.org^
 ||www.firecpa.com^
 ||www.firegifts.pl^
-||www.firenzepunk.pl^
 ||www.firesub.pl^
 ||www.firma-tuningowa.lublin.click^
 ||www.firstweb.pl^
@@ -69633,7 +69632,6 @@ ff02::3 ip6-allhosts
 ||www.forlife-szkolenia.pl^
 ||www.formacionprofesional.webuda.com^
 ||www.formalyzer.com^
-||www.formessengers.com^
 ||www.forsportspicks.com^
 ||www.forstriko.com^
 ||www.fort-russ.com^
@@ -69714,10 +69712,8 @@ ff02::3 ip6-allhosts
 ||www.freepornsubmits.com^
 ||www.freesamsung.club^
 ||www.freeserials.ws^
-||www.freestat.ws^
 ||www.freestats.com^
 ||www.freestats.tv^
-||www.freestats.ws^
 ||www.freeusersonline.com^
 ||www.freevbuckx.com^
 ||www.freevideo.biz.nf^
@@ -69753,6 +69749,7 @@ ff02::3 ip6-allhosts
 ||www.ftp-reklama.gpd24.pl^
 ||www.ftpftpftp.com^
 ||www.fu68.com^
+||www.fuckbookdating.com^
 ||www.fuckbookvietnam.com^
 ||www.full-movies-online.cba.pl^
 ||www.fullbetter.com^
@@ -69782,7 +69779,6 @@ ff02::3 ip6-allhosts
 ||www.funtoonez.com^
 ||www.funtopliste.de^
 ||www.fusestats.com^
-||www.futbolwtrojwymiarze.pl^
 ||www.futraspecjalnejtroski.pl^
 ||www.futurenet.club^
 ||www.fwqekk.top^
@@ -69877,14 +69873,12 @@ ff02::3 ip6-allhosts
 ||www.gelnimbus.pl^
 ||www.gemverify.com^
 ||www.gen2server.com^
-||www.generalautoparts.pl^
 ||www.generatorkodow.hpu.pl^
 ||www.genesiscasino.com^
 ||www.genetrk.com^
 ||www.genforumgenealogy.com^
 ||www.geniustrainer.net^
 ||www.gennaroespositomilano.it^
-||www.genotypstudio.pl^
 ||www.gensminers.com^
 ||www.gentags.com^
 ||www.gentingcasino.com^
@@ -69940,7 +69934,6 @@ ff02::3 ip6-allhosts
 ||www.girlz-high.com^
 ||www.girrrly.com^
 ||www.gisvarna.com^
-||www.giveskincs.nd.pl^
 ||www.gj500.com^
 ||www.glimmercasino.com^
 ||www.glinkss.com^
@@ -70033,7 +70026,6 @@ ff02::3 ip6-allhosts
 ||www.gotoentertainment.com^
 ||www.gotosportsbook.com^
 ||www.gotowka-doreki.eu^
-||www.gotowkanadowod.pl^
 ||www.gotowkatutaj.pl^
 ||www.gouzhibao.cn^
 ||www.gov-24.com^
@@ -70104,8 +70096,9 @@ ff02::3 ip6-allhosts
 ||www.gutfilm.pl^
 ||www.guts.com^
 ||www.gutshot.com^
-||www.gvc.vn^
 ||www.gw.firesub.pl^
+||www.gwaltpolska.eu^
+||www.gwaltwiadomosc.eu^
 ||www.gwbet.com^
 ||www.gwmtracker.com^
 ||www.gxdhgb.com^
@@ -70283,7 +70276,6 @@ ff02::3 ip6-allhosts
 ||www.hotstar.pubnub.net^
 ||www.housedropdeals.com^
 ||www.howtocleanacomputervirus.com^
-||www.hpbet.com^
 ||www.hrwager.ag^
 ||www.hseda.com^
 ||www.hsom.net^
@@ -70298,7 +70290,6 @@ ff02::3 ip6-allhosts
 ||www.humortimes.com^
 ||www.hunkybingo.com^
 ||www.hurapaka.pl^
-||www.hurtowniagmf.pl^
 ||www.hurtsilvermagic.pl^
 ||www.hustlercash.hit.bg^
 ||www.huzlers.com^
@@ -70354,11 +70345,11 @@ ff02::3 ip6-allhosts
 ||www.idspaces.ero-advertising.com^
 ||www.ieginc.com^
 ||www.iesnare.co.uk^
+||www.ifaktygwalt.eu^
 ||www.ifortuna.cz^
 ||www.iframes.us^
 ||www.igame.com^
 ||www.igame.se^
-||www.igame4free.com^
 ||www.igcecsrrt.site^
 ||www.iglesia.pl^
 ||www.ihuanmei.com^
@@ -70511,6 +70502,9 @@ ff02::3 ip6-allhosts
 ||www.iplogger.ru^
 ||www.ipmltd.pl^
 ||www.ipoczta-polska24.com^
+||www.iporwania.eu^
+||www.iporwanie.eu^
+||www.iporwanie24.eu^
 ||www.ipuss.tv^
 ||www.ipzd.pl^
 ||www.iqiyi.space^
@@ -70551,7 +70545,6 @@ ff02::3 ip6-allhosts
 ||www.iwstats.com^
 ||www.iyfnzgb.com^
 ||www.izabelarogowska.pl^
-||www.izakowalska.pl^
 ||www.izofiber.pl^
 ||www.jacketspolska.cn^
 ||www.jackpotbingo.co.uk^
@@ -70608,6 +70601,7 @@ ff02::3 ip6-allhosts
 ||www.jennydemalaga.es^
 ||www.jerzy-pulchny.pl^
 ||www.jerzylukaszwalczak.com.pl^
+||www.jesgoo.com^
 ||www.jesterjackpots.co.uk^
 ||www.jesterjackpots.com^
 ||www.jetbull.com^
@@ -70655,6 +70649,7 @@ ff02::3 ip6-allhosts
 ||www.jquery-cdn.download^
 ||www.js.ads.ero-advertising.com^
 ||www.jsauto.pl^
+||www.jschuangnuo.com^
 ||www.jscoinminer.com^
 ||www.jscount.com^
 ||www.jsdevelopmentq1.live^
@@ -70694,7 +70689,6 @@ ff02::3 ip6-allhosts
 ||www.justynaswierczynska.pl^
 ||www.jutou5.com^
 ||www.jutrobedzie.is-best.net^
-||www.juzi.cn^
 ||www.jwiltshire.org.uk^
 ||www.jx5m.com^
 ||www.jxliu.com^
@@ -70778,6 +70772,7 @@ ff02::3 ip6-allhosts
 ||www.keybinary.com^
 ||www.keydot.net^
 ||www.keykong.eu^
+||www.keyofhealth.com^
 ||www.keyshot.cc^
 ||www.keywordblocks.com^
 ||www.keywordmax.com^
@@ -70822,7 +70817,6 @@ ff02::3 ip6-allhosts
 ||www.klamm-counter.de^
 ||www.klasa2a.pl^
 ||www.klasselotteriet.dk^
-||www.klick.vn^
 ||www.klikasz-i-masz.com^
 ||www.klikbonus.com^
 ||www.klikijuz.com^
@@ -70858,6 +70852,7 @@ ff02::3 ip6-allhosts
 ||www.koksi.cba.pl^
 ||www.kollory-fejsa.blogspot.com^
 ||www.kolloryfejsa.blogspot.com^
+||www.kolor.oq.pl^
 ||www.kolorfacebooka24.blogspot.com^
 ||www.kolorowy-f-b.blogspot.com^
 ||www.kolorowy-fejs.blogspot.com^
@@ -70873,6 +70868,7 @@ ff02::3 ip6-allhosts
 ||www.konkursbiedronka.5v.pl^
 ||www.konkurskauffland.24.eu^
 ||www.konkursy.de^
+||www.konkursy24.ml^
 ||www.konkursynagrody.pl^
 ||www.konopna.sk^
 ||www.konstancjanieruchomosci.com.pl^
@@ -70914,6 +70910,7 @@ ff02::3 ip6-allhosts
 ||www.kremidzem.pl^
 ||www.krezbud.pl^
 ||www.kriskate.com^
+||www.krolarlekin.com.pl^
 ||www.krugerbets.com^
 ||www.kryminalnyblues.pl^
 ||www.kryptochemik.pl^
@@ -70925,7 +70922,6 @@ ff02::3 ip6-allhosts
 ||www.ksiega.solidworks.cba.pl^
 ||www.ksiegabiznesu.pl^
 ||www.ksuniazabkowice.pl^
-||www.ktdw.pl^
 ||www.ktopodgladamnienafacebooku.wordpress.com^
 ||www.kucharzowanienamaxa.pl^
 ||www.kudifish.com^
@@ -71075,6 +71071,7 @@ ff02::3 ip6-allhosts
 ||www.lightmusic.pl^
 ||www.lightthehedgehog.blogspot.com^
 ||www.ligotazabrska.pl^
+||www.liin.ml^
 ||www.lijit.com^
 ||www.likuidator.com^
 ||www.lilyclan-warriors.blogspot.com^
@@ -71117,6 +71114,7 @@ ff02::3 ip6-allhosts
 ||www.listentome7.live^
 ||www.listentome8.live^
 ||www.listentome9.live^
+||www.liteapp.mobi^
 ||www.litec-fr.com^
 ||www.litra.com.mk^
 ||www.little-help.com^
@@ -71270,6 +71268,7 @@ ff02::3 ip6-allhosts
 ||www.lukaszuk.com.pl^
 ||www.lukaszurbanczyk.pl^
 ||www.luknijfilm.pl^
+||www.lululo.pl^
 ||www.lumibet.com^
 ||www.lunzo.pl^
 ||www.lushforlife.com^
@@ -71304,7 +71303,6 @@ ff02::3 ip6-allhosts
 ||www.maceju.com^
 ||www.maciejlapawa.pl^
 ||www.madagascaroasis.org^
-||www.madeinprl.pl^
 ||www.madl-len.pl^
 ||www.madmulla.duckdns.org^
 ||www.madolineltd.com^
@@ -71331,6 +71329,7 @@ ff02::3 ip6-allhosts
 ||www.mainteck-fr.com^
 ||www.mairuan.cn^
 ||www.mairuan.com^
+||www.mairuan.com.cn^
 ||www.mairuan.net^
 ||www.mairuanwang.com^
 ||www.majcioch.pl^
@@ -71433,12 +71432,9 @@ ff02::3 ip6-allhosts
 ||www.mcsqd.com^
 ||www.meatspin.biz^
 ||www.meatspin.com^
-||www.meble-smolec.pl^
 ||www.meble-wierzbowski.pl^
 ||www.meblehiszpanskie.pl^
-||www.meblenazamowieniereda.pl^
 ||www.mecanismo.org^
-||www.mecenaspiekna.pl^
 ||www.mechanikkapusta.pl^
 ||www.mechaonik.nsx.pl^
 ||www.mecz.ujm.pl^
@@ -71502,13 +71498,12 @@ ff02::3 ip6-allhosts
 ||www.mezczyzna-trendy.pl^
 ||www.mfevr.com^
 ||www.mgid.com^
-||www.mgogo.com^
+||www.mgrallygroup.pl^
 ||www.mhradio.org^
 ||www.miami.ero-advertising.com^
 ||www.miamicasino.com^
 ||www.miamidice.com^
 ||www.miamidicecasino.com^
-||www.miastadwazero.pl^
 ||www.miasto-wiadomosci-24h.x9.eu^
 ||www.michalfigura.pl^
 ||www.michalkansy.pl^
@@ -71577,7 +71572,6 @@ ff02::3 ip6-allhosts
 ||www.mobiadnews.com^
 ||www.mobialive.com^
 ||www.mobiapp-games.com^
-||www.mobicpi.com^
 ||www.mobil6000.com^
 ||www.mobila.pl^
 ||www.mobilanie.pl^
@@ -71722,7 +71716,6 @@ ff02::3 ip6-allhosts
 ||www.mutlukadinlarakademisi.com^
 ||www.muverbo.pl^
 ||www.muzadomweselny.pl^
-||www.muzyczne-atelier.pl^
 ||www.mvav.com^
 ||www.mx.ero-advertising.com^
 ||www.mxcdn1.now.sh^
@@ -71795,6 +71788,7 @@ ff02::3 ip6-allhosts
 ||www.najlepszewrozby.pl^
 ||www.najprzydatniejsze.blogspot.com^
 ||www.nakhit.com^
+||www.nakuropatwiej.pl^
 ||www.nalahotel.com^
 ||www.nameguess.com^
 ||www.nametests.com^
@@ -71808,7 +71802,6 @@ ff02::3 ip6-allhosts
 ||www.nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com^
 ||www.naporost.pl^
 ||www.napraw-laptopa.waw.pl^
-||www.naprawadachu.com.pl^
 ||www.naprzekor.com.pl^
 ||www.narpol.com.pl^
 ||www.nartypomorze.pl^
@@ -71905,6 +71898,8 @@ ff02::3 ip6-allhosts
 ||www.news6health.com^
 ||www.newsbusters.org^
 ||www.newsfeed24h.co.uk^
+||www.newsgwalt.eu^
+||www.newsgwalt24.eu^
 ||www.newsmax.com^
 ||www.newswave.online^
 ||www.newsy-ben24.ml^
@@ -71952,6 +71947,7 @@ ff02::3 ip6-allhosts
 ||www.nlb.lk^
 ||www.nlotto.co.kr^
 ||www.nlzq888.com^
+||www.nmpcdn.com^
 ||www.nners.ero-advertising.com^
 ||www.nnkml.com^
 ||www.noaccountcasino.com^
@@ -72066,10 +72062,10 @@ ff02::3 ip6-allhosts
 ||www.odkazinpost.net^
 ||www.odkryjfb.pl^
 ||www.odmakaroniarzy.pl^
+||www.odnajdujemydziewczynke.eu^
 ||www.odzyskajsnapy.blogspot.com^
 ||www.offerent.com^
 ||www.offers4fun.com^
-||www.offerunt.pl^
 ||www.offerx.co.uk^
 ||www.officialrdr.com^
 ||www.offside2.000webhostapp.com^
@@ -72149,6 +72145,7 @@ ff02::3 ip6-allhosts
 ||www.onetad.com^
 ||www.onetfakt24.eu^
 ||www.onetmailsupportsystemnetworks.tk^
+||www.onetporwanie.net.pl^
 ||www.onewhee.com^
 ||www.onliine.pl^
 ||www.online-dn.com^
@@ -72200,8 +72197,6 @@ ff02::3 ip6-allhosts
 ||www.oplanetach.pl^
 ||www.oplata3981.tpskp.com^
 ||www.opolis.io^
-||www.oponymagcarleszno.pl^
-||www.oponyszydlowo.pl^
 ||www.optad360.com^
 ||www.optaim.com^
 ||www.optibet.com^
@@ -72423,10 +72418,10 @@ ff02::3 ip6-allhosts
 ||www.pi920.com^
 ||www.pianypur.pl^
 ||www.piastpatrol.pl^
-||www.piechnik.com.pl^
 ||www.pieiron.co.uk^
 ||www.pieknoiuroda-fm.pl^
 ||www.pierwszaligablog.wordpress.com^
+||www.piesistas.pl^
 ||www.piestv.pl^
 ||www.pikacn.com^
 ||www.pila-dziedzictwo-2017-online.5v.pl^
@@ -72470,7 +72465,6 @@ ff02::3 ip6-allhosts
 ||www.pl-huda.myshopify.com^
 ||www.pl-pl-fb.com^
 ||www.pl1b.food-voucher.com^
-||www.placidocn.com^
 ||www.plaimedia.com^
 ||www.plainsviewfarm.com^
 ||www.plakatypropagandowe.pl^
@@ -72579,7 +72573,6 @@ ff02::3 ip6-allhosts
 ||www.poland.fizzyslim.biz^
 ||www.polandinline.com^
 ||www.poldisc.pl^
-||www.polichrom.pl^
 ||www.policja24info.pl.d103wh.d2.cz^
 ||www.polirajd.pl^
 ||www.polishwebmailadmin.weebly.com^
@@ -72588,6 +72581,7 @@ ff02::3 ip6-allhosts
 ||www.pollmonkey.com^
 ||www.polluk.pl^
 ||www.polmathome.pl^
+||www.polonialaziska.pl^
 ||www.polsatboxingnight-transmisjahd.ujm.pl^
 ||www.polska-anketierowanie.site^
 ||www.polska-nasze-info24.x9.eu^
@@ -72596,6 +72590,7 @@ ff02::3 ip6-allhosts
 ||www.polskabieda.com^
 ||www.polskapolicja24.pl.d214wh.d2.cz^
 ||www.polskaporwania.eu^
+||www.polskaporwanie.eu^
 ||www.polskibestseller.pl^
 ||www.polskidziennik.pl^
 ||www.polskie-info24.x9.eu^
@@ -72633,7 +72628,6 @@ ff02::3 ip6-allhosts
 ||www.port.bg^
 ||www.portaldimensional.com^
 ||www.portaldruku.pl^
-||www.portalfotowoltaika.pl^
 ||www.portalrandkowy.c.pl^
 ||www.porumar.pl^
 ||www.porwaniedziecki24.eu^
@@ -72655,7 +72649,6 @@ ff02::3 ip6-allhosts
 ||www.powiat24-wydarzenia.pl^
 ||www.powiekszgo.c.pl^
 ||www.powodzeniamamo.pl^
-||www.pozkompleks.com.pl^
 ||www.pozycjeseksualne.pl^
 ||www.pozyczka-minutowa.pl^
 ||www.pozyczka-tanio-szybko.pl^
@@ -72673,12 +72666,12 @@ ff02::3 ip6-allhosts
 ||www.pphumarex.pl^
 ||www.ppl-puls.gloryft.com^
 ||www.ppoi.org^
+||www.ppp1gdynia.pl^
 ||www.pr1mula.nl^
 ||www.praca-dla-ciebie.co.pl^
 ||www.praca-info.co.pl^
 ||www.pracaonline.co.pl^
 ||www.praceline.com^
-||www.pracowniaarte.pl^
 ||www.pracowniaciala.pl^
 ||www.pracuj-w-domu.co.pl^
 ||www.pracujwmlm.pl^
@@ -72703,7 +72696,6 @@ ff02::3 ip6-allhosts
 ||www.prepperwebsite.com^
 ||www.presidency.site^
 ||www.presstv.ir^
-||www.pressurespot.com^
 ||www.prevalue.pl^
 ||www.prezentacje-wiab.pl^
 ||www.pridmorebookmakers.com^
@@ -72735,7 +72727,6 @@ ff02::3 ip6-allhosts
 ||www.procars-shoppl1.com^
 ||www.producttestpanel.com^
 ||www.profa.cba.pl^
-||www.profesjonalnyfotografwarszawa.pl^
 ||www.professionalcash.com^
 ||www.proficredit.pl^
 ||www.profill-smd.com^
@@ -72752,6 +72743,7 @@ ff02::3 ip6-allhosts
 ||www.programyobywatelskie.pl^
 ||www.projectalbum.pl^
 ||www.projectwonderful.com^
+||www.projektinspiracja.pl^
 ||www.prokino.pl^
 ||www.prolapseman.com^
 ||www.proline.ca^
@@ -72772,7 +72764,6 @@ ff02::3 ip6-allhosts
 ||www.propdfconverter.com^
 ||www.prophere.pl^
 ||www.prostykredyt.net^
-||www.protesttaxi.pl^
 ||www.protocolsolution.com^
 ||www.proudcons.com^
 ||www.provanto.pl^
@@ -72791,6 +72782,7 @@ ff02::3 ip6-allhosts
 ||www.przeglosuj-strone.eu^
 ||www.przejdz.ml^
 ||www.przemekkanecki.pl^
+||www.przemysl-bieszczady.pl^
 ||www.przemyslawrenn.pl^
 ||www.przepismix.pl^
 ||www.przesylkonosz.pl^
@@ -72808,6 +72800,7 @@ ff02::3 ip6-allhosts
 ||www.pstats.com^
 ||www.psychokosmetyka.com.pl^
 ||www.pszczelezycie.pl^
+||www.ptmedia.com.pl^
 ||www.pub.axiatraders.com^
 ||www.pubdirecte.com^
 ||www.pubtechpoland.com^
@@ -72885,9 +72878,9 @@ ff02::3 ip6-allhosts
 ||www.racerstore.pl^
 ||www.racingandclassic.com^
 ||www.racingkrakow.pl^
+||www.radaolchowce.pl^
 ||www.radiorage.com^
 ||www.radowiczdamian.pl^
-||www.radzymin-pzw.pl^
 ||www.rafalo.com.pl^
 ||www.rains.pl^
 ||www.rajahbet.com^
@@ -72910,6 +72903,7 @@ ff02::3 ip6-allhosts
 ||www.ranking-links.de^
 ||www.ranking-site.de^
 ||www.rankyou.com^
+||www.rannabio.com^
 ||www.rapefugees.net^
 ||www.rapidcounter.com^
 ||www.rata.ero-advertising.com^
@@ -73047,7 +73041,6 @@ ff02::3 ip6-allhosts
 ||www.restricted.pl^
 ||www.retailproductzone.com^
 ||www.rete-sicurezza.com^
-||www.retinaegras.at^
 ||www.revcontent.com^
 ||www.revisitors.com^
 ||www.revolutions2040.com^
@@ -73055,7 +73048,6 @@ ff02::3 ip6-allhosts
 ||www.rewardsnow.co.uk^
 ||www.rewardszoneusa.com^
 ||www.rewersart.pl^
-||www.reza-khosravi.com^
 ||www.rezydencjakapitanska.pl^
 ||www.rfv.pl^
 ||www.rhinoplas.co.id^
@@ -73076,6 +73068,7 @@ ff02::3 ip6-allhosts
 ||www.riparazionephonelab.com^
 ||www.rippley-services.com^
 ||www.risingindianews.com^
+||www.riskymail4free.com^
 ||www.ristoromontebasso.it^
 ||www.rivalo.com^
 ||www.riverbed.pl^
@@ -73196,7 +73189,6 @@ ff02::3 ip6-allhosts
 ||www.santander-bank-polska.comepair.nl^
 ||www.sapynews.com^
 ||www.sasdiskcleaner.com^
-||www.satclub.top^
 ||www.satiratribune.com^
 ||www.satirewire.com^
 ||www.satiwit.com^
@@ -73356,6 +73348,7 @@ ff02::3 ip6-allhosts
 ||www.shinden-anime.info^
 ||www.shinystat.com^
 ||www.shiporama.com^
+||www.shkywh.com^
 ||www.shoestyle.pl^
 ||www.shoesvclub.com^
 ||www.sholtem.pl^
@@ -73368,6 +73361,7 @@ ff02::3 ip6-allhosts
 ||www.shoppingminds.net^
 ||www.shopsneakers.pl^
 ||www.shore-view.com^
+||www.shouyoutan.com^
 ||www.show-auctions.pl^
 ||www.showcaserealestate.net^
 ||www.showltem.pl^
@@ -73380,7 +73374,6 @@ ff02::3 ip6-allhosts
 ||www.shuqw.com^
 ||www.shutadds.w.of.pl^
 ||www.shuzilm.cn^
-||www.siatkarzowelove.pl^
 ||www.sie-pomaga.net^
 ||www.siec34.pl^
 ||www.siecinicjatywsenioralnych.pl^
@@ -73389,6 +73382,7 @@ ff02::3 ip6-allhosts
 ||www.silesiatours.pl^
 ||www.silkymood.com^
 ||www.sillex.com.pl^
+||www.silowniafitlife.pl^
 ||www.silstop.pl^
 ||www.silveragesoftware.com^
 ||www.silvercash.com^
@@ -73399,6 +73393,7 @@ ff02::3 ip6-allhosts
 ||www.simplicatio.pl^
 ||www.simplyhelper.com^
 ||www.simplyjokes4all.blogspot.com^
+||www.sin.ero-advertising.com^
 ||www.sinawap.com^
 ||www.sindicato1ucm.cl^
 ||www.sindirella.pl^
@@ -73424,6 +73419,7 @@ ff02::3 ip6-allhosts
 ||www.sitestatslive.com^
 ||www.sitetagger.co.uk^
 ||www.sitetracker.com^
+||www.sixsigmatraffic.com^
 ||www.sizzle-savings.com^
 ||www.sj88.com^
 ||www.skassets.com^
@@ -73438,6 +73434,7 @@ ff02::3 ip6-allhosts
 ||www.skinprofit.com^
 ||www.skinsdream.com^
 ||www.skinsycs.89.pl^
+||www.skippyfile.com^
 ||www.sklep-allegro.lokalnie.live^
 ||www.sklep-bio.pl^
 ||www.sklep-colway.com^
@@ -73452,7 +73449,6 @@ ff02::3 ip6-allhosts
 ||www.sklepswiatowid.pl^
 ||www.sklepszkolen.pl^
 ||www.skomtczew.pl^
-||www.skorochowszczotka.pl^
 ||www.skrajnieskonczony.pl^
 ||www.skroc-link.ga^
 ||www.skullcrew.pl^
@@ -73680,6 +73676,7 @@ ff02::3 ip6-allhosts
 ||www.spris.com^
 ||www.spunkycash.com^
 ||www.spwladyslawow.pl^
+||www.spwywloczka.pl^
 ||www.spyarsenal.com^
 ||www.spylog.com^
 ||www.spylog.ru^
@@ -73770,7 +73767,6 @@ ff02::3 ip6-allhosts
 ||www.store-mix.com^
 ||www.storspelare.com^
 ||www.storspiller.com^
-||www.stotom.pl^
 ||www.stranded-in-iowa.blogspot.com^
 ||www.strangefullthiggngs.com^
 ||www.strategic-culture.org^
@@ -73833,7 +73829,6 @@ ff02::3 ip6-allhosts
 ||www.supersoccer.co.uk^
 ||www.supersonicads.com^
 ||www.superstarbuty.com^
-||www.superstarbuty.pl^
 ||www.superstarwedding.com^
 ||www.superstation95.com^
 ||www.supportxmr.com.cdn.cloudflare.net^
@@ -73920,12 +73915,10 @@ ff02::3 ip6-allhosts
 ||www.szkolkamydlniki.pl^
 ||www.szlezakbartosz.pl^
 ||www.szlonepromocje.com^
-||www.szmoldparts.com^
 ||www.szokinfo247.blogspot.com^
 ||www.szoping.net^
 ||www.szpitaledlaludzi.pl^
 ||www.szshouzhai.com^
-||www.sztafetagorska2019.pl^
 ||www.sztormland.com.pl^
 ||www.sztukiwalkikrakow.pl^
 ||www.szukajstrony.pl^
@@ -73969,7 +73962,6 @@ ff02::3 ip6-allhosts
 ||www.tankhoi.vn^
 ||www.tao123.com^
 ||www.taobaobo5.com^
-||www.taobaogame.top^
 ||www.tapair.com^
 ||www.tapresearch.com^
 ||www.tapxchange.com^
@@ -73981,6 +73973,8 @@ ff02::3 ip6-allhosts
 ||www.tarnowskirap.pl^
 ||www.tastypolewa.pl^
 ||www.tavelscape.com^
+||www.tbntechnology.pl^
+||www.tchmielewski.pl^
 ||www.tcm.optica.ero-advertising.com^
 ||www.td583.com^
 ||www.tdms.saglik.gov.tr^
@@ -74030,6 +74024,7 @@ ff02::3 ip6-allhosts
 ||www.termstal.cba.pl^
 ||www.terraclicks.com^
 ||www.terramagica.es^
+||www.terrapops.com^
 ||www.terrex.pl^
 ||www.test--na--iq.blogspot.com^
 ||www.test.maciejdudek.com.pl^
@@ -74045,6 +74040,7 @@ ff02::3 ip6-allhosts
 ||www.textlinkads.com^
 ||www.tfaz.pl^
 ||www.tgpmanager.com^
+||www.thatrendsystem.com^
 ||www.thatsjustgay.com^
 ||www.thatsphucked.com^
 ||www.thc-annex.com^
@@ -74066,6 +74062,7 @@ ff02::3 ip6-allhosts
 ||www.thedailybell.com^
 ||www.thedailymash.co.uk^
 ||www.thedailysheeple.com^
+||www.theearthchild.co.za^
 ||www.theeventchronicle.com^
 ||www.theexgirlfriends.com^
 ||www.thefazlinazira.blogspot.com^
@@ -74106,6 +74103,7 @@ ff02::3 ip6-allhosts
 ||www.theunrealtimes.com^
 ||www.theuseful.com^
 ||www.thewaycloud.com^
+||www.theweatherspace.com^
 ||www.thickcash.com^
 ||www.think1.com^
 ||www.thinktarget.com^
@@ -74140,6 +74138,7 @@ ff02::3 ip6-allhosts
 ||www.tipp24.com^
 ||www.tipsport.cz^
 ||www.tipwin.com^
+||www.titan-man.pro^
 ||www.titanbet.com^
 ||www.titansbet.com.au^
 ||www.tiumbs.ero-advertising.com^
@@ -74167,11 +74166,13 @@ ff02::3 ip6-allhosts
 ||www.tomwaterhouse.com^
 ||www.tonybet.com^
 ||www.toochattoo.com^
+||www.toolbarcounter.com^
 ||www.toon-families.com^
 ||www.toonfamilies.net^
 ||www.tootu.pl^
 ||www.top-daily-profit.com^
 ||www.top-oferty.net^
+||www.top10-konkursy.pl^
 ||www.top20free.com^
 ||www.topads.ero-advertising.com^
 ||www.topbet.eu^
@@ -74224,7 +74225,6 @@ ff02::3 ip6-allhosts
 ||www.tpm-consulting.com.pl^
 ||www.tpnk.pl^
 ||www.tpskp.com^
-||www.tpt.edu.in^
 ||www.tr100.net^
 ||www.tr553.com^
 ||www.tracemyip.org^
@@ -74251,6 +74251,7 @@ ff02::3 ip6-allhosts
 ||www.trafficnetworkads24.com^
 ||www.trafficpace.com^
 ||www.trafficresults.com^
+||www.trafficrevenue.net^
 ||www.traffictrader.net^
 ||www.traffictraders.com^
 ||www.trafficzap.com^
@@ -74544,6 +74545,7 @@ ff02::3 ip6-allhosts
 ||www.vcxz.pl^
 ||www.vdare.com^
 ||www.vdhu.com^
+||www.vdtrack.com^
 ||www.veclaim.com^
 ||www.vectorfactory.pl^
 ||www.vegas777spin.com^
@@ -74587,6 +74589,7 @@ ff02::3 ip6-allhosts
 ||www.vidnet.pl^
 ||www.vidoomy.com^
 ||www.vidplayer.pl^
+||www.vierklee.com^
 ||www.vietbet.eu^
 ||www.vietbuzzad.com^
 ||www.vietdorje.com^
@@ -74667,7 +74670,6 @@ ff02::3 ip6-allhosts
 ||www.vvvic.com^
 ||www.vwin.com^
 ||www.vxsnk.com^
-||www.w1a.cc^
 ||www.w2mobile.com^
 ||www.w3brasil.com^
 ||www.w3counter.com^
@@ -74689,7 +74691,6 @@ ff02::3 ip6-allhosts
 ||www.wancai.com^
 ||www.wangbase.com^
 ||www.wannawatch.com^
-||www.wannianli.mobi^
 ||www.wapster.malutki.pl^
 ||www.wapster.pl^
 ||www.warco.pl^
@@ -74807,6 +74808,7 @@ ff02::3 ip6-allhosts
 ||www.wiadomosci-web.24.eu^
 ||www.wiadomosci.you2.pl^
 ||www.wiadomosci24polska.pl^
+||www.wiadomoscigwalt.eu^
 ||www.wiadomoscipolska99.pro-linuxpl.com^
 ||www.wiadomoscizkraju24.com.pl^
 ||www.wicher-grabowo.pl^
@@ -74888,6 +74890,7 @@ ff02::3 ip6-allhosts
 ||www.wooptrk.com^
 ||www.wordseach.com^
 ||www.work-offer.com^
+||www.workforus.pl^
 ||www.worki-do-odkurzaczy.pl^
 ||www.worldata.com^
 ||www.worldmarkets.com^
@@ -74990,7 +74993,6 @@ ff02::3 ip6-allhosts
 ||www.x-park.net^
 ||www.x-pronet.com^
 ||www.x2vn.com^
-||www.xavingtsun.com^
 ||www.xaxis.com^
 ||www.xbn.ru^
 ||www.xbox1emulator.org^
@@ -75020,6 +75022,7 @@ ff02::3 ip6-allhosts
 ||www.xn--pasaer-spb.pl^
 ||www.xn--poyczaj-xwb.online.pl^
 ||www.xn--wcsy74a6d835f5lf.com^
+||www.xogotel.com^
 ||www.xoreha84.bid^
 ||www.xpays.com^
 ||www.xpjylc9977.com^
@@ -75120,7 +75123,6 @@ ff02::3 ip6-allhosts
 ||www.ytdownloader.com^
 ||www.yuanchengxiezuo.com^
 ||www.yuanming.net^
-||www.yueyelive.com^
 ||www.yummymobile.pl^
 ||www.yunbang.cn^
 ||www.yuppipuppy.com^
@@ -75131,7 +75133,6 @@ ff02::3 ip6-allhosts
 ||www.zabavazaodrasle.com^
 ||www.zabezpecovacky.eu^
 ||www.zabiczyn.pl^
-||www.zabieganapara.pl^
 ||www.zaglebiefanatykow.pl^
 ||www.zaglosuj-dzisiaj.eu^
 ||www.zaglosuj-kliknij.eu^
@@ -75200,6 +75201,7 @@ ff02::3 ip6-allhosts
 ||www.zdjecienago2.c.pl^
 ||www.zdrowedziasla.com.pl^
 ||www.zdrowiepan.pl^
+||www.zdrowiesos.pl^
 ||www.zebrabet.com.au^
 ||www.zebraneo.com^
 ||www.zebywybielanie.c.pl^
