@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-11
 #
-# Number of blocked domains:  100676
+# Number of blocked domains:  100675
 #
 # ===============================================================
 
@@ -18274,7 +18274,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  boksy.onet.pl
 0.0.0.0  bola88.com
 0.0.0.0  boldride.us.intellitxt.com
-0.0.0.0  bole.shangshufang.ksosoft.com
 0.0.0.0  bolek69.pl
 0.0.0.0  bolili.info
 0.0.0.0  bolizirs.com
@@ -22917,6 +22916,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  cloudservice12.kingsoft-office-service.com
 0.0.0.0  cloudservice13.kingsoft-office-service.com
 0.0.0.0  cloudservice14.kingsoft-office-service.com
+0.0.0.0  cloudservice22.kingsoft-office-service.com
 0.0.0.0  cloudservice24.kingsoft-office-service.com
 0.0.0.0  cloudservice27.kingsoft-office-service.com
 0.0.0.0  cloudsrvtrk.com
@@ -27766,6 +27766,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  deviantart-d.openx.net
 0.0.0.0  deviantart.crwdcntrl.net
 0.0.0.0  device-api.urbanairship.com
+0.0.0.0  device-metrics-us-2.amazon.com
 0.0.0.0  device.4seeresults.com
 0.0.0.0  device.maxmind.com
 0.0.0.0  device9.com
@@ -32566,7 +32567,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  events.demoup.com
 0.0.0.0  events.engageya.com
 0.0.0.0  events.foreseeresults.com
-0.0.0.0  events.gfe.nvidia.com
 0.0.0.0  events.guesttoguest.com
 0.0.0.0  events.il.fi
 0.0.0.0  events.influencemobile.com
@@ -64915,7 +64915,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  rathbone-art.com
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
-0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  ratkalol.com

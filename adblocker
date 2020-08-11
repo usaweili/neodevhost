@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-11
 #
-# Number of blocked domains:  100676
+# Number of blocked domains:  100675
 #
 # ===============================================================
 
@@ -18274,7 +18274,6 @@ ff02::3 ip6-allhosts
 ||boksy.onet.pl^
 ||bola88.com^
 ||boldride.us.intellitxt.com^
-||bole.shangshufang.ksosoft.com^
 ||bolek69.pl^
 ||bolili.info^
 ||bolizirs.com^
@@ -22917,6 +22916,7 @@ ff02::3 ip6-allhosts
 ||cloudservice12.kingsoft-office-service.com^
 ||cloudservice13.kingsoft-office-service.com^
 ||cloudservice14.kingsoft-office-service.com^
+||cloudservice22.kingsoft-office-service.com^
 ||cloudservice24.kingsoft-office-service.com^
 ||cloudservice27.kingsoft-office-service.com^
 ||cloudsrvtrk.com^
@@ -27766,6 +27766,7 @@ ff02::3 ip6-allhosts
 ||deviantart-d.openx.net^
 ||deviantart.crwdcntrl.net^
 ||device-api.urbanairship.com^
+||device-metrics-us-2.amazon.com^
 ||device.4seeresults.com^
 ||device.maxmind.com^
 ||device9.com^
@@ -32566,7 +32567,6 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
-||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
@@ -64915,7 +64915,6 @@ ff02::3 ip6-allhosts
 ||rathbone-art.com^
 ||rating-widget.com^
 ||rating.in^
-||rating6.kingsoft-office-service.com^
 ||ratings.lycos.com^
 ||ratingtoplist.com^
 ||ratkalol.com^
