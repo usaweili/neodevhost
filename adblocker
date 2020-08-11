@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-11
 #
-# Number of blocked domains:  100675
+# Number of blocked domains:  100676
 #
 # ===============================================================
 
@@ -22916,7 +22916,6 @@ ff02::3 ip6-allhosts
 ||cloudservice12.kingsoft-office-service.com^
 ||cloudservice13.kingsoft-office-service.com^
 ||cloudservice14.kingsoft-office-service.com^
-||cloudservice22.kingsoft-office-service.com^
 ||cloudservice24.kingsoft-office-service.com^
 ||cloudservice27.kingsoft-office-service.com^
 ||cloudsrvtrk.com^
@@ -26042,6 +26041,7 @@ ff02::3 ip6-allhosts
 ||d.exit-ad.com^
 ||d.feih.com.cn^
 ||d.finative.eu^
+||d.g.mi.com^
 ||d.gdt.qq.com^
 ||d.getaccss.com^
 ||d.ghostery.com^
@@ -27766,7 +27766,6 @@ ff02::3 ip6-allhosts
 ||deviantart-d.openx.net^
 ||deviantart.crwdcntrl.net^
 ||device-api.urbanairship.com^
-||device-metrics-us-2.amazon.com^
 ||device.4seeresults.com^
 ||device.maxmind.com^
 ||device9.com^
@@ -60171,6 +60170,7 @@ ff02::3 ip6-allhosts
 ||pc.gutouwang.net^
 ||pc.quansj.cn^
 ||pc.tunnel-vision.info^
+||pc.uf.ksosoft.com^
 ||pc.videoclick.baidu.com^
 ||pc.ziyuewentao.com^
 ||pc1.da.mgtv.com^
@@ -61234,6 +61234,7 @@ ff02::3 ip6-allhosts
 ||pixie.fyber.com^
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
+||pixiu.shangshufang.ksosoft.com^
 ||pixiv.org^
 ||pixnbeats.com^
 ||pixon.ads-pixiv.net^
