@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-11
 #
-# Number of blocked domains:  77696
+# Number of blocked domains:  77689
 #
 # ===============================================================
 
@@ -26144,7 +26144,6 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
-||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
@@ -76919,9 +76918,7 @@ ff02::3 ip6-allhosts
 ||yzytb.com^
 ||z-na.amazon-adsystem.com^
 ||z.abnad.net^
-||z.blogads.com^
 ||z.ceotrk.com^
-||z.clickvip.shop^
 ||z.dynad.net^
 ||z.extreme-dm.com^
 ||z.moatads.com^
@@ -76983,6 +76980,7 @@ ff02::3 ip6-allhosts
 ||zabbix.symanteprotection.com^
 ||zabezpecovacky.eu^
 ||zabiczyn.pl^
+||zabieganapara.pl^
 ||zabxb.com^
 ||zae.gzzena.com^
 ||zaeyaeph.com^
@@ -77056,7 +77054,6 @@ ff02::3 ip6-allhosts
 ||zanox-affiliate.de^
 ||zanox.com^
 ||zantainet.com^
-||zantracker.com^
 ||zanyx.club^
 ||zaoyx.jrchiji.cn^
 ||zap.buzz^
@@ -77124,6 +77121,7 @@ ff02::3 ip6-allhosts
 ||zd.zeroredirect1.com^
 ||zd.zeroredirect2.com^
 ||zd1.zeroredirect1.com^
+||zd1.zeroredirect6.com^
 ||zd6789.com^
 ||zdads.e-media.com^
 ||zdaj-to.pl^
@@ -77169,6 +77167,7 @@ ff02::3 ip6-allhosts
 ||zejrzyj-zdjecia.bo.pl^
 ||zekiatagur.com^
 ||zel-zel-fie.com^
+||zelazkowkuchni.pl^
 ||zeldalily.us.intellitxt.com^
 ||zelfo.pw^
 ||zelllwrite.com^
@@ -77264,7 +77263,6 @@ ff02::3 ip6-allhosts
 ||zgtcar.com^
 ||zgty365.com^
 ||zgunion.cn^
-||zgwalconadziewczyna.eu^
 ||zgwlbjy.cn^
 ||zgyemy.com^
 ||zgyryt.com^
@@ -77410,7 +77408,6 @@ ff02::3 ip6-allhosts
 ||zjrtuhds.top^
 ||zjsyawqj.cn^
 ||zjuwjdc.com^
-||zjvnet.allyes.com^
 ||zjvnet.allyes.com^
 ||zjxrg.top^
 ||zk.91post.com^
@@ -77539,7 +77536,6 @@ ff02::3 ip6-allhosts
 ||zqdftafa.com^
 ||zqhkry0c.pro^
 ||zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion.pet^
-||zqssqw.cn^
 ||zqtk.net^
 ||zqwlkj.cn^
 ||zqworks.com^
@@ -77676,7 +77672,6 @@ ff02::3 ip6-allhosts
 ||zypenetwork.com^
 ||zyq2.destinia.sk^
 ||zyqp9.com^
-||zyrdu.cruisingsmallship.com^
 ||zyrfanli.com^
 ||zyrtec.1.p2l.info^
 ||zyrtec.3.p2l.info^
@@ -77685,7 +77680,6 @@ ff02::3 ip6-allhosts
 ||zytpirwai.net^
 ||zywhjd.com^
 ||zyxwpj.com^
-||zyz.91friend.com^
 ||zyz1.91friend.com^
 ||zyzjpx.cn^
 ||zz.bdstatic.com^
@@ -77718,7 +77712,6 @@ ff02::3 ip6-allhosts
 ||zzsdjq.com^
 ||zzsdtzb.com^
 ||zzsno1.com^
-||zzxd.mediav.com^
 ||zzy.mipujia.com^
 ||zzy.quyaoya.com^
 ||zzy1.mipujia.com^

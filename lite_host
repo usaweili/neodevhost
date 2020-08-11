@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-11
 #
-# Number of blocked domains:  77696
+# Number of blocked domains:  77689
 #
 # ===============================================================
 
@@ -26144,7 +26144,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  events.demoup.com
 0.0.0.0  events.engageya.com
 0.0.0.0  events.foreseeresults.com
-0.0.0.0  events.gfe.nvidia.com
 0.0.0.0  events.guesttoguest.com
 0.0.0.0  events.il.fi
 0.0.0.0  events.influencemobile.com
@@ -76919,9 +76918,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  yzytb.com
 0.0.0.0  z-na.amazon-adsystem.com
 0.0.0.0  z.abnad.net
-0.0.0.0  z.blogads.com
 0.0.0.0  z.ceotrk.com
-0.0.0.0  z.clickvip.shop
 0.0.0.0  z.dynad.net
 0.0.0.0  z.extreme-dm.com
 0.0.0.0  z.moatads.com
@@ -76983,6 +76980,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  zabbix.symanteprotection.com
 0.0.0.0  zabezpecovacky.eu
 0.0.0.0  zabiczyn.pl
+0.0.0.0  zabieganapara.pl
 0.0.0.0  zabxb.com
 0.0.0.0  zae.gzzena.com
 0.0.0.0  zaeyaeph.com
@@ -77056,7 +77054,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  zanox-affiliate.de
 0.0.0.0  zanox.com
 0.0.0.0  zantainet.com
-0.0.0.0  zantracker.com
 0.0.0.0  zanyx.club
 0.0.0.0  zaoyx.jrchiji.cn
 0.0.0.0  zap.buzz
@@ -77124,6 +77121,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  zd.zeroredirect1.com
 0.0.0.0  zd.zeroredirect2.com
 0.0.0.0  zd1.zeroredirect1.com
+0.0.0.0  zd1.zeroredirect6.com
 0.0.0.0  zd6789.com
 0.0.0.0  zdads.e-media.com
 0.0.0.0  zdaj-to.pl
@@ -77169,6 +77167,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  zejrzyj-zdjecia.bo.pl
 0.0.0.0  zekiatagur.com
 0.0.0.0  zel-zel-fie.com
+0.0.0.0  zelazkowkuchni.pl
 0.0.0.0  zeldalily.us.intellitxt.com
 0.0.0.0  zelfo.pw
 0.0.0.0  zelllwrite.com
@@ -77264,7 +77263,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  zgtcar.com
 0.0.0.0  zgty365.com
 0.0.0.0  zgunion.cn
-0.0.0.0  zgwalconadziewczyna.eu
 0.0.0.0  zgwlbjy.cn
 0.0.0.0  zgyemy.com
 0.0.0.0  zgyryt.com
@@ -77411,7 +77409,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  zjsyawqj.cn
 0.0.0.0  zjuwjdc.com
 0.0.0.0  zjvnet.allyes.com
-0.0.0.0  zjvnet.allyes.com
 0.0.0.0  zjxrg.top
 0.0.0.0  zk.91post.com
 0.0.0.0  zk.zeroredirect1.com
@@ -77539,7 +77536,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  zqdftafa.com
 0.0.0.0  zqhkry0c.pro
 0.0.0.0  zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion.pet
-0.0.0.0  zqssqw.cn
 0.0.0.0  zqtk.net
 0.0.0.0  zqwlkj.cn
 0.0.0.0  zqworks.com
@@ -77676,7 +77672,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  zypenetwork.com
 0.0.0.0  zyq2.destinia.sk
 0.0.0.0  zyqp9.com
-0.0.0.0  zyrdu.cruisingsmallship.com
 0.0.0.0  zyrfanli.com
 0.0.0.0  zyrtec.1.p2l.info
 0.0.0.0  zyrtec.3.p2l.info
@@ -77685,7 +77680,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  zytpirwai.net
 0.0.0.0  zywhjd.com
 0.0.0.0  zyxwpj.com
-0.0.0.0  zyz.91friend.com
 0.0.0.0  zyz1.91friend.com
 0.0.0.0  zyzjpx.cn
 0.0.0.0  zz.bdstatic.com
@@ -77718,7 +77712,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  zzsdjq.com
 0.0.0.0  zzsdtzb.com
 0.0.0.0  zzsno1.com
-0.0.0.0  zzxd.mediav.com
 0.0.0.0  zzy.mipujia.com
 0.0.0.0  zzy.quyaoya.com
 0.0.0.0  zzy1.mipujia.com
