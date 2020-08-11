@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-11
 #
-# Number of blocked domains:  100678
+# Number of blocked domains:  100676
 #
 # ===============================================================
 
@@ -16170,7 +16170,6 @@ ff02::3 ip6-allhosts
 ||banner2.casino.com^
 ||banner2.inet-traffic.com^
 ||banner2.isobarturkiye.net^
-||bannera.kingsoft-office-service.com^
 ||bannerads.anytimenews.com^
 ||bannerads.co.in^
 ||bannerads.de^
@@ -18275,6 +18274,7 @@ ff02::3 ip6-allhosts
 ||boksy.onet.pl^
 ||bola88.com^
 ||boldride.us.intellitxt.com^
+||bole.shangshufang.ksosoft.com^
 ||bolek69.pl^
 ||bolili.info^
 ||bolizirs.com^
@@ -40842,6 +40842,7 @@ ff02::3 ip6-allhosts
 ||ibxfhtklswtbd.com^
 ||ibza.romsenergy.com^
 ||ic-live.com^
+||ic.ksosoft.com^
 ||ic.snssdk.com^
 ||ic.tynt.com^
 ||ic.wps.cn^
@@ -60170,6 +60171,7 @@ ff02::3 ip6-allhosts
 ||pc.gutouwang.net^
 ||pc.quansj.cn^
 ||pc.tunnel-vision.info^
+||pc.uf.ksosoft.com^
 ||pc.videoclick.baidu.com^
 ||pc.ziyuewentao.com^
 ||pc1.da.mgtv.com^
@@ -64914,7 +64916,6 @@ ff02::3 ip6-allhosts
 ||rathbone-art.com^
 ||rating-widget.com^
 ||rating.in^
-||rating6.kingsoft-office-service.com^
 ||ratings.lycos.com^
 ||ratingtoplist.com^
 ||ratkalol.com^
@@ -65863,7 +65864,6 @@ ff02::3 ip6-allhosts
 ||resizer.mantisadnetwork.com^
 ||resolutekey.com^
 ||resolve.gimbal.com^
-||resolver.gslb.mi-idc.com^
 ||resolvethem.com^
 ||resolvingserver.com^
 ||reson8.com^
@@ -71762,7 +71762,6 @@ ff02::3 ip6-allhosts
 ||sourmath.com^
 ||sousaira.com^
 ||sousay.info^
-||sousuo.xm.sjzhushou.com^
 ||southcoasttoday.112.2o7.net^
 ||southcoasttodaycom.112.2o7.net^
 ||southcoastwebsolutions.co.uk^
@@ -76343,7 +76342,6 @@ ff02::3 ip6-allhosts
 ||test.acdlec.be^
 ||test.ad.cmvideo.cn^
 ||test.ad.xiaomi.com^
-||test.api.xlmc.sandai.net^
 ||test.ark.letv.com^
 ||test.chrisjewels.com^
 ||test.coremetrics.com^
