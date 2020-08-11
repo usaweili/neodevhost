@@ -134,6 +134,7 @@ app-api.ted.com
 app.adjust.com
 app.gonoodle.com
 app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -156,7 +157,6 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
-assistant.pandora.xiaomi.com/config
 attestation.xboxlive.com
 audible.com
 audio-ake.spotify.com.edgesuite.net
@@ -365,6 +365,7 @@ device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
+dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
@@ -396,7 +397,6 @@ dotomi.com
 download.cnet.com
 download.ctmail.com
 download.sonarr.tv
-drift.com
 driftt.com
 drive.google.com
 dropbox.com
@@ -435,10 +435,9 @@ embed.flowplayer.org
 embed.spotify.com
 en.bab.la
 encrypted-tbn0.gstatic.com
-engadget.com
 entitlement.auth.adobe.com
-eonline.com
-espn.com
+eventbus.learnosity.com
+events.gfe.nvidia.com
 events.learnosity.com
 ew.com
 example.com
@@ -476,6 +475,7 @@ filters.adtidy.org
 finance.yahoo.com
 fm.tuba.pl
 follett.com
+fonts.googleapis.com
 fonts.gstatic.com
 footlocker-inc.com
 footlocker.com
@@ -510,11 +510,9 @@ funnyordie.com
 g.163.com
 g.co
 g.live.com
-game.quizizz.com
-gap.com
-gawker.com
 gazeta.pl
 gdmf.apple.com
+geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
 get.adobe.com
 gfwsl.geforce.com
@@ -567,6 +565,8 @@ gss2.bdstatic.com
 gstatic.com
 guru3d.com
 gweb-gettingstartedguide.appspot.com
+hbogo.com
+hbogo.pl
 heavy.com
 heise.de
 help.ui.xboxlive.com
@@ -611,7 +611,6 @@ i8.chinanews.com
 i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
 ic.ksosoft.com
-ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
 icloud.com
@@ -778,7 +777,6 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
-mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 mausa.francotyp.com
 mausa2.francotyp.com
 maxcdn.bootstrapcdn.com
@@ -977,7 +975,6 @@ pando.com
 paper.li
 pastebin.com
 paypal.com
-pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
 pcfg.wps.cn
 pd.itunes.apple.com
@@ -1050,6 +1047,7 @@ radiostacja.pl
 ransomwaretracker.abuse.ch
 rapidgator.net
 rapidvideo.com
+rating6.kingsoft-office-service.com
 raw.githack.com
 raw.github.com
 raw.githubusercontent.com
@@ -1075,6 +1073,7 @@ renlearn.com.au
 renlearnrp.com
 report-uri.com
 res.cloudinary.com
+resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
 ris.api.iris.microsoft.com
@@ -1120,7 +1119,6 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
-sdkinit.taobao.com/init.htm
 sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.follettsoftware.com
 search.twitter.com
@@ -1194,7 +1192,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
@@ -1229,7 +1226,6 @@ t.co
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
-t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talk.google.com
 talk.l.google.com
 talkgadget.google.com
@@ -1393,7 +1389,6 @@ whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
 widgets.dlvr.it
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com

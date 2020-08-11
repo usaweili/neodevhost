@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-11
 #
-# Number of blocked domains:  100676
+# Number of blocked domains:  100674
 #
 # ===============================================================
 
@@ -32565,7 +32565,6 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
-||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
@@ -60170,6 +60169,7 @@ ff02::3 ip6-allhosts
 ||pc.gutouwang.net^
 ||pc.quansj.cn^
 ||pc.tunnel-vision.info^
+||pc.uf.ksosoft.com^
 ||pc.videoclick.baidu.com^
 ||pc.ziyuewentao.com^
 ||pc1.da.mgtv.com^
@@ -64914,7 +64914,6 @@ ff02::3 ip6-allhosts
 ||rathbone-art.com^
 ||rating-widget.com^
 ||rating.in^
-||rating6.kingsoft-office-service.com^
 ||ratings.lycos.com^
 ||ratingtoplist.com^
 ||ratkalol.com^
@@ -65863,7 +65862,6 @@ ff02::3 ip6-allhosts
 ||resizer.mantisadnetwork.com^
 ||resolutekey.com^
 ||resolve.gimbal.com^
-||resolver.gslb.mi-idc.com^
 ||resolvethem.com^
 ||resolvingserver.com^
 ||reson8.com^
