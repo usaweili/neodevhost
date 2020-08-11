@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-11
 #
-# Number of blocked domains:  100675
+# Number of blocked domains:  100673
 #
 # ===============================================================
 
@@ -29575,7 +29575,6 @@ ff02::3 ip6-allhosts
 ||dxkkb5tytkivf.cloudfront.net^
 ||dxkkixczpsdaw.com^
 ||dxmci.com^
-||dxp.baidu.com^
 ||dxpmedia.com^
 ||dxprla.m.qxs.la^
 ||dxprljqoay4rt.cloudfront.net^
@@ -65862,7 +65861,6 @@ ff02::3 ip6-allhosts
 ||resizer.mantisadnetwork.com^
 ||resolutekey.com^
 ||resolve.gimbal.com^
-||resolver.msg.xiaomi.net^
 ||resolvethem.com^
 ||resolvingserver.com^
 ||reson8.com^
