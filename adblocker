@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-12
 #
-# Number of blocked domains:  100686
+# Number of blocked domains:  100688
 #
 # ===============================================================
 
@@ -32567,7 +32567,6 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
-||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
@@ -40844,6 +40843,7 @@ ff02::3 ip6-allhosts
 ||ibxfhtklswtbd.com^
 ||ibza.romsenergy.com^
 ||ic-live.com^
+||ic.ksosoft.com^
 ||ic.snssdk.com^
 ||ic.tynt.com^
 ||ic.wps.cn^
@@ -60174,6 +60174,7 @@ ff02::3 ip6-allhosts
 ||pc.gutouwang.net^
 ||pc.quansj.cn^
 ||pc.tunnel-vision.info^
+||pc.uf.ksosoft.com^
 ||pc.videoclick.baidu.com^
 ||pc.ziyuewentao.com^
 ||pc1.da.mgtv.com^
@@ -81710,6 +81711,7 @@ ff02::3 ip6-allhosts
 ||vas.isnssdk.com^
 ||vasanthkumar.com^
 ||vasapi.mangoads.vn^
+||vasapi.rdtuijian.com^
 ||vasb.cn^
 ||vaserviece.10jqka.com.cn^
 ||vashoaft.net^
