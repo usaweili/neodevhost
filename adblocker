@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-12
 #
-# Number of blocked domains:  100686
+# Number of blocked domains:  100687
 #
 # ===============================================================
 
@@ -32567,6 +32567,7 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
+||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
@@ -61237,7 +61238,6 @@ ff02::3 ip6-allhosts
 ||pixie.fyber.com^
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
-||pixiu.shangshufang.ksosoft.com^
 ||pixiv.org^
 ||pixnbeats.com^
 ||pixon.ads-pixiv.net^
@@ -76348,6 +76348,7 @@ ff02::3 ip6-allhosts
 ||test.acdlec.be^
 ||test.ad.cmvideo.cn^
 ||test.ad.xiaomi.com^
+||test.api.xlmc.sandai.net^
 ||test.ark.letv.com^
 ||test.chrisjewels.com^
 ||test.coremetrics.com^
