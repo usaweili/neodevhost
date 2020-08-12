@@ -134,6 +134,7 @@ app-api.ted.com
 app.adjust.com
 app.gonoodle.com
 app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -156,6 +157,7 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
+assistant.pandora.xiaomi.com/config
 attestation.xboxlive.com
 audible.com
 audio-ake.spotify.com.edgesuite.net
@@ -169,6 +171,7 @@ b.bst.126.net
 b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
+bannera.kingsoft-office-service.com
 bartonreading.com
 bbc.com
 bbs.archlinux.org
@@ -334,7 +337,7 @@ current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
-d.dropbox.com
+cwtv-prod-elb.digitalsmiths.net
 d.g.mi.com
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
@@ -363,9 +366,6 @@ device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
-dfnews.rdtuijian.com
-di.com.pl
-dictionary.cambridge.org
 digg.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
@@ -393,6 +393,8 @@ dojovideos.s3-accelerate.amazonaws.com
 dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
+download.ctmail.com
+download.sonarr.tv
 drc-centraloffice.com
 drift.com
 driftt.com
@@ -431,13 +433,13 @@ edhelper.com
 eds.xboxlive.com
 embed.flowplayer.org
 embed.spotify.com
+en.bab.la
 encrypted-tbn0.gstatic.com
+engadget.com
 entitlement.auth.adobe.com
 eonline.com
 espn.com
 eventbus.learnosity.com
-events.gfe.nvidia.com
-events.learnosity.com
 ew.com
 example.com
 example.org
@@ -474,8 +476,6 @@ filters.adtidy.org
 finance.yahoo.com
 fm.tuba.pl
 follett.com
-fonts.googleapis.com
-fonts.gstatic.com
 footlocker-inc.com
 footlocker.com
 forbes.com
@@ -509,6 +509,7 @@ funnyordie.com
 g.163.com
 g.co
 g.live.com
+game.quizizz.com
 gap.com
 gawker.com
 gazeta.pl
@@ -570,8 +571,6 @@ hbogo.com
 hbogo.pl
 heavy.com
 heise.de
-help.ui.xboxlive.com
-history.com
 hitfile.net
 hls.ted.com
 hm.com
@@ -609,6 +608,7 @@ i3.wp.com
 i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
+i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
 ic.ksosoft.com
 ic.rdtuijian.com
@@ -630,6 +630,7 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
+images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -777,7 +778,6 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
-mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 mausa.francotyp.com
 mausa2.francotyp.com
 maxcdn.bootstrapcdn.com
@@ -1074,6 +1074,7 @@ renlearn.com.au
 renlearnrp.com
 report-uri.com
 res.cloudinary.com
+resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
 ris.api.iris.microsoft.com
@@ -1282,7 +1283,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treezip.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
