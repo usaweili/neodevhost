@@ -337,6 +337,7 @@ current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
@@ -366,6 +367,7 @@ device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
+dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
@@ -438,7 +440,11 @@ embed.spotify.com
 en.bab.la
 encrypted-tbn0.gstatic.com
 engadget.com
+entitlement.auth.adobe.com
+eonline.com
 espn.com
+eventbus.learnosity.com
+events.gfe.nvidia.com
 events.learnosity.com
 ew.com
 example.com
@@ -470,13 +476,13 @@ feeds2.feedburner.com
 filefactory.com
 filesmonster.com
 filestack.com
-filmweb.pl
 filmyhd.net
 filters.adtidy.org
 finance.yahoo.com
 fm.tuba.pl
 follett.com
 fonts.googleapis.com
+fonts.gstatic.com
 footlocker-inc.com
 footlocker.com
 forbes.com
@@ -504,7 +510,6 @@ fr.osdn.net
 freebsd.org
 freenet.de
 frys.com
-ftp.chocolatey.org
 ftp.heanet.ie
 funnyordie.com
 g.163.com
@@ -559,14 +564,15 @@ gravatar.com
 greasyfork.org
 groupon.com
 groups.google.com
-gs.apple.com
 gsa.apple.com
 gslb.spotify.com
 gspe35-ssl.ls.apple.com
 gss0.bdstatic.com
 gss2.bdstatic.com
 gstatic.com
+guru3d.com
 gweb-gettingstartedguide.appspot.com
+hbogo.com
 hbogo.pl
 heavy.com
 heise.de
@@ -609,7 +615,6 @@ i3.wp.com
 i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
-i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
 ic.ksosoft.com
 ic.rdtuijian.com
@@ -859,6 +864,7 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
+newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
 newrelic.com
