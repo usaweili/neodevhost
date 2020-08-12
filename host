@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-12
 #
-# Number of blocked domains:  100685
+# Number of blocked domains:  100686
 #
 # ===============================================================
 
@@ -21718,6 +21718,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  chat.effectivebrand.com
 0.0.0.0  chat.ero-advertising.com
 0.0.0.0  chat.fff.com.vn
+0.0.0.0  chat.rrys2020.com/status?callback=jQuery171041283910877483665_1597252219143&_=1597252219577
 0.0.0.0  chat2.livechatinc.com
 0.0.0.0  chatasalino.com.pl
 0.0.0.0  chatbot-staging.novaonx.com
