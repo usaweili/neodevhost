@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-12
 #
-# Number of blocked domains:  100674
+# Number of blocked domains:  100686
 #
 # ===============================================================
 
@@ -23356,6 +23356,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  code.ditiezu.net
 0.0.0.0  code.etracker.com
 0.0.0.0  code.fastclick.net
+0.0.0.0  code.fjhongou.com
 0.0.0.0  code.guomob.com
 0.0.0.0  code.hajuwang.cn
 0.0.0.0  code.hot-mob.com
@@ -31881,6 +31882,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  eo.syrki.xyz
 0.0.0.0  eo.szimic.cn
 0.0.0.0  eo.tsnsrix.cn
+0.0.0.0  eo.un060y.cn
 0.0.0.0  eo.wamcjfg.cn
 0.0.0.0  eo.yhcrqzj.cn
 0.0.0.0  eo.zvygzatj.cn
@@ -32565,7 +32567,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  events.demoup.com
 0.0.0.0  events.engageya.com
 0.0.0.0  events.foreseeresults.com
-0.0.0.0  events.gfe.nvidia.com
 0.0.0.0  events.guesttoguest.com
 0.0.0.0  events.il.fi
 0.0.0.0  events.influencemobile.com
@@ -41760,6 +41761,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  img.xiacaidd.com
 0.0.0.0  img.xiwnu.cn
 0.0.0.0  img.xnxx.com
+0.0.0.0  img.xszedu.com
 0.0.0.0  img.xuenb.com
 0.0.0.0  img.xuwnz.cn
 0.0.0.0  img.yangshengtang123.com
@@ -53429,6 +53431,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  mo.szimic.cn
 0.0.0.0  mo.test.haloapps.com
 0.0.0.0  mo.tsnsrix.cn
+0.0.0.0  mo.un060y.cn
 0.0.0.0  mo.wajsa.com
 0.0.0.0  mo.wamcjfg.cn
 0.0.0.0  mo.yhcrqzj.cn
@@ -60170,6 +60173,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  pc.gutouwang.net
 0.0.0.0  pc.quansj.cn
 0.0.0.0  pc.tunnel-vision.info
+0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc.ziyuewentao.com
 0.0.0.0  pc1.da.mgtv.com
@@ -60854,6 +60858,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  pic.eduancm.com
 0.0.0.0  pic.fastapi.net
 0.0.0.0  pic.guomob.com
+0.0.0.0  pic.gzkyjx.com
 0.0.0.0  pic.haowj.com.cn
 0.0.0.0  pic.iask.cn
 0.0.0.0  pic.jd-bbs.com
@@ -67544,6 +67549,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  s1.tuzhaozhao.com
 0.0.0.0  s1.wan1979.com
 0.0.0.0  s1.wesiedu.com
+0.0.0.0  s1.xtyzljs.cn
 0.0.0.0  s1.yicha.jp
 0.0.0.0  s10.cnzz.com
 0.0.0.0  s10.flagcounter.com
@@ -72571,7 +72577,9 @@ ff02::3 ip6-allhosts
 0.0.0.0  ssh.jsyzw132.com
 0.0.0.0  ssh.lifu11.com
 0.0.0.0  ssh.mi61l.cn
+0.0.0.0  ssh.q4hwkg.cn
 0.0.0.0  ssh.szxiuchang.com
+0.0.0.0  ssh.wbdcrmn.cn
 0.0.0.0  ssh.yezijizhang.com
 0.0.0.0  sshowads.pubmatic.com
 0.0.0.0  ssjpx.com
@@ -76608,6 +76616,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  theequalground.info
 0.0.0.0  theersoa.net
 0.0.0.0  thefastpush.com
+0.0.0.0  thefatherofsalmon.com
 0.0.0.0  thefazlinazira.blogspot.com
 0.0.0.0  thefederalistpapers.org
 0.0.0.0  thefifthera.com
@@ -79947,6 +79956,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  u.xfmfqdt.cn
 0.0.0.0  u.yiiwoo.com
 0.0.0.0  u.yizuya.com
+0.0.0.0  u.zoulj.xyz
 0.0.0.0  u.zuoyesou.com
 0.0.0.0  u0.extreme-dm.com
 0.0.0.0  u0.s.minisplat.cn
@@ -80403,6 +80413,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  ulyssianeq.club
 0.0.0.0  ulzcieyihw.com
 0.0.0.0  um.hd.sohu.com
+0.0.0.0  um.hwszq.com
 0.0.0.0  um.simpli.fi
 0.0.0.0  um.tltwcn.com
 0.0.0.0  um.videmob.com
@@ -91019,6 +91030,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  www.kancelariainnowacji.pl
 0.0.0.0  www.kancelariakufieta.pl
 0.0.0.0  www.kancelariaskawina.pl
+0.0.0.0  www.kanglingjiu.com
 0.0.0.0  www.kanjiantu.com
 0.0.0.0  www.kanshuapp.com
 0.0.0.0  www.kanze.pl

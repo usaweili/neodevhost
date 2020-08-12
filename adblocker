@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-12
 #
-# Number of blocked domains:  100674
+# Number of blocked domains:  100686
 #
 # ===============================================================
 
@@ -23356,6 +23356,7 @@ ff02::3 ip6-allhosts
 ||code.ditiezu.net^
 ||code.etracker.com^
 ||code.fastclick.net^
+||code.fjhongou.com^
 ||code.guomob.com^
 ||code.hajuwang.cn^
 ||code.hot-mob.com^
@@ -31881,6 +31882,7 @@ ff02::3 ip6-allhosts
 ||eo.syrki.xyz^
 ||eo.szimic.cn^
 ||eo.tsnsrix.cn^
+||eo.un060y.cn^
 ||eo.wamcjfg.cn^
 ||eo.yhcrqzj.cn^
 ||eo.zvygzatj.cn^
@@ -32565,7 +32567,6 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
-||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
@@ -41760,6 +41761,7 @@ ff02::3 ip6-allhosts
 ||img.xiacaidd.com^
 ||img.xiwnu.cn^
 ||img.xnxx.com^
+||img.xszedu.com^
 ||img.xuenb.com^
 ||img.xuwnz.cn^
 ||img.yangshengtang123.com^
@@ -53429,6 +53431,7 @@ ff02::3 ip6-allhosts
 ||mo.szimic.cn^
 ||mo.test.haloapps.com^
 ||mo.tsnsrix.cn^
+||mo.un060y.cn^
 ||mo.wajsa.com^
 ||mo.wamcjfg.cn^
 ||mo.yhcrqzj.cn^
@@ -60170,6 +60173,7 @@ ff02::3 ip6-allhosts
 ||pc.gutouwang.net^
 ||pc.quansj.cn^
 ||pc.tunnel-vision.info^
+||pc.uf.ksosoft.com^
 ||pc.videoclick.baidu.com^
 ||pc.ziyuewentao.com^
 ||pc1.da.mgtv.com^
@@ -60854,6 +60858,7 @@ ff02::3 ip6-allhosts
 ||pic.eduancm.com^
 ||pic.fastapi.net^
 ||pic.guomob.com^
+||pic.gzkyjx.com^
 ||pic.haowj.com.cn^
 ||pic.iask.cn^
 ||pic.jd-bbs.com^
@@ -67544,6 +67549,7 @@ ff02::3 ip6-allhosts
 ||s1.tuzhaozhao.com^
 ||s1.wan1979.com^
 ||s1.wesiedu.com^
+||s1.xtyzljs.cn^
 ||s1.yicha.jp^
 ||s10.cnzz.com^
 ||s10.flagcounter.com^
@@ -72571,7 +72577,9 @@ ff02::3 ip6-allhosts
 ||ssh.jsyzw132.com^
 ||ssh.lifu11.com^
 ||ssh.mi61l.cn^
+||ssh.q4hwkg.cn^
 ||ssh.szxiuchang.com^
+||ssh.wbdcrmn.cn^
 ||ssh.yezijizhang.com^
 ||sshowads.pubmatic.com^
 ||ssjpx.com^
@@ -76608,6 +76616,7 @@ ff02::3 ip6-allhosts
 ||theequalground.info^
 ||theersoa.net^
 ||thefastpush.com^
+||thefatherofsalmon.com^
 ||thefazlinazira.blogspot.com^
 ||thefederalistpapers.org^
 ||thefifthera.com^
@@ -79947,6 +79956,7 @@ ff02::3 ip6-allhosts
 ||u.xfmfqdt.cn^
 ||u.yiiwoo.com^
 ||u.yizuya.com^
+||u.zoulj.xyz^
 ||u.zuoyesou.com^
 ||u0.extreme-dm.com^
 ||u0.s.minisplat.cn^
@@ -80403,6 +80413,7 @@ ff02::3 ip6-allhosts
 ||ulyssianeq.club^
 ||ulzcieyihw.com^
 ||um.hd.sohu.com^
+||um.hwszq.com^
 ||um.simpli.fi^
 ||um.tltwcn.com^
 ||um.videmob.com^
@@ -91019,6 +91030,7 @@ ff02::3 ip6-allhosts
 ||www.kancelariainnowacji.pl^
 ||www.kancelariakufieta.pl^
 ||www.kancelariaskawina.pl^
+||www.kanglingjiu.com^
 ||www.kanjiantu.com^
 ||www.kanshuapp.com^
 ||www.kanze.pl^
