@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-12
 #
-# Number of blocked domains:  100686
+# Number of blocked domains:  100683
 #
 # ===============================================================
 
@@ -16170,6 +16170,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  banner2.casino.com
 0.0.0.0  banner2.inet-traffic.com
 0.0.0.0  banner2.isobarturkiye.net
+0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.anytimenews.com
 0.0.0.0  bannerads.co.in
 0.0.0.0  bannerads.de
@@ -21718,7 +21719,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  chat.effectivebrand.com
 0.0.0.0  chat.ero-advertising.com
 0.0.0.0  chat.fff.com.vn
-0.0.0.0  chat.rrys2020.com/status?callback=jQuery171041283910877483665_1597252219143&_=1597252219577
 0.0.0.0  chat2.livechatinc.com
 0.0.0.0  chatasalino.com.pl
 0.0.0.0  chatbot-staging.novaonx.com
@@ -60173,7 +60173,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  pc.gutouwang.net
 0.0.0.0  pc.quansj.cn
 0.0.0.0  pc.tunnel-vision.info
-0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc.ziyuewentao.com
 0.0.0.0  pc1.da.mgtv.com
@@ -65867,6 +65866,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  resizer.mantisadnetwork.com
 0.0.0.0  resolutekey.com
 0.0.0.0  resolve.gimbal.com
+0.0.0.0  resolver.gslb.mi-idc.com
 0.0.0.0  resolvethem.com
 0.0.0.0  resolvingserver.com
 0.0.0.0  reson8.com
@@ -79456,8 +79456,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  tu.biddingx.com
 0.0.0.0  tu.connect.wunderloop.net
 0.0.0.0  tu.cvnad.com
-0.0.0.0  tu.jstucdn.com/ftp/2020/0427/e6f76ede919710cd87e380f1c2f9cec7.gif
-0.0.0.0  tu.jstucdn.com/g3/ad-img/1000-10.jpg
 0.0.0.0  tu.moatads.com
 0.0.0.0  tu.szefe.com
 0.0.0.0  tu.zx110.org
@@ -99287,7 +99285,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  ysgeuarbxfttib.com
 0.0.0.0  ysgsq.cn
 0.0.0.0  ysiu.freenation.com
-0.0.0.0  ysjkyia.cn/5/?channel=gg01
 0.0.0.0  ysjweb.com
 0.0.0.0  ysjwj.com
 0.0.0.0  ysljgoytuyfbg.com

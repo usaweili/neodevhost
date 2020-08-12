@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-12
 #
-# Number of blocked domains:  100686
+# Number of blocked domains:  100683
 #
 # ===============================================================
 
@@ -16170,6 +16170,7 @@ ff02::3 ip6-allhosts
 ||banner2.casino.com^
 ||banner2.inet-traffic.com^
 ||banner2.isobarturkiye.net^
+||bannera.kingsoft-office-service.com^
 ||bannerads.anytimenews.com^
 ||bannerads.co.in^
 ||bannerads.de^
@@ -21718,7 +21719,6 @@ ff02::3 ip6-allhosts
 ||chat.effectivebrand.com^
 ||chat.ero-advertising.com^
 ||chat.fff.com.vn^
-||chat.rrys2020.com/status?callback=jQuery171041283910877483665_1597252219143&_=1597252219577^
 ||chat2.livechatinc.com^
 ||chatasalino.com.pl^
 ||chatbot-staging.novaonx.com^
@@ -60173,7 +60173,6 @@ ff02::3 ip6-allhosts
 ||pc.gutouwang.net^
 ||pc.quansj.cn^
 ||pc.tunnel-vision.info^
-||pc.uf.ksosoft.com^
 ||pc.videoclick.baidu.com^
 ||pc.ziyuewentao.com^
 ||pc1.da.mgtv.com^
@@ -65867,6 +65866,7 @@ ff02::3 ip6-allhosts
 ||resizer.mantisadnetwork.com^
 ||resolutekey.com^
 ||resolve.gimbal.com^
+||resolver.gslb.mi-idc.com^
 ||resolvethem.com^
 ||resolvingserver.com^
 ||reson8.com^
@@ -79456,8 +79456,6 @@ ff02::3 ip6-allhosts
 ||tu.biddingx.com^
 ||tu.connect.wunderloop.net^
 ||tu.cvnad.com^
-||tu.jstucdn.com/ftp/2020/0427/e6f76ede919710cd87e380f1c2f9cec7.gif^
-||tu.jstucdn.com/g3/ad-img/1000-10.jpg^
 ||tu.moatads.com^
 ||tu.szefe.com^
 ||tu.zx110.org^
@@ -99287,7 +99285,6 @@ ff02::3 ip6-allhosts
 ||ysgeuarbxfttib.com^
 ||ysgsq.cn^
 ||ysiu.freenation.com^
-||ysjkyia.cn/5/?channel=gg01^
 ||ysjweb.com^
 ||ysjwj.com^
 ||ysljgoytuyfbg.com^
