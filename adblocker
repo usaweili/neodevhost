@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-12
 #
-# Number of blocked domains:  100688
+# Number of blocked domains:  100686
 #
 # ===============================================================
 
@@ -35560,6 +35560,7 @@ ff02::3 ip6-allhosts
 ||g-statistic.com^
 ||g-stats.openhost.es^
 ||g-wizzads.net^
+||g.163.com^
 ||g.3gl.net^
 ||g.3lian.com^
 ||g.51network.com^
@@ -40843,7 +40844,6 @@ ff02::3 ip6-allhosts
 ||ibxfhtklswtbd.com^
 ||ibza.romsenergy.com^
 ||ic-live.com^
-||ic.ksosoft.com^
 ||ic.snssdk.com^
 ||ic.tynt.com^
 ||ic.wps.cn^
@@ -60174,7 +60174,6 @@ ff02::3 ip6-allhosts
 ||pc.gutouwang.net^
 ||pc.quansj.cn^
 ||pc.tunnel-vision.info^
-||pc.uf.ksosoft.com^
 ||pc.videoclick.baidu.com^
 ||pc.ziyuewentao.com^
 ||pc1.da.mgtv.com^
@@ -81711,7 +81710,6 @@ ff02::3 ip6-allhosts
 ||vas.isnssdk.com^
 ||vasanthkumar.com^
 ||vasapi.mangoads.vn^
-||vasapi.rdtuijian.com^
 ||vasb.cn^
 ||vaserviece.10jqka.com.cn^
 ||vashoaft.net^
