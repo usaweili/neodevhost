@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-12
 #
-# Number of blocked domains:  100686
+# Number of blocked domains:  100685
 #
 # ===============================================================
 
@@ -61237,7 +61237,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  pixie.fyber.com
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
-0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixnbeats.com
 0.0.0.0  pixon.ads-pixiv.net
