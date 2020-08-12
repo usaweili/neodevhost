@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-12
 #
-# Number of blocked domains:  100686
+# Number of blocked domains:  100688
 #
 # ===============================================================
 
@@ -26042,6 +26042,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  d.exit-ad.com
 0.0.0.0  d.feih.com.cn
 0.0.0.0  d.finative.eu
+0.0.0.0  d.g.mi.com
 0.0.0.0  d.gdt.qq.com
 0.0.0.0  d.getaccss.com
 0.0.0.0  d.ghostery.com
@@ -60173,7 +60174,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  pc.gutouwang.net
 0.0.0.0  pc.quansj.cn
 0.0.0.0  pc.tunnel-vision.info
-0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc.ziyuewentao.com
 0.0.0.0  pc1.da.mgtv.com
@@ -64919,6 +64919,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  rathbone-art.com
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
+0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  ratkalol.com
@@ -65867,6 +65868,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  resizer.mantisadnetwork.com
 0.0.0.0  resolutekey.com
 0.0.0.0  resolve.gimbal.com
+0.0.0.0  resolver.gslb.mi-idc.com
 0.0.0.0  resolvethem.com
 0.0.0.0  resolvingserver.com
 0.0.0.0  reson8.com
