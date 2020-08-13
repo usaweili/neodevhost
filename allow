@@ -133,7 +133,7 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
-app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
+app.migc.g.mi.com/migcoss/coss.htm
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -156,6 +156,7 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
+assistant.pandora.xiaomi.com/config
 attestation.xboxlive.com
 audible.com
 audio-ake.spotify.com.edgesuite.net
@@ -211,7 +212,6 @@ blogs.discovermagazine.com
 bloomberg.com
 board.jdownloader.org
 bokser.org
-bole.shangshufang.ksosoft.com
 books.google.com
 boston.cbslocal.com
 bowercdn.net
@@ -338,6 +338,7 @@ cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
+d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
@@ -392,10 +393,9 @@ docs.google.com
 dof8gyq4yceq.cloudfront.net
 dojovideos.s3-accelerate.amazonaws.com
 dojovphotos.s3-accelerate.amazonaws.com
-dotomi.com
-download.cnet.com
 download.ctmail.com
 download.sonarr.tv
+drc-centraloffice.com
 drift.com
 driftt.com
 drive.google.com
@@ -438,6 +438,8 @@ encrypted-tbn0.gstatic.com
 engadget.com
 entitlement.auth.adobe.com
 eonline.com
+espn.com
+eventbus.learnosity.com
 events.gfe.nvidia.com
 events.learnosity.com
 ew.com
@@ -467,8 +469,6 @@ fcanr.tracking.miui.com
 feedly.com
 feedproxy.google.com
 feeds2.feedburner.com
-filefactory.com
-filesmonster.com
 filestack.com
 filmweb.pl
 filmyhd.net
@@ -506,8 +506,6 @@ freebsd.org
 freenet.de
 frys.com
 ftp.chocolatey.org
-ftp.heanet.ie
-funnyordie.com
 g.163.com
 g.co
 g.live.com
@@ -517,7 +515,9 @@ gawker.com
 gazeta.pl
 gdmf.apple.com
 geo-prod.do.dsp.mp.microsoft.com
+geo3.ggpht.com
 get.adobe.com
+gfwsl.geforce.com
 gfycat.com
 gigaom.com
 giphy.com
@@ -566,6 +566,7 @@ gss0.bdstatic.com
 gss2.bdstatic.com
 gstatic.com
 guru3d.com
+gweb-gettingstartedguide.appspot.com
 hbogo.com
 hbogo.pl
 heavy.com
@@ -603,7 +604,6 @@ i0.wp.com
 i1.services.social.microsoft.com
 i1.wp.com
 i1.ytimg.com
-i2.wp.com
 i2.ytimg.com
 i3.wp.com
 i3.ytimg.com
@@ -681,7 +681,6 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -1177,6 +1176,7 @@ sports.latimes.com
 sports.yahoo.com
 spotify.com
 sptsuniversity.org
+sqm.microsoft.com
 sqs.us-east-1.amazonaws.com
 ss0.bdstatic.com
 ssl-images-amazon.com
@@ -1195,6 +1195,7 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
+stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
