@@ -147,9 +147,9 @@ echo " "
 echo "Adding Compatibility..."
 
 cp host adblocker
+cp host host_dnsmasq.conf
+
 cp lite_host lite_adblocker
-
-
 cp lite_host lite_host_dnsmasq.conf
 
 sed -i 's/^/||&/' adblocker
