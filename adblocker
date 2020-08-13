@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2020-08-12
+# Last update: 2020-08-13
 #
-# Number of blocked domains:  100681
+# Number of blocked domains:  100682
 #
 # ===============================================================
 
@@ -28817,6 +28817,7 @@ ff02::3 ip6-allhosts
 ||dotnetkicks.com^
 ||dotnetshoutout.com^
 ||dotnxdomain.net^
+||dotomi.com^
 ||dotpay.emonitoring-epoczta24polska.net^
 ||dotpay.emonitoring-pocztapolska.eu^
 ||dotpay.pocztapolska24.pl^
