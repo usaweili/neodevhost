@@ -132,6 +132,7 @@ sort -u tmphost > host
 sed -i 's/^[ \t]*//;s/[ \t]*$//' host
 sed -i 's/ //g' host
 sed -i '/^$/d' host
+sed -i s/[[:space:]]//g host
 rm tmphost
 
 echo " "
@@ -141,6 +142,7 @@ sort -u tmplite_host > lite_host
 sed -i 's/^[ \t]*//;s/[ \t]*$//' lite_host
 sed -i 's/ //g' lite_host
 sed -i '/^$/d' lite_host
+sed -i s/[[:space:]]//g lite_host
 rm tmphost
 
 echo " "
