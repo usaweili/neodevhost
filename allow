@@ -134,7 +134,6 @@ app-api.ted.com
 app.adjust.com
 app.gonoodle.com
 app.migc.g.mi.com/migcoss/coss.htm
-app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -334,8 +333,8 @@ crunchbase.com
 cse.google.com
 ctldl.windowsupdate.com
 current.sina.com.cn
+customerevents.netflix.com
 cvs.com
-cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
@@ -364,9 +363,6 @@ developers.facebook.com
 developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
-device.auth.xboxlive.com
-dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
@@ -393,6 +389,8 @@ docerad.wps.cn
 docs.google.com
 dof8gyq4yceq.cloudfront.net
 dojovideos.s3-accelerate.amazonaws.com
+dojovphotos.s3-accelerate.amazonaws.com
+dotomi.com
 download.cnet.com
 download.ctmail.com
 download.sonarr.tv
@@ -431,13 +429,14 @@ edge-mqtt.facebook.com
 edge.api.brightcove.com
 edgesuite.net
 edhelper.com
+eds.xboxlive.com
+embed.flowplayer.org
+embed.spotify.com
 en.bab.la
 encrypted-tbn0.gstatic.com
 engadget.com
 entitlement.auth.adobe.com
-eonline.com
 espn.com
-eventbus.learnosity.com
 events.gfe.nvidia.com
 events.learnosity.com
 ew.com
@@ -475,9 +474,6 @@ filmyhd.net
 filters.adtidy.org
 finance.yahoo.com
 fm.tuba.pl
-follett.com
-fonts.googleapis.com
-fonts.gstatic.com
 footlocker-inc.com
 footlocker.com
 forbes.com
@@ -505,6 +501,8 @@ fr.osdn.net
 freebsd.org
 freenet.de
 frys.com
+ftp.chocolatey.org
+ftp.heanet.ie
 funnyordie.com
 g.163.com
 g.co
@@ -552,6 +550,8 @@ googleusercontent.com
 googlevideo.com
 gosignmeup.com
 gp.se
+graph.facebook.com
+graph.instagram.com
 gravatar.com
 greasyfork.org
 groupon.com
@@ -611,7 +611,6 @@ i8.chinanews.com
 i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
 ic.ksosoft.com
-ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
 icloud.com
@@ -858,6 +857,7 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
+newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
 newrelic.com
@@ -901,6 +901,7 @@ nypost.com
 nytimes.com
 o.go2yd.com
 o1.email.plex.tv
+o2.sg0.plex.tv
 oboom.com
 observer.com
 ocsp.apple.com
@@ -1229,7 +1230,6 @@ t.co
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
-t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talk.google.com
 talk.l.google.com
 talkgadget.google.com
@@ -1283,7 +1283,7 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treexml.baofeng.net
+treezip.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
