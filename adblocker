@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-13
 #
-# Number of blocked domains:  101461
+# Number of blocked domains:  101459
 #
 # ===============================================================
 
@@ -61680,7 +61680,6 @@ ff02::3 ip6-allhosts
 ||pixie.fyber.com^
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
-||pixiu.shangshufang.ksosoft.com^
 ||pixiv.org^
 ||pixon.ads-pixiv.net^
 ||pixroute.com^
@@ -66339,7 +66338,6 @@ ff02::3 ip6-allhosts
 ||resizer.mantisadnetwork.com^
 ||resolutekey.com^
 ||resolve.gimbal.com^
-||resolver.gslb.mi-idc.com^
 ||resolvethem.com^
 ||resolvingserver.com^
 ||reson8.com^
