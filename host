@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-13
 #
-# Number of blocked domains:  100683
+# Number of blocked domains:  100681
 #
 # ===============================================================
 
@@ -32566,7 +32566,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  events.demoup.com
 0.0.0.0  events.engageya.com
 0.0.0.0  events.foreseeresults.com
-0.0.0.0  events.gfe.nvidia.com
 0.0.0.0  events.guesttoguest.com
 0.0.0.0  events.il.fi
 0.0.0.0  events.influencemobile.com
@@ -65866,7 +65865,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  resizer.mantisadnetwork.com
 0.0.0.0  resolutekey.com
 0.0.0.0  resolve.gimbal.com
-0.0.0.0  resolver.gslb.mi-idc.com
 0.0.0.0  resolvethem.com
 0.0.0.0  resolvingserver.com
 0.0.0.0  reson8.com
