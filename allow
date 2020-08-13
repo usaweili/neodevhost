@@ -338,7 +338,6 @@ customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
-d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
@@ -396,9 +395,9 @@ dof8gyq4yceq.cloudfront.net
 dojovideos.s3-accelerate.amazonaws.com
 dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
+download.cnet.com
 download.ctmail.com
 download.sonarr.tv
-drc-centraloffice.com
 drift.com
 driftt.com
 drive.google.com
@@ -432,6 +431,8 @@ edge-chat.facebook.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com
 edgesuite.net
+edhelper.com
+eds.xboxlive.com
 embed.flowplayer.org
 embed.spotify.com
 en.bab.la
@@ -441,9 +442,6 @@ entitlement.auth.adobe.com
 eonline.com
 espn.com
 eventbus.learnosity.com
-events.gfe.nvidia.com
-events.learnosity.com
-ew.com
 example.com
 example.org
 express.co.uk
@@ -504,7 +502,9 @@ forums.techguy.org
 forums.whirlpool.net.au
 fp.msedge.net
 fpdownload.adobe.com
+fr.osdn.net
 freebsd.org
+freenet.de
 frys.com
 ftp.chocolatey.org
 ftp.heanet.ie
@@ -520,8 +520,6 @@ gdmf.apple.com
 geo-prod.do.dsp.mp.microsoft.com
 geo3.ggpht.com
 get.adobe.com
-gfwsl.geforce.com
-gfycat.com
 gigaom.com
 giphy.com
 gist.github.com
@@ -554,6 +552,7 @@ googleapis.com
 googleusercontent.com
 googlevideo.com
 gosignmeup.com
+gp.se
 graph.facebook.com
 graph.instagram.com
 gravatar.com
@@ -570,7 +569,6 @@ gstatic.com
 guru3d.com
 gweb-gettingstartedguide.appspot.com
 hbogo.com
-hbogo.pl
 heavy.com
 heise.de
 help.ui.xboxlive.com
@@ -684,6 +682,7 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
+jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -1119,7 +1118,6 @@ sbsvodns-vh.akamaihd.net
 sch-2357.mosyle.com
 scontent-iad3-1.cdninstagram.com
 scontent-lhr3-1.xx.fbcdn.net
-scontent.fgdl5-1.fna.fbcdn.net
 scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
@@ -1397,6 +1395,7 @@ whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
 widgets.dlvr.it
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com
