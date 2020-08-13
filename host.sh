@@ -61,9 +61,8 @@ sed -i '/address/d' tmpallow
 sed -i '/REG ^/d' tmpallow
 sed -i '/RZD/d' tmpallow
 sed -i 's/ALL ./ /g' tmpallow
-sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpallow
-sed -i 's/ //g' tmpallow
 sed -i '/^$/d' tmpallow
+sed -i s/[[:space:]]//g tmpallow
 sort -u tmpallow > allow
 rm tmpallow
 
@@ -110,9 +109,8 @@ sed -i 's/:://' tmpblock
 sed -i 's/:\/\///' tmpblock
 sed -i 's/。//' tmpblock
 sed -i 's/^\.//' tmpblock
-sed -i 's/^[ \t]*//;s/[ \t]*$//' tmpblock
-sed -i 's/ //g' tmpblock
-sed -i '/^\s*$/d' tmpblock
+sed -i '/^$/d' tmpblock
+sed -i s/[[:space:]]//g tmpblock
 sort -u tmpblock > block
 rm tmpblock
 
@@ -129,8 +127,6 @@ echo " "
 echo "Merge Combine..."
 sort -n block allow allow | uniq -u > tmp && mv tmp tmphost
 sort -u tmphost > host
-sed -i 's/^[ \t]*//;s/[ \t]*$//' host
-sed -i 's/ //g' host
 sed -i '/^$/d' host
 sed -i s/[[:space:]]//g host
 rm tmphost
@@ -139,8 +135,6 @@ echo " "
 echo "Merge Combine..."
 sort -n lite_block allow allow | uniq -u > tmp && mv tmp tmplite_host
 sort -u tmplite_host > lite_host
-sed -i 's/^[ \t]*//;s/[ \t]*$//' lite_host
-sed -i 's/ //g' lite_host
 sed -i '/^$/d' lite_host
 sed -i s/[[:space:]]//g lite_host
 rm tmphost
