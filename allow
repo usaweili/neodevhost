@@ -50,6 +50,7 @@ acdn.adnxs.com
 acehardware.com
 acrobat.com
 acs4baichuan.m.taobao.com
+acs4baichuan.m.taobao.com/gw-open/com.alibaba.havana.login.applink.generatetopapplinktoken/1.0/
 acstatic-dun.126.net
 activsoftware.co.uk
 ad.docer.wps.cn
@@ -132,7 +133,6 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
-app.migc.g.mi.com/migcoss/coss.htm
 app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
@@ -156,7 +156,6 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
-assistant.pandora.xiaomi.com/config
 attestation.xboxlive.com
 audible.com
 audio-ake.spotify.com.edgesuite.net
@@ -167,6 +166,7 @@ ax.phobos.apple.com.edgesuite.net
 b-api.facebook.com
 b.bdstatic.com
 b.bst.126.net
+b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
 bannera.kingsoft-office-service.com
@@ -338,7 +338,6 @@ cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
-d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
@@ -364,6 +363,7 @@ developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+device.auth.xboxlive.com
 dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
@@ -395,7 +395,7 @@ dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
 download.ctmail.com
-drc-centraloffice.com
+download.sonarr.tv
 drift.com
 driftt.com
 drive.google.com
@@ -434,8 +434,10 @@ eds.xboxlive.com
 embed.flowplayer.org
 embed.spotify.com
 en.bab.la
+encrypted-tbn0.gstatic.com
+engadget.com
 entitlement.auth.adobe.com
-eventbus.learnosity.com
+eonline.com
 events.gfe.nvidia.com
 events.learnosity.com
 ew.com
@@ -515,9 +517,7 @@ gawker.com
 gazeta.pl
 gdmf.apple.com
 geo-prod.do.dsp.mp.microsoft.com
-geo3.ggpht.com
 get.adobe.com
-gfwsl.geforce.com
 gfycat.com
 gigaom.com
 giphy.com
@@ -1122,6 +1122,7 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
+sdkinit.taobao.com/init.htm
 sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.follettsoftware.com
 search.twitter.com
@@ -1176,7 +1177,6 @@ sports.latimes.com
 sports.yahoo.com
 spotify.com
 sptsuniversity.org
-sqm.microsoft.com
 sqs.us-east-1.amazonaws.com
 ss0.bdstatic.com
 ssl-images-amazon.com
@@ -1195,7 +1195,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
@@ -1230,6 +1229,7 @@ t.co
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talk.google.com
 talk.l.google.com
 talkgadget.google.com
