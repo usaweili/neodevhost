@@ -120,6 +120,8 @@ AD-hostss | Link
 Ad-wars | [link](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts)
 Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
 Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
+ilpl    | [link](https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts)
+Lionlee | [link](https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdList)
 Neohost | [link](https://hosts.nfz.moe/full/hosts)
 StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts)
 Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts)
