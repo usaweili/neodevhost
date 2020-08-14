@@ -336,14 +336,14 @@ ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
 cvs.com
-cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
+d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
-data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -363,8 +363,6 @@ developers.facebook.com
 developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
-device.auth.xboxlive.com
 dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
@@ -395,7 +393,9 @@ dojovideos.s3-accelerate.amazonaws.com
 dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
+download.ctmail.com
 download.sonarr.tv
+drc-centraloffice.com
 drift.com
 driftt.com
 drive.google.com
@@ -434,8 +434,7 @@ eds.xboxlive.com
 embed.flowplayer.org
 embed.spotify.com
 en.bab.la
-encrypted-tbn0.gstatic.com
-engadget.com
+espn.com
 eventbus.learnosity.com
 events.gfe.nvidia.com
 events.learnosity.com
@@ -473,7 +472,6 @@ filmweb.pl
 filmyhd.net
 filters.adtidy.org
 finance.yahoo.com
-fm.tuba.pl
 follett.com
 fonts.googleapis.com
 fonts.gstatic.com
@@ -514,6 +512,9 @@ game.quizizz.com
 gap.com
 gawker.com
 gazeta.pl
+gdmf.apple.com
+geo-prod.do.dsp.mp.microsoft.com
+geo3.ggpht.com
 get.adobe.com
 gfwsl.geforce.com
 gfycat.com
@@ -559,9 +560,7 @@ groups.google.com
 gs.apple.com
 gsa.apple.com
 gslb.spotify.com
-gspe35-ssl.ls.apple.com
 gss0.bdstatic.com
-gss2.bdstatic.com
 gstatic.com
 guru3d.com
 gweb-gettingstartedguide.appspot.com
@@ -858,7 +857,6 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
-newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
 newrelic.com
@@ -1189,14 +1187,12 @@ st.mycdn.me
 sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 stackexchange.com
 stackpath.bootstrapcdn.com
-staging.admin.e.mi.com
 staging.plex.tv
 stanev.org
 star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com

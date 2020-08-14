@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-14
 #
-# Number of blocked domains:  101423
+# Number of blocked domains:  101425
 #
 # ===============================================================
 
@@ -27950,6 +27950,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  deviantart-d.openx.net
 0.0.0.0  deviantart.crwdcntrl.net
 0.0.0.0  device-api.urbanairship.com
+0.0.0.0  device-metrics-us.amazon.com
 0.0.0.0  device.4seeresults.com
 0.0.0.0  device.maxmind.com
 0.0.0.0  device9.com
@@ -73346,6 +73347,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  staging-tracker.fyber.com
 0.0.0.0  staging-us-east-tlx.3lift.com
 0.0.0.0  staging-video.fyber.com
+0.0.0.0  staging.admin.e.mi.com
 0.0.0.0  staging.fuseplatform.net
 0.0.0.0  staging.j.eclick.vn
 0.0.0.0  staging.novaonx.com
