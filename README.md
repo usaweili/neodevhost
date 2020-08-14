@@ -119,9 +119,7 @@ AD-hostss | Link
 --------- |:-------------:
 Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
 Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
-Neohost | [link](https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts)
 StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
-Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts)
 
 ## Sources of Allowlist 允许名单
 Allowlist | Link  
