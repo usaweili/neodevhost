@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-14
 #
-# Number of blocked domains:  101423
+# Number of blocked domains:  101424
 #
 # ===============================================================
 
@@ -53369,6 +53369,7 @@ ff02::3 ip6-allhosts
 ||minewhat.com^
 ||minexmr.com^
 ||minexmr.stream^
+||minfo.wps.cn^
 ||ming-dun.com.tw^
 ||mingboxieye.com^
 ||minghui.com^
