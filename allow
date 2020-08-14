@@ -172,7 +172,6 @@ b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
 bannera.kingsoft-office-service.com
-bartonreading.com
 bbc.com
 bbs.archlinux.org
 bcee.lu
@@ -336,6 +335,7 @@ ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
 cvs.com
+cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
@@ -344,6 +344,7 @@ d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
+data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -363,6 +364,8 @@ developers.facebook.com
 developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+device.auth.xboxlive.com
 dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
@@ -389,8 +392,6 @@ dns.msftncsi.com
 docerad.wps.cn
 docs.google.com
 dof8gyq4yceq.cloudfront.net
-dojovideos.s3-accelerate.amazonaws.com
-dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
 download.ctmail.com
@@ -426,14 +427,16 @@ echosign.com
 ecn.dev.virtualearth.net
 ecx.images-amazon.com
 edge-chat.facebook.com
-edge-mqtt.facebook.com
-edge.api.brightcove.com
 edgesuite.net
 edhelper.com
 eds.xboxlive.com
 embed.flowplayer.org
 embed.spotify.com
 en.bab.la
+encrypted-tbn0.gstatic.com
+engadget.com
+entitlement.auth.adobe.com
+eonline.com
 espn.com
 eventbus.learnosity.com
 events.gfe.nvidia.com
@@ -472,6 +475,7 @@ filmweb.pl
 filmyhd.net
 filters.adtidy.org
 finance.yahoo.com
+fm.tuba.pl
 follett.com
 fonts.googleapis.com
 fonts.gstatic.com
@@ -499,8 +503,6 @@ forums.whirlpool.net.au
 fp.msedge.net
 fpdownload.adobe.com
 fr.osdn.net
-freebsd.org
-freenet.de
 frys.com
 ftp.chocolatey.org
 ftp.heanet.ie
@@ -550,7 +552,6 @@ googleapis.com
 googleusercontent.com
 googlevideo.com
 gosignmeup.com
-gp.se
 graph.facebook.com
 graph.instagram.com
 gravatar.com
@@ -560,7 +561,9 @@ groups.google.com
 gs.apple.com
 gsa.apple.com
 gslb.spotify.com
+gspe35-ssl.ls.apple.com
 gss0.bdstatic.com
+gss2.bdstatic.com
 gstatic.com
 guru3d.com
 gweb-gettingstartedguide.appspot.com
@@ -607,7 +610,6 @@ i3.wp.com
 i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
-i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
 ic.ksosoft.com
 ic.rdtuijian.com
@@ -777,7 +779,6 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
-mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 mausa.francotyp.com
 mausa2.francotyp.com
 maxcdn.bootstrapcdn.com
@@ -1187,12 +1188,14 @@ st.mycdn.me
 sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 stackexchange.com
 stackpath.bootstrapcdn.com
+staging.admin.e.mi.com
 staging.plex.tv
 stanev.org
 star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
+stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
@@ -1281,6 +1284,7 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
+treezip.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
@@ -1391,7 +1395,6 @@ whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
 widgets.dlvr.it
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com
