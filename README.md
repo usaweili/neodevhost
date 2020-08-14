@@ -127,7 +127,7 @@ IOSADblock | [link](https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/
 Neohost | [link](https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts)
 Phising-army | [link](https://phishing.army/download/phishing_army_blocklist.txt)
 Pgl.yoyo | [link](https://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext)
-StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/data/StevenBlack/hosts)
+StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
 Winhelp2002 | [link](http://winhelp2002.mvps.org/hosts.txt)
 Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts)
 1024 | [link](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts)
