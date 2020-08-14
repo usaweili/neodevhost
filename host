@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-14
 #
-# Number of blocked domains:  101423
+# Number of blocked domains:  101424
 #
 # ===============================================================
 
@@ -27015,6 +27015,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  data.mic.com
 0.0.0.0  data.minute.ly
 0.0.0.0  data.mistat.intl.xiaomi.com
+0.0.0.0  data.mistat.xiaomi.com
 0.0.0.0  data.mobclix.com
 0.0.0.0  data.murdoog.com
 0.0.0.0  data.namesakeoscilloscopemarquis.com
