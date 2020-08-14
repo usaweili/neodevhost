@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2020-08-13
+# Last update: 2020-08-14
 #
-# Number of blocked domains:  101425
+# Number of blocked domains:  101423
 #
 # ===============================================================
 
@@ -26209,7 +26209,6 @@ ff02::3 ip6-allhosts
 ||d.exit-ad.com^
 ||d.feih.com.cn^
 ||d.finative.eu^
-||d.g.mi.com^
 ||d.gdt.qq.com^
 ||d.getaccss.com^
 ||d.ghostery.com^
@@ -32799,7 +32798,6 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
-||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
