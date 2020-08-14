@@ -117,7 +117,6 @@ pihole -g
 ## Sources of AD-hosts data 去广告host源
 AD-hostss | Link  
 --------- |:-------------:
-Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
 Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
 StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
 
