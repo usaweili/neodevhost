@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-14
 #
-# Number of blocked domains:  83931
+# Number of blocked domains:  83927
 #
 # ===============================================================
 
@@ -35656,7 +35656,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  image.richrelevance.com
 0.0.0.0  image.smart-c.jp
 0.0.0.0  image.static.adflex.vn
-0.0.0.0  image.uczzd.cn
 0.0.0.0  image.yigao.com
 0.0.0.0  image.yiqifa.com
 0.0.0.0  image.zcoup.com
@@ -43156,7 +43155,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  mbai.cn
 0.0.0.0  mbank.hit.gemius.pl
 0.0.0.0  mbaobao.com
-0.0.0.0  mbd.baidu.com
 0.0.0.0  mbd.weathercn.com
 0.0.0.0  mbdlog.iqiyi.com
 0.0.0.0  mbe-cdn-staging.fyber.com
@@ -44931,7 +44929,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  mobile-stats.socialquantum.com
 0.0.0.0  mobile-symbol-upload.newrelic.com
 0.0.0.0  mobile-ws.apprissmobile.com
-0.0.0.0  mobile.Banzai.it
 0.0.0.0  mobile.activeshopper.com
 0.0.0.0  mobile.adfarm1.adition.com
 0.0.0.0  mobile.adnxs.com
@@ -45631,7 +45628,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  msg.shouji.360.cn
 0.0.0.0  msg.simeji.baidu.jp
 0.0.0.0  msg.umengcloud.com
-0.0.0.0  msg.video.qiyi.com
 0.0.0.0  msg.youku.com
 0.0.0.0  msg2.video.qiyi.com
 0.0.0.0  msga.71.am

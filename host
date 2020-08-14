@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-14
 #
-# Number of blocked domains:  111864
+# Number of blocked domains:  111838
 #
 # ===============================================================
 
@@ -6396,7 +6396,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  adapi.lenovogame.com
 0.0.0.0  adapi.ragapa.com
 0.0.0.0  adapi.shouji.360.cn
-0.0.0.0  adapi.starschina.com
 0.0.0.0  adapt.tv
 0.0.0.0  adapter.shouji.360.cn
 0.0.0.0  adapterylaptopa.com
@@ -9167,7 +9166,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  ads.smartclick.com
 0.0.0.0  ads.smartclicks.com
 0.0.0.0  ads.smartclicks.net
-0.0.0.0  ads.smartdevicemedia.com
 0.0.0.0  ads.smartolution.com
 0.0.0.0  ads.smartstream.tv
 0.0.0.0  ads.smowtion.com
@@ -10346,7 +10344,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  adservice.sigmob.cn
 0.0.0.0  adservice.tohsoft.com
 0.0.0.0  adservicemedia.dk
-0.0.0.0  adserviceretry.kglink.cn
 0.0.0.0  adserviceretry.kugou.com
 0.0.0.0  adservices.google.com
 0.0.0.0  adservices.picadmedia.com
@@ -13917,7 +13914,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  anpwsppugpu.com
 0.0.0.0  anquan.baidu.cn
 0.0.0.0  anquan.baidu.com
-0.0.0.0  anquan.luomi.com
 0.0.0.0  anquan.org
 0.0.0.0  anquanzhuomian.cn
 0.0.0.0  anquanzhuomian.com
@@ -14784,7 +14780,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  api.yieldmagic.com
 0.0.0.0  api.youtu.qq.com
 0.0.0.0  api.youxiaoad.com
-0.0.0.0  api.yp.com
 0.0.0.0  api.yuedu.iqiyi.com
 0.0.0.0  api.zanox.com
 0.0.0.0  api.zcoup.com
@@ -21310,7 +21305,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  c.dr.cyberwing.co.jp
 0.0.0.0  c.duomai.com
 0.0.0.0  c.duomeng.cn
-0.0.0.0  c.duomeng.net
 0.0.0.0  c.dynad.net
 0.0.0.0  c.dzytjqcc.com
 0.0.0.0  c.easypatent.net
@@ -23185,7 +23179,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  cdn.udmserve.net
 0.0.0.0  cdn.undertone.com
 0.0.0.0  cdn.unityads.unity3d.com
-0.0.0.0  cdn.us.goldspotmedia.com
 0.0.0.0  cdn.usabilitytracker.com
 0.0.0.0  cdn.usefathom.com
 0.0.0.0  cdn.userreport.com
@@ -26999,7 +26992,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  count9.51yes.com
 0.0.0.0  countante.info
 0.0.0.0  countar.de
-0.0.0.0  countatm.cp12.wasu.tv
 0.0.0.0  countby.com
 0.0.0.0  countdowntozerotime.com
 0.0.0.0  counted.at
@@ -33111,7 +33103,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  e.dsjre.com
 0.0.0.0  e.dtscout.com
 0.0.0.0  e.dunmm.com
-0.0.0.0  e.duomeng.org
 0.0.0.0  e.dxmci.com
 0.0.0.0  e.dydd.xyz
 0.0.0.0  e.e7001.com
@@ -33494,7 +33485,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  e.xmgysweb.com
 0.0.0.0  e.xpjis.com
 0.0.0.0  e.xroun.com
-0.0.0.0  e.xsm98e.cn
 0.0.0.0  e.xxkio.com
 0.0.0.0  e.y23zpl.cn
 0.0.0.0  e.y9062t.cn
@@ -34182,7 +34172,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  ee.wv26d.cn
 0.0.0.0  ee.wz382.cn
 0.0.0.0  ee.x0u4o.cn
-0.0.0.0  ee.x8r9m.cn
 0.0.0.0  ee.xfya3.cn
 0.0.0.0  ee.xlhm88.cn
 0.0.0.0  ee.xq375.cn
@@ -45911,7 +45900,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  image.smart-c.jp
 0.0.0.0  image.static.adflex.vn
 0.0.0.0  image.ttyouma.cn
-0.0.0.0  image.uczzd.cn
 0.0.0.0  image.upages.cn
 0.0.0.0  image.yigao.com
 0.0.0.0  image.yiqifa.com
@@ -55787,7 +55775,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  m.xroun.com
 0.0.0.0  m.xs222.com
 0.0.0.0  m.xsk5j.cn
-0.0.0.0  m.xsm98e.cn
 0.0.0.0  m.xt2d.cn
 0.0.0.0  m.xuanlimin.top
 0.0.0.0  m.xuehelei.com
@@ -57206,7 +57193,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  mbbjrwsl.com
 0.0.0.0  mbcperyc.com
 0.0.0.0  mbctxigml.com
-0.0.0.0  mbd.baidu.com
 0.0.0.0  mbd.weathercn.com
 0.0.0.0  mbdlog.iqiyi.com
 0.0.0.0  mbe-cdn-staging.fyber.com
@@ -59527,7 +59513,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  mobile-stats.socialquantum.com
 0.0.0.0  mobile-symbol-upload.newrelic.com
 0.0.0.0  mobile-ws.apprissmobile.com
-0.0.0.0  mobile.Banzai.it
 0.0.0.0  mobile.activeshopper.com
 0.0.0.0  mobile.adfarm1.adition.com
 0.0.0.0  mobile.adnxs.com
@@ -59595,7 +59580,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  mobilecrm.accengage.com
 0.0.0.0  mobiledissector.com
 0.0.0.0  mobiledl.adboe.com
-0.0.0.0  mobiledl.adobe.com
 0.0.0.0  mobilefuse-d.openx.net
 0.0.0.0  mobilefuse.com
 0.0.0.0  mobilefuse.net
@@ -60144,7 +60128,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  mp.apmebf.com
 0.0.0.0  mp.cheering3d.com
 0.0.0.0  mp.miaomiaojia.cc
-0.0.0.0  mp.nextmedia.com
 0.0.0.0  mp.sijiaopingtai.com
 0.0.0.0  mp.teads.tv
 0.0.0.0  mp.tscapeplay.com
@@ -60379,7 +60362,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  msg.shouji.360.cn
 0.0.0.0  msg.simeji.baidu.jp
 0.0.0.0  msg.umengcloud.com
-0.0.0.0  msg.video.qiyi.com
 0.0.0.0  msg.youku.com
 0.0.0.0  msg1.video.qiyi.com
 0.0.0.0  msg2.video.qiyi.com
@@ -64674,7 +64656,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  ojwmlieqguqg.com
 0.0.0.0  ok-outlet.com
 0.0.0.0  ok.432kkk.com
-0.0.0.0  ok.4qn9c.cn
 0.0.0.0  ok.5.p2l.info
 0.0.0.0  ok.internetmedia.si
 0.0.0.0  ok.uk.intellitxt.com
@@ -72260,7 +72241,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  r.edge.inmobicdn.net
 0.0.0.0  r.fullstory.com
 0.0.0.0  r.i.ua
-0.0.0.0  r.inad.com
 0.0.0.0  r.l.admob.com
 0.0.0.0  r.l.youku.com
 0.0.0.0  r.leadzuaf.com
@@ -75195,7 +75175,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  rywoments.info
 0.0.0.0  ryybhoklizmuew.com
 0.0.0.0  ryynoljdarrw.com
-0.0.0.0  rz.w8r4q.cn
 0.0.0.0  rz261.cn
 0.0.0.0  rzajohyjxff.com
 0.0.0.0  rzbozucqgmostr.com
@@ -81843,7 +81822,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  static.canalstat.com
 0.0.0.0  static.carbonads.com
 0.0.0.0  static.cdn.adblade.com
-0.0.0.0  static.cdn.gtsmobi.com
 0.0.0.0  static.cdnstoremedia.com
 0.0.0.0  static.chartbeat.com
 0.0.0.0  static.chartboost.com
@@ -85296,7 +85274,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  test-script.dotmetrics.net
 0.0.0.0  test-studio.ru
 0.0.0.0  test.acdlec.be
-0.0.0.0  test.ad.cmvideo.cn
 0.0.0.0  test.ad.xiaomi.com
 0.0.0.0  test.ark.letv.com
 0.0.0.0  test.besstidniki.ru
@@ -91102,7 +91079,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  v-pack.net
 0.0.0.0  v-sence.gentags.net
 0.0.0.0  v-wrd.com
-0.0.0.0  v.37uta.cn
 0.0.0.0  v.6dvip.com
 0.0.0.0  v.76768hwj.cn
 0.0.0.0  v.8yrn.cn
@@ -91597,7 +91573,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  vdfoejtqimcgog.com
 0.0.0.0  vdhu.com
 0.0.0.0  vdhufs.com
-0.0.0.0  vdinfo.baofeng.com
 0.0.0.0  vdldsjqxppi.com
 0.0.0.0  vdlha.cn
 0.0.0.0  vdn.ipredictive.com
@@ -92062,7 +92037,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  videocodezone.us.intellitxt.com
 0.0.0.0  videocop.com
 0.0.0.0  videodeals.com
-0.0.0.0  videodown.baofeng.com
 0.0.0.0  videodownloadconverter.com
 0.0.0.0  videoegg.adbureau.net
 0.0.0.0  videoegg.com
