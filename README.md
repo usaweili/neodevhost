@@ -11,11 +11,11 @@
 [![license](https://img.shields.io/github/license/neodevpro/neodevhost.svg)](https://github.com/neodevpro/neodevhost/blob/master/LICENSE)
 
 ```
-Total ad / tracking block list 屏蔽追踪广告总数: 132246
+Total ad / tracking block list 屏蔽追踪广告总数: 138247
 
 Total allowlist list 允许名单总数: 1468
 
-Total combine list 结合总数： 132101
+Total combine list 结合总数： 138048
 
 Total deadblock list 失效屏蔽广告域名： 28777
 
@@ -50,7 +50,7 @@ Update 更新时间: 2020-08-14
 
 ## Download 下载
 ### Full version (With Dead Domain inside) 完整版（包含过期域名）：
-Number of Domain 域名数目： 132101
+Number of Domain 域名数目： 138048
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
@@ -60,7 +60,7 @@ Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost
 
 ### Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
 
-Number of Domain 域名数目： 104519
+Number of Domain 域名数目： 110180
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
@@ -122,7 +122,6 @@ Adaway | [link](https://adaway.org/hosts.txt)
 Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
 Antipopads | [link](https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts)
 Eth-Phishing | [link](https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt)
-Hblock | [link](https://hblock.molinero.dev/hosts)
 IOSADblock | [link](https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt)
 Neohost | [link](https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts)
 Phising-army | [link](https://phishing.army/download/phishing_army_blocklist.txt)
