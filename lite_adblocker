@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-14
 #
-# Number of blocked domains:  88890
+# Number of blocked domains:  88887
 #
 # ===============================================================
 
@@ -23264,14 +23264,12 @@ ff02::3 ip6-allhosts
 ||d.eu.criteo.com^
 ||d.exit-ad.com^
 ||d.finative.eu^
-||d.g.mi.com^
 ||d.gdt.qq.com^
 ||d.getaccss.com^
 ||d.ghostery.com^
 ||d.haberler.com^
 ||d.href.asia^
 ||d.ifeng.com^
-||d.ifengimg.com^
 ||d.image-ad.jp^
 ||d.impactradius-event.com^
 ||d.jjyx.com^
@@ -28846,7 +28844,6 @@ ff02::3 ip6-allhosts
 ||events.demoup.com^
 ||events.engageya.com^
 ||events.foreseeresults.com^
-||events.gfe.nvidia.com^
 ||events.guesttoguest.com^
 ||events.il.fi^
 ||events.influencemobile.com^
@@ -52802,6 +52799,7 @@ ff02::3 ip6-allhosts
 ||pixie.porkbun.com^
 ||pixiedust.buzzfeed.com^
 ||piximedia.com^
+||pixiu.shangshufang.ksosoft.com^
 ||pixiv.org^
 ||pixon.ads-pixiv.net^
 ||pixroute.com^
@@ -58093,7 +58091,6 @@ ff02::3 ip6-allhosts
 ||rkssxrh.cn^
 ||rktch.com^
 ||rktu.com^
-||rl.go2yd.com^
 ||rl.heise.de^
 ||rl972.cn^
 ||rlcdn.com^

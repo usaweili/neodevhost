@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-14
 #
-# Number of blocked domains:  88890
+# Number of blocked domains:  88887
 #
 # ===============================================================
 
@@ -23264,14 +23264,12 @@ ff02::3 ip6-allhosts
 0.0.0.0  d.eu.criteo.com
 0.0.0.0  d.exit-ad.com
 0.0.0.0  d.finative.eu
-0.0.0.0  d.g.mi.com
 0.0.0.0  d.gdt.qq.com
 0.0.0.0  d.getaccss.com
 0.0.0.0  d.ghostery.com
 0.0.0.0  d.haberler.com
 0.0.0.0  d.href.asia
 0.0.0.0  d.ifeng.com
-0.0.0.0  d.ifengimg.com
 0.0.0.0  d.image-ad.jp
 0.0.0.0  d.impactradius-event.com
 0.0.0.0  d.jjyx.com
@@ -28846,7 +28844,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  events.demoup.com
 0.0.0.0  events.engageya.com
 0.0.0.0  events.foreseeresults.com
-0.0.0.0  events.gfe.nvidia.com
 0.0.0.0  events.guesttoguest.com
 0.0.0.0  events.il.fi
 0.0.0.0  events.influencemobile.com
@@ -52802,6 +52799,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  pixie.porkbun.com
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixon.ads-pixiv.net
 0.0.0.0  pixroute.com
@@ -58093,7 +58091,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  rkssxrh.cn
 0.0.0.0  rktch.com
 0.0.0.0  rktu.com
-0.0.0.0  rl.go2yd.com
 0.0.0.0  rl.heise.de
 0.0.0.0  rl972.cn
 0.0.0.0  rlcdn.com
