@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-14
 #
-# Number of blocked domains:  101424
+# Number of blocked domains:  101425
 #
 # ===============================================================
 
@@ -18401,6 +18401,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  bokuraga-yell.com
 0.0.0.0  bola88.com
 0.0.0.0  boldride.us.intellitxt.com
+0.0.0.0  bole.shangshufang.ksosoft.com
 0.0.0.0  bolek69.pl
 0.0.0.0  bolili.info
 0.0.0.0  bolizirs.com
@@ -53369,7 +53370,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  minewhat.com
 0.0.0.0  minexmr.com
 0.0.0.0  minexmr.stream
-0.0.0.0  minfo.wps.cn
 0.0.0.0  ming-dun.com.tw
 0.0.0.0  mingboxieye.com
 0.0.0.0  minghui.com
@@ -61417,6 +61417,7 @@ ff02::3 ip6-allhosts
 0.0.0.0  pings.vidpulse.com
 0.0.0.0  pingshu365.xyz
 0.0.0.0  pingtas.qq.com
+0.0.0.0  pingtcss.qq.com
 0.0.0.0  pininfarina.dynalias.com
 0.0.0.0  pink.clicktx.jp
 0.0.0.0  pink.habralab.ru
