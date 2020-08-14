@@ -11,11 +11,11 @@
 [![license](https://img.shields.io/github/license/neodevpro/neodevhost.svg)](https://github.com/neodevpro/neodevhost/blob/master/LICENSE)
 
 ```
-Total ad / tracking block list 屏蔽追踪广告总数: 351959
+Total ad / tracking block list 屏蔽追踪广告总数: 117204
 
 Total allowlist list 允许名单总数: 1470
 
-Total combine list 结合总数： 351796
+Total combine list 结合总数： 117057
 
 Total deadblock list 失效屏蔽广告域名： 28854
 
@@ -50,7 +50,7 @@ Update 更新时间: 2020-08-14
 
 ## Download 下载
 ### Full version (With Dead Domain inside) 完整版（包含过期域名）：
-Number of Domain 域名数目： 351796
+Number of Domain 域名数目： 117057
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
@@ -60,7 +60,7 @@ Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost
 
 ### Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
 
-Number of Domain 域名数目： 324498
+Number of Domain 域名数目： 89130
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
@@ -119,10 +119,11 @@ AD-hostss | Link
 --------- |:-------------:
 Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
 Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
+Hblock | [link](https://hblock.molinero.dev/hosts)
+IOSADblock | [link](https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt)
 Neohost | [link](https://hosts.nfz.moe/full/hosts)
-StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts)
 Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts)
-
+1024 | [link](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts)
 ## Sources of Allowlist 允许名单
 Allowlist | Link  
 --------- |:-------------:
