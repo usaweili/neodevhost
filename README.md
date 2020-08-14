@@ -119,10 +119,8 @@ AD-hostss | Link
 --------- |:-------------:
 Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
 Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
-Eth-Phishing | [link](https://raw.githubusercontent.com/MetaMask/eth-phishing-detect/master/src/hosts.txt)
 IOSADblock | [link](https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt)
 Neohost | [link](https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts)
-Phising-army | [link](https://phishing.army/download/phishing_army_blocklist.txt)
 StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
 Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts)
 1024 | [link](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts)
