@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-14
 #
-# Number of blocked domains:  89169
+# Number of blocked domains:  89130
 #
 # ===============================================================
 
@@ -30,16 +30,6 @@ ff02::3 ip6-allhosts
 #=====================================
 # NEO DEV HOST
 #=====================================
-0.0.0.0  &nbsp;&nbsp;<ACLASS="MENU"HREF="/hosts/hosts">textfile</A><BR>
-0.0.0.0  &nbsp;&nbsp;<ACLASS="MENU"HREF="/hosts/ipv6/">ipv6</A><BR>
-0.0.0.0  &nbsp;&nbsp;<ACLASS="MENU"HREF="/hosts/ipv6/hosts">ipv6textfile</A><BR>
-0.0.0.0  &nbsp;&nbsp;<ACLASS="MENU"HREF="/hosts/ipv6zero/">ipv60</A><BR>
-0.0.0.0  &nbsp;&nbsp;<ACLASS="MENU"HREF="/hosts/mac/">oldmacs</A><BR>
-0.0.0.0  &nbsp;&nbsp;<ACLASS="MENU"HREF="/hosts/rss.xml">rssfeed</A><BR>
-0.0.0.0  &nbsp;&nbsp;<ACLASS="MENU"HREF="/hosts/zero/">/A><BR>
-0.0.0.0  &nbsp;&nbsp;<ACLASS="MENU"HREF="/hosts/zero/hosts">0textfile</A><BR>
-0.0.0.0  &nbsp;&nbsp;<ACLASS="MENU"HREF="/hosts/zero/mac/">0oldmacs</A><BR>
-0.0.0.0  &nbsp;&nbsp;<ACLASS="MENUlong"HREF="/hosts/ipv6zero/hosts">ipv60textfile</A><BR>
 0.0.0.0  0.nextyourcontent.com
 0.0.0.0  0.r.msn.com
 0.0.0.0  0.up.qingdaonews.com
@@ -3259,32 +3249,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  9y88.com
 0.0.0.0  9yad.com
 0.0.0.0  9yyg.cn
-0.0.0.0  </BODY>
-0.0.0.0  </DIV>
-0.0.0.0  </HEAD>
-0.0.0.0  </HTML>1-1ads.com
-0.0.0.0  </script>
-0.0.0.0  <ACLASS="MENU"HREF="/">home</A><BR>
-0.0.0.0  <ACLASS="MENU"HREF="/guestbook/">guestbook</A><BR>
-0.0.0.0  <ACLASS="MENU"HREF="/photos/">photos</A><BR>
-0.0.0.0  <ACLASS="MENU"HREF="/siteoftheday/">siteoftheday</A><BR>
-0.0.0.0  <B>&nbsp;Hostedby:</B><BR>&nbsp;&nbsp;<ACLASS="MENU"HREF="httptheorem.ca">theorem.ca</A>
-0.0.0.0  <B>hosts</B><BR>
-0.0.0.0  <BODY>
-0.0.0.0  <BR><BR>
-0.0.0.0  <BR><BR></DIV>
-0.0.0.0  <DIVCLASS="MENUBODY"><ACLASS="MENU"HREF="/books/">books</A><BR>
-0.0.0.0  <DIVID="top"CLASS="MENU">
-0.0.0.0  <H1>howtomaketheinternetnotsuck(as&nbsp;much)</H1>
-0.0.0.0  <LINKREL="SHORTCUTICON"HREF="//someonewhocares.org/favicon.ico">
-0.0.0.0  <LINKrel="stylesheet"type="text/css"href="//someonewhocares.org/pollock.css">
-0.0.0.0  <META
-0.0.0.0  <METAHTTP-EQUIV="Expires"CONTENT="0">
-0.0.0.0  <METANAME="MSSmartTagsPreventParsing"CONTENT="true">
-0.0.0.0  <METAname="keywords"CONTENT="Dan,Pollock,ads,hostfile,banners,pop-ups">
-0.0.0.0  <linkrel="alternate"type="application/rss+xml"title="someonewhocares.orghostsfile"href="/hosts/rss.xml"/><TITLE>UsingaHostsFileToMakeTheInternetNotSuck(asmuch)</TITLE>
-0.0.0.0  <metaname="viewport"content="width=device-width,initial-scale=1">
-0.0.0.0  <scripttype="text/javascript">
 0.0.0.0  ANDpolice.com
 0.0.0.0  ASKBOT.com
 0.0.0.0  AUSpolice.com
@@ -32546,7 +32510,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  ga.clearbit.com
 0.0.0.0  ga.kvideo.io
 0.0.0.0  ga.nsimg.net
-0.0.0.0  ga.src=('https:'==document.location.protocol?'https':'http://')+'stats.g.doubleclick.net/dc.js';
 0.0.0.0  ga.webdigi.co.uk
 0.0.0.0  ga87z2o.com
 0.0.0.0  gaae.hit.gemius.pl
@@ -48815,7 +48778,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  nakedreel.com
 0.0.0.0  nakuropatwiej.pl
 0.0.0.0  nalbusinespr.info
-0.0.0.0  name="description"CONTENT="Instructionsonhowtouseahostsfiletoavoidviewingadsandtomakeyourinternetexperiencemorepleasant.">
 0.0.0.0  nameads.com
 0.0.0.0  namedq.com
 0.0.0.0  nameguess.com
@@ -72876,7 +72838,6 @@ ff02::3 ip6-allhosts
 0.0.0.0  vapedia.com
 0.0.0.0  vapeguru.net
 0.0.0.0  vapormax.pl
-0.0.0.0  varga=document.createElement('script');ga.type='text/javascript';ga.async=true;
 0.0.0.0  variablefitness.com
 0.0.0.0  variantswatches.apphb.com
 0.0.0.0  varicolen.pl
