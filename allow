@@ -310,8 +310,6 @@ codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 commondatastorage.googleapis.com
-community.spiceworks.com
-confib.ifmo.ru
 configuration.apple.com
 connect.facebook.net
 connectivitycheck.android.com
@@ -337,10 +335,10 @@ current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
+d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
-d2c8v52ll5s99u.cloudfront.net
-d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
 data.mistat.xiaomi.com/mistats/v2
@@ -364,13 +362,12 @@ developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+device.auth.xboxlive.com
 dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
 digitaltrends.com
-directvapplications.hb.omtrdc.net
-directvnow.com
 discovermagazine.com
 discussions.apple.com
 display.ugc.bazaarvoice.com
@@ -394,15 +391,13 @@ dojovideos.s3-accelerate.amazonaws.com
 dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
+download.ctmail.com
 download.sonarr.tv
 drc-centraloffice.com
 drift.com
 driftt.com
 drive.google.com
 dropbox.com
-drupalstaging.provexam.com
-dsms0mj1bbhn4.cloudfront.net
-dtk.drcedirect.com
 duckduckgo.com
 dxp.baidu.com
 dynupdate.no-ip.com
@@ -434,6 +429,8 @@ eds.xboxlive.com
 embed.flowplayer.org
 embed.spotify.com
 en.bab.la
+encrypted-tbn0.gstatic.com
+engadget.com
 entitlement.auth.adobe.com
 eonline.com
 espn.com
@@ -447,9 +444,6 @@ express.co.uk
 expressen.se
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.net
-external-lhr2-1.xx.fbcdn.net
-external-lhr3-1.xx.fbcdn.net
 external-lhr4-1.xx.fbcdn.net
 external-lhr5-1.xx.fbcdn.net
 external-lhr6-1.xx.fbcdn.net
@@ -511,6 +505,8 @@ funnyordie.com
 g.163.com
 g.co
 g.live.com
+game.quizizz.com
+gap.com
 gawker.com
 gazeta.pl
 gdmf.apple.com
@@ -561,7 +557,9 @@ groups.google.com
 gs.apple.com
 gsa.apple.com
 gslb.spotify.com
+gspe35-ssl.ls.apple.com
 gss0.bdstatic.com
+gss2.bdstatic.com
 gstatic.com
 guru3d.com
 gweb-gettingstartedguide.appspot.com
@@ -1007,7 +1005,6 @@ play.lego.com
 play.spotify.com
 player.pl
 player.radio.com
-player.vimeo.com
 players.brightcove.net
 players.pluto.tv
 playstation.com
@@ -1084,7 +1081,6 @@ road.adblock.ro
 robotc.net
 roku.com
 rover.ebay.com
-rsi.hotmail.com
 rutube.ru
 rzeszow.tvp.pl
 s-passets-cache-ak0.pinimg.com
@@ -1140,8 +1136,6 @@ securemecca.com
 securemetrics.apple.com
 secureplugins.longtailvideo.com
 security.browser.miui.com
-security.follettsoftware.com
-sendspace.com
 services.sonarr.tv
 settings-sandbox.data.microsoft.com
 sfrpx.com
@@ -1285,7 +1279,7 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treezip.baofeng.net
+treexml.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
