@@ -100,6 +100,7 @@ sed -i 's/$important//' tmpblock
 sed -i 's/$badfilter//' tmpblock
 sed -i 's/:://' tmpblock
 sed -i 's/^\.//' tmpblock
+sed -i 's/^\-//' tmpblock
 sed -i '/^$/d' tmpblock
 sed -i s/[[:space:]]//g tmpblock
 sort -u tmpblock > block
