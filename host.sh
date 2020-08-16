@@ -90,6 +90,11 @@ sed -i '/[/d' tmpblock
 sed -i '/\!/d' tmpblock
 sed -i 's/0.0.0.0 //' tmpblock
 sed -i 's/0.0.0.0//' tmpblock
+sed -i 's/||//' tmpblock	
+sed -i 's/\^//' tmpblock
+sed -i 's/|//' tmpblock
+sed -i 's/$important//' tmpblock
+sed -i 's/$badfilter//' tmpblock
 sed -i 's/:://' tmpblock
 sed -i 's/^\.//' tmpblock
 sed -i '/^$/d' tmpblock
