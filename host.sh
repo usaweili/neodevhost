@@ -86,6 +86,8 @@ sed -i '/#/d' tmpblock
 sed -i '/255.255.255.255/d' tmpblock
 sed -i '/ip6-/d' tmpblock
 sed -i '/local/d' tmpblock
+sed -i '/[/d' tmpblock
+sed -i '/\!/d' tmpblock
 sed -i 's/0.0.0.0 //' tmpblock
 sed -i 's/0.0.0.0//' tmpblock
 sed -i 's/:://' tmpblock
