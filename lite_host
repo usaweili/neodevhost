@@ -8,11 +8,9 @@
 #
 # Last update: 2020-08-16
 #
-# Number of blocked domains:  91157
+# Number of blocked domains:  91154
 #
 #=====================================
-0.0.0.0  /.prixa.*\.net\/media\/(ParvoRatop|Riddh)\/[A-Za-z0-9-_]+.(gif|jpg)/
-0.0.0.0  /.prixa.*\.net\/media\/[0-9A-Za-z-_]*.(gifjpg)/
 0.0.0.0  0.nextyourcontent.com
 0.0.0.0  0.r.msn.com
 0.0.0.0  0.up.qingdaonews.com
@@ -3579,7 +3577,6 @@
 0.0.0.0  @@youku.com^showAd
 0.0.0.0  @@yzzkb.com.cnad.
 0.0.0.0  XiaoQiang
-0.0.0.0  [AdblockPlus3.0]
 0.0.0.0  a-5.info
 0.0.0.0  a-ad.adwo.com
 0.0.0.0  a-ads.com
