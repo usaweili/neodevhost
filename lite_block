@@ -1,5 +1,3 @@
--logging.nextmedia.com
--x.jd.com
 /.prixa.*\.net\/media\/(ParvoRatop|Riddh)\/[A-Za-z0-9-_]+.(gif|jpg)/
 /.prixa.*\.net\/media\/[0-9A-Za-z-_]*.(gifjpg)/
 0.nextyourcontent.com
@@ -45255,6 +45253,7 @@ logging.carambo.la
 logging.fishsticksgames.com
 logging.galaxypub.vn
 logging.goodgamestudios.com
+logging.nextmedia.com
 logging.phunuonline.com.vn
 logging.prefixbox.com
 logging.wilmaa.com

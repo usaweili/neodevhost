@@ -8,11 +8,9 @@
 #
 # Last update: 2020-08-16
 #
-# Number of blocked domains:  112139
+# Number of blocked domains:  112138
 #
 #=====================================
-0.0.0.0  -logging.nextmedia.com
-0.0.0.0  -x.jd.com
 0.0.0.0  /.prixa.*\.net\/media\/(ParvoRatop|Riddh)\/[A-Za-z0-9-_]+.(gif|jpg)/
 0.0.0.0  /.prixa.*\.net\/media\/[0-9A-Za-z-_]*.(gifjpg)/
 0.0.0.0  0.nextyourcontent.com
@@ -54612,6 +54610,7 @@
 0.0.0.0  logging.fishsticksgames.com
 0.0.0.0  logging.galaxypub.vn
 0.0.0.0  logging.goodgamestudios.com
+0.0.0.0  logging.nextmedia.com
 0.0.0.0  logging.phunuonline.com.vn
 0.0.0.0  logging.prefixbox.com
 0.0.0.0  logging.wilmaa.com
