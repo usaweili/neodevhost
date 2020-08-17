@@ -294,7 +294,6 @@ clients6.google.com
 cloud.google.com
 cloudflare.com
 cloudfront.net
-cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
@@ -307,8 +306,8 @@ code.jquery.com
 code.org
 code.responsivevoice.org
 codeorigin.jquery.com
-cognito-identity.us-east-1.amazonaws.com
-collegehumor.com
+commondatastorage.googleapis.com
+community.spiceworks.com
 confib.ifmo.ru
 configuration.apple.com
 connect.facebook.net
@@ -334,10 +333,9 @@ ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
 cvs.com
-cwtv-mrss-akamai.cwtv.com
-cwtv-prod-elb.digitalsmiths.net
-d.dropbox.com
 d.g.mi.com
+d.ifengimg.com
+d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
@@ -362,8 +360,8 @@ developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
-device.auth.xboxlive.com
-dfnews.rdtuijian.com
+dictionary.cambridge.org
+digg.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
 directvnow.com
@@ -393,10 +391,8 @@ download.cnet.com
 download.ctmail.com
 download.sonarr.tv
 drc-centraloffice.com
-drift.com
-driftt.com
-drive.google.com
 dropbox.com
+drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
 dtk.drcedirect.com
 duckduckgo.com
@@ -435,13 +431,13 @@ engadget.com
 entitlement.auth.adobe.com
 eonline.com
 espn.com
-eventbus.learnosity.com
-events.gfe.nvidia.com
-events.learnosity.com
 ew.com
 example.com
 example.org
 express.co.uk
+expressen.se
+external-lhr0-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
 external-lhr2-1.xx.fbcdn.net
 external-lhr3-1.xx.fbcdn.net
@@ -1004,6 +1000,7 @@ play.googleapis.com
 play.itunes.apple.com
 play.lego.com
 play.spotify.com
+player.pl
 player.radio.com
 player.vimeo.com
 players.brightcove.net
@@ -1136,6 +1133,8 @@ secureir.ebaystatic.com
 securel.longtailvideo.com
 securemecca.com
 securemetrics.apple.com
+secureplugins.longtailvideo.com
+security.browser.miui.com
 security.follettsoftware.com
 sendspace.com
 services.sonarr.tv
@@ -1192,7 +1191,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
@@ -1390,6 +1388,7 @@ whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
 widgets.dlvr.it
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com
@@ -1418,6 +1417,7 @@ www.googleapis.com
 www.gstatic.com
 www.jbaobao.com
 www.lotustalk.com
+www.maibanu.com
 www.msftncsi.com
 www.no-ip.com
 www.openload.co
