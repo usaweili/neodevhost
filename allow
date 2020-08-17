@@ -294,6 +294,7 @@ clients6.google.com
 cloud.google.com
 cloudflare.com
 cloudfront.net
+cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
@@ -306,6 +307,8 @@ code.jquery.com
 code.org
 code.responsivevoice.org
 codeorigin.jquery.com
+cognito-identity.us-east-1.amazonaws.com
+collegehumor.com
 commondatastorage.googleapis.com
 community.spiceworks.com
 confib.ifmo.ru
@@ -333,6 +336,8 @@ ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
 cvs.com
+cwtv-mrss-akamai.cwtv.com
+d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
@@ -358,8 +363,10 @@ developer.twitter.com
 developers.facebook.com
 developers.google.com
 device-messaging-na.amazon.com
-device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+device.auth.xboxlive.com
+dfnews.rdtuijian.com
+di.com.pl
 dictionary.cambridge.org
 digg.com
 digitaltrends.com
@@ -387,10 +394,12 @@ dof8gyq4yceq.cloudfront.net
 dojovideos.s3-accelerate.amazonaws.com
 dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
-download.cnet.com
 download.ctmail.com
 download.sonarr.tv
 drc-centraloffice.com
+drift.com
+driftt.com
+drive.google.com
 dropbox.com
 drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
@@ -425,12 +434,13 @@ edhelper.com
 eds.xboxlive.com
 embed.flowplayer.org
 embed.spotify.com
-en.bab.la
-encrypted-tbn0.gstatic.com
 engadget.com
 entitlement.auth.adobe.com
 eonline.com
 espn.com
+eventbus.learnosity.com
+events.gfe.nvidia.com
+events.learnosity.com
 ew.com
 example.com
 example.org
@@ -463,7 +473,6 @@ filesmonster.com
 filestack.com
 filmweb.pl
 filmyhd.net
-filters.adtidy.org
 finance.yahoo.com
 fm.tuba.pl
 follett.com
@@ -498,8 +507,6 @@ freenet.de
 frys.com
 ftp.chocolatey.org
 ftp.heanet.ie
-funnyordie.com
-g.163.com
 g.co
 g.live.com
 game.quizizz.com
@@ -547,9 +554,6 @@ gosignmeup.com
 gp.se
 graph.facebook.com
 graph.instagram.com
-gravatar.com
-greasyfork.org
-groupon.com
 groups.google.com
 gs.apple.com
 gsa.apple.com
@@ -625,7 +629,6 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
-images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -1191,6 +1194,7 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
+stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
@@ -1225,6 +1229,7 @@ t.co
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talk.google.com
 talk.l.google.com
 talkgadget.google.com
