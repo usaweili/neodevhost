@@ -133,7 +133,7 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
-app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -156,6 +156,7 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
+assistant.pandora.xiaomi.com/config
 attestation.xboxlive.com
 audible.com
 audio-ake.spotify.com.edgesuite.net
@@ -304,10 +305,8 @@ code.google.com
 code.jquery.com
 code.org
 code.responsivevoice.org
-codeorigin.jquery.com
-cognito-identity.us-east-1.amazonaws.com
-collegehumor.com
 commondatastorage.googleapis.com
+community.spiceworks.com
 confib.ifmo.ru
 configuration.apple.com
 connect.facebook.net
@@ -333,13 +332,12 @@ ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
 cvs.com
-cwtv-mrss-akamai.cwtv.com
-cwtv-prod-elb.digitalsmiths.net
-d.dropbox.com
 d.g.mi.com
+d.ifengimg.com
+d2c8v52ll5s99u.cloudfront.net
+d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
-data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -360,11 +358,11 @@ developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
-device.auth.xboxlive.com
-dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
+digitaltrends.com
+directvapplications.hb.omtrdc.net
 directvnow.com
 discovermagazine.com
 discussions.apple.com
@@ -391,11 +389,11 @@ dotomi.com
 download.cnet.com
 download.ctmail.com
 download.sonarr.tv
-drc-centraloffice.com
-drift.com
-driftt.com
 drive.google.com
 dropbox.com
+drupalstaging.provexam.com
+dsms0mj1bbhn4.cloudfront.net
+dtk.drcedirect.com
 duckduckgo.com
 dxp.baidu.com
 dynupdate.no-ip.com
@@ -432,7 +430,6 @@ engadget.com
 entitlement.auth.adobe.com
 eonline.com
 espn.com
-eventbus.learnosity.com
 events.gfe.nvidia.com
 events.learnosity.com
 ew.com
@@ -440,6 +437,9 @@ example.com
 example.org
 express.co.uk
 expressen.se
+external-lhr0-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
 external-lhr2-1.xx.fbcdn.net
 external-lhr3-1.xx.fbcdn.net
 external-lhr4-1.xx.fbcdn.net
@@ -522,6 +522,7 @@ git.teknik.io
 gitcdn.xyz
 gitee.com
 github.com
+github.com/notracking/hosts-blocklists/issues/75
 github.io
 gitlab.com
 gitter.im
@@ -772,7 +773,6 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
-mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 mausa.francotyp.com
 mausa2.francotyp.com
 maxcdn.bootstrapcdn.com
@@ -957,7 +957,6 @@ ow.ly
 p.ebaystatic.com
 p.imgur.com
 p.jwpcdn.com
-p60-buy.itunes.apple.com
 pac100pacprodpcop.table.core.windows.net
 packages.chocolatey.org
 packages.linuxmint.com
@@ -1007,6 +1006,7 @@ players.pluto.tv
 playstation.com
 plex.tv
 plugins.longtailvideo.com
+plus.google.com
 pmd.cdn.turner.com
 pochta.ru
 postimage.org
@@ -1023,7 +1023,6 @@ proxy.plex.bz
 public-api.wordpress.com
 publicsuffix.org
 publix.com
-pubnub.com
 pubsub.plex.bz
 pubsub.plex.tv
 push.wps.cn
@@ -1189,7 +1188,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
@@ -1277,7 +1275,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treezip.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
@@ -1388,7 +1385,6 @@ whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
 widgets.dlvr.it
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com
