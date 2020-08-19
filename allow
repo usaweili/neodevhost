@@ -133,6 +133,7 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
+app.migc.g.mi.com/migcoss/coss.htm
 app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
@@ -217,6 +218,7 @@ books.google.com
 boston.cbslocal.com
 bowercdn.net
 boxrec.com
+brakrock.be
 brightcove.net
 buff.ly
 bufferapp.com
@@ -292,6 +294,7 @@ clients6.google.com
 cloud.google.com
 cloudflare.com
 cloudfront.net
+cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
@@ -307,6 +310,9 @@ codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 commondatastorage.googleapis.com
+community.spiceworks.com
+confib.ifmo.ru
+config5.update.baofeng.com
 configuration.apple.com
 connect.facebook.net
 connectivitycheck.android.com
@@ -335,9 +341,12 @@ cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
+d.ifengimg.com
+d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
+data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -360,6 +369,9 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
 dfnews.rdtuijian.com
+di.com.pl
+dictionary.cambridge.org
+digg.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
 directvnow.com
@@ -389,6 +401,9 @@ download.cnet.com
 download.ctmail.com
 download.sonarr.tv
 drc-centraloffice.com
+drift.com
+driftt.com
+drive.google.com
 dropbox.com
 drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
@@ -421,8 +436,6 @@ edge.api.brightcove.com
 edgesuite.net
 edhelper.com
 eds.xboxlive.com
-embed.flowplayer.org
-embed.spotify.com
 en.bab.la
 encrypted-tbn0.gstatic.com
 engadget.com
@@ -469,6 +482,7 @@ finance.yahoo.com
 fm.tuba.pl
 follett.com
 fonts.googleapis.com
+fonts.gstatic.com
 footlocker-inc.com
 footlocker.com
 forbes.com
@@ -615,7 +629,6 @@ idg.se
 ifmo.ru
 ikea.com
 image.ibb.co
-image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120tudou
 imagebam.com
 images-cn.ssl-images-amazon.com
 images-eu.ssl-images-amazon.com
@@ -625,7 +638,6 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
-images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -675,7 +687,6 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -853,6 +864,7 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
+newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
 newrelic.com
@@ -1026,6 +1038,7 @@ public-api.wordpress.com
 publicsuffix.org
 publix.com
 pubnub.com
+pubsub.plex.bz
 pubsub.plex.tv
 push.wps.cn
 pusher.com
@@ -1117,7 +1130,6 @@ screenshots.firefox.com
 scribd.com
 script.google.com
 sdkinit.taobao.com/init.htm
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.follettsoftware.com
 search.twitter.com
 sears.com
@@ -1238,7 +1250,6 @@ teamviewer.com
 techguy.org
 techrepublic.com
 tedcdn.com
-test.api.xlmc.sandai.net
 tg.602.com
 tg.654321wan.com
 tg.7477.com
@@ -1388,7 +1399,6 @@ whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
 widgets.dlvr.it
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com
