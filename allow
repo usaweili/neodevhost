@@ -79,10 +79,10 @@ ajax.aspnetcdn.com
 ajax.cloudflare.com
 ajax.googleapis.com
 akadns.net
+akamai.net
 akamaiedge.net
 akamaihd.net
 akamaitechnologies.com
-akamaized.net
 albert.apple.com
 alexa.com
 allegro.pl
@@ -344,6 +344,7 @@ d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
+data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -395,7 +396,6 @@ dojovideos.s3-accelerate.amazonaws.com
 dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
-download.ctmail.com
 download.sonarr.tv
 drc-centraloffice.com
 drift.com
@@ -430,6 +430,8 @@ ecx.images-amazon.com
 edge-chat.facebook.com
 edge-mqtt.facebook.com
 edge.api.brightcove.com
+edgesuite.net
+edhelper.com
 eds.xboxlive.com
 embed.flowplayer.org
 embed.spotify.com
@@ -472,7 +474,6 @@ feeds2.feedburner.com
 filefactory.com
 filesmonster.com
 filestack.com
-filmweb.pl
 filmyhd.net
 filters.adtidy.org
 finance.yahoo.com
@@ -636,6 +637,7 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
+images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -1191,7 +1193,6 @@ ssl.gstatic.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
 st.mycdn.me
-sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 stackexchange.com
 stackpath.bootstrapcdn.com
 staging.admin.e.mi.com
@@ -1297,7 +1298,6 @@ tusfiles.net
 tv.wp.pl
 tvdb2.plex.tv
 tvn24.pl
-tvnstyle.pl
 tvp.pl
 tvthemes.plexapp.com
 tvthemes.plexapp.com.cdn.cloudflare.net
@@ -1400,7 +1400,6 @@ whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
 widgets.dlvr.it
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com
