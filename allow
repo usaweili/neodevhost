@@ -310,8 +310,7 @@ codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 commondatastorage.googleapis.com
-community.spiceworks.com
-confib.ifmo.ru
+configuration.apple.com
 connect.facebook.net
 connectivitycheck.android.com
 console.cloud.google.com
@@ -340,8 +339,7 @@ cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
-d2c8v52ll5s99u.cloudfront.net
-d2gatte9o95jao.cloudfront.net
+data.iana.org
 data.mistat.xiaomi.com
 data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
@@ -370,10 +368,10 @@ di.com.pl
 dictionary.cambridge.org
 digg.com
 digitaltrends.com
-directvapplications.hb.omtrdc.net
-directvnow.com
-discovermagazine.com
 discussions.apple.com
+display.ugc.bazaarvoice.com
+displaycatalog.mp.microsoft.com
+disqus.com
 dl-ssl.google.com
 dl-web.dropbox.com
 dl.delivery.mp.microsoft.com
@@ -399,10 +397,10 @@ drift.com
 driftt.com
 drive.google.com
 dropbox.com
-drupalstaging.provexam.com
-dsms0mj1bbhn4.cloudfront.net
-dtk.drcedirect.com
 duckduckgo.com
+dxp.baidu.com
+dynupdate.no-ip.com
+e.crashlytics.com
 e3489.cd.akamaiedge.net
 e7065.e2.akamaiedge.net
 ea.com
@@ -444,11 +442,13 @@ example.org
 express.co.uk
 expressen.se
 external-lhr0-1.xx.fbcdn.net
-external-lhr1-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
 external-lhr2-1.xx.fbcdn.net
 external-lhr3-1.xx.fbcdn.net
 external-lhr4-1.xx.fbcdn.net
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
 external-lhr8-1.xx.fbcdn.net
 external-lhr9-1.xx.fbcdn.net
 f1.media.brightcove.com
@@ -609,7 +609,6 @@ i4.ytimg.com
 i8.chinanews.com
 i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
-ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -629,6 +628,7 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
+images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -913,7 +913,6 @@ office.net
 office365.com
 officeclient.microsoft.com
 officedepot.com
-oladblock.me
 oladblock.services
 oladblock.xyz
 oload.cc
@@ -981,6 +980,7 @@ pd.itunes.apple.com
 pdq.com
 people.com
 pfsense.org
+pgl.yoyo.org
 philadelphia.cbslocal.com
 phobos.apple.com
 pi-hole.net
@@ -1031,7 +1031,6 @@ pubnub.com
 pubsub.plex.bz
 pubsub.plex.tv
 push.wps.cn
-pusher.com
 pusherapp.com
 puui.qpic.cn/
 questIOns.learnosity.com
@@ -1046,6 +1045,8 @@ radiostacja.pl
 ransomwaretracker.abuse.ch
 rapidgator.net
 rapidvideo.com
+rating6.kingsoft-office-service.com
+raw.githack.com
 raw.github.com
 raw.githubusercontent.com
 rawcdn.githack.com
@@ -1390,6 +1391,7 @@ whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
 widgets.dlvr.it
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com
