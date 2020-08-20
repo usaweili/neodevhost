@@ -117,8 +117,15 @@ pihole -g
 ## Sources of AD-hosts data 去广告host源
 AD-hostss | Link  
 --------- |:-------------:
+1024_hosts | [link](https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts)
 Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
+Antipopads | [link](https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts)
+Ad-wars | [link](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts)
+Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
+ilpl | [link](https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts)
+Neohost | [link](https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts)
 StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
+Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts)
 
 ## Sources of Allowlist 允许名单
 Allowlist | Link  
