@@ -134,6 +134,7 @@ app-api.ted.com
 app.adjust.com
 app.gonoodle.com
 app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -156,7 +157,6 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
-assistant.pandora.xiaomi.com/config
 attestation.xboxlive.com
 audible.com
 audio-ake.spotify.com.edgesuite.net
@@ -212,6 +212,7 @@ blogs.discovermagazine.com
 bloomberg.com
 board.jdownloader.org
 bokser.org
+bole.shangshufang.ksosoft.com
 books.google.com
 boston.cbslocal.com
 bowercdn.net
@@ -292,6 +293,7 @@ cloud.google.com
 cloudflare.com
 cloudfront.net
 cloudservice15.kingsoft-office-service.com
+cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnc.ef-cdn.com
@@ -307,8 +309,6 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 commondatastorage.googleapis.com
 community.spiceworks.com
-confib.ifmo.ru
-configuration.apple.com
 connect.facebook.net
 connectivitycheck.android.com
 console.cloud.google.com
@@ -331,6 +331,7 @@ cse.google.com
 ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
+cvs.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
@@ -338,8 +339,6 @@ d.g.mi.com
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
-data.iana.org
-data.mistat.xiaomi.com
 data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
@@ -358,7 +357,10 @@ dev.virtualearth.net
 developer.twitter.com
 developers.facebook.com
 developers.google.com
+device-messaging-na.amazon.com
+device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+device.auth.xboxlive.com
 dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
@@ -367,10 +369,6 @@ digitaltrends.com
 directvapplications.hb.omtrdc.net
 directvnow.com
 discovermagazine.com
-discussions.apple.com
-display.ugc.bazaarvoice.com
-displaycatalog.mp.microsoft.com
-disqus.com
 dl-ssl.google.com
 dl-web.dropbox.com
 dl.delivery.mp.microsoft.com
@@ -398,9 +396,6 @@ drive.google.com
 dropbox.com
 drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
-dtk.drcedirect.com
-duckduckgo.com
-dxp.baidu.com
 dynupdate.no-ip.com
 e.crashlytics.com
 e3489.cd.akamaiedge.net
@@ -446,9 +441,7 @@ expressen.se
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
-external-lhr2-1.xx.fbcdn.net
 external-lhr3-1.xx.fbcdn.net
-external-lhr4-1.xx.fbcdn.net
 external-lhr5-1.xx.fbcdn.net
 external-lhr6-1.xx.fbcdn.net
 external-lhr7-1.xx.fbcdn.net
@@ -610,7 +603,6 @@ i3.wp.com
 i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
-i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
 ic.ksosoft.com
 ic.rdtuijian.com
@@ -622,6 +614,7 @@ idg.se
 ifmo.ru
 ikea.com
 image.ibb.co
+image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120tudou
 imagebam.com
 images-cn.ssl-images-amazon.com
 images-eu.ssl-images-amazon.com
@@ -681,7 +674,6 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -977,6 +969,7 @@ pando.com
 paper.li
 pastebin.com
 paypal.com
+pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
 pcfg.wps.cn
 pd.itunes.apple.com
@@ -1006,7 +999,6 @@ play.itunes.apple.com
 play.lego.com
 play.spotify.com
 player.pl
-player.radio.com
 player.vimeo.com
 players.brightcove.net
 players.pluto.tv
@@ -1186,6 +1178,7 @@ ssl.gstatic.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
 st.mycdn.me
+sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 stackexchange.com
 stackpath.bootstrapcdn.com
 staging.admin.e.mi.com
