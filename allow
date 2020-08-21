@@ -32,7 +32,6 @@
 6-edge-chat.facebook.com
 70i.net
 a-0001.a-msedge.net
-a.stat.xiaomi.com
 a1014.g.akamai.net
 a3.mzstatic.com
 a463.w10.akamai.net
@@ -69,7 +68,6 @@ adidas.com
 adinfo.ra1.xlmc.sec.miui.com
 adobe.com
 adobetag.com
-ads.dh.duba.com
 ads.twitter.com
 advanceautoparts.com
 adwords.google.com
@@ -168,6 +166,7 @@ ax.phobos.apple.com.edgesuite.net
 b-api.facebook.com
 b.bdstatic.com
 b.bst.126.net
+b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
 bannera.kingsoft-office-service.com
@@ -182,7 +181,6 @@ bestbuy.com
 bestmedicalforms.com
 betanews.com
 bgr.com
-bialystok.tvp.pl
 billiger.de
 bing.at
 bing.ch
@@ -232,6 +230,7 @@ c-adash.m.taobao.com
 c.s-microsoft.com
 c.youtube.com
 calendar.google.com
+cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
 ccc-x.jd.com
 ccleaner.com
 cd.800wen.com
@@ -292,7 +291,6 @@ clients6.google.com
 cloud.google.com
 cloudflare.com
 cloudfront.net
-cloudservice15.kingsoft-office-service.com
 cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
@@ -331,10 +329,10 @@ cros-omahaproxy.appspot.com
 crunchbase.com
 cse.google.com
 ctldl.windowsupdate.com
-current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
@@ -395,6 +393,8 @@ dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
 download.ctmail.com
+download.sonarr.tv
+drc-centraloffice.com
 drift.com
 driftt.com
 drive.google.com
@@ -425,8 +425,6 @@ echosign.com
 ecn.dev.virtualearth.net
 ecx.images-amazon.com
 edge-chat.facebook.com
-edge-mqtt.facebook.com
-edge.api.brightcove.com
 edgesuite.net
 edhelper.com
 eds.xboxlive.com
@@ -436,6 +434,8 @@ en.bab.la
 encrypted-tbn0.gstatic.com
 engadget.com
 entitlement.auth.adobe.com
+eonline.com
+espn.com
 eventbus.learnosity.com
 events.gfe.nvidia.com
 events.learnosity.com
@@ -510,6 +510,9 @@ funnyordie.com
 g.163.com
 g.co
 g.live.com
+game.quizizz.com
+gap.com
+gawker.com
 gazeta.pl
 gdmf.apple.com
 geo-prod.do.dsp.mp.microsoft.com
@@ -560,6 +563,7 @@ gs.apple.com
 gsa.apple.com
 gslb.spotify.com
 gspe35-ssl.ls.apple.com
+gss0.bdstatic.com
 gss2.bdstatic.com
 gstatic.com
 guru3d.com
@@ -619,7 +623,6 @@ idg.se
 ifmo.ru
 ikea.com
 image.ibb.co
-image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120tudou
 imagebam.com
 images-cn.ssl-images-amazon.com
 images-eu.ssl-images-amazon.com
@@ -703,7 +706,6 @@ kodak.com
 kohls.com
 komputerswiat.pl
 kotaku.com
-krakow.tvp.pl
 kroger.com
 ladyfootlocker.com
 laposte.net
@@ -777,7 +779,6 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
-mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 mausa.francotyp.com
 mausa2.francotyp.com
 maxcdn.bootstrapcdn.com
@@ -993,6 +994,7 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
+pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -1034,7 +1036,6 @@ pubsub.plex.tv
 push.wps.cn
 pusher.com
 pusherapp.com
-puui.qpic.cn/
 questIOns.learnosity.com
 questarai.com
 questarai.net
@@ -1084,7 +1085,6 @@ roku.com
 rover.ebay.com
 rsi.hotmail.com
 rutube.ru
-rzeszow.tvp.pl
 s-passets-cache-ak0.pinimg.com
 s.cdn.turner.com
 s.click.taobao.com
@@ -1120,6 +1120,7 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
+sdkinit.taobao.com/init.htm
 sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.follettsoftware.com
 search.twitter.com
@@ -1183,6 +1184,7 @@ ssl.gstatic.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
 st.mycdn.me
+sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 stackexchange.com
 stackpath.bootstrapcdn.com
 staging.admin.e.mi.com
@@ -1227,7 +1229,6 @@ t.co
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
-t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talk.google.com
 talk.l.google.com
 talkgadget.google.com
@@ -1249,7 +1250,6 @@ thechive.com
 thecurriculumcorner.com
 thefreethoughtproject.com
 thehill.com
-themoviedb.com
 thenextweb.com
 thepiratebay.org
 theregister.co.uk
@@ -1281,7 +1281,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treexml.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
@@ -1290,7 +1289,6 @@ tv.wp.pl
 tvdb2.plex.tv
 tvn24.pl
 tvnstyle.pl
-tvp.pl
 tvthemes.plexapp.com
 tvthemes.plexapp.com.cdn.cloudflare.net
 twimg.com
@@ -1305,7 +1303,6 @@ union-click.jd.com
 union.video.qq.com
 unitacs.m.taobao.com
 unix.com
-up.wps.kingsoft.com
 updates-http.cdn-apple.com
 updates.hudl.com
 upload-apne1-hudlvid.s3.amazonaws.com
