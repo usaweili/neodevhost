@@ -6,7 +6,7 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2020-08-21
+# Last update: 2020-08-22
 #
 # Number of blocked domains:  117176
 #
@@ -30057,6 +30057,7 @@
 ||data.minute.ly^
 ||data.mistat..xiaomi.com^
 ||data.mistat.intl.xiaomi.com^
+||data.mistat.xiaomi.com^
 ||data.mobclix.com^
 ||data.murdoog.com^
 ||data.namesakeoscilloscopemarquis.com^
@@ -73759,7 +73760,6 @@
 ||prdwebcollector.ruetracking.com^
 ||pre-usermatch.targeting.unrulymedia.com^
 ||pre.ads.justpremium.com^
-||pre.api.tw06.xlmc.sandai.net^
 ||pre.ra.icast.cn^
 ||preadyaggrego.club^
 ||preaf-ad.jp^
