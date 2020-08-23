@@ -96,7 +96,10 @@ sed -i 's/*//' tmpblock
 sed -i 's/0.0.0.0 //' tmpblock
 sed -i 's/0.0.0.0//' tmpblock
 sed -i 's/127.0.0.1 //' tmpblock
-sed -i 's/||//' tmpblock	
+sed -i 's/||//' tmpblock
+sed -i 's/\^adshow//' tmpblock
+sed -i 's/\^showAd//' tmpblock
+sed -i 's/:443//' tmpblock
 sed -i 's/\^//' tmpblock
 sed -i 's/|//' tmpblock
 sed -i 's/$important//' tmpblock
