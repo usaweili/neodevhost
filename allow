@@ -157,6 +157,7 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
+assistant.pandora.xiaomi.com/config
 attestation.xboxlive.com
 audible.com
 audio-ake.spotify.com.edgesuite.net
@@ -167,9 +168,9 @@ ax.phobos.apple.com.edgesuite.net
 b-api.facebook.com
 b.bdstatic.com
 b.bst.126.net
+b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
-bannera.kingsoft-office-service.com
 bartonreading.com
 bbc.com
 bbs.archlinux.org
@@ -271,7 +272,6 @@ cengage.com
 centralaccess.net
 cert.mgt.xboxlive.com
 cf.quizizz.com
-charleslafitte.smapply.io
 chatenabled.mail.google.com
 chicago.cbslocal.com
 choice.microsoft.com
@@ -293,7 +293,6 @@ cloud.google.com
 cloudflare.com
 cloudfront.net
 cloudservice15.kingsoft-office-service.com
-cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnc.ef-cdn.com
@@ -335,14 +334,13 @@ current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
-cwtv-prod-elb.digitalsmiths.net
-d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
+data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -364,7 +362,6 @@ device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
-dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
@@ -394,6 +391,8 @@ dojovideos.s3-accelerate.amazonaws.com
 dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
+download.ctmail.com
+download.sonarr.tv
 drc-centraloffice.com
 drift.com
 driftt.com
@@ -473,6 +472,7 @@ filesmonster.com
 filestack.com
 filmweb.pl
 filmyhd.net
+filters.adtidy.org
 finance.yahoo.com
 fm.tuba.pl
 follett.com
@@ -506,6 +506,9 @@ freebsd.org
 freenet.de
 frys.com
 ftp.chocolatey.org
+ftp.heanet.ie
+funnyordie.com
+g.163.com
 g.co
 g.live.com
 game.quizizz.com
@@ -681,7 +684,6 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -885,6 +887,7 @@ nk.pl
 no-ip.com
 node.plexapp.com
 nordvpn.com
+notify.wps.cn
 notify.xboxlive.com
 npr-news.streaming.adswizz.com
 npr.org
@@ -1230,6 +1233,7 @@ t.co
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talk.google.com
 talk.l.google.com
 talkgadget.google.com
@@ -1403,6 +1407,7 @@ winhelp2002.mvps.org
 wired.com
 wirtualnemedia.pl
 wnba.com
+woocall.sina.com.cn
 wordpress.com
 wp.com
 wpsweb-dc.wps.cn
