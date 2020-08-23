@@ -134,6 +134,7 @@ app-api.ted.com
 app.adjust.com
 app.gonoodle.com
 app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -156,7 +157,6 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
-assistant.pandora.xiaomi.com/config
 attestation.xboxlive.com
 audible.com
 audio-ake.spotify.com.edgesuite.net
@@ -167,7 +167,6 @@ ax.phobos.apple.com.edgesuite.net
 b-api.facebook.com
 b.bdstatic.com
 b.bst.126.net
-b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
 bannera.kingsoft-office-service.com
@@ -309,6 +308,8 @@ codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 commondatastorage.googleapis.com
+community.spiceworks.com
+confib.ifmo.ru
 configuration.apple.com
 connect.facebook.net
 connectivitycheck.android.com
@@ -337,9 +338,11 @@ cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
+d.ifengimg.com
+d2c8v52ll5s99u.cloudfront.net
+d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
-data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -362,6 +365,9 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
 dfnews.rdtuijian.com
+di.com.pl
+dictionary.cambridge.org
+digg.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
 directvnow.com
@@ -388,11 +394,11 @@ dojovideos.s3-accelerate.amazonaws.com
 dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
-download.ctmail.com
-download.sonarr.tv
 drc-centraloffice.com
 drift.com
+driftt.com
 drive.google.com
+dropbox.com
 drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
 dtk.drcedirect.com
@@ -467,7 +473,6 @@ filesmonster.com
 filestack.com
 filmweb.pl
 filmyhd.net
-filters.adtidy.org
 finance.yahoo.com
 fm.tuba.pl
 follett.com
@@ -501,9 +506,6 @@ freebsd.org
 freenet.de
 frys.com
 ftp.chocolatey.org
-ftp.heanet.ie
-funnyordie.com
-g.163.com
 g.co
 g.live.com
 game.quizizz.com
@@ -610,6 +612,7 @@ i8.chinanews.com
 i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
 ic.ksosoft.com
+ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
 icloud.com
@@ -628,6 +631,7 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
+images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -881,7 +885,6 @@ nk.pl
 no-ip.com
 node.plexapp.com
 nordvpn.com
-notify.wps.cn
 notify.xboxlive.com
 npr-news.streaming.adswizz.com
 npr.org
@@ -1119,6 +1122,7 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
+sdkinit.taobao.com/init.htm
 sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.follettsoftware.com
 search.twitter.com
@@ -1192,7 +1196,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
@@ -1227,7 +1230,6 @@ t.co
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
-t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talk.google.com
 talk.l.google.com
 talkgadget.google.com
@@ -1281,7 +1283,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treezip.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
@@ -1402,7 +1403,6 @@ winhelp2002.mvps.org
 wired.com
 wirtualnemedia.pl
 wnba.com
-woocall.sina.com.cn
 wordpress.com
 wp.com
 wpsweb-dc.wps.cn
