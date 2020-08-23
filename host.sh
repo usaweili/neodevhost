@@ -96,10 +96,10 @@ sed -i 's/0.0.0.0 //' tmpblock
 sed -i 's/0.0.0.0//' tmpblock
 sed -i 's/127.0.0.1 //' tmpblock
 sed -i 's/:443//' tmpblock
-sed -i 's/:://' tmpblock
-sed -i 's/:\/\///' tmpblock
-sed -i 's/^\.//' tmpblock
-sed -i 's/^\-//' tmpblock
+#sed -i 's/:://' tmpblock
+#sed -i 's/:\/\///' tmpblock
+#sed -i 's/^\.//' tmpblock
+#sed -i 's/^\-//' tmpblock
 sed -i '/*/d' tmpblock
 sed -i '/^$/d' tmpblock
 sed -i s/[[:space:]]//g tmpblock
