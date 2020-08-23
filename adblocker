@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-23
 #
-# Number of blocked domains:  117165
+# Number of blocked domains:  117159
 #
 #=====================================
 ||0.nextyourcontent.com^
@@ -10258,7 +10258,6 @@
 ||adservice.google.com.mt^
 ||adservice.google.com.tr^
 ||adservice.google.com.vn^
-||adservice.google.com:443^
 ||adservice.google.cz^
 ||adservice.google.de^
 ||adservice.google.ie^
@@ -31055,7 +31054,6 @@
 ||deviantart.crwdcntrl.net^
 ||device-api.urbanairship.com^
 ||device-metrics-.amazon.com^
-||device-metrics-us.amazon.com^
 ||device.4seeresults.com^
 ||device.maxmind.com^
 ||device9.com^
@@ -67881,7 +67879,6 @@
 ||oatvyenmekc.com^
 ||oauth.datorama.com^
 ||oawhaursaith.com^
-||oawhaursaith.com:443^
 ||oawoo.frenchgerlemanelectric.com^
 ||oawyr.com^
 ||oawyri.com^
@@ -74263,7 +74260,6 @@
 ||propeanikob.site^
 ||propecia.1.p2l.info^
 ||propeller-tracking.com^
-||propeller-tracking.com:443^
 ||propellerad.adk2x.com^
 ||propellerads.com^
 ||propellerclick.com^
@@ -78982,7 +78978,6 @@
 ||rotorads.com^
 ||rotulosalarcon.com^
 ||rotumal.com^
-||rotumal.com:443^
 ||roughroll.com^
 ||roujaufu.net^
 ||roujonoa.net^
@@ -115263,8 +115258,7 @@
 ||youjia2016.com^
 ||youkete.cn^
 ||youku-dtv.m.cn.miaozhen.com^
-||youku.com^adshow^
-||youku.com^showAd^
+||youku.com^
 ||youlamedia.com^
 ||youle.tom.com^
 ||youle180.com^

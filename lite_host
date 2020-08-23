@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-23
 #
-# Number of blocked domains:  82240
+# Number of blocked domains:  82232
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -23902,7 +23902,6 @@
 0.0.0.0  deviantart-d.openx.net
 0.0.0.0  deviantart.crwdcntrl.net
 0.0.0.0  device-api.urbanairship.com
-0.0.0.0  device-metrics-us.amazon.com
 0.0.0.0  device.4seeresults.com
 0.0.0.0  device.maxmind.com
 0.0.0.0  device9.com
@@ -81084,6 +81083,7 @@
 0.0.0.0  youjia2016.com
 0.0.0.0  youkete.cn
 0.0.0.0  youku-dtv.m.cn.miaozhen.com
+0.0.0.0  youku.com
 0.0.0.0  youlamedia.com
 0.0.0.0  youle.tom.com
 0.0.0.0  youle180.com
@@ -82164,21 +82164,16 @@
 0.0.0.0  zxcs.linghit.com
 0.0.0.0  zxd.x9393.com
 0.0.0.0  zxglpj.cn
-0.0.0.0  zxh.bzshzx.com
-0.0.0.0  zxhrq.cn
-0.0.0.0  zxhymh.com
 0.0.0.0  zxl.qzbxfs.com
 0.0.0.0  zxptw.cn
 0.0.0.0  zxpyzc.cn
 0.0.0.0  zxr.fzxrjx.com
 0.0.0.0  zxsddfs.pro
 0.0.0.0  zxw51.com
-0.0.0.0  zxwdw.com
-0.0.0.0  zxwiejfbyr.com
-0.0.0.0  zxxds.net
 0.0.0.0  zxxtkrkzfyy3.com
 0.0.0.0  zxzhengxin.com
 0.0.0.0  zy16eoat1w.com
+0.0.0.0  zyban-store.shengen.ru
 0.0.0.0  zyban.1.p2l.info
 0.0.0.0  zybpj.com
 0.0.0.0  zybxchina.com
@@ -82186,8 +82181,6 @@
 0.0.0.0  zygrlkimddjzd.com
 0.0.0.0  zyiis.net
 0.0.0.0  zymro.com
-0.0.0.0  zynga-d.openx.net
-0.0.0.0  zypenetwork.com
 0.0.0.0  zyq2.destinia.sk
 0.0.0.0  zyqp9.com
 0.0.0.0  zyrdu.cruisingsmallship.com
@@ -82232,7 +82225,6 @@
 0.0.0.0  zzkfs.xyz
 0.0.0.0  zzkoubei.com
 0.0.0.0  zzm.cn
-0.0.0.0  zzmmkj.com
 0.0.0.0  zzpush.58.com
 0.0.0.0  zzqqhb.com
 0.0.0.0  zzrcz.com

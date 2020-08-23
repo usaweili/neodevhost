@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-23
 #
-# Number of blocked domains:  117165
+# Number of blocked domains:  117159
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -10258,7 +10258,6 @@
 0.0.0.0  adservice.google.com.mt
 0.0.0.0  adservice.google.com.tr
 0.0.0.0  adservice.google.com.vn
-0.0.0.0  adservice.google.com:443
 0.0.0.0  adservice.google.cz
 0.0.0.0  adservice.google.de
 0.0.0.0  adservice.google.ie
@@ -31055,7 +31054,6 @@
 0.0.0.0  deviantart.crwdcntrl.net
 0.0.0.0  device-api.urbanairship.com
 0.0.0.0  device-metrics-.amazon.com
-0.0.0.0  device-metrics-us.amazon.com
 0.0.0.0  device.4seeresults.com
 0.0.0.0  device.maxmind.com
 0.0.0.0  device9.com
@@ -67881,7 +67879,6 @@
 0.0.0.0  oatvyenmekc.com
 0.0.0.0  oauth.datorama.com
 0.0.0.0  oawhaursaith.com
-0.0.0.0  oawhaursaith.com:443
 0.0.0.0  oawoo.frenchgerlemanelectric.com
 0.0.0.0  oawyr.com
 0.0.0.0  oawyri.com
@@ -74263,7 +74260,6 @@
 0.0.0.0  propeanikob.site
 0.0.0.0  propecia.1.p2l.info
 0.0.0.0  propeller-tracking.com
-0.0.0.0  propeller-tracking.com:443
 0.0.0.0  propellerad.adk2x.com
 0.0.0.0  propellerads.com
 0.0.0.0  propellerclick.com
@@ -78982,7 +78978,6 @@
 0.0.0.0  rotorads.com
 0.0.0.0  rotulosalarcon.com
 0.0.0.0  rotumal.com
-0.0.0.0  rotumal.com:443
 0.0.0.0  roughroll.com
 0.0.0.0  roujaufu.net
 0.0.0.0  roujonoa.net
@@ -115263,8 +115258,7 @@
 0.0.0.0  youjia2016.com
 0.0.0.0  youkete.cn
 0.0.0.0  youku-dtv.m.cn.miaozhen.com
-0.0.0.0  youku.com^adshow
-0.0.0.0  youku.com^showAd
+0.0.0.0  youku.com
 0.0.0.0  youlamedia.com
 0.0.0.0  youle.tom.com
 0.0.0.0  youle180.com
