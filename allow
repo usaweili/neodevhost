@@ -133,6 +133,7 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
+app.migc.g.mi.com/migcoss/coss.htm
 app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
@@ -156,7 +157,6 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
-assistant.pandora.xiaomi.com/config
 attestation.xboxlive.com
 audible.com
 audio-ake.spotify.com.edgesuite.net
@@ -272,6 +272,7 @@ cengage.com
 centralaccess.net
 cert.mgt.xboxlive.com
 cf.quizizz.com
+charleslafitte.smapply.io
 chatenabled.mail.google.com
 chicago.cbslocal.com
 choice.microsoft.com
@@ -306,9 +307,7 @@ code.org
 code.responsivevoice.org
 codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
-collegehumor.com
 commondatastorage.googleapis.com
-community.spiceworks.com
 confib.ifmo.ru
 configuration.apple.com
 connect.facebook.net
@@ -335,8 +334,7 @@ current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
-d.dropbox.com
-d.g.mi.com
+cwtv-prod-elb.digitalsmiths.net
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
@@ -365,10 +363,7 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
 dfnews.rdtuijian.com
-di.com.pl
 dictionary.cambridge.org
-digg.com
-digitaltrends.com
 directvapplications.hb.omtrdc.net
 directvnow.com
 discovermagazine.com
@@ -394,12 +389,11 @@ dojovideos.s3-accelerate.amazonaws.com
 dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
+download.ctmail.com
 download.sonarr.tv
 drc-centraloffice.com
 drift.com
 driftt.com
-drive.google.com
-dropbox.com
 drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
 dtk.drcedirect.com
@@ -616,7 +610,6 @@ i4.ytimg.com
 i8.chinanews.com
 i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
-ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -686,7 +679,6 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -975,7 +967,6 @@ packages.linuxmint.com
 paimgcdn.baidu.com
 pandacloudsecurity.com
 pandasecurity.com
-pandasecurity.logtrust.com
 pandasoftware.com
 pando.com
 paper.li
@@ -1040,6 +1031,7 @@ pubsub.plex.tv
 push.wps.cn
 pusher.com
 pusherapp.com
+puui.qpic.cn/
 questIOns.learnosity.com
 questarai.com
 questarai.net
@@ -1078,6 +1070,7 @@ renlearn.com.au
 renlearnrp.com
 report-uri.com
 res.cloudinary.com
+resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
 ris.api.iris.microsoft.com
@@ -1340,6 +1333,7 @@ v0.wordpress.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 variety.com
+vasapi.rdtuijian.com
 vc.yahoo.com
 vd.l.qq.com
 verisign.com
@@ -1396,7 +1390,6 @@ whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
 widgets.dlvr.it
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com
