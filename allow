@@ -50,6 +50,7 @@ acdn.adnxs.com
 acehardware.com
 acrobat.com
 acs4baichuan.m.taobao.com
+acs4baichuan.m.taobao.com/gw-open/com.alibaba.havana.login.applink.generatetopapplinktoken/1.0/
 acstatic-dun.126.net
 activsoftware.co.uk
 ad.docer.wps.cn
@@ -118,6 +119,7 @@ api-glb-atl.smoot.apple.com
 api-global.netflix.com
 api.gonoodle.com
 api.ipify.org
+api.open.uc.cn
 api.plickers.com
 api.pluto.tv
 api.quizlet.com
@@ -131,6 +133,8 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
+app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -163,6 +167,7 @@ ax.phobos.apple.com.edgesuite.net
 b-api.facebook.com
 b.bdstatic.com
 b.bst.126.net
+b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
 bannera.kingsoft-office-service.com
@@ -227,6 +232,7 @@ c-adash.m.taobao.com
 c.s-microsoft.com
 c.youtube.com
 calendar.google.com
+cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
 ccc-x.jd.com
 ccleaner.com
 cd.800wen.com
@@ -287,6 +293,8 @@ clients6.google.com
 cloud.google.com
 cloudflare.com
 cloudfront.net
+cloudservice15.kingsoft-office-service.com
+cloudservice19.kingsoft-office-service.com
 cloudservice22.kingsoft-office-service.com
 cnbc.com
 cnc.ef-cdn.com
@@ -302,7 +310,6 @@ cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 commondatastorage.googleapis.com
 community.spiceworks.com
-confib.ifmo.ru
 configuration.apple.com
 connect.facebook.net
 connectivitycheck.android.com
@@ -324,14 +331,14 @@ cros-omahaproxy.appspot.com
 crunchbase.com
 cse.google.com
 ctldl.windowsupdate.com
+current.sina.com.cn
+customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
-d2c8v52ll5s99u.cloudfront.net
-d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
 data.mistat.xiaomi.com/mistats/v2
@@ -350,17 +357,17 @@ det-ta-g7g.amazon.com
 dev.twitter.com
 dev.virtualearth.net
 developer.twitter.com
+developers.facebook.com
+developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
+dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
 digitaltrends.com
-directvapplications.hb.omtrdc.net
-directvnow.com
-discovermagazine.com
 discussions.apple.com
 display.ugc.bazaarvoice.com
 displaycatalog.mp.microsoft.com
@@ -391,8 +398,6 @@ driftt.com
 drive.google.com
 dropbox.com
 drupalstaging.provexam.com
-dsms0mj1bbhn4.cloudfront.net
-dtk.drcedirect.com
 duckduckgo.com
 dxp.baidu.com
 dynupdate.no-ip.com
@@ -480,7 +485,6 @@ forum.doom9.org
 forum.paradoxplaza.com
 forum.synology.com
 forum.xda-developers.com
-forums.appleinsider.com
 forums.geforce.com
 forums.ilounge.com
 forums.linuxmint.com
@@ -635,7 +639,6 @@ img.gou.wpscdn.cn
 img.particlenews.com
 img.vidible.tv
 img.xingzuo360.cn
-img.zuoyebang.cc
 img1.mini.cache.wps.cn
 img2.mini.cache.wps.cn
 img4.cache.netease.com
@@ -662,7 +665,6 @@ integodownload.com
 intercom.io
 investorplace.com
 iosapps.itunes.apple.com
-ip.cms.sohu.com
 iphone-ld.apple.com
 ipinfo.io
 ipla.tv
@@ -682,7 +684,6 @@ joemonster.org
 joewein.net
 jquery.com
 js.maxmind.com
-js.passport.qihucdn.com
 jsdelivr.net
 jspassport.ssl.qhimg.com
 jwpcdn.com
@@ -966,14 +967,11 @@ packages.chocolatey.org
 packages.linuxmint.com
 paimgcdn.baidu.com
 pandacloudsecurity.com
-pandasecurity.com
-pandasecurity.logtrust.com
 pandasoftware.com
 pando.com
 paper.li
 pastebin.com
 paypal.com
-pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
 pcfg.wps.cn
 pd.itunes.apple.com
@@ -991,7 +989,6 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
-pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -1033,7 +1030,6 @@ pubsub.plex.tv
 push.wps.cn
 pusher.com
 pusherapp.com
-puui.qpic.cn/
 questIOns.learnosity.com
 questarai.com
 questarai.net
@@ -1072,7 +1068,6 @@ renlearn.com.au
 renlearnrp.com
 report-uri.com
 res.cloudinary.com
-resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
 ris.api.iris.microsoft.com
@@ -1375,6 +1370,7 @@ waspproxy.googlemail.com
 wbte.drcedirect.com
 weather.com
 weatherapi.market.xiaomi.com
+web-disp.titan.mgtv.com
 web-disp1.titan.mgtv.com
 web-disp2.titan.mgtv.com
 web.archive.org
