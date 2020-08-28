@@ -134,6 +134,7 @@ app-api.ted.com
 app.adjust.com
 app.gonoodle.com
 app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -311,8 +312,6 @@ collegehumor.com
 commondatastorage.googleapis.com
 community.spiceworks.com
 confib.ifmo.ru
-configuration.apple.com
-connect.facebook.net
 connectivitycheck.android.com
 console.cloud.google.com
 contacts.msn.com
@@ -337,10 +336,9 @@ customerevents.netflix.com
 cvs.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
+d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
-d2c8v52ll5s99u.cloudfront.net
-d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
 data.mistat.xiaomi.com/mistats/v2
@@ -354,6 +352,7 @@ delivery.vidible.tv
 dell.com
 demo-staging.jifflenow.com
 demotywatory.pl
+denis-ovs.narod.ru
 det-ta-g7g.amazon.com
 dev.twitter.com
 dev.virtualearth.net
@@ -362,13 +361,13 @@ developers.facebook.com
 developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+device.auth.xboxlive.com
 dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
 digitaltrends.com
-directvapplications.hb.omtrdc.net
-directvnow.com
 discovermagazine.com
 discussions.apple.com
 display.ugc.bazaarvoice.com
@@ -399,9 +398,6 @@ drift.com
 driftt.com
 drive.google.com
 dropbox.com
-drupalstaging.provexam.com
-dsms0mj1bbhn4.cloudfront.net
-dtk.drcedirect.com
 duckduckgo.com
 dxp.baidu.com
 dynupdate.no-ip.com
@@ -434,6 +430,7 @@ embed.flowplayer.org
 embed.spotify.com
 en.bab.la
 encrypted-tbn0.gstatic.com
+engadget.com
 entitlement.auth.adobe.com
 eonline.com
 espn.com
@@ -447,8 +444,6 @@ express.co.uk
 expressen.se
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.net
-external-lhr2-1.xx.fbcdn.net
 external-lhr3-1.xx.fbcdn.net
 external-lhr4-1.xx.fbcdn.net
 external-lhr5-1.xx.fbcdn.net
@@ -473,6 +468,8 @@ filestack.com
 filmweb.pl
 filmyhd.net
 filters.adtidy.org
+finance.yahoo.com
+fm.tuba.pl
 follett.com
 fonts.googleapis.com
 fonts.gstatic.com
@@ -633,7 +630,6 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
-images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -861,6 +857,7 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
+newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
 newrelic.com
@@ -971,6 +968,7 @@ pac100pacprodpcop.table.core.windows.net
 packages.chocolatey.org
 packages.linuxmint.com
 paimgcdn.baidu.com
+pandacloudsecurity.com
 pandasecurity.com
 pandasecurity.logtrust.com
 pandasoftware.com
@@ -1010,7 +1008,6 @@ play.spotify.com
 player.pl
 player.radio.com
 player.vimeo.com
-players.brightcove.net
 players.pluto.tv
 playstation.com
 plex.tv
@@ -1146,7 +1143,6 @@ security.browser.miui.com
 security.follettsoftware.com
 sendspace.com
 services.sonarr.tv
-settings-sandbox.data.microsoft.com
 sfrpx.com
 sg.a.stat.mi.com
 share-online.biz
@@ -1199,7 +1195,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
@@ -1234,6 +1229,7 @@ t.co
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talk.google.com
 talk.l.google.com
 talkgadget.google.com
@@ -1396,6 +1392,7 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com
