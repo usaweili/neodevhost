@@ -133,6 +133,8 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
+app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -166,7 +168,6 @@ ax.phobos.apple.com.edgesuite.net
 b-api.facebook.com
 b.bdstatic.com
 b.bst.126.net
-b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
 bannera.kingsoft-office-service.com
@@ -304,9 +305,9 @@ code.google.com
 code.jquery.com
 code.org
 code.responsivevoice.org
+codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
-commondatastorage.googleapis.com
 community.spiceworks.com
 confib.ifmo.ru
 configuration.apple.com
@@ -333,12 +334,14 @@ ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
 cvs.com
-d.g.mi.com
+cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
+data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -360,7 +363,7 @@ device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
-dfnews.rdtuijian.com
+dictionary.cambridge.org
 digg.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
@@ -390,6 +393,7 @@ dotomi.com
 download.cnet.com
 download.ctmail.com
 download.sonarr.tv
+drift.com
 driftt.com
 drive.google.com
 dropbox.com
@@ -434,6 +438,7 @@ eonline.com
 espn.com
 eventbus.learnosity.com
 events.gfe.nvidia.com
+events.learnosity.com
 ew.com
 example.com
 example.org
@@ -525,6 +530,7 @@ git.teknik.io
 gitcdn.xyz
 gitee.com
 github.com
+github.com/notracking/hosts-blocklists/issues/75
 github.io
 gitlab.com
 gitter.im
@@ -606,8 +612,8 @@ i3.wp.com
 i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
-i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
+ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -677,6 +683,7 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
+jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -1193,7 +1200,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
@@ -1391,7 +1397,6 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 wikipedia.org
 win10.ipv6.microsoft.com
@@ -1401,6 +1406,7 @@ winhelp2002.mvps.org
 wired.com
 wirtualnemedia.pl
 wnba.com
+woocall.sina.com.cn
 wordpress.com
 wp.com
 wpsweb-dc.wps.cn
