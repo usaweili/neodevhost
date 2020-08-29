@@ -8,7 +8,7 @@
 #
 # Last update: 2020-08-29
 #
-# Number of blocked domains:  79397
+# Number of blocked domains:  79398
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -21160,7 +21160,6 @@
 0.0.0.0  d.exit-ad.com
 0.0.0.0  d.finative.eu
 0.0.0.0  d.fire2333.com
-0.0.0.0  d.g.mi.com
 0.0.0.0  d.gdt.qq.com
 0.0.0.0  d.getaccss.com
 0.0.0.0  d.ghostery.com
@@ -22721,6 +22720,7 @@
 0.0.0.0  deviantart-d.openx.net
 0.0.0.0  deviantart.crwdcntrl.net
 0.0.0.0  device-api.urbanairship.com
+0.0.0.0  device-metrics-us.amazon.com
 0.0.0.0  device.4seeresults.com
 0.0.0.0  device.maxmind.com
 0.0.0.0  device9.com
@@ -28651,6 +28651,7 @@
 0.0.0.0  g-cash.biz
 0.0.0.0  g-pixel.invitemedia.com
 0.0.0.0  g-stats.openhost.es
+0.0.0.0  g.163.com
 0.0.0.0  g.3gl.net
 0.0.0.0  g.51network.com
 0.0.0.0  g.6sfg.com
