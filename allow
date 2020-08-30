@@ -133,7 +133,7 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
-app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -212,7 +212,6 @@ blogs.discovermagazine.com
 bloomberg.com
 board.jdownloader.org
 bokser.org
-bole.shangshufang.ksosoft.com
 books.google.com
 boston.cbslocal.com
 bowercdn.net
@@ -307,7 +306,7 @@ code.responsivevoice.org
 codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
-confib.ifmo.ru
+commondatastorage.googleapis.com
 configuration.apple.com
 connect.facebook.net
 connectivitycheck.android.com
@@ -335,13 +334,12 @@ customerevents.netflix.com
 cvs.com
 cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
-d.g.mi.com
-d.ifengimg.com
+cwtv-prod-elb.digitalsmiths.net
+d.dropbox.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
-data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -364,8 +362,6 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
 dfnews.rdtuijian.com
-dictionary.cambridge.org
-digg.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
 directvnow.com
@@ -395,9 +391,6 @@ download.cnet.com
 download.ctmail.com
 download.sonarr.tv
 drc-centraloffice.com
-drift.com
-driftt.com
-drive.google.com
 dropbox.com
 drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
@@ -439,7 +432,6 @@ entitlement.auth.adobe.com
 eonline.com
 espn.com
 eventbus.learnosity.com
-events.gfe.nvidia.com
 events.learnosity.com
 ew.com
 example.com
@@ -636,7 +628,6 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
-images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -686,6 +677,7 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
+jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -979,7 +971,6 @@ pando.com
 paper.li
 pastebin.com
 paypal.com
-pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
 pcfg.wps.cn
 pd.itunes.apple.com
@@ -1038,7 +1029,6 @@ pubnub.com
 pubsub.plex.bz
 pubsub.plex.tv
 push.wps.cn
-pusher.com
 pusherapp.com
 puui.qpic.cn/
 questIOns.learnosity.com
@@ -1126,7 +1116,6 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
-sdkinit.taobao.com/init.htm
 sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.follettsoftware.com
 search.twitter.com
@@ -1199,7 +1188,6 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
-stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
@@ -1234,6 +1222,7 @@ t.co
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talk.google.com
 talk.l.google.com
 talkgadget.google.com
@@ -1396,6 +1385,7 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 win10.ipv6.microsoft.com
 windows.com
