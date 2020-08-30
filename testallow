@@ -163,6 +163,7 @@ apps.facebook.com
 apps.skype.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
+appspot-preview.l.google.com
 apresolve.spotify.com
 apt.sonarr.tv
 archive.icann.org
@@ -241,7 +242,6 @@ boxrec.com
 brakrock.be
 brightcove.net
 buff.ly
-bufferapp.com
 busa.francotyp.com
 busa2.francotyp.com
 business.officedepot.com.edgekey.net
@@ -348,6 +348,7 @@ console.cloud.google.com
 contacts.msn.com
 content.jwplatform.com
 content.logmein.com
+continuum.dds.microsoft.com
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cosmopolitan.com
@@ -368,6 +369,7 @@ ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
 cvs.com
+cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
@@ -801,7 +803,6 @@ load.to
 localhost
 lodz.tvp.pl
 loggly.com
-login.aliexpress.com
 login.live.com
 login.microsoftonline.com
 logmein-gateway.com
@@ -1059,6 +1060,7 @@ pi-hole.net
 pi.hole
 pic.twitter.com
 pilkanozna.pl
+pings.conviva.com
 pingtcss.qq.com
 pinimg.com
 pinterest.com
@@ -1174,7 +1176,6 @@ s.go2yd.com
 s.marketwatch.com
 s.mzstatic.com
 s.pinimg.com
-s.shopify.com
 s.wasu.cncssjs
 s.yimg.com
 s.youtube.com
@@ -1233,7 +1234,6 @@ sfrpx.com
 sg.a.stat.mi.com
 share-online.biz
 shareaholic.com
-sharepoint.com
 shark.douyucdn.cn
 sheppardsoftware.com
 shop.lego.com
@@ -1429,7 +1429,6 @@ userscripts-mirror.org
 userstream.twitter.com
 v.firebog.net
 v.pinimg.com
-v.shopify.com
 v0.wordpress.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
@@ -1450,6 +1449,7 @@ videopress.com
 videos.files.wordpress.com
 videos.videopress.com
 videos.vidible.tv
+vidtech.cbsinteractive.com
 vidto.me
 vimeo.com
 vitalia.pl
@@ -1497,7 +1497,6 @@ widget-cdn.rpxnow.com
 widgets.dlvr.it
 wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
-wikipedia.org
 win10.ipv6.microsoft.com
 windows.com
 windowsupdate.com
@@ -1530,7 +1529,6 @@ www.lotustalk.com
 www.maibanu.com
 www.msftncsi.com
 www.no-ip.com
-www.openload.co
 www.ow.ly
 www.refersion.com
 www.sbs.com.au
@@ -1562,6 +1560,7 @@ yunfile.com
 z-ecx.images-amazon.com
 z.cdn.turner.com
 zajefajna.com
+zee.cws.conviva.com
 zeustracker.abuse.ch
 zippyshare.com
 ziprecruiter.com

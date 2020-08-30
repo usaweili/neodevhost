@@ -145,6 +145,7 @@ appleid.apple.com
 apps.facebook.com
 appsbackup-pa.clients6.google.com
 appsbackup-pa.googleapis.com
+appspot-preview.l.google.com
 apresolve.spotify.com
 apt.sonarr.tv
 archive.icann.org
@@ -168,6 +169,7 @@ ax.phobos.apple.com.edgesuite.net
 b-api.facebook.com
 b.bdstatic.com
 b.bst.126.net
+b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
 bannera.kingsoft-office-service.com
@@ -212,6 +214,7 @@ blogs.discovermagazine.com
 bloomberg.com
 board.jdownloader.org
 bokser.org
+bole.shangshufang.ksosoft.com
 books.google.com
 boston.cbslocal.com
 bowercdn.net
@@ -219,7 +222,6 @@ boxrec.com
 brakrock.be
 brightcove.net
 buff.ly
-bufferapp.com
 busa.francotyp.com
 busa2.francotyp.com
 business.officedepot.com.edgekey.net
@@ -306,6 +308,8 @@ code.org
 code.responsivevoice.org
 codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
+collegehumor.com
+commondatastorage.googleapis.com
 community.spiceworks.com
 confib.ifmo.ru
 configuration.apple.com
@@ -315,6 +319,7 @@ console.cloud.google.com
 contacts.msn.com
 content.jwplatform.com
 content.logmein.com
+continuum.dds.microsoft.com
 corp.sts.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 cosmopolitan.com
@@ -332,7 +337,10 @@ ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
 cvs.com
+cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
+d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
@@ -360,6 +368,8 @@ developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
+device.auth.xboxlive.com
+dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
@@ -391,7 +401,6 @@ dotomi.com
 download.cnet.com
 download.ctmail.com
 download.sonarr.tv
-drc-centraloffice.com
 drift.com
 driftt.com
 drive.google.com
@@ -472,7 +481,6 @@ filmweb.pl
 filmyhd.net
 filters.adtidy.org
 finance.yahoo.com
-fm.tuba.pl
 follett.com
 fonts.googleapis.com
 fonts.gstatic.com
@@ -683,6 +691,7 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
+jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -745,7 +754,6 @@ ll.drcedirect.com
 load.to
 lodz.tvp.pl
 loggly.com
-login.aliexpress.com
 login.live.com
 login.microsoftonline.com
 logmein-gateway.com
@@ -991,11 +999,13 @@ phobos.apple.com
 pi-hole.net
 pic.twitter.com
 pilkanozna.pl
+pings.conviva.com
 pingtcss.qq.com
 pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
+pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -1076,7 +1086,6 @@ renlearn.com.au
 renlearnrp.com
 report-uri.com
 res.cloudinary.com
-resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
 ris.api.iris.microsoft.com
@@ -1097,7 +1106,6 @@ s.go2yd.com
 s.marketwatch.com
 s.mzstatic.com
 s.pinimg.com
-s.shopify.com
 s.yimg.com
 s.youtube.com
 s.ytimg.com
@@ -1150,7 +1158,6 @@ sfrpx.com
 sg.a.stat.mi.com
 share-online.biz
 shareaholic.com
-sharepoint.com
 shark.douyucdn.cn
 sheppardsoftware.com
 shop.lego.com
@@ -1306,6 +1313,7 @@ ubuntuforums.org
 unagi-na.amazon.com
 unibytes.com
 union-click.jd.com
+union.video.qq.com
 unitacs.m.taobao.com
 unix.com
 up.wps.kingsoft.com
@@ -1333,7 +1341,6 @@ userscripts-mirror.org
 userstream.twitter.com
 v.firebog.net
 v.pinimg.com
-v.shopify.com
 v0.wordpress.com
 v10.events.data.microsoft.com
 v20.events.data.microsoft.com
@@ -1354,6 +1361,7 @@ videopress.com
 videos.files.wordpress.com
 videos.videopress.com
 videos.vidible.tv
+vidtech.cbsinteractive.com
 vidto.me
 vimeo.com
 vitalia.pl
@@ -1396,7 +1404,6 @@ who.is
 widget-cdn.rpxnow.com
 wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
-wikipedia.org
 win10.ipv6.microsoft.com
 windows.com
 windowsupdate.com
@@ -1426,7 +1433,6 @@ www.lotustalk.com
 www.maibanu.com
 www.msftncsi.com
 www.no-ip.com
-www.openload.co
 www.ow.ly
 www.refersion.com
 www.sbs.com.au
@@ -1457,6 +1463,7 @@ yunfile.com
 z-ecx.images-amazon.com
 z.cdn.turner.com
 zajefajna.com
+zee.cws.conviva.com
 zeustracker.abuse.ch
 zippyshare.com
 ziprecruiter.com
