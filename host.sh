@@ -127,7 +127,7 @@ sort -n lite_block allow allow | uniq -u > tmp && mv tmp tmplite_host
 sort -u tmplite_host > lite_host
 sed -i '/^$/d' lite_host
 sed -i s/[[:space:]]//g lite_host
-rm tmphost
+rm tmplite_host
 
 echo " "
 echo "Adding Compatibility..."
