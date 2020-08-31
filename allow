@@ -306,7 +306,7 @@ code.google.com
 code.jquery.com
 code.org
 code.responsivevoice.org
-commondatastorage.googleapis.com
+codeorigin.jquery.com
 community.spiceworks.com
 confib.ifmo.ru
 configuration.apple.com
@@ -335,14 +335,14 @@ current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cws.conviva.com
-cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
+d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
-data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -364,7 +364,8 @@ device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
-digg.com
+dfnews.rdtuijian.com
+di.com.pl
 digitaltrends.com
 directvapplications.hb.omtrdc.net
 directvnow.com
@@ -439,7 +440,7 @@ eventbus.learnosity.com
 events.gfe.nvidia.com
 events.learnosity.com
 ew.com
-express.co.uk
+example.com
 expressen.se
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
@@ -527,7 +528,6 @@ git.teknik.io
 gitcdn.xyz
 gitee.com
 github.com
-github.com/notracking/hosts-blocklists/issues/75
 github.io
 gitlab.com
 gitter.im
@@ -1132,8 +1132,9 @@ secure.aadcdn.microsoftonline-p.com
 secure.avangate.com
 secure.brightcove.com
 secure.dshield.org
+secure.logmein.com
+secure.netflix.com
 secure.surveymonkey.com
-secureir.ebaystatic.com
 securel.longtailvideo.com
 securemecca.com
 securemetrics.apple.com
@@ -1283,7 +1284,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treezip.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
