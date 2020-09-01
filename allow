@@ -40,6 +40,7 @@ a790.w16.akamai.net
 abc.com
 abcnews.go.com
 abcya.com
+abtest.mistat.xiaomi.com
 accounts.google.com
 accounts.google.us
 accounts.gstatic.com
@@ -65,7 +66,6 @@ adblock.ee
 adblock.mahakala.is
 adf.ly
 adidas.com
-adinfo.ra1.xlmc.sec.miui.com
 adobe.com
 adobetag.com
 ads.dh.duba.com
@@ -235,7 +235,6 @@ calendar.google.com
 cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
 ccc-x.jd.com
 ccleaner.com
-cd.800wen.com
 cda.pl
 cdn-content-prod.drcedirect.com
 cdn-download-prod.drcedirect.com
@@ -271,7 +270,6 @@ cdnsg.mosyle.com
 cengage.com
 centralaccess.net
 cert.mgt.xboxlive.com
-cf.quizizz.com
 charleslafitte.smapply.io
 chatenabled.mail.google.com
 chicago.cbslocal.com
@@ -308,6 +306,7 @@ code.responsivevoice.org
 codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
+commondatastorage.googleapis.com
 confib.ifmo.ru
 configuration.apple.com
 connect.facebook.net
@@ -335,7 +334,8 @@ current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cws.conviva.com
-cwtv-mrss-akamai.cwtv.com
+d.dropbox.com
+d.g.mi.com
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
@@ -360,9 +360,9 @@ developer.twitter.com
 developers.facebook.com
 developers.google.com
 device-messaging-na.amazon.com
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
-device.auth.xboxlive.com
+dfnews.rdtuijian.com
+di.com.pl
+dictionary.cambridge.org
 digg.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
@@ -394,6 +394,9 @@ download.ctmail.com
 download.sonarr.tv
 drc-centraloffice.com
 drift.com
+driftt.com
+drive.google.com
+dropbox.com
 drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
 dtk.drcedirect.com
@@ -435,6 +438,7 @@ eonline.com
 espn.com
 eventbus.learnosity.com
 events.gfe.nvidia.com
+events.learnosity.com
 ew.com
 example.com
 example.org
@@ -610,7 +614,6 @@ i4.ytimg.com
 i8.chinanews.com
 i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
-ic.ksosoft.com
 ic.rdtuijian.com
 icanhazip.com
 ichnaea.netflix.com
@@ -857,7 +860,6 @@ nesn.com
 netbsd.org
 netdna.bootstrapcdn.com
 netflix.com
-newapi.shouji.baofeng.com
 newegg.com
 newjobs.com
 newrelic.com
@@ -1034,7 +1036,6 @@ publix.com
 pubnub.com
 pubsub.plex.bz
 pubsub.plex.tv
-push.wps.cn
 pusher.com
 pusherapp.com
 puui.qpic.cn/
@@ -1068,6 +1069,8 @@ redirector.googlevideo.com
 reebok.com
 refersion.com
 releases.flowplayer.org
+renaissance-go.com
+renaissance.com
 renlearn.co.uk
 renlearn.com
 renlearn.com.au
@@ -1283,6 +1286,7 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
+treezip.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
@@ -1290,7 +1294,6 @@ tusfiles.net
 tv.wp.pl
 tvdb2.plex.tv
 tvn24.pl
-tvnstyle.pl
 tvp.pl
 tvthemes.plexapp.com
 tvthemes.plexapp.com.cdn.cloudflare.net
