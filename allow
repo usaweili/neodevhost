@@ -134,6 +134,7 @@ app-api.ted.com
 app.adjust.com
 app.gonoodle.com
 app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -168,6 +169,7 @@ ax.phobos.apple.com.edgesuite.net
 b-api.facebook.com
 b.bdstatic.com
 b.bst.126.net
+b.bst.126.net/common/face60.png
 baltimore.cbslocal.com
 bam.nr-data.net
 bannera.kingsoft-office-service.com
@@ -307,7 +309,8 @@ code.responsivevoice.org
 codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
-confib.ifmo.ru
+commondatastorage.googleapis.com
+community.spiceworks.com
 configuration.apple.com
 connect.facebook.net
 connectivitycheck.android.com
@@ -335,8 +338,9 @@ customerevents.netflix.com
 cvs.com
 cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
+cwtv-prod-elb.digitalsmiths.net
+d.dropbox.com
 d.ifengimg.com
-d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
@@ -363,7 +367,6 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
 dfnews.rdtuijian.com
-digg.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
 directvnow.com
@@ -392,9 +395,9 @@ dotomi.com
 download.cnet.com
 download.ctmail.com
 download.sonarr.tv
+drc-centraloffice.com
+drift.com
 driftt.com
-drive.google.com
-dropbox.com
 drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
 dtk.drcedirect.com
@@ -435,15 +438,14 @@ entitlement.auth.adobe.com
 eonline.com
 espn.com
 eventbus.learnosity.com
+events.gfe.nvidia.com
 events.learnosity.com
 ew.com
 example.com
 example.org
 express.co.uk
 expressen.se
-external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.net
 external-lhr2-1.xx.fbcdn.net
 external-lhr3-1.xx.fbcdn.net
 external-lhr4-1.xx.fbcdn.net
@@ -479,6 +481,7 @@ footlocker.com
 forbes.com
 fortune.com
 forum.avast.com
+forum.dobreprogramy.pl
 forum.doom9.org
 forum.paradoxplaza.com
 forum.synology.com
@@ -630,6 +633,7 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
+images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -679,7 +683,6 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -976,7 +979,6 @@ pastebin.com
 paypal.com
 pc.uf.ksosoft.com
 pcbrowser.dd.qq.com
-pcfg.wps.cn
 pd.itunes.apple.com
 pdq.com
 people.com
@@ -1035,7 +1037,6 @@ pubsub.plex.tv
 push.wps.cn
 pusher.com
 pusherapp.com
-puui.qpic.cn/
 questIOns.learnosity.com
 questarai.com
 questarai.net
@@ -1074,7 +1075,6 @@ renlearn.com.au
 renlearnrp.com
 report-uri.com
 res.cloudinary.com
-resolver.gslb.mi-idc.com
 resolver.msg.xiaomi.net
 resources.sbs.com.au
 ris.api.iris.microsoft.com
@@ -1282,7 +1282,6 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
-treezip.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
