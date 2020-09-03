@@ -133,7 +133,7 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
-app.migc.g.mi.com/migcoss/coss.htm
+app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -157,6 +157,7 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
+assistant.pandora.xiaomi.com/config
 attestation.xboxlive.com
 audible.com
 audio-ake.spotify.com.edgesuite.net
@@ -308,8 +309,6 @@ codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
 commondatastorage.googleapis.com
-community.spiceworks.com
-confib.ifmo.ru
 configuration.apple.com
 connect.facebook.net
 connectivitycheck.android.com
@@ -338,14 +337,10 @@ cvs.com
 cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
-d.dropbox.com
-d.g.mi.com
-d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
-data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -362,14 +357,12 @@ dev.twitter.com
 dev.virtualearth.net
 developer.twitter.com
 developers.facebook.com
+developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 device.auth.xboxlive.com
 dfnews.rdtuijian.com
-di.com.pl
-dictionary.cambridge.org
-digg.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
 directvnow.com
@@ -400,8 +393,6 @@ download.ctmail.com
 download.sonarr.tv
 drc-centraloffice.com
 drift.com
-driftt.com
-drive.google.com
 dropbox.com
 drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
@@ -427,6 +418,10 @@ echo.edge.messenger.live.com
 echocdn.com
 echosign.com
 ecn.dev.virtualearth.net
+ecx.images-amazon.com
+edge-chat.facebook.com
+edge-mqtt.facebook.com
+edge.api.brightcove.com
 edgesuite.net
 edhelper.com
 eds.xboxlive.com
@@ -442,7 +437,6 @@ eventbus.learnosity.com
 events.gfe.nvidia.com
 events.learnosity.com
 ew.com
-example.com
 example.org
 express.co.uk
 expressen.se
@@ -464,6 +458,7 @@ familydollar.com
 fb.com
 fbcdn-creative-a.akamaihd.net
 fbcdn.net
+fcanr.tracking.miui.com
 feedly.com
 feedproxy.google.com
 feeds2.feedburner.com
@@ -481,7 +476,6 @@ fonts.gstatic.com
 footlocker-inc.com
 footlocker.com
 forbes.com
-fortune.com
 forum.avast.com
 forum.dobreprogramy.pl
 forum.doom9.org
@@ -501,6 +495,7 @@ forums.techguy.org
 forums.whirlpool.net.au
 fp.msedge.net
 fpdownload.adobe.com
+fr.osdn.net
 freebsd.org
 freenet.de
 frys.com
@@ -550,6 +545,8 @@ goo.gl
 google-analytics.com
 googleadservices.com
 googleapis.com
+googleusercontent.com
+googlevideo.com
 gosignmeup.com
 gp.se
 graph.facebook.com
@@ -621,7 +618,6 @@ idg.se
 ifmo.ru
 ikea.com
 image.ibb.co
-image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120tudou
 imagebam.com
 images-cn.ssl-images-amazon.com
 images-eu.ssl-images-amazon.com
@@ -681,7 +677,6 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -778,7 +773,6 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
-mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 mausa.francotyp.com
 mausa2.francotyp.com
 maxcdn.bootstrapcdn.com
@@ -1038,6 +1032,7 @@ pubsub.plex.tv
 push.wps.cn
 pusher.com
 pusherapp.com
+puui.qpic.cn/
 questIOns.learnosity.com
 questarai.com
 questarai.net
@@ -1122,7 +1117,6 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
-sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.follettsoftware.com
 search.twitter.com
 sears.com
@@ -1186,6 +1180,7 @@ ssl.reddit.com
 st.mycdn.me
 sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 stackexchange.com
+stackpath.bootstrapcdn.com
 staging.admin.e.mi.com
 staging.plex.tv
 stanev.org
