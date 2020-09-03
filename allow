@@ -133,7 +133,7 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
-app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
+app.migc.g.mi.com/migcoss/coss.htm
 app.plex.tv
 appboot.netflix.com
 appc.baidu.com
@@ -305,7 +305,10 @@ code.jquery.com
 code.org
 code.responsivevoice.org
 codeorigin.jquery.com
+cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
+commondatastorage.googleapis.com
+community.spiceworks.com
 confib.ifmo.ru
 configuration.apple.com
 connect.facebook.net
@@ -332,6 +335,8 @@ ctldl.windowsupdate.com
 current.sina.com.cn
 customerevents.netflix.com
 cvs.com
+cws.conviva.com
+cwtv-mrss-akamai.cwtv.com
 cwtv-prod-elb.digitalsmiths.net
 d.dropbox.com
 d.g.mi.com
@@ -357,8 +362,11 @@ dev.twitter.com
 dev.virtualearth.net
 developer.twitter.com
 developers.facebook.com
-developers.google.com
 device-messaging-na.amazon.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
+device.auth.xboxlive.com
+dfnews.rdtuijian.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
@@ -389,7 +397,10 @@ dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
 download.cnet.com
 download.ctmail.com
+download.sonarr.tv
 drc-centraloffice.com
+drift.com
+driftt.com
 drive.google.com
 dropbox.com
 drupalstaging.provexam.com
@@ -416,10 +427,6 @@ echo.edge.messenger.live.com
 echocdn.com
 echosign.com
 ecn.dev.virtualearth.net
-ecx.images-amazon.com
-edge-chat.facebook.com
-edge-mqtt.facebook.com
-edge.api.brightcove.com
 edgesuite.net
 edhelper.com
 eds.xboxlive.com
@@ -430,6 +437,9 @@ encrypted-tbn0.gstatic.com
 engadget.com
 entitlement.auth.adobe.com
 eonline.com
+espn.com
+eventbus.learnosity.com
+events.gfe.nvidia.com
 events.learnosity.com
 ew.com
 example.com
@@ -454,7 +464,6 @@ familydollar.com
 fb.com
 fbcdn-creative-a.akamaihd.net
 fbcdn.net
-fcanr.tracking.miui.com
 feedly.com
 feedproxy.google.com
 feeds2.feedburner.com
@@ -492,7 +501,6 @@ forums.techguy.org
 forums.whirlpool.net.au
 fp.msedge.net
 fpdownload.adobe.com
-fr.osdn.net
 freebsd.org
 freenet.de
 frys.com
@@ -542,8 +550,6 @@ goo.gl
 google-analytics.com
 googleadservices.com
 googleapis.com
-googleusercontent.com
-googlevideo.com
 gosignmeup.com
 gp.se
 graph.facebook.com
@@ -604,7 +610,6 @@ i3.wp.com
 i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
-i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
 ic.ksosoft.com
 ic.rdtuijian.com
@@ -773,6 +778,7 @@ margevicius.lt
 market.spotify.com
 marketwatch.com
 mashable.com
+mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=12&channel=02
 mausa.francotyp.com
 mausa2.francotyp.com
 maxcdn.bootstrapcdn.com
@@ -1032,7 +1038,6 @@ pubsub.plex.tv
 push.wps.cn
 pusher.com
 pusherapp.com
-puui.qpic.cn/
 questIOns.learnosity.com
 questarai.com
 questarai.net
@@ -1117,7 +1122,6 @@ scontent.xx.fbcdn.net
 screenshots.firefox.com
 scribd.com
 script.google.com
-sdkinit.taobao.com/init.htm
 sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
 search.follettsoftware.com
 search.twitter.com
@@ -1182,7 +1186,6 @@ ssl.reddit.com
 st.mycdn.me
 sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 stackexchange.com
-stackpath.bootstrapcdn.com
 staging.admin.e.mi.com
 staging.plex.tv
 stanev.org
