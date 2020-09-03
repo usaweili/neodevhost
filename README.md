@@ -13,13 +13,13 @@
 ```
 Total ad / tracking block list 屏蔽追踪广告总数: 115643
 
-Total allowlist list 允许名单总数: 1473
+Total allowlist list 允许名单总数: 1463
 
-Total combine list 结合总数： 115505
+Total combine list 结合总数： 115506
 
-Total deadblock list 失效屏蔽广告域名： 35128
+Total deadblock list 失效屏蔽广告域名： 35132
 
-Total deadallow list 失效允许广告域名： 97
+Total deadallow list 失效允许广告域名： 107
 
 Update 更新时间: 2020-09-03
 ```
@@ -50,7 +50,7 @@ Update 更新时间: 2020-09-03
 
 ## Download 下载
 ### Full version (With Dead Domain inside) 完整版（包含过期域名）：
-Number of Domain 域名数目： 115505
+Number of Domain 域名数目： 115506
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
@@ -60,7 +60,7 @@ Dnsmasq | Dns ... |[link](https://raw.githubusercontent.com/neodevpro/neodevhost
 
 ### Lite version (Without Dead Domain inside) 精简版（不包含过期域名）：
 
-Number of Domain 域名数目： 80378
+Number of Domain 域名数目： 80375
 
 Format 格式 | Compatible with 适用于 | Raw | 国内加速链接  
 --------- |:-------------:|:-------------:|:-------------:
