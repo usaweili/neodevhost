@@ -133,7 +133,6 @@ apoll.m.taobao.com
 app-api.ted.com
 app.adjust.com
 app.gonoodle.com
-app.migc.g.mi.com/migcoss/coss.htm
 app.migc.g.mi.com/migcoss/coss.htm?msgType=register&fuid=5803774
 app.plex.tv
 appboot.netflix.com
@@ -305,8 +304,10 @@ code.createjs.com
 code.google.com
 code.jquery.com
 code.org
+code.responsivevoice.org
+codeorigin.jquery.com
+cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
-commondatastorage.googleapis.com
 community.spiceworks.com
 confib.ifmo.ru
 configuration.apple.com
@@ -331,11 +332,11 @@ cros-omahaproxy.appspot.com
 crunchbase.com
 cse.google.com
 ctldl.windowsupdate.com
+current.sina.com.cn
+customerevents.netflix.com
 cvs.com
 cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
-cwtv-prod-elb.digitalsmiths.net
-d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
@@ -360,7 +361,9 @@ dev.virtualearth.net
 developer.twitter.com
 developers.facebook.com
 developers.google.com
-dfnews.rdtuijian.com
+device-messaging-na.amazon.com
+device-metrics-us-2.amazon.com
+device-metrics-us.amazon.com
 di.com.pl
 dictionary.cambridge.org
 digg.com
@@ -392,6 +395,7 @@ dotomi.com
 download.cnet.com
 download.ctmail.com
 download.sonarr.tv
+drift.com
 driftt.com
 drive.google.com
 dropbox.com
@@ -431,6 +435,7 @@ embed.spotify.com
 en.bab.la
 encrypted-tbn0.gstatic.com
 engadget.com
+entitlement.auth.adobe.com
 eonline.com
 espn.com
 eventbus.learnosity.com
@@ -559,6 +564,7 @@ groupon.com
 groups.google.com
 gs.apple.com
 gsa.apple.com
+gslb.spotify.com
 gspe35-ssl.ls.apple.com
 gss0.bdstatic.com
 gss2.bdstatic.com
@@ -608,6 +614,7 @@ i3.wp.com
 i3.ytimg.com
 i4.ytimg.com
 i8.chinanews.com
+i8.chinanews.com/2013/home/images/logo.jpg
 ib.snssdk.com
 ic.ksosoft.com
 ic.rdtuijian.com
@@ -629,6 +636,7 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
+images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -952,6 +960,7 @@ orange.fr
 osnews.com
 ot.eadms.com
 ota-downloads.nvidia.com
+ouo.io
 outlook.com
 outlook.live.com
 outlook.office365.com
@@ -1192,6 +1201,7 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
+stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
@@ -1279,6 +1289,7 @@ tracking.miui.com
 traffic.libsyn.com
 trailers.apple.com
 travel.latimes.com
+treezip.baofeng.net
 tuba.fm
 tumblr.com
 tunein.com
@@ -1388,6 +1399,7 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
+wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 win10.ipv6.microsoft.com
 windows.com
