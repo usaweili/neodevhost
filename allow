@@ -309,6 +309,7 @@ code.responsivevoice.org
 codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
+commondatastorage.googleapis.com
 confib.ifmo.ru
 configuration.apple.com
 connect.facebook.net
@@ -337,7 +338,8 @@ customerevents.netflix.com
 cvs.com
 cws.conviva.com
 cwtv-mrss-akamai.cwtv.com
-d.ifengimg.com
+cwtv-prod-elb.digitalsmiths.net
+d.dropbox.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
@@ -363,9 +365,9 @@ developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
-di.com.pl
+device.auth.xboxlive.com
+dfnews.rdtuijian.com
 dictionary.cambridge.org
-digg.com
 digitaltrends.com
 directvapplications.hb.omtrdc.net
 directvnow.com
@@ -394,9 +396,10 @@ dotomi.com
 download.cnet.com
 download.ctmail.com
 download.sonarr.tv
+drc-centraloffice.com
 drift.com
+driftt.com
 drive.google.com
-dropbox.com
 drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
 dtk.drcedirect.com
@@ -436,13 +439,14 @@ engadget.com
 entitlement.auth.adobe.com
 eonline.com
 espn.com
+eventbus.learnosity.com
+events.gfe.nvidia.com
 events.learnosity.com
 ew.com
 example.com
 example.org
 express.co.uk
 expressen.se
-external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
 external-lhr10-1.xx.fbcdn.net
 external-lhr2-1.xx.fbcdn.net
@@ -632,7 +636,6 @@ images.google.com
 images.pluto.tv
 images2.imgbox.com
 images2015.cnblogs.com
-images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 imagesak.secureserver.net
 imasdk.googleapis.com
 img.alicdn.com
@@ -968,6 +971,7 @@ p60-buy.itunes.apple.com
 pac100pacprodpcop.table.core.windows.net
 packages.chocolatey.org
 packages.linuxmint.com
+paimgcdn.baidu.com
 pandacloudsecurity.com
 pandasecurity.com
 pandasecurity.logtrust.com
@@ -1038,7 +1042,6 @@ pubsub.plex.tv
 push.wps.cn
 pusher.com
 pusherapp.com
-puui.qpic.cn/
 questIOns.learnosity.com
 questarai.com
 questarai.net
@@ -1186,6 +1189,7 @@ ssl.gstatic.com
 ssl.p.jwpcdn.com
 ssl.reddit.com
 st.mycdn.me
+sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 stackexchange.com
 stackpath.bootstrapcdn.com
 staging.admin.e.mi.com
@@ -1195,6 +1199,7 @@ star.c10r.facebook.com
 star.facebook.com
 starbucks.com
 startpage.com
+stat.duokanbox.com/tvservice/reportmessage
 static.fontawesome.com
 static.kaplanlearn.com
 static.kickstarter.com
