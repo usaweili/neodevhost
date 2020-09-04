@@ -15,7 +15,6 @@
 2-edge-chat.facebook.com
 2.android.pool.ntp.org
 23.193.73.35
-2shared.com
 3-edge-chat.facebook.com
 34.198.76.231
 34.200.69.118
@@ -158,7 +157,6 @@ askubuntu.com
 aspnetcdn.com
 assess.learnosity.com
 assets.adobedtm.com
-assistant.pandora.xiaomi.com/config
 attestation.xboxlive.com
 audible.com
 audio-ake.spotify.com.edgesuite.net
@@ -309,7 +307,6 @@ code.responsivevoice.org
 codeorigin.jquery.com
 cognito-identity.us-east-1.amazonaws.com
 collegehumor.com
-commondatastorage.googleapis.com
 community.spiceworks.com
 confib.ifmo.ru
 configuration.apple.com
@@ -338,15 +335,13 @@ current.sina.com.cn
 customerevents.netflix.com
 cvs.com
 cws.conviva.com
-cwtv-mrss-akamai.cwtv.com
-cwtv-prod-elb.digitalsmiths.net
-d.dropbox.com
 d.g.mi.com
 d.ifengimg.com
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 data.iana.org
 data.mistat.xiaomi.com
+data.mistat.xiaomi.com/mistats/v2
 datafilehost.com
 dataplicity.com
 datei.to
@@ -367,9 +362,6 @@ developers.google.com
 device-messaging-na.amazon.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
-device.auth.xboxlive.com
-dfnews.rdtuijian.com
-di.com.pl
 dictionary.cambridge.org
 digg.com
 digitaltrends.com
@@ -397,12 +389,11 @@ dof8gyq4yceq.cloudfront.net
 dojovideos.s3-accelerate.amazonaws.com
 dojovphotos.s3-accelerate.amazonaws.com
 dotomi.com
+download.cnet.com
 download.ctmail.com
 download.sonarr.tv
 drc-centraloffice.com
 drift.com
-driftt.com
-drive.google.com
 dropbox.com
 drupalstaging.provexam.com
 dsms0mj1bbhn4.cloudfront.net
@@ -434,6 +425,8 @@ edge-mqtt.facebook.com
 edge.api.brightcove.com
 edgesuite.net
 edhelper.com
+eds.xboxlive.com
+embed.flowplayer.org
 embed.spotify.com
 en.bab.la
 encrypted-tbn0.gstatic.com
@@ -486,7 +479,6 @@ footlocker-inc.com
 footlocker.com
 forbes.com
 fortune.com
-forum.avast.com
 forum.dobreprogramy.pl
 forum.doom9.org
 forum.paradoxplaza.com
@@ -512,6 +504,7 @@ frys.com
 ftp.chocolatey.org
 ftp.heanet.ie
 funnyordie.com
+fvs.io
 g.163.com
 g.co
 g.live.com
@@ -560,6 +553,7 @@ gosignmeup.com
 gp.se
 graph.facebook.com
 graph.instagram.com
+gravatar.com
 greasyfork.org
 groupon.com
 groups.google.com
@@ -687,7 +681,6 @@ jasonfoundation.com
 jcpenney.com
 jdownloader.org
 jobs.lifehacker.com
-jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 joemonster.org
 joewein.net
 jquery.com
@@ -1002,6 +995,7 @@ pinimg.com
 pinterest.com
 pittsburgh.cbslocal.com
 pixel.nymag.com
+pixiu.shangshufang.ksosoft.com
 pkobp.pl
 pl-pl.facebook.com
 placehold.it
@@ -1056,6 +1050,7 @@ radiostacja.pl
 ransomwaretracker.abuse.ch
 rapidgator.net
 rapidvideo.com
+rating6.kingsoft-office-service.com
 raw.githack.com
 raw.github.com
 raw.githubusercontent.com
@@ -1078,7 +1073,6 @@ renaissance.com
 renlearn.co.uk
 renlearn.com
 renlearn.com.au
-renlearnrp.com
 report-uri.com
 res.cloudinary.com
 resolver.msg.xiaomi.net
@@ -1235,6 +1229,7 @@ t.co
 t.umblr.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
+t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba85f8488b
 talk.google.com
 talk.l.google.com
 talkgadget.google.com
@@ -1397,7 +1392,6 @@ wetter.de
 whirlpool.net.au
 who.is
 widget-cdn.rpxnow.com
-wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
 wikimedia.org
 win10.ipv6.microsoft.com
 windows.com
