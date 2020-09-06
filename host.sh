@@ -17,10 +17,10 @@ if [ -f adblocker ]; then
     rm adblocker
 fi
 if [ -f lite_host_dnsmasq.conf ]; then 
-    rm lite_hosts_dnsmasq.conf
+    rm lite_host_dnsmasq.conf
 fi
 if [ -f host_dnsmasq.conf ]; then 
-    rm hosts_dnsmasq.conf
+    rm host_dnsmasq.conf
 fi
 if [ -f deadallow ]; then 
     rm deadallow
