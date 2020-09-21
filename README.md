@@ -119,7 +119,6 @@ AD-hostss | Link
 --------- |:-------------:
 Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
 Ad-wars | [link](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts)
-Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
 Neohost | [link](https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts)
 StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
 Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts)
