@@ -117,23 +117,24 @@ pihole -g
 ## Sources of AD-hosts data 去广告host源
 AD-hostss | Link  
 --------- |:-------------:
-Anti-AD | [link](https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt)
-Ad-wars | [link](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts)
-Neohost | [link](https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts)
-StevenBlack | [link](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
-Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts)
+Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
+Ad-wars | [link](https://github.com/jdlingyu/ad-wars)
+Anti-AD | [link](https://github.com/privacy-protection-tools/anti-AD)
+GoodbyeAds | [link](https://github.com/jerryn70/GoodbyeAds)
+ilpl | [link](https://github.com/ilpl/ad-hosts)
+Neohost | [link](https://github.com/neoFelhz/neohosts)
+StevenBlack | [link](https://github.com/StevenBlack/hosts)
+Yhosts | [link](https://github.com/VeleSila/yhosts)
 
 ## Sources of Allowlist 允许名单
 Allowlist | Link  
 --------- |:-------------:
-AnudeepND | [link](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt)
-AnudeepND-optional | [link](https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt)
-Ultimate-Hosts-Blacklist | [link](https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list)
-WildcardTech | [link](https://raw.githubusercontent.com/WildcardTech/Filter-Domain-List/master/whitelist.txt)
-Yhosts | [link](https://raw.githubusercontent.com/VeleSila/yhosts/master/whitelist.txt)
+AnudeepND | [link](https://github.com/anudeepND/whitelist)
+Ultimate-Hosts-Blacklist | [link](https://github.com/Ultimate-Hosts-Blacklist/whitelist)
+Yhosts | [link](https://github.com/VeleSila/yhosts)
 
 ## Dead Domain List 过期域名名单
 Allowlist | Link  
 --------- |:-------------:
-Dead-block | [link](https://raw.githubusercontent.com/FusionPlmH/dead-block/master/deadblock)
-Dead-allow | [link](https://raw.githubusercontent.com/neodevpro/dead-allow/master/deadallow)
+Dead-block | [link](https://github.com/FusionPlmH/dead-block)
+Dead-allow | [link](https://github.com/neodevpro/dead-allow)
