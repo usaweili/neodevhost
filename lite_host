@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-12
 #
-# Number of blocked domains:  123002
+# Number of blocked domains:  123003
 #
 #=====================================
 0.0.0.0  0.fls.doubleclick.net
@@ -14116,6 +14116,7 @@
 0.0.0.0  ads.sunjournal.com
 0.0.0.0  ads.suomiautomaatti.com
 0.0.0.0  ads.sup.com
+0.0.0.0  ads.superad.cc
 0.0.0.0  ads.superawesome.tv
 0.0.0.0  ads.superonline.com
 0.0.0.0  ads.supersonicads.com
