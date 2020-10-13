@@ -120,6 +120,7 @@ AD-hostss | Link
 Adguard | [link](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)
 Ad-wars | [link](https://github.com/jdlingyu/ad-wars)
 Anti-AD | [link](https://github.com/privacy-protection-tools/anti-AD)
+AnudeepND | [link](https://github.com/anudeepND/blacklist)
 GoodbyeAds | [link](https://github.com/jerryn70/GoodbyeAds)
 ilpl | [link](https://github.com/ilpl/ad-hosts)
 Neohost | [link](https://github.com/neoFelhz/neohosts)
