@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-17
 #
-# Number of blocked domains:  76148
+# Number of blocked domains:  76177
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -5261,6 +5261,7 @@
 0.0.0.0  adobe.tt.omtrdc.net
 0.0.0.0  adobecorp.sc.omtrdc.net
 0.0.0.0  adobee.com
+0.0.0.0  adobetag.com
 0.0.0.0  adocean-by.hit.gemius.pl
 0.0.0.0  adocean-cz.hit.gemius.pl
 0.0.0.0  adocean-ee.hit.gemius.pl
@@ -9039,6 +9040,7 @@
 0.0.0.0  amplify-imp.outbrain.com
 0.0.0.0  amplify.outbrain.com
 0.0.0.0  amplifypixel.outbrain.com
+0.0.0.0  amplitude.com
 0.0.0.0  ampmetrics.engadget.com
 0.0.0.0  ampower.me
 0.0.0.0  amprtc.media.net
@@ -10018,6 +10020,7 @@
 0.0.0.0  api.appsee.com
 0.0.0.0  api.appsflyer.com
 0.0.0.0  api.apptap.com
+0.0.0.0  api.apptentive.com
 0.0.0.0  api.appwifi.com
 0.0.0.0  api.apsalar.com
 0.0.0.0  api.areametrics.com
@@ -12150,6 +12153,7 @@
 0.0.0.0  balvalur.com
 0.0.0.0  bam-bam-slam.com
 0.0.0.0  bam-x.com
+0.0.0.0  bam.nr-data.net
 0.0.0.0  bamitrans.pl
 0.0.0.0  bamulat.blogspot.hu
 0.0.0.0  ban-host.ru
@@ -12653,6 +12657,7 @@
 0.0.0.0  bc.5.p2l.info
 0.0.0.0  bc.coupons.com
 0.0.0.0  bc.marfeel.com
+0.0.0.0  bc.marfeelcache.com
 0.0.0.0  bc.qunar.com
 0.0.0.0  bc0a.com
 0.0.0.0  bcash4you.com
@@ -16045,6 +16050,7 @@
 0.0.0.0  cdn.offcloud.com
 0.0.0.0  cdn.okanjo.com
 0.0.0.0  cdn.onescreen.net
+0.0.0.0  cdn.onesignal.com
 0.0.0.0  cdn.onscroll.com
 0.0.0.0  cdn.onthe.io
 0.0.0.0  cdn.opensubcontent.com
@@ -16737,6 +16743,7 @@
 0.0.0.0  choice.microsoft.com.nsatc.net
 0.0.0.0  choicedealz.com
 0.0.0.0  choices.trustarc.com
+0.0.0.0  choices.truste.com
 0.0.0.0  choinsiden.club
 0.0.0.0  chokertraffic.com
 0.0.0.0  choljai.info
@@ -17002,6 +17009,7 @@
 0.0.0.0  clawtoiltaupe.com
 0.0.0.0  claxonmedia.com
 0.0.0.0  claz.com.cn
+0.0.0.0  clc.stackoverflow.com
 0.0.0.0  clcassd.com
 0.0.0.0  clck.lentainform.com
 0.0.0.0  clck.yandex.com
@@ -18421,6 +18429,7 @@
 0.0.0.0  consent.mediaforge.com
 0.0.0.0  consent.prismamedia.com
 0.0.0.0  consent.theneweuropean.co.uk
+0.0.0.0  consent.truste.com
 0.0.0.0  consentag.eu
 0.0.0.0  consentedimpunity.com
 0.0.0.0  consentframework.com
@@ -19610,6 +19619,7 @@
 0.0.0.0  cshkgktv.com
 0.0.0.0  cshlgg.com
 0.0.0.0  cshwhy.cn
+0.0.0.0  csi.gstatic.com
 0.0.0.0  csiasvapqrccq.com
 0.0.0.0  csk.ru
 0.0.0.0  csma95349.analytics.edgesuite.net
@@ -22288,6 +22298,7 @@
 0.0.0.0  dotnetkicks.com
 0.0.0.0  dotnetshoutout.com
 0.0.0.0  dotnxdomain.net
+0.0.0.0  dotomi.com
 0.0.0.0  dotpay.emonitoring-epoczta24polska.net
 0.0.0.0  dotpay.pocztapolska24.pl
 0.0.0.0  dotrkme.com
@@ -26485,6 +26496,7 @@
 0.0.0.0  fls-eu.amazon-adsystem.com
 0.0.0.0  fls-fe.amazon-adsystem.com
 0.0.0.0  fls-na.amazon-adsystem.com
+0.0.0.0  fls-na.amazon.com
 0.0.0.0  fls.au.doubleclick.net
 0.0.0.0  fls.doubleclick.net
 0.0.0.0  fls.uk.doubleclick.net
@@ -28853,6 +28865,7 @@
 0.0.0.0  googleads.g.doubleclick.net
 0.0.0.0  googleads2.g.doubleclick.net
 0.0.0.0  googleads4.g.doubleclick.net
+0.0.0.0  googleadservices.com
 0.0.0.0  googleadsl.com
 0.0.0.0  googleadsserving.cn
 0.0.0.0  googlealiyun.cn
@@ -34410,6 +34423,7 @@
 0.0.0.0  js.idgdmgroup.com.cn
 0.0.0.0  js.idio.co
 0.0.0.0  js.impact.ne.jp
+0.0.0.0  js.indexww.com
 0.0.0.0  js.isboost.co.jp
 0.0.0.0  js.jianbaimei.com
 0.0.0.0  js.jianbihuadq.com
@@ -40584,6 +40598,7 @@
 0.0.0.0  mobile.log.hunantv.com
 0.0.0.0  mobile.mng-ads.com
 0.0.0.0  mobile.novanet.vn
+0.0.0.0  mobile.pipe.aria.microsoft.com
 0.0.0.0  mobile.smartadserver.com
 0.0.0.0  mobile.yandexadexchange.net
 0.0.0.0  mobile2.da.mgtv.com
@@ -42359,6 +42374,7 @@
 0.0.0.0  newpassporn.com
 0.0.0.0  newpush.support
 0.0.0.0  newre-conversions.clickmeter.com
+0.0.0.0  newrelic.com
 0.0.0.0  newrrb.bid
 0.0.0.0  news-day.dkonto.pl
 0.0.0.0  news-finances.com
@@ -42420,6 +42436,7 @@
 0.0.0.0  newsletter.outbrain.com
 0.0.0.0  newsletter.pinetech.vn
 0.0.0.0  newsletter2go.com
+0.0.0.0  newsletters.nationalgeographic.com
 0.0.0.0  newsletters.vocento.com
 0.0.0.0  newsm247.online
 0.0.0.0  newsmagic.net
@@ -42488,6 +42505,7 @@
 0.0.0.0  nextround.us.intellitxt.com
 0.0.0.0  nextstat.com
 0.0.0.0  nexttime.ovh
+0.0.0.0  nexus.ensighten.com
 0.0.0.0  nexus.officeapps.live.com
 0.0.0.0  nexys404.us.intellitxt.com
 0.0.0.0  neymar.alphonso.tv
@@ -44101,6 +44119,7 @@
 0.0.0.0  onerror.ml
 0.0.0.0  onesegreativec.site
 0.0.0.0  oneseventeensouth.blogspot.com
+0.0.0.0  onesignal.com
 0.0.0.0  onespot-tracking.herokuapp.com
 0.0.0.0  onespot.com
 0.0.0.0  onestat.com
@@ -47482,6 +47501,7 @@
 0.0.0.0  priv-policy.imrworldwide.com
 0.0.0.0  privacy-center.org
 0.0.0.0  privacy-email.eu
+0.0.0.0  privacy-policy.truste.com
 0.0.0.0  privacy.claytonhomes.com
 0.0.0.0  privacy.clion.agency
 0.0.0.0  privacy.commander1.com
@@ -48177,6 +48197,7 @@
 0.0.0.0  pubmine.com
 0.0.0.0  pubnative.info
 0.0.0.0  pubnative.net
+0.0.0.0  pubnub.com
 0.0.0.0  pubplus.com
 0.0.0.0  pubpress.net
 0.0.0.0  pubrain.com
@@ -48356,6 +48377,7 @@
 0.0.0.0  pusheify.com
 0.0.0.0  pushengage.com
 0.0.0.0  pushengage.im
+0.0.0.0  pusherapp.com
 0.0.0.0  pusherism.com
 0.0.0.0  pushex.io
 0.0.0.0  pushgaga.com
@@ -49277,6 +49299,7 @@
 0.0.0.0  ramctrlgate.com
 0.0.0.0  ramec.com.au
 0.0.0.0  ramissio.com
+0.0.0.0  ramp.purch.com
 0.0.0.0  rampanel.com
 0.0.0.0  rampidads.com
 0.0.0.0  rampmetrics.com
@@ -52561,6 +52584,7 @@
 0.0.0.0  seadform.net
 0.0.0.0  seal.godaddy.com
 0.0.0.0  seal.networksolutions.com
+0.0.0.0  seal.verisign.com
 0.0.0.0  sealine.pro
 0.0.0.0  sealserver.trustwave.com
 0.0.0.0  seans24.com.pl
@@ -52757,6 +52781,7 @@
 0.0.0.0  securedopen-bp.com
 0.0.0.0  secureintl.com
 0.0.0.0  securemacfix.com
+0.0.0.0  securemetrics.apple.com
 0.0.0.0  securemypc.co.uk
 0.0.0.0  securep2p.com
 0.0.0.0  securepaths.com
@@ -53739,6 +53764,7 @@
 0.0.0.0  sightcoloniansy.site
 0.0.0.0  sightjutfar.com
 0.0.0.0  signal-metrics-collector-beta.s-onetag.com
+0.0.0.0  signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 0.0.0.0  signals.ampiri.com
 0.0.0.0  signaly.co
 0.0.0.0  signatu.com
@@ -54358,6 +54384,7 @@
 0.0.0.0  smartinit.webads.nl
 0.0.0.0  smartlifeguides.com
 0.0.0.0  smartlink.adpia.vn
+0.0.0.0  smartlock.google.com
 0.0.0.0  smartlook.com
 0.0.0.0  smartmad.com
 0.0.0.0  smartmoney.112.2o7.net
@@ -57589,6 +57616,7 @@
 0.0.0.0  t.oq68.com
 0.0.0.0  t.otherprofit.com
 0.0.0.0  t.p.mybuys.com
+0.0.0.0  t.paypal.com
 0.0.0.0  t.perigold.com
 0.0.0.0  t.pointroll.com
 0.0.0.0  t.powerreviews.com
@@ -63473,6 +63501,7 @@
 0.0.0.0  vod.topbucks.com
 0.0.0.0  vod24.pl
 0.0.0.0  vodafonegroup.122.2o7.net
+0.0.0.0  vodafoneindia.tt.omtrdc.net
 0.0.0.0  vodafoneit.solution.weborama.fr
 0.0.0.0  vodafonenz.122.2o7.net
 0.0.0.0  vodafoneuk.tt.omtrdc.net
