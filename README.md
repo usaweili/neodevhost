@@ -115,7 +115,6 @@ pihole -g
 AD-hostss | Link  
 --------- |:-------------:
 Anti-AD | [link](https://github.com/privacy-protection-tools/anti-AD)
-AnudeepND | [link](https://github.com/anudeepND/blacklist)
 StevenBlack | [link](https://github.com/StevenBlack/hosts)
 
 ## Sources of Allowlist 允许名单
