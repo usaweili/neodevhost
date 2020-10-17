@@ -116,9 +116,7 @@ AD-hostss | Link
 --------- |:-------------:
 Anti-AD | [link](https://github.com/privacy-protection-tools/anti-AD)
 AnudeepND | [link](https://github.com/anudeepND/blacklist)
-Neohost | [link](https://github.com/neoFelhz/neohosts)
 StevenBlack | [link](https://github.com/StevenBlack/hosts)
-Yhosts | [link](https://github.com/VeleSila/yhosts)
 
 ## Sources of Allowlist 允许名单
 Allowlist | Link  
