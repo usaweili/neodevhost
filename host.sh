@@ -29,11 +29,9 @@ fi
 if [ -f deadblock ]; then 
     rm deadblock
 fi
-
 if [ -f testallow ]; then 
     rm testallow
 fi
-
 if [ -f testblock ]; then 
     rm testblock
 fi
