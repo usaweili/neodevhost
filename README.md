@@ -98,9 +98,6 @@ pihole -g
 
 
 ### Remove and Uninstall 移除和卸载<br/>
-sh: line 177: syntax error near unexpected token `)'
-263
-./host.sh: line 177: `sed -i '63cNumber of Domain 域名数目：
 1.Login to pihole website<br/>
 2.Go to Groupmanagement > Adlists<br/>
 3.click the red trash can button<br/>
